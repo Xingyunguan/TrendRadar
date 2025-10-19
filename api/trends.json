@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T19:11:13.224592+08:00",
-  "total_titles_processed": 1041,
+  "generated_at": "2025-10-19T20:21:29.745551+08:00",
+  "total_titles_processed": 1115,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时45分 ~ 19时11分]"
+          "appearance_count": 13,
+          "time_info": "[13时45分 ~ 20时21分]"
         },
         {
           "title": "特朗普罕见承认，高关税威胁中国的策略不可持续",
@@ -42,6 +42,17 @@
           "time_info": "[00时30分 ~ 10时07分]"
         },
         {
+          "title": "特朗普三戏泽连斯基",
+          "url": "https://news.ifeng.com/c/8nZesUA4YSo",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[13时45分 ~ 20时21分]"
+        },
+        {
           "title": "美乌总统会晤，特朗普数次语气强硬",
           "url": "https://news.ifeng.com/c/8nYPgJ16sO6",
           "source": "凤凰网",
@@ -51,17 +62,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时30分 ~ 10时07分]"
-        },
-        {
-          "title": "特朗普三戏泽连斯基",
-          "url": "https://news.ifeng.com/c/8nZesUA4YSo",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时45分 ~ 19时11分]"
         },
         {
           "title": "特朗普为他减刑，共和党前“丑闻议员”桑托斯出狱",
@@ -85,8 +85,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时06分 ~ 19时11分]"
+          "appearance_count": 15,
+          "time_info": "[10时06分 ~ 20时21分]"
         },
         {
           "title": "全美700万人上街抗议特朗普",
@@ -99,8 +99,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时45分 ~ 19时11分]"
+          "appearance_count": 13,
+          "time_info": "[13时45分 ~ 20时21分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：计划一到两周内做关于人工智能的演讲。特朗普仍然希望政府关门问题得到友好解决。政府关门将导致几乎除了国防之外的任何事情停摆。",
@@ -182,8 +182,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时30分 ~ 19时11分]"
+          "appearance_count": 25,
+          "time_info": "[00时30分 ~ 20时21分]"
         },
         {
           "title": "普京和特朗普选在匈牙利见面，“欧盟很尴尬”",
@@ -197,18 +197,6 @@
           "time_info": "[00时30分 ~ 07时22分]"
         },
         {
-          "title": "特朗普对华服软,关税讹诈玩不转",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345924&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%8D%8E%E6%9C%8D%E8%BD%AF%2C%E5%85%B3%E7%A8%8E%E8%AE%B9%E8%AF%88%E7%8E%A9%E4%B8%8D%E8%BD%AC",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时30分 ~ 19时11分]"
-        },
-        {
           "title": "匈牙利欧洲议会议员：欧洲政客感到被“特朗普爸爸”忽视了",
           "url": "https://news.ifeng.com/c/8nZlMrsz6GV",
           "source": "凤凰网",
@@ -219,6 +207,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[13时45分 ~ 18时12分]"
+        },
+        {
+          "title": "特朗普对华服软,关税讹诈玩不转",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345924&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%8D%8E%E6%9C%8D%E8%BD%AF%2C%E5%85%B3%E7%A8%8E%E8%AE%B9%E8%AF%88%E7%8E%A9%E4%B8%8D%E8%BD%AC",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 25,
+          "time_info": "[00时30分 ~ 20时21分]"
         },
         {
           "title": "特朗普团队曾商议亚洲行会晤金正恩",
@@ -251,6 +252,19 @@
           "time_info": "[03时20分 ~ 15时13分]"
         },
         {
+          "title": "全美700万人涌上街头抗议特朗普",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%BE%8E700%E4%B8%87%E4%BA%BA%E6%B6%8C%E4%B8%8A%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时12分 ~ 20时21分]"
+        },
+        {
           "title": "泽连斯基称愿意接受双边或三边会谈，特朗普称俄乌冲突应结束",
           "url": "https://m.thepaper.cn/newsDetail_forward_31801773",
           "source": "澎湃新闻",
@@ -272,19 +286,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时31分 ~ 07时22分]"
-        },
-        {
-          "title": "全美700万人涌上街头抗议特朗普",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%BE%8E700%E4%B8%87%E4%BA%BA%E6%B6%8C%E4%B8%8A%E8%A1%97%E5%A4%B4%E6%8A%97%E8%AE%AE%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时12分 ~ 19时11分]"
         },
         {
           "title": "英媒：特朗普命令在委海岸集结军力，意在迫使马杜罗下台",
@@ -326,17 +327,6 @@
           "time_info": "14时18分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-19）",
-          "url": "https://flash.jin10.com/detail/20251019180608570800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
           "title": "韩企掌门与特朗普打高球 是否谈投资和关税引关注",
           "url": "https://flash.jin10.com/detail/20251019092957862800",
           "source": "金十数据",
@@ -373,6 +363,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时12分 ~ 17时13分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-19）",
+          "url": "https://flash.jin10.com/detail/20251019180608570800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 20时21分]"
         },
         {
           "title": "特朗普：美军摧毁“运毒潜艇” 两名幸存者被遣返",
@@ -483,7 +485,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
@@ -494,8 +496,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时30分 ~ 19时11分]"
+          "appearance_count": 25,
+          "time_info": "[00时30分 ~ 20时21分]"
         },
         {
           "title": "“PE巨头”黑石总裁：华尔街低估了AI的颠覆性，现在投项目首先评估“颠覆风险\"",
@@ -506,8 +508,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时45分 ~ 19时11分]"
+          "appearance_count": 13,
+          "time_info": "[13时45分 ~ 20时21分]"
         },
         {
           "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
@@ -544,8 +546,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时45分 ~ 19时11分]"
+          "appearance_count": 13,
+          "time_info": "[13时45分 ~ 20时21分]"
         },
         {
           "title": "英国央行行长贝利：我们必须促进对经济体的投资。我们必须在工作中应用AI。",
@@ -582,8 +584,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时10分 ~ 19时11分]"
+          "appearance_count": 3,
+          "time_info": "[19时10分 ~ 20时21分]"
         },
         {
           "title": "“比特币矿商”的“估值逻辑”：“为AI发电”数倍于“挖比特币”",
@@ -594,8 +596,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时12分 ~ 19时11分]"
+          "appearance_count": 7,
+          "time_info": "[17时12分 ~ 20时21分]"
         },
         {
           "title": "特朗普发AI视频挑衅抗议者",
@@ -612,6 +614,19 @@
           "time_info": "[13时45分 ~ 16时15分]"
         },
         {
+          "title": "特朗普发布AI视频向抗议者洒粪",
+          "url": "https://www.toutiao.com/trending/7562522819947511850/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时11分 ~ 20时21分]"
+        },
+        {
           "title": "为什么AI写的文章总有一股“AI味”",
           "url": "https://www.baidu.com/s?wd=%E4%B8%BA%E4%BB%80%E4%B9%88AI%E5%86%99%E7%9A%84%E6%96%87%E7%AB%A0%E6%80%BB%E6%9C%89%E4%B8%80%E8%82%A1%E2%80%9CAI%E5%91%B3%E2%80%9D",
           "source": "百度热搜",
@@ -623,18 +638,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时33分 ~ 06时22分]"
-        },
-        {
-          "title": "特朗普发布AI视频向抗议者洒粪",
-          "url": "https://www.toutiao.com/trending/7562522819947511850/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时11分 ~ 19时11分]"
         },
         {
           "title": "摩根士丹利Stan Delaney：下一轮投资机会将集中于借助AI开拓新兴业务的企业",
@@ -693,6 +696,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时06分 ~ 10时07分]"
+        },
+        {
+          "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31806849",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         }
       ]
     },
@@ -737,8 +751,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时12分 ~ 19时11分]"
+          "appearance_count": 7,
+          "time_info": "[17时12分 ~ 20时21分]"
+        },
+        {
+          "title": "金价狂飙 “租三金”结婚成新选择",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99+%E2%80%9C%E7%A7%9F%E4%B8%89%E9%87%91%E2%80%9D%E7%BB%93%E5%A9%9A%E6%88%90%E6%96%B0%E9%80%89%E6%8B%A9",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时12分 ~ 20时21分]"
         },
         {
           "title": "中美通话如何影响黄金价格",
@@ -767,27 +792,17 @@
           "time_info": "[17时12分 ~ 19时11分]"
         },
         {
-          "title": "金价狂飙 “租三金”结婚成新选择",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E7%8B%82%E9%A3%99+%E2%80%9C%E7%A7%9F%E4%B8%89%E9%87%91%E2%80%9D%E7%BB%93%E5%A9%9A%E6%88%90%E6%96%B0%E9%80%89%E6%8B%A9",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时12分 ~ 19时11分]"
-        },
-        {
           "title": "金价涨了 印度人节日买金习惯变了",
           "url": "https://flash.jin10.com/detail/20251019175330077800",
           "source": "金十数据",
           "ranks": [
             2,
-            7
+            7,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时12分 ~ 19时11分]"
+          "appearance_count": 3,
+          "time_info": "[18时12分 ~ 20时21分]"
         }
       ]
     },
@@ -805,8 +820,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时30分 ~ 19时11分]"
+          "appearance_count": 25,
+          "time_info": "[00时30分 ~ 20时21分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
@@ -837,11 +852,12 @@
           "url": "https://wallstreetcn.com/articles/3757446",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时11分 ~ 19时11分]"
+          "appearance_count": 5,
+          "time_info": "[18时11分 ~ 20时21分]"
         },
         {
           "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",
