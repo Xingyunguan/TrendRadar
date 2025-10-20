@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T12:20:52.755077+08:00",
-  "total_titles_processed": 922,
+  "generated_at": "2025-10-20T13:14:34.469287+08:00",
+  "total_titles_processed": 975,
   "failed_sources": [],
   "trends": [
     {
@@ -55,8 +55,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 12时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 13时14分]"
         },
         {
           "title": "全美700万人上街抗议特朗普",
@@ -82,8 +82,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 12时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 13时14分]"
+        },
+        {
+          "title": "特朗普：对华征收100%关税对美经济“不能持久”",
+          "url": "https://news.ifeng.com/c/8nbAb1jLGoo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时31分 ~ 13时14分]"
         },
         {
           "title": "特朗普：（就美国帮助企业后获取其股份）这是 “美国方式”。",
@@ -147,17 +158,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时13分 ~ 07时12分]"
-        },
-        {
-          "title": "特朗普：对华征收100%关税对美经济“不能持久”",
-          "url": "https://news.ifeng.com/c/8nbAb1jLGoo",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时31分 ~ 12时20分]"
         },
         {
           "title": "特朗普：（谈及国民警卫队部署）下一步将开赴旧金山。",
@@ -474,6 +474,21 @@
           "time_info": "08时57分"
         },
         {
+          "title": "泽连斯基：愿参加特朗普与普京的会晤",
+          "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%84%BF%E5%8F%82%E5%8A%A0%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%99%AE%E4%BA%AC%E7%9A%84%E4%BC%9A%E6%99%A4",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            8,
+            18,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时57分 ~ 13时14分]"
+        },
+        {
           "title": "美17州检察长起诉特朗普政府说明啥",
           "url": "https://www.toutiao.com/trending/7563083390186950170/",
           "source": "今日头条",
@@ -499,18 +514,29 @@
           "time_info": "[11时49分 ~ 12时20分]"
         },
         {
-          "title": "泽连斯基：愿参加特朗普与普京的会晤",
-          "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E6%84%BF%E5%8F%82%E5%8A%A0%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%99%AE%E4%BA%AC%E7%9A%84%E4%BC%9A%E6%99%A4",
-          "source": "百度热搜",
+          "title": "特朗普专机附近疑发现狙击狩猎台",
+          "url": "https://www.toutiao.com/trending/7563020612747165715/",
+          "source": "今日头条",
           "ranks": [
-            16,
-            8,
-            18,
-            19
+            12,
+            15
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[08时57分 ~ 12时20分]"
+          "time_info": "[10时31分 ~ 13时14分]"
+        },
+        {
+          "title": "特朗普被曝与泽连斯基再度激烈争吵",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%9B%9D%E4%B8%8E%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%86%8D%E5%BA%A6%E6%BF%80%E7%83%88%E4%BA%89%E5%90%B5",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时31分 ~ 13时14分]"
         },
         {
           "title": "俄美共建白令海峡隧道？特朗普回应",
@@ -527,6 +553,19 @@
           "time_info": "[08时57分 ~ 12时20分]"
         },
         {
+          "title": "特朗普专机附近疑发现狙击狩猎台",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%93%E6%9C%BA%E9%99%84%E8%BF%91%E7%96%91%E5%8F%91%E7%8E%B0%E7%8B%99%E5%87%BB%E7%8B%A9%E7%8C%8E%E5%8F%B0",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时31分 ~ 13时14分]"
+        },
+        {
           "title": "特朗普：哥伦比亚将不再获得美国补贴。",
           "url": "https://flash.jin10.com/detail/20251019204809018800",
           "source": "金十数据",
@@ -537,44 +576,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时13分 ~ 03时10分]"
-        },
-        {
-          "title": "特朗普专机附近疑发现狙击狩猎台",
-          "url": "https://www.toutiao.com/trending/7563020612747165715/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时31分 ~ 12时20分]"
-        },
-        {
-          "title": "特朗普被曝与泽连斯基再度激烈争吵",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E6%9B%9D%E4%B8%8E%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%86%8D%E5%BA%A6%E6%BF%80%E7%83%88%E4%BA%89%E5%90%B5",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时31分 ~ 12时20分]"
-        },
-        {
-          "title": "特朗普专机附近疑发现狙击狩猎台",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%93%E6%9C%BA%E9%99%84%E8%BF%91%E7%96%91%E5%8F%91%E7%8E%B0%E7%8B%99%E5%87%BB%E7%8B%A9%E7%8C%8E%E5%8F%B0",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时31分 ~ 12时20分]"
         },
         {
           "title": "“特朗普全程在骂人”，上周五与泽连斯基再现“白宫争执”",
@@ -736,7 +737,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威者泼粪",
@@ -784,8 +785,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时13分 ~ 12时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时13分 ~ 13时14分]"
         },
         {
           "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
@@ -797,11 +798,12 @@
             15,
             16,
             17,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 12时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 13时14分]"
         },
         {
           "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
@@ -815,6 +817,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时13分 ~ 08时57分]"
+        },
+        {
+          "title": "据美国科技资讯网站Tom's Hardware：微软(MSFT.O)已向英特尔下达其下一代AI芯片Maia2的晶圆代工订单，计划采用18A或18A-P制程。该芯片将用于微软Azure数据中心等AI基础设施。",
+          "url": "https://flash.jin10.com/detail/20251020124013040800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时14分"
         },
         {
           "title": "领益智造与绳驱AI机器人公司星尘智能签署战略合作协议",
@@ -925,6 +938,31 @@
           "time_info": "[00时13分 ~ 03时10分]"
         },
         {
+          "title": "特稿｜战火和制裁“逼不退”的中国商人：“伊朗同行总说他们赚钱很容易”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31793329",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时49分 ~ 13时14分]"
+        },
+        {
+          "title": "伊朗突发恐怖袭击 多名部族领袖遇害",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%AA%81%E5%8F%91%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB+%E5%A4%9A%E5%90%8D%E9%83%A8%E6%97%8F%E9%A2%86%E8%A2%96%E9%81%87%E5%AE%B3",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            23,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时49分 ~ 13时14分]"
+        },
+        {
           "title": "伊朗东南部发生恐怖袭击 多名逊尼派部族领袖遇害",
           "url": "https://wallstreetcn.com/livenews/2990182",
           "source": "华尔街见闻-快讯",
@@ -936,29 +974,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时13分 ~ 02时17分]"
-        },
-        {
-          "title": "特稿｜战火和制裁“逼不退”的中国商人：“伊朗同行总说他们赚钱很容易”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31793329",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 12时20分]"
-        },
-        {
-          "title": "伊朗突发恐怖袭击 多名部族领袖遇害",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%AA%81%E5%8F%91%E6%81%90%E6%80%96%E8%A2%AD%E5%87%BB+%E5%A4%9A%E5%90%8D%E9%83%A8%E6%97%8F%E9%A2%86%E8%A2%96%E9%81%87%E5%AE%B3",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 12时20分]"
         },
         {
           "title": "伊朗突发恐怖袭击",
@@ -1037,8 +1052,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时13分 ~ 12时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时13分 ~ 13时14分]"
         },
         {
           "title": "美股股指期货周一高开，纳指期货涨0.36%。",
@@ -1066,8 +1081,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 12时20分]"
+          "appearance_count": 3,
+          "time_info": "[11时49分 ~ 13时14分]"
         }
       ]
     }
