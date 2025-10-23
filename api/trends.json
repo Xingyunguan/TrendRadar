@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T19:11:36.318829+08:00",
-  "total_titles_processed": 1826,
+  "generated_at": "2025-10-23T20:24:28.547949+08:00",
+  "total_titles_processed": 1920,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 91,
+      "match_count": 97,
       "titles": [
         {
           "title": "挖掘机忙个不停，特朗普对白宫做了哪些改造？",
@@ -158,8 +158,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时24分 ~ 19时11分]"
+          "appearance_count": 12,
+          "time_info": "[10时24分 ~ 20时24分]"
         },
         {
           "title": "中方回应特朗普称中美将达成协议",
@@ -210,8 +210,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时15分 ~ 19时11分]"
+          "appearance_count": 23,
+          "time_info": "[00时15分 ~ 20时24分]"
         },
         {
           "title": "被指比不上华盛顿和林肯？特朗普：我生气了！他俩可没平息8场战争",
@@ -249,8 +249,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时14分 ~ 19时11分]"
+          "appearance_count": 8,
+          "time_info": "[13时14分 ~ 20时24分]"
         },
         {
           "title": "从宣布到取消 特朗普与普京会晤为何被“急踩刹车”？",
@@ -287,8 +287,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时14分 ~ 19时11分]"
+          "appearance_count": 8,
+          "time_info": "[13时14分 ~ 20时24分]"
         },
         {
           "title": "特朗普称取消与普京会晤 美国国债总额首次超过38万亿美元 | 环球市场",
@@ -410,6 +410,17 @@
           "time_info": "[08时54分 ~ 13时14分]"
         },
         {
+          "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
+          "url": "https://news.ifeng.com/c/8ngrvoE5VJT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：美国是我们的对手，而这位自称“维和者”的特朗普正与俄罗斯走向冲突。",
           "url": "https://flash.jin10.com/detail/20251023160624686800",
           "source": "金十数据",
@@ -441,6 +452,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "特朗普访日行程公布",
+          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时17分 ~ 20时24分]"
         },
         {
           "title": "美国对俄施加新制裁，特朗普取消与普京会面",
@@ -488,6 +510,17 @@
           "time_info": "18时14分"
         },
         {
+          "title": "以色列外交部长：政府目前尚未决定提前举行投票，因为正全力以赴确保美国总统特朗普的计划取得成功。",
+          "url": "https://flash.jin10.com/detail/20251023195236818800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "特朗普与普京会晤为何急踩刹车",
           "url": "https://www.toutiao.com/trending/7563604843642867263/",
           "source": "今日头条",
@@ -527,17 +560,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时18分 ~ 04时15分]"
-        },
-        {
-          "title": "特朗普访日行程公布",
-          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时17分 ~ 19时11分]"
         },
         {
           "title": "美国芝加哥商业交易所（CME）活牛期货跌幅重新扩大至1%，饲牛期货跌幅扩大至2%。 该国总统特朗普称，“那些饲养牛的农场主们必须降价。（我所挑起的）美国关税让养殖户们做得很好。”",
@@ -870,6 +892,28 @@
           "time_info": "10时24分"
         },
         {
+          "title": "以色列外交部长：美国人知道以色列致力于特朗普的和平计划，但我们正在等待哈马斯履行他们的义务。",
+          "url": "https://flash.jin10.com/detail/20251023194619319800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "扎哈罗娃回应特朗普证实取消“普特会” ：注意到该言论，俄愿意继续接触",
+          "url": "https://wallstreetcn.com/livenews/2992573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "美国总统特朗普：畜牧场主必须降低价格。",
           "url": "https://flash.jin10.com/detail/20251023004402537800",
           "source": "金十数据",
@@ -912,6 +956,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "以色列外交部长：以色列致力于推动美国总统特朗普计划取得成功。",
+          "url": "https://flash.jin10.com/detail/20251023193901665800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "美国总统特朗普将于当地时间下午3点（北京时间次日凌晨3点）在华盛顿发表声明。",
+          "url": "https://wallstreetcn.com/livenews/2992566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "芝加哥商业交易所（CME）饲料牛期货在特朗普表示牧场主必须降低价格后，跌至日内交易限额。",
@@ -1104,8 +1170,21 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "AI供电板块遭重创！“燃气轮机龙头”GE Vernova CEO电话会称“担心电力需求降温”，股价应声重挫",
+          "url": "https://wallstreetcn.com/articles/3757698",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时33分 ~ 20时24分]"
+        },
         {
           "title": "UP主手搓AI眼镜",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E7%9C%BC%E9%95%9C",
@@ -1117,24 +1196,12 @@
             3,
             6,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时33分 ~ 19时11分]"
-        },
-        {
-          "title": "AI供电板块遭重创！“燃气轮机龙头”GE Vernova CEO电话会称“担心电力需求降温”，股价应声重挫",
-          "url": "https://wallstreetcn.com/articles/3757698",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时33分 ~ 19时11分]"
+          "appearance_count": 11,
+          "time_info": "[11时33分 ~ 20时24分]"
         },
         {
           "title": "AI写文狂,原创路变凉",
@@ -1150,11 +1217,12 @@
             21,
             22,
             24,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时15分 ~ 19时11分]"
+          "appearance_count": 23,
+          "time_info": "[00时15分 ~ 20时24分]"
         },
         {
           "title": "AI饿坏电网！资管巨头警告：缺口“我们这代人都填不平”",
@@ -1191,6 +1259,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时24分"
+        },
+        {
+          "title": "王自如入职雷鸟创新任AI产品顾问",
+          "url": "https://wallstreetcn.com/livenews/2992584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "经济日报：用好AI这个科研超级助手",
@@ -1265,6 +1344,19 @@
           "time_info": "[00时15分 ~ 02时18分]"
         },
         {
+          "title": "如何评价 Meta AI 裁员 600 人，LeCun 负责的 FAIR 实验室是重灾区？",
+          "url": "https://www.zhihu.com/question/1964629313476358315",
+          "source": "知乎",
+          "ranks": [
+            8,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时14分 ~ 20时24分]"
+        },
+        {
           "title": "“大空头”查诺斯（Jim Chanos）：信用市场的状态“非常类似1999年”。 人工智能（AI）是本轮周期（资产配置）的“位移”。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/2992018",
           "source": "华尔街见闻-快讯",
@@ -1288,18 +1380,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时18分 ~ 03时10分]"
-        },
-        {
-          "title": "如何评价 Meta AI 裁员 600 人，LeCun 负责的 FAIR 实验室是重灾区？",
-          "url": "https://www.zhihu.com/question/1964629313476358315",
-          "source": "知乎",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 19时11分]"
         },
         {
           "title": "阿里巴巴将开启夸克AI眼镜预售 推动人工智能应用商业化",
@@ -1387,7 +1467,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
@@ -1427,8 +1507,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时54分 ~ 19时11分]"
+          "appearance_count": 13,
+          "time_info": "[08时54分 ~ 20时24分]"
         },
         {
           "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
@@ -1467,8 +1547,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时15分 ~ 19时11分]"
+          "appearance_count": 23,
+          "time_info": "[00时15分 ~ 20时24分]"
         },
         {
           "title": "科技股拖累三大美股指齐跌，EDA软件股盘中跳水，黄金再跌",
@@ -1872,8 +1952,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时24分 ~ 19时11分]"
+          "appearance_count": 12,
+          "time_info": "[10时24分 ~ 20时24分]"
         },
         {
           "title": "比超级计算机快1.3万倍！谷歌量子计算再现突破 诺奖得主送上关键助攻",
@@ -2044,24 +2124,25 @@
           "time_info": "[04时15分 ~ 05时11分]"
         },
         {
+          "title": "英国政府与OpenAI达成协议，以扩大数据托管范围。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2992543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时11分 ~ 20时24分]"
+        },
+        {
           "title": "市场消息：英国政府与OpenAI达成协议，以扩大数据托管范围。",
           "url": "https://flash.jin10.com/detail/20251023184120647800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
-          "title": "英国政府与OpenAI达成协议，以扩大数据托管范围。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2992543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
