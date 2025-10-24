@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T19:12:51.531779+08:00",
-  "total_titles_processed": 1835,
+  "generated_at": "2025-10-24T20:24:50.627138+08:00",
+  "total_titles_processed": 1951,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 100,
+      "match_count": 102,
       "titles": [
         {
           "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
@@ -177,6 +177,17 @@
           "time_info": "[08时48分 ~ 12时16分]"
         },
         {
+          "title": "美政府“停摆”23天，特朗普：我朋友自掏腰包1.3亿美元付军饷",
+          "url": "https://news.ifeng.com/c/8niGt31YVZS",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时16分 ~ 20时24分]"
+        },
+        {
           "title": "特朗普制裁俄石油业 分析人士：低油价为美国升级行动留出空间",
           "url": "https://www.cls.cn/detail/2179005",
           "source": "财联社热门",
@@ -192,17 +203,6 @@
           "time_info": "[08时48分 ~ 15时13分]"
         },
         {
-          "title": "美政府“停摆”23天，特朗普：我朋友自掏腰包1.3亿美元付军饷",
-          "url": "https://news.ifeng.com/c/8niGt31YVZS",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时16分 ~ 19时12分]"
-        },
-        {
           "title": "特朗普赦免赵长鹏，币安或重返美国，改变美国数字币市场格局",
           "url": "https://wallstreetcn.com/articles/3757776",
           "source": "华尔街见闻",
@@ -212,8 +212,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时30分 ~ 19时12分]"
+          "appearance_count": 8,
+          "time_info": "[11时30分 ~ 20时24分]"
+        },
+        {
+          "title": "特朗普警告以色列：不准吞并约旦河西岸",
+          "url": "https://news.ifeng.com/c/8niTZ1ba8ux",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时16分 ~ 20时24分]"
         },
         {
           "title": "特朗普：终止与加拿大的贸易谈判",
@@ -240,17 +251,6 @@
           "time_info": "[08时48分 ~ 10时19分]"
         },
         {
-          "title": "特朗普警告以色列：不准吞并约旦河西岸",
-          "url": "https://news.ifeng.com/c/8niTZ1ba8ux",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 19时12分]"
-        },
-        {
           "title": "美国白宫：（特朗普）与普京的会晤并非完全排除在外。普京与泽连斯基的会晤并非完全排除在外。",
           "url": "https://flash.jin10.com/detail/20251024015419318800",
           "source": "金十数据",
@@ -260,6 +260,22 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "特朗普赦免币安创始人赵长鹏",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31830074",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            16,
+            14,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时13分 ~ 20时24分]"
         },
         {
           "title": "特朗普：终止与加拿大的所有贸易谈判",
@@ -376,19 +392,17 @@
           "time_info": "[11时30分 ~ 12时16分]"
         },
         {
-          "title": "特朗普赦免币安创始人赵长鹏",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31830074",
-          "source": "澎湃新闻",
+          "title": "一则广告惹出祸？特朗普：美国终止与加拿大的所有贸易谈判",
+          "url": "https://www.cls.cn/detail/2179429",
+          "source": "财联社热门",
           "ranks": [
-            20,
-            17,
-            16,
-            14,
-            13
+            10,
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[15时13分 ~ 19时12分]"
+          "time_info": "[16时16分 ~ 20时24分]"
         },
         {
           "title": "“特朗普取消会晤” 普京发声",
@@ -490,19 +504,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时14分 ~ 05时11分]"
-        },
-        {
-          "title": "一则广告惹出祸？特朗普：美国终止与加拿大的所有贸易谈判",
-          "url": "https://www.cls.cn/detail/2179429",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时16分 ~ 19时12分]"
         },
         {
           "title": "美国总统特朗普：不认为会要求对贩毒集团宣战。",
@@ -616,6 +617,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时11分 ~ 06时13分]"
+        },
+        {
+          "title": "特朗普为何终止与加拿大的贸易谈判",
+          "url": "https://www.toutiao.com/trending/7564700176221212196/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 20时24分]"
         },
         {
           "title": "美国总统特朗普：以色列不会在约旦河西岸采取任何行动。",
@@ -755,17 +768,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
-        },
-        {
-          "title": "特朗普为何终止与加拿大的贸易谈判",
-          "url": "https://www.toutiao.com/trending/7564700176221212196/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
         },
         {
           "title": "韩国总统李在明将于10月29日与特朗普会晤，韩国致力于与美国在安全和关税谈判上取得进展。",
@@ -1010,6 +1012,17 @@
           "time_info": "15时13分"
         },
         {
+          "title": "英国改革党党首Farage拟效仿特朗普拿央行开刀 称掌权后或撤换行长",
+          "url": "https://wallstreetcn.com/livenews/2993401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "特朗普：与加拿大的所有贸易谈判都终止了。",
           "url": "https://flash.jin10.com/detail/20251024104243986800",
           "source": "金十数据",
@@ -1087,6 +1100,17 @@
           "time_info": "02时19分"
         },
         {
+          "title": "特朗普（谈加拿大贸易）：加拿大作弊并被抓住了，美国不能再被占便宜了。 加拿大对美国农民征收高达400%的关税。",
+          "url": "https://wallstreetcn.com/livenews/2993391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "特朗普被普京摆了一道吗",
           "url": "https://www.toutiao.com/trending/7564586989022875179/",
           "source": "今日头条",
@@ -1104,7 +1128,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -1308,6 +1332,17 @@
           "time_info": "[15时13分 ~ 18时16分]"
         },
         {
+          "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
+          "url": "https://wallstreetcn.com/articles/3757782",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时16分 ~ 20时24分]"
+        },
+        {
           "title": "张艺兴京东AI舞台",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%BC%A0%E8%89%BA%E5%85%B4%E4%BA%AC%E4%B8%9CAI%E8%88%9E%E5%8F%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D20%26c_type%3D31%26lcate%3D5001%26flag%3D1%26stream_entry_id%3D31%26cate%3D5001%26dgr%3D0%26band_rank%3D20%26q%3D%2523%25E5%25BC%25A0%25E8%2589%25BA%25E5%2585%25B4%25E4%25BA%25AC%25E4%25B8%259CAI%25E8%2588%259E%25E5%258F%25B0%2523%26filter_type%3Drealtimehot%26pos%3D20%26display_time%3D1761276548%26pre_seqid%3D17612765480570327306138",
           "source": "微博",
@@ -1317,17 +1352,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时30分 ~ 12时16分]"
-        },
-        {
-          "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
-          "url": "https://wallstreetcn.com/articles/3757782",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 19时12分]"
         },
         {
           "title": "英特尔：三季度业绩大范围地更加强劲。 服务器需求意外地偏正面。 结束Windows 10，和人工智能（AI）提振收入。",
@@ -1447,7 +1471,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -1515,8 +1539,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时11分 ~ 19时12分]"
+          "appearance_count": 15,
+          "time_info": "[07时11分 ~ 20时24分]"
         },
         {
           "title": "俄油制裁风波推动油价冲高 美股期指延续弱势震荡 | 今夜看点",
@@ -1681,7 +1705,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "金价高位震荡部分投资者开始卖金",
@@ -1758,11 +1782,12 @@
             19,
             20,
             18,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时16分 ~ 19时12分]"
+          "appearance_count": 5,
+          "time_info": "[16时16分 ~ 20时24分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）上海金午盘价为936.94元/克，较国际金价(937.82元/克)，低0.88元/克",
@@ -1796,6 +1821,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
+        },
+        {
+          "title": "金价又大涨了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E5%8F%88%E5%A4%A7%E6%B6%A8%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26band_rank%3D25%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E5%258F%2588%25E5%25A4%25A7%25E6%25B6%25A8%25E4%25BA%2586%2523%26realpos%3D25%26lcate%3D5001%26c_type%3D31%26stream_entry_id%3D31%26pos%3D25%26cate%3D5001%26dgr%3D0%26filter_type%3Drealtimehot%26display_time%3D1761308408%26pre_seqid%3D176130840854501153830124",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "金价大跌有人一次买了1斤黄金",
