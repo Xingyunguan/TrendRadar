@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T06:13:08.139166+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2025-10-27T07:13:27.819843+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时13分]"
         },
         {
           "title": "贝森特“坦白局”：力推MAGA，但保护市场，特朗普“总是宣布高关税创造杠杆，随后降低”",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时13分]"
         },
         {
           "title": "胡锡进：美国最铁杆的盟友，现在却被特朗普政府百般羞辱",
@@ -37,8 +37,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时13分]"
         },
         {
           "title": "特朗普拆建白宫为何招非议",
@@ -49,11 +49,23 @@
             16,
             18,
             14,
-            21
+            21,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时13分]"
+        },
+        {
+          "title": "特朗普称因加拿大「严重歪曲事实并采取敌对行为」，对加方征收 10% 额外关税，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1965770697927300097",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时13分]"
         },
         {
           "title": "不满加拿大反关税广告，特朗普宣布对加方征收10%额外关税",
@@ -61,17 +73,6 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时13分]"
-        },
-        {
-          "title": "特朗普称因加拿大「严重歪曲事实并采取敌对行为」，对加方征收 10% 额外关税，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1965770697927300097",
-          "source": "知乎",
-          "ranks": [
             16
           ],
           "is_new": false,
@@ -138,11 +139,24 @@
           "source": "金十数据",
           "ranks": [
             3,
-            12
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时12分 ~ 06时13分]"
+          "appearance_count": 3,
+          "time_info": "[05时12分 ~ 07时13分]"
+        },
+        {
+          "title": "特朗普2.0亚洲“首秀”：五天三国",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE2.0%E4%BA%9A%E6%B4%B2%E2%80%9C%E9%A6%96%E7%A7%80%E2%80%9D%EF%BC%9A%E4%BA%94%E5%A4%A9%E4%B8%89%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时16分 ~ 07时13分]"
         },
         {
           "title": "特朗普在马来西亚听了个地狱笑话",
@@ -155,17 +169,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时14分 ~ 01时11分]"
-        },
-        {
-          "title": "特朗普2.0亚洲“首秀”：五天三国",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE2.0%E4%BA%9A%E6%B4%B2%E2%80%9C%E9%A6%96%E7%A7%80%E2%80%9D%EF%BC%9A%E4%BA%94%E5%A4%A9%E4%B8%89%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时16分 ~ 02时17分]"
         }
       ]
     },
@@ -174,20 +177,6 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "如何评价「AI 正在造就一个极度不平衡的经济结构」的观点？",
-          "url": "https://www.zhihu.com/question/1965079758955050850",
-          "source": "知乎",
-          "ranks": [
-            8,
-            9,
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时13分]"
-        },
-        {
           "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
           "url": "https://wallstreetcn.com/articles/3757917",
           "source": "华尔街见闻",
@@ -195,8 +184,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时13分]"
         },
         {
           "title": "网民用AI编造3儿子不养老人被罚",
@@ -206,8 +195,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时13分]"
         },
         {
           "title": "电子宠物“卖爆了”、机器狗定价不超300元接入三款热门模型！AI玩具加速成熟 哪些玩家布局？",
@@ -217,8 +206,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时13分]"
         },
         {
           "title": "GAI周延沧海一声笑",
@@ -227,7 +216,22 @@
           "ranks": [
             14,
             17,
-            16
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时13分]"
+        },
+        {
+          "title": "如何评价「AI 正在造就一个极度不平衡的经济结构」的观点？",
+          "url": "https://www.zhihu.com/question/1965079758955050850",
+          "source": "知乎",
+          "ranks": [
+            8,
+            9,
+            7,
+            14
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -255,11 +259,12 @@
           "url": "https://www.toutiao.com/trending/7565011357729521670/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时13分]"
         },
         {
           "title": "金价暴跌有大学生把生活费亏没了",
@@ -269,8 +274,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时14分 ~ 06时13分]"
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时13分]"
         }
       ]
     },
@@ -283,22 +288,24 @@
           "url": "https://flash.jin10.com/detail/20251027060229559800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时13分]"
         },
         {
           "title": "现货黄金跳空低开逾1%，美股期货集体上扬",
           "url": "https://wallstreetcn.com/livenews/2993801",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时13分]"
         }
       ]
     },
