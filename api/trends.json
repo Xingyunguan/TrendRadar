@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T19:14:07.000706+08:00",
-  "total_titles_processed": 1555,
+  "generated_at": "2025-10-27T20:25:32.047064+08:00",
+  "total_titles_processed": 1669,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 71,
+      "match_count": 76,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -42,6 +42,18 @@
           "time_info": "[00时14分 ~ 07时13分]"
         },
         {
+          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
+          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时17分 ~ 20时25分]"
+        },
+        {
           "title": "特朗普拆建白宫为何招非议",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%86%E5%BB%BA%E7%99%BD%E5%AE%AB%E4%B8%BA%E4%BD%95%E6%8B%9B%E9%9D%9E%E8%AE%AE",
           "source": "bilibili 热搜",
@@ -68,18 +80,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时14分 ~ 08时59分]"
-        },
-        {
-          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
-          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时17分 ~ 19时14分]"
         },
         {
           "title": "不满加拿大反关税广告，特朗普宣布对加方征收10%额外关税",
@@ -144,6 +144,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时48分"
+        },
+        {
+          "title": "特朗普访问日本",
+          "url": "https://www.douyin.com/hot/2285103",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-26）",
@@ -267,6 +278,19 @@
           "time_info": "[14时22分 ~ 15时15分]"
         },
         {
+          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
+          "url": "https://wallstreetcn.com/articles/3757964",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 20时25分]"
+        },
+        {
           "title": "特朗普2.0亚洲“首秀”：五天三国",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE2.0%E4%BA%9A%E6%B4%B2%E2%80%9C%E9%A6%96%E7%A7%80%E2%80%9D%EF%BC%9A%E4%BA%94%E5%A4%A9%E4%B8%89%E5%9B%BD",
           "source": "百度热搜",
@@ -278,18 +302,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时16分 ~ 08时59分]"
-        },
-        {
-          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
-          "url": "https://wallstreetcn.com/articles/3757964",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 19时14分]"
         },
         {
           "title": "东盟峰会特朗普又来当主角",
@@ -387,6 +399,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时14分 ~ 01时11分]"
+        },
+        {
+          "title": "特朗普首见高市早苗会聊什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%A6%96%E8%A7%81%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%BC%9A%E8%81%8A%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "加拿大搬出里根“打脸”特朗普后，不出意外的遭到关税威胁",
@@ -494,7 +517,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -516,7 +539,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -549,7 +572,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -593,7 +616,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -618,6 +641,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
+        },
+        {
+          "title": "特朗普：俄试射核动力巡航导弹不合适",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E8%AF%95%E5%B0%84%E6%A0%B8%E5%8A%A8%E5%8A%9B%E5%B7%A1%E8%88%AA%E5%AF%BC%E5%BC%B9%E4%B8%8D%E5%90%88%E9%80%82",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "德商银行：特朗普亚洲行“成果”或意味着与东盟的更多接触",
@@ -719,6 +753,17 @@
           "time_info": "15时15分"
         },
         {
+          "title": "评论员：特朗普在马来西亚双喜临门",
+          "url": "https://www.toutiao.com/trending/7565834902130658870/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "巴西总统卢拉：特朗普可以提出任何问题，摆上桌面，我都会讨论。",
           "url": "https://flash.jin10.com/detail/20251027113517357800",
           "source": "金十数据",
@@ -772,6 +817,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
+        },
+        {
+          "title": "日本天皇亲自在门外接送特朗普",
+          "url": "https://www.toutiao.com/trending/7565133400080797190/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "巴西总统卢拉：特朗普向我保证，我们一定会达成协议。",
@@ -832,7 +888,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "电子宠物“卖爆了”、机器狗定价不超300元接入三款热门模型！AI玩具加速成熟 哪些玩家布局？",
@@ -877,8 +933,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时47分 ~ 19时14分]"
+          "appearance_count": 13,
+          "time_info": "[10时47分 ~ 20时25分]"
         },
         {
           "title": "网民用AI编造3儿子不养老人被罚",
@@ -937,9 +993,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
+        },
+        {
+          "title": "美股“七巨头”中五家本周公布业绩 AI热潮下财报成色如何？一文看懂",
+          "url": "https://www.cls.cn/detail/2182013",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时15分 ~ 20时25分]"
         },
         {
           "title": "报告：2025年上半年，百度智能云市场份额位居中国AI云市场第二",
@@ -952,18 +1020,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时13分 ~ 14时22分]"
-        },
-        {
-          "title": "美股“七巨头”中五家本周公布业绩 AI热潮下财报成色如何？一文看懂",
-          "url": "https://www.cls.cn/detail/2182013",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 19时14分]"
         },
         {
           "title": "王鹤棣帅成AI了",
@@ -987,6 +1043,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时22分 ~ 15时15分]"
+        },
+        {
+          "title": "特斯拉在虚拟世界训练AI司机",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E8%AE%AD%E7%BB%83AI%E5%8F%B8%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         },
         {
           "title": "AI眼镜市场火热 产品放量或将带动产业链企业估值提升",
@@ -1036,7 +1103,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "金价暴跌有大学生把生活费亏没了",
@@ -1142,6 +1209,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
+        },
+        {
+          "title": "路透调查：明年黄金价格预测首次突破每盎司4000美元",
+          "url": "https://flash.jin10.com/detail/20251027191426396800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         }
       ]
     },
@@ -1170,7 +1248,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -1239,7 +1317,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         }
@@ -1258,8 +1336,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时17分 ~ 19时14分]"
+          "appearance_count": 6,
+          "time_info": "[17时17分 ~ 20时25分]"
         },
         {
           "title": "机构： 美联储需更快降息，才能让美债收益率显著下降",
@@ -1279,7 +1357,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
