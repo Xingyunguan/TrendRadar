@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T17:18:09.345977+08:00",
-  "total_titles_processed": 1361,
+  "generated_at": "2025-10-27T18:15:32.769979+08:00",
+  "total_titles_processed": 1456,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 67,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -97,6 +97,17 @@
           "time_info": "[01时11分 ~ 06时13分]"
         },
         {
+          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
+          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 18时15分]"
+        },
+        {
           "title": "金十整理：下周重要事件与数据预告——美联储携加、日、欧央行轮番公布利率决议；特朗普将访问日本、欧佩克+周日举行月度会议",
           "url": "https://flash.jin10.com/detail/20251026213743304800",
           "source": "金十数据",
@@ -121,17 +132,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时14分 ~ 06时13分]"
-        },
-        {
-          "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
-          "url": "https://news.ifeng.com/c/8nnBWKkSs4o",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 17时18分]"
         },
         {
           "title": "巴西总统卢拉：美国对巴西征收关税是基于“错误信息”。 与特朗普的会晤出乎意料地顺利。",
@@ -453,6 +453,17 @@
           "time_info": "16时19分"
         },
         {
+          "title": "美联储主席五位候选人锁定，特朗普称预计年底作出决定",
+          "url": "https://wallstreetcn.com/articles/3757964",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "巴西总统卢拉：昨日与美国总统特朗普会晤后留下了非常好的印象。我尊重特朗普，他也尊重我。",
           "url": "https://flash.jin10.com/detail/20251027111712719800",
           "source": "金十数据",
@@ -528,6 +539,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
+        },
+        {
+          "title": "加拿大总理卡尼：如果美国总统特朗普不愿谈判，我们已有应急计划。",
+          "url": "https://flash.jin10.com/detail/20251027174622030800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "特朗普的关税“套路”曝光",
@@ -764,7 +786,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "电子宠物“卖爆了”、机器狗定价不超300元接入三款热门模型！AI玩具加速成熟 哪些玩家布局？",
@@ -792,6 +814,24 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时14分 ~ 13时13分]"
+        },
+        {
+          "title": "AI大电影葫芦兄弟",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E7%94%B5%E5%BD%B1%E8%91%AB%E8%8A%A6%E5%85%84%E5%BC%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            8,
+            19,
+            16,
+            23,
+            15,
+            24,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时47分 ~ 18时15分]"
         },
         {
           "title": "网民用AI编造3儿子不养老人被罚",
@@ -833,23 +873,6 @@
           "time_info": "[00时14分 ~ 06时13分]"
         },
         {
-          "title": "AI大电影葫芦兄弟",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E7%94%B5%E5%BD%B1%E8%91%AB%E8%8A%A6%E5%85%84%E5%BC%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            8,
-            19,
-            16,
-            23,
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时47分 ~ 17时18分]"
-        },
-        {
           "title": "沙特AI公司Humain首席执行官：Humain搜索和Humain视觉将于本周推出。",
           "url": "https://flash.jin10.com/detail/20251027145436636800",
           "source": "金十数据",
@@ -882,6 +905,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时22分 ~ 15时15分]"
+        },
+        {
+          "title": "美股“七巨头”中五家本周公布业绩 AI热潮下财报成色如何？一文看懂",
+          "url": "https://www.cls.cn/detail/2182013",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "AI眼镜市场火热 产品放量或将带动产业链企业估值提升",
@@ -917,6 +951,17 @@
           "time_info": "11时48分"
         },
         {
+          "title": "王鹤棣帅成AI了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%B8%85%E6%88%90AI%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26c_type%3D31%26pos%3D20%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E7%258E%258B%25E9%25B9%25A4%25E6%25A3%25A3%25E5%25B8%2585%25E6%2588%2590AI%25E4%25BA%2586%2523%26band_rank%3D19%26filter_type%3Drealtimehot%26realpos%3D19%26display_time%3D1761560054%26pre_seqid%3D176156005418001942583137",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
           "title": "AI把玉米片判为枪惊动八辆美国警车",
           "url": "https://www.baidu.com/s?wd=AI%E6%8A%8A%E7%8E%89%E7%B1%B3%E7%89%87%E5%88%A4%E4%B8%BA%E6%9E%AA%E6%83%8A%E5%8A%A8%E5%85%AB%E8%BE%86%E7%BE%8E%E5%9B%BD%E8%AD%A6%E8%BD%A6",
           "source": "百度热搜",
@@ -931,7 +976,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "金价暴跌有大学生把生活费亏没了",
@@ -992,6 +1037,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时22分 ~ 16时19分]"
+        },
+        {
+          "title": "菲律宾央行官员：现在是时候在黄金上获利了结。菲律宾央行应出售部分“过多”的黄金储备，因为随着避险需求减弱，金价预计将从创纪录高位进一步回落。",
+          "url": "https://flash.jin10.com/detail/20251027174948964800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "金价下跌为何金饰品牌接连涨价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E4%B8%BA%E4%BD%95%E9%87%91%E9%A5%B0%E5%93%81%E7%89%8C%E6%8E%A5%E8%BF%9E%E6%B6%A8%E4%BB%B7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26c_type%3D31%26pos%3D21%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E9%2587%2591%25E4%25BB%25B7%25E4%25B8%258B%25E8%25B7%258C%25E4%25B8%25BA%25E4%25BD%2595%25E9%2587%2591%25E9%25A5%25B0%25E5%2593%2581%25E7%2589%258C%25E6%258E%25A5%25E8%25BF%259E%25E6%25B6%25A8%25E4%25BB%25B7%2523%26band_rank%3D20%26filter_type%3Drealtimehot%26realpos%3D20%26display_time%3D1761560054%26pre_seqid%3D176156005418001942583137",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "金价持续跳水是买还是卖",
+          "url": "https://www.toutiao.com/trending/7565805923277475382/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "金价下跌是机会还是风险",
@@ -1093,11 +1171,12 @@
           "url": "https://wallstreetcn.com/articles/3757937",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 17时18分]"
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 18时15分]"
         },
         {
           "title": "机构： 美联储需更快降息，才能让美债收益率显著下降",
@@ -1138,6 +1217,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时14分 ~ 06时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据AXIOS网站：OpenAI在与Axios首次分享的一份新监管文件中预测，投资人工智能基础设施将在未来几年带来显著的GDP增长。",
+          "url": "https://flash.jin10.com/detail/20251027174708809800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         }
       ]
     }
