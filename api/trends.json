@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-02T15:13:11.025841+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2025-11-02T16:14:20.765508+08:00",
+  "total_titles_processed": 909,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "逼近历史最长纪录！美政府“停摆”超31天，特朗普急了",
@@ -17,8 +17,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时57分 ~ 15时13分]"
+          "appearance_count": 12,
+          "time_info": "[08时57分 ~ 16时14分]"
+        },
+        {
+          "title": "美防长：特朗普和我都认为美中关系从未如此之好",
+          "url": "https://news.ifeng.com/c/8nwvz4AVTbb",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时15分 ~ 16时14分]"
         },
         {
           "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
@@ -33,20 +45,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时13分 ~ 15时13分]"
+          "appearance_count": 24,
+          "time_info": "[00时13分 ~ 16时14分]"
         },
         {
-          "title": "美防长：特朗普和我都认为美中关系从未如此之好",
-          "url": "https://news.ifeng.com/c/8nwvz4AVTbb",
-          "source": "凤凰网",
+          "title": "美国政府关门时长逼近历史记录，特朗普误判民主党决心，“关键时刻”到来！",
+          "url": "https://wallstreetcn.com/articles/3758488",
+          "source": "华尔街见闻",
           "ranks": [
-            2,
+            9,
+            6,
+            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时15分 ~ 15时13分]"
+          "appearance_count": 9,
+          "time_info": "[11时43分 ~ 16时14分]"
         },
         {
           "title": "特朗普一番话，让台网友惊呼：台湾没筹码了",
@@ -70,8 +84,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时57分 ~ 15时13分]"
+          "appearance_count": 12,
+          "time_info": "[08时57分 ~ 16时14分]"
         },
         {
           "title": "特朗普亚洲行背后的三个因素：同盟、稀土和朝鲜",
@@ -110,19 +124,6 @@
           "time_info": "[00时13分 ~ 07时13分]"
         },
         {
-          "title": "美国政府关门时长逼近历史记录，特朗普误判民主党决心，“关键时刻”到来！",
-          "url": "https://wallstreetcn.com/articles/3758488",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时43分 ~ 15时13分]"
-        },
-        {
           "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
           "url": "https://wallstreetcn.com/articles/3758448",
           "source": "华尔街见闻",
@@ -141,11 +142,23 @@
           "ranks": [
             2,
             9,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时12分 ~ 15时13分]"
+          "appearance_count": 4,
+          "time_info": "[13时12分 ~ 16时14分]"
+        },
+        {
+          "title": "邵永灵：特朗普又将矛头对准尼日利亚",
+          "url": "https://www.toutiao.com/trending/7567991555080850985/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         }
       ]
     },
@@ -173,11 +186,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 15时13分]"
+          "appearance_count": 3,
+          "time_info": "[14时18分 ~ 16时14分]"
         },
         {
           "title": "马斯克：AI6和AI7芯片将会紧随其后迅速推出。",
@@ -185,11 +199,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 15时13分]"
+          "appearance_count": 3,
+          "time_info": "[14时18分 ~ 16时14分]"
         },
         {
           "title": "马斯克：刚刚和特斯拉加州与得州的芯片工程师们完成了一场关于AI5的长时间设计评审会议。AI6和AI7芯片将会紧随其后迅速推出。",
@@ -197,11 +212,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 15时13分]"
+          "appearance_count": 3,
+          "time_info": "[14时18分 ~ 16时14分]"
         },
         {
           "title": "马斯克：刚刚和特斯拉(TSLA.O)加州与得州的芯片工程师们完成了一场关于AI5的长时间设计评审会议。",
@@ -209,11 +225,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 15时13分]"
+          "appearance_count": 3,
+          "time_info": "[14时18分 ~ 16时14分]"
         },
         {
           "title": "刚刚，亚马逊的“AI转折点”出现了？",
@@ -221,11 +238,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时18分 ~ 15时13分]"
+          "appearance_count": 4,
+          "time_info": "[14时18分 ~ 16时14分]"
         },
         {
           "title": "AI革命美国企业疯狂裁员背后",
@@ -268,8 +286,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[02时15分 ~ 15时13分]"
+          "appearance_count": 21,
+          "time_info": "[02时15分 ~ 16时14分]"
         },
         {
           "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
@@ -306,11 +324,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时15分 ~ 15时13分]"
+          "appearance_count": 8,
+          "time_info": "[12时15分 ~ 16时14分]"
         },
         {
           "title": "OpenAI重组对AI产业链意味着什么",
@@ -321,8 +340,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时18分 ~ 15时13分]"
+          "appearance_count": 4,
+          "time_info": "[14时18分 ~ 16时14分]"
         }
       ]
     },
@@ -419,6 +438,34 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伊朗外长警告：若以色列再次进攻伊朗，则必须等待另一场失败",
+          "url": "https://wallstreetcn.com/livenews/2998105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "伊朗一飞机失控 飞行员弹射逃生",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%B8%80%E9%A3%9E%E6%9C%BA%E5%A4%B1%E6%8E%A7+%E9%A3%9E%E8%A1%8C%E5%91%98%E5%BC%B9%E5%B0%84%E9%80%83%E7%94%9F",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -433,23 +480,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时13分 ~ 08时57分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗一飞机失控 飞行员弹射逃生",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%B8%80%E9%A3%9E%E6%9C%BA%E5%A4%B1%E6%8E%A7+%E9%A3%9E%E8%A1%8C%E5%91%98%E5%BC%B9%E5%B0%84%E9%80%83%E7%94%9F",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
         }
       ]
     }
