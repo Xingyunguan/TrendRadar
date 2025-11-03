@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T12:21:34.648805+08:00",
-  "total_titles_processed": 857,
+  "generated_at": "2025-11-03T13:13:58.581682+08:00",
+  "total_titles_processed": 901,
   "failed_sources": [],
   "trends": [
     {
@@ -42,6 +42,17 @@
           "time_info": "[00时12分 ~ 07时11分]"
         },
         {
+          "title": "特朗普：道歉没用，不谈！",
+          "url": "https://news.ifeng.com/c/8nxiS57OYJ0",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时56分 ~ 13时13分]"
+        },
+        {
           "title": "特朗普下令战争部做好准备：可能对尼日利亚动武",
           "url": "https://m.thepaper.cn/newsDetail_forward_31878970",
           "source": "澎湃新闻",
@@ -52,8 +63,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时12分 ~ 12时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时12分 ~ 13时13分]"
         },
         {
           "title": "美媒爆料：叙利亚政权领导人将到访白宫，会晤特朗普",
@@ -65,17 +76,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时12分 ~ 07时11分]"
-        },
-        {
-          "title": "特朗普：道歉没用，不谈！",
-          "url": "https://news.ifeng.com/c/8nxiS57OYJ0",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时56分 ~ 12时21分]"
         },
         {
           "title": "台名嘴评高市早苗对特朗普进行谄媚外交：失态",
@@ -157,8 +157,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时21分]"
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 13时13分]"
         },
         {
           "title": "特朗普称，他对币安赵长鹏获赦免一事并不了解。",
@@ -211,6 +211,19 @@
           "time_info": "[05时12分 ~ 07时11分]"
         },
         {
+          "title": "核武专家都在猜 特朗普这话什么意思",
+          "url": "https://www.baidu.com/s?wd=%E6%A0%B8%E6%AD%A6%E4%B8%93%E5%AE%B6%E9%83%BD%E5%9C%A8%E7%8C%9C+%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%99%E8%AF%9D%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时44分 ~ 13时13分]"
+        },
+        {
           "title": "如何看特朗普说台海政策是秘密",
           "url": "https://www.toutiao.com/trending/7568264436717194788/",
           "source": "今日头条",
@@ -221,19 +234,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时56分 ~ 10时44分]"
-        },
-        {
-          "title": "核武专家都在猜 特朗普这话什么意思",
-          "url": "https://www.baidu.com/s?wd=%E6%A0%B8%E6%AD%A6%E4%B8%93%E5%AE%B6%E9%83%BD%E5%9C%A8%E7%8C%9C+%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%99%E8%AF%9D%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时44分 ~ 12时21分]"
         },
         {
           "title": "特朗普主动提“G2” 中国为何不接招",
@@ -247,6 +247,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时12分 ~ 07时11分]"
+        },
+        {
+          "title": "特朗普的三角外交玩不转了吗",
+          "url": "https://www.toutiao.com/trending/7568318449886170651/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 13时13分]"
         },
         {
           "title": "特朗普称有可能在尼日利亚部署地面部队或发动空袭",
@@ -346,23 +358,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
-        },
-        {
-          "title": "特朗普的三角外交玩不转了吗",
-          "url": "https://www.toutiao.com/trending/7568318449886170651/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
         }
       ]
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "刚刚，亚马逊的“AI转折点”出现了？",
@@ -374,8 +375,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时12分 ~ 12时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时12分 ~ 13时13分]"
         },
         {
           "title": "AI医疗为何引发巨头押注",
@@ -385,11 +386,12 @@
             9,
             5,
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时12分 ~ 12时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时12分 ~ 13时13分]"
         },
         {
           "title": "数据中心冲击消费？AI影响美国中选格局，原因是：电价！",
@@ -397,11 +399,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时11分 ~ 12时21分]"
+          "appearance_count": 14,
+          "time_info": "[01时11分 ~ 13时13分]"
         },
         {
           "title": "马斯克：AI在2026年超越单个人类智商",
@@ -417,27 +420,27 @@
           "time_info": "[01时11分 ~ 04时12分]"
         },
         {
+          "title": "马斯克称 5 年后不再有传统的手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
+          "url": "https://www.zhihu.com/question/1968223817403954668",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
           "title": "韩国股市延续AI热潮涨势 SK海力士一度上涨10%",
           "url": "https://flash.jin10.com/detail/20251103120809638800",
           "source": "金十数据",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "马斯克称 5 年后不再有手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
-          "url": "https://www.zhihu.com/question/1968223817403954668",
-          "source": "知乎",
-          "ranks": [
-            6,
-            10
+            5,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时46分 ~ 12时21分]"
+          "time_info": "[12时21分 ~ 13时13分]"
         },
         {
           "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
@@ -445,6 +448,19 @@
           "source": "财联社热门",
           "ranks": [
             11,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时46分 ~ 13时13分]"
+        },
+        {
+          "title": "马斯克称 5 年后不再有手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
+          "url": "https://www.zhihu.com/question/1968223817403954668",
+          "source": "知乎",
+          "ranks": [
+            6,
             10
           ],
           "is_new": false,
@@ -469,7 +485,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         }
@@ -484,11 +500,12 @@
           "url": "https://wallstreetcn.com/livenews/2998342",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 13时13分]"
         },
         {
           "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
@@ -507,11 +524,12 @@
           "url": "https://flash.jin10.com/detail/20251103120231849800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 13时13分]"
         },
         {
           "title": "奥尔特曼称OpenAI年收入远超130亿美元",
@@ -587,11 +605,12 @@
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26pos%3D21%26dgr%3D0%26flag%3D1%26band_rank%3D21%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26realpos%3D21%26stream_entry_id%3D31%26filter_type%3Drealtimehot%26display_time%3D1762136819%26pre_seqid%3D17621368189720252278181&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时44分 ~ 12时21分]"
+          "appearance_count": 4,
+          "time_info": "[10时44分 ~ 13时13分]"
         },
         {
           "title": "金十图示：2025年11月03日（周一）上海金早盘价为914.28元/克，较国际金价(914.63元/克)，低0.35元/克",
