@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T13:13:38.341549+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2025-11-06T14:19:30.314485+08:00",
+  "total_titles_processed": 1245,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,18 @@
           "time_info": "[00时18分 ~ 08时54分]"
         },
         {
+          "title": "纽约选出首位穆斯林市长，“调高音量”挑战特朗普",
+          "url": "https://news.ifeng.com/c/8o2qbh848kJ",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时54分 ~ 14时19分]"
+        },
+        {
           "title": "全球瞩目！美国最高法院将审理特朗普关税案",
           "url": "https://www.cls.cn/detail/2192187",
           "source": "财联社热门",
@@ -44,16 +56,43 @@
           "time_info": "[00时18分 ~ 08时54分]"
         },
         {
-          "title": "纽约选出首位穆斯林市长，“调高音量”挑战特朗普",
-          "url": "https://news.ifeng.com/c/8o2qbh848kJ",
-          "source": "凤凰网",
+          "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
+          "url": "https://wallstreetcn.com/articles/3758755",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            4
+            6,
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时54分 ~ 13时13分]"
+          "appearance_count": 6,
+          "time_info": "[08时54分 ~ 14时19分]"
+        },
+        {
+          "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
+          "url": "https://wallstreetcn.com/articles/3758724",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[05时12分 ~ 14时19分]"
+        },
+        {
+          "title": "特朗普关税遭美国高院大法官轮番质疑 预测市场胜率跳水大跌",
+          "url": "https://www.cls.cn/detail/2192410",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时54分 ~ 14时19分]"
         },
         {
           "title": "涉及特朗普，BBC被曝严重造假！",
@@ -68,45 +107,6 @@
           "time_info": "[08时54分 ~ 12时20分]"
         },
         {
-          "title": "美国最高法院公开庭审，各派大法官都表达质疑，特朗普“对等关税”岌岌可危",
-          "url": "https://wallstreetcn.com/articles/3758755",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时54分 ~ 13时13分]"
-        },
-        {
-          "title": "最高院判决对特朗普关税有何影响？瑞银推演了可能的结果",
-          "url": "https://wallstreetcn.com/articles/3758724",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时12分 ~ 13时13分]"
-        },
-        {
-          "title": "特朗普关税遭美国高院大法官轮番质疑 预测市场胜率跳水大跌",
-          "url": "https://www.cls.cn/detail/2192410",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时54分 ~ 13时13分]"
-        },
-        {
           "title": "特朗普的大麻烦来了",
           "url": "https://news.ifeng.com/c/8o3LYHlTKNB",
           "source": "凤凰网",
@@ -115,8 +115,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时45分 ~ 13时13分]"
+          "appearance_count": 4,
+          "time_info": "[11时45分 ~ 14时19分]"
+        },
+        {
+          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
+          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 14时19分]"
         },
         {
           "title": "特朗普提议结束“冗长辩论”尽快推动政府重启，共和党人不干了！",
@@ -129,17 +140,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时54分 ~ 10时29分]"
-        },
-        {
-          "title": "特朗普：美国第一，俄罗斯第二，中国第三",
-          "url": "https://news.ifeng.com/c/8o3VLLSgUhv",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时13分"
         },
         {
           "title": "美联储理事米兰：ADP小非农就业报告好于预期，这是受人欢迎的意外。 劳动力需求仍然没有我们（特朗普政府）希望看到的那样强劲。 数据表明，（FOMC的政策）利率可以略微低于当前水平。",
@@ -631,6 +631,19 @@
           "time_info": "[00时18分 ~ 07时12分]"
         },
         {
+          "title": "美股收盘：三大指数回暖收涨 美光科技再创历史新高",
+          "url": "https://www.cls.cn/detail/2192424",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时12分 ~ 14时19分]"
+        },
+        {
           "title": "敏感时刻，美股警报连连！著名估值指标“史上第二次”突破红线，上一次是1999年",
           "url": "https://wallstreetcn.com/articles/3758685",
           "source": "华尔街见闻",
@@ -645,29 +658,17 @@
           "time_info": "[01时12分 ~ 08时54分]"
         },
         {
-          "title": "美股收盘：三大指数回暖收涨 美光科技再创历史新高",
-          "url": "https://www.cls.cn/detail/2192424",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时12分 ~ 13时13分]"
-        },
-        {
           "title": "HBM4涨价带动美股存储板块爆发 美光科技股价再创历史新高",
           "url": "https://www.cls.cn/detail/2192518",
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 13时13分]"
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 14时19分]"
         },
         {
           "title": "逢低买盘再现，美股上演普涨反弹，小盘股领涨",
@@ -695,6 +696,19 @@
           "time_info": "[02时18分 ~ 05时12分]"
         },
         {
+          "title": "美股泡沫有多大？瑞银给出七个观测指标",
+          "url": "https://wallstreetcn.com/articles/3758712",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 14时19分]"
+        },
+        {
           "title": "航空业ETF收涨4.5%，和半导体ETF领跑美股行业ETF，标普电信板块涨超1.6%",
           "url": "https://wallstreetcn.com/livenews/3000125",
           "source": "华尔街见闻-快讯",
@@ -717,19 +731,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时12分]"
-        },
-        {
-          "title": "美股泡沫有多大？瑞银给出七个观测指标",
-          "url": "https://wallstreetcn.com/articles/3758712",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 13时13分]"
         },
         {
           "title": "Metsera美股盘后涨6.8%。",
@@ -862,8 +863,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "报道：谷歌下周将宣布其在德国有史以来最大投资计划",
+          "url": "https://wallstreetcn.com/livenews/3000351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
         {
           "title": "谷歌：Gemini深度搜索现已可连接Gmail、文档、云端硬盘甚至聊天。",
           "url": "https://wallstreetcn.com/livenews/3000038",
@@ -1049,8 +1061,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 13时13分]"
+          "appearance_count": 16,
+          "time_info": "[00时18分 ~ 14时19分]"
         },
         {
           "title": "光伏龙头披上AI电力概念后暴涨 辉瑞提高减肥药收购报价 | 环球市场",
@@ -1059,11 +1071,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时54分 ~ 13时13分]"
+          "appearance_count": 6,
+          "time_info": "[08时54分 ~ 14时19分]"
         },
         {
           "title": "迄今“最直白表态”！黄仁勋：中国将赢得AI竞赛",
@@ -1074,8 +1087,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时20分 ~ 13时13分]"
+          "appearance_count": 3,
+          "time_info": "[12时20分 ~ 14时19分]"
         },
         {
           "title": "Mosaic：玉米和大豆价格的复苏应当有助于化肥的应用。",
@@ -1253,11 +1266,12 @@
           "url": "https://flash.jin10.com/detail/20251106125006375800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 14时19分]"
         },
         {
           "title": "非洲股市收盘播报｜南非股指收涨约1.4%，追随金价涨向3990美元的表现",
@@ -1330,8 +1344,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时54分 ~ 13时13分]"
+          "appearance_count": 6,
+          "time_info": "[08时54分 ~ 14时19分]"
         },
         {
           "title": "美债收益率继续上涨，10年期收益率日内涨6.6个基点，报4.157%。",
