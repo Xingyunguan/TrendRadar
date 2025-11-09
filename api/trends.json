@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T11:42:30.842783+08:00",
-  "total_titles_processed": 634,
+  "generated_at": "2025-11-09T12:17:28.265599+08:00",
+  "total_titles_processed": 662,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时10分 ~ 11时42分]"
+          "appearance_count": 11,
+          "time_info": "[03时10分 ~ 12时17分]"
         },
         {
           "title": "美国科技股遇4月来“最惨一周”，“AI八巨头”单周市值损失8000亿美元",
@@ -41,8 +41,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 11时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 12时17分]"
         },
         {
           "title": "用AI前瞻S15决赛",
@@ -61,8 +61,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 11时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 12时17分]"
         },
         {
           "title": "快手科技高级副总裁马宏彬：可灵AI全球用户破4500万，已与2万多家企业及开发者达成合作",
@@ -92,8 +92,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时09分 ~ 11时42分]"
+          "appearance_count": 7,
+          "time_info": "[05时09分 ~ 12时17分]"
         },
         {
           "title": "澎湃AI晚新闻丨2025年11月8日",
@@ -104,8 +104,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时59分 ~ 11时42分]"
+          "appearance_count": 5,
+          "time_info": "[08时59分 ~ 12时17分]"
         },
         {
           "title": "AI一键格桑花儿开转场",
@@ -117,8 +117,20 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时59分 ~ 11时42分]"
+          "appearance_count": 5,
+          "time_info": "[08时59分 ~ 12时17分]"
+        },
+        {
+          "title": "大空头2.0横空出世做空AI 这次可以跟么？",
+          "url": "https://wallstreetcn.com/premium/articles/3758949?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 12时17分]"
         },
         {
           "title": "特斯拉股东大会未能批准投资xAI，市场期盼的整合还有吗？",
@@ -143,6 +155,18 @@
           "time_info": "[08时59分 ~ 09时00分]"
         },
         {
+          "title": "GAI在演唱会庆祝重庆铜梁龙冲超成功",
+          "url": "https://www.toutiao.com/trending/7570246466659893290/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 12时17分]"
+        },
+        {
           "title": "美国俄勒冈州参议员卢·弗雷德里克时隔6年再次访华，Accelerate合伙人称在AI存在投资、合作机会",
           "url": "https://wallstreetcn.com/livenews/3001548",
           "source": "华尔街见闻-快讯",
@@ -154,24 +178,13 @@
           "time_info": "[00时14分 ~ 01时10分]"
         },
         {
-          "title": "大空头2.0横空出世做空AI 这次可以跟么？",
-          "url": "https://wallstreetcn.com/premium/articles/3758949?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
           "title": "GAI庆功宴王鹤棣送8万红包",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23GAI%E5%BA%86%E5%8A%9F%E5%AE%B4%E7%8E%8B%E9%B9%A4%E6%A3%A3%E9%80%818%E4%B8%87%E7%BA%A2%E5%8C%85%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26c_type%3D31%26realpos%3D17%26band_rank%3D17%26cate%3D5001%26dgr%3D0%26stream_entry_id%3D31%26pos%3D17%26flag%3D1%26q%3D%2523GAI%25E5%25BA%2586%25E5%258A%259F%25E5%25AE%25B4%25E7%258E%258B%25E9%25B9%25A4%25E6%25A3%25A3%25E9%2580%25818%25E4%25B8%2587%25E7%25BA%25A2%25E5%258C%2585%2523%26filter_type%3Drealtimehot%26display_time%3D1762659234%26pre_seqid%3D17626592347930331020466&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
@@ -185,17 +198,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时32分"
-        },
-        {
-          "title": "GAI在演唱会庆祝重庆铜梁龙冲超成功",
-          "url": "https://www.toutiao.com/trending/7570246466659893290/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
         }
       ]
     },
@@ -215,8 +217,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 11时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 12时17分]"
         },
         {
           "title": "美国总统特朗普：参议院应将医疗保险资金直接发放给民众。",
@@ -238,8 +240,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 11时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 12时17分]"
         },
         {
           "title": "南非政府发表声明驳斥特朗普言论",
@@ -249,8 +251,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 11时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 12时17分]"
         },
         {
           "title": "美国总统特朗普：参议院共和党应该将政府资金提供给众多医疗保险公司。 参议院应当直接将医疗保险资金直接派送给民众。",
@@ -323,9 +325,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 12时17分]"
         },
         {
           "title": "拜登强烈批评特朗普称其家族赚了18亿",
@@ -334,7 +336,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
@@ -353,7 +355,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗总统：“美国想让伊朗一直跪着”",
@@ -396,8 +398,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 11时42分]"
+          "appearance_count": 3,
+          "time_info": "[10时32分 ~ 12时17分]"
         },
         {
           "title": "伊媒：伊朗宪法监护委员会批准从国家货币里亚尔中“去掉4个零”的计划",
@@ -408,19 +410,31 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时32分 ~ 11时42分]"
+          "appearance_count": 3,
+          "time_info": "[10时32分 ~ 12时17分]"
         },
         {
           "title": "伊朗宪法监护委员会批准从国家货币里亚尔中“去掉4个零”的计划",
           "url": "https://flash.jin10.com/detail/20251109101328383800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 12时17分]"
+        },
+        {
+          "title": "伊朗总统：美国想让伊朗一直跪着",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E7%BE%8E%E5%9B%BD%E6%83%B3%E8%AE%A9%E4%BC%8A%E6%9C%97%E4%B8%80%E7%9B%B4%E8%B7%AA%E7%9D%80",
+          "source": "百度热搜",
+          "ranks": [
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时42分"
+          "time_info": "12时17分"
         }
       ]
     },
@@ -476,8 +490,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时14分 ~ 11时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 12时17分]"
         }
       ]
     }
