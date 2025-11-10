@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T07:11:29.721249+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2025-11-10T08:57:34.126687+08:00",
+  "total_titles_processed": 623,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 28,
       "titles": [
         {
           "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 07时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 08时57分]"
         },
         {
           "title": "拜登狠批特朗普",
@@ -30,8 +31,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 07时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 08时57分]"
         },
         {
           "title": "“特朗普外交政策，万变不离中国”",
@@ -41,8 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 07时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 08时57分]"
         },
         {
           "title": "特朗普提名约翰·科尔为美国驻白俄罗斯特使",
@@ -100,6 +101,17 @@
           "time_info": "[00时12分 ~ 05时16分]"
         },
         {
+          "title": "特朗普宣布一个大消息",
+          "url": "https://news.ifeng.com/c/8o9xDTJ6QQT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
           "title": "美国共和党的开支草案包含让美联储裁员的条款。 总统特朗普的白宫支持参议院共和党（最新提出）的开支框架。（PunchBowl）",
           "url": "https://wallstreetcn.com/livenews/3001713",
           "source": "华尔街见闻-快讯",
@@ -109,6 +121,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "最美词汇：特朗普对关税到底有什么误解？",
+          "url": "https://news.ifeng.com/c/8o9xDTJ6QSA",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
         },
         {
           "title": "美国参议院共和党披露一份立法草案，其中包括在（总统特朗普的）政府关门期间要求向退伍军人事务部（DVA）和军事建设项目提供资金支持。",
@@ -123,6 +146,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时12分 ~ 07时11分]"
+        },
+        {
+          "title": "美国总统特朗普：看来我们离结束政府停摆已经非常接近了。",
+          "url": "https://flash.jin10.com/detail/20251110081856898800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
         },
         {
           "title": "特朗普：反对关税的人是“蠢材”！美国现在是世界上最富有的国家",
@@ -260,6 +294,50 @@
           "time_info": "[05时16分 ~ 06时11分]"
         },
         {
+          "title": "特朗普被严重警告",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%A2%AB%E4%B8%A5%E9%87%8D%E8%AD%A6%E5%91%8A",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "特朗普宣布一个大消息",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E4%B8%80%E4%B8%AA%E5%A4%A7%E6%B6%88%E6%81%AF",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "美国总统特朗普：看来我们离结束政府停摆已经非常接近了。",
+          "url": "https://wallstreetcn.com/livenews/3001790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "特朗普提出每人派发2000美元关税“分红”，贝森特称或以减税等形式实现",
+          "url": "https://wallstreetcn.com/livenews/3001776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
           "title": "拜登狠批特朗普：让国家蒙羞",
           "url": "https://www.toutiao.com/trending/7569666407429324863/",
           "source": "今日头条",
@@ -274,7 +352,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 6,
+      "match_count": 12,
       "titles": [
         {
           "title": "聆听“乌镇声音”：互联网大会上，企业家如何思考AI和未来",
@@ -349,11 +427,78 @@
           "url": "https://www.cls.cn/detail/2195310",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时11分 ~ 08时57分]"
+        },
+        {
+          "title": "美国参议院民主党议员Kaine表示，他支持共和党提出的结束政府停摆的法案。",
+          "url": "https://flash.jin10.com/detail/20251110081812830800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时11分"
+          "time_info": "08时57分"
+        },
+        {
+          "title": "每天一个奇吧—novelai吧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346920&amp;topic_name=%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E5%A5%87%E5%90%A7%E2%80%94novelai%E5%90%A7",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "AI引爆“电荒” 韩国电池三巨头转向储能 在美总产能计划翻倍",
+          "url": "https://www.cls.cn/detail/2195198",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "康养机器人、跌倒监测相机……当养老遇见AI ，如何撬动“老有所AI”的万亿级市场？",
+          "url": "https://www.cls.cn/detail/2195107",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "中信建投：寻找业绩弹性，把握结构性行情，重点关注AI、新能源等方向",
+          "url": "https://wallstreetcn.com/livenews/3001788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
+        },
+        {
+          "title": "澳洲联储副主席豪瑟拒绝提供澳洲联储非加速通胀失业率（NAIRU）及中性利率预估。",
+          "url": "https://wallstreetcn.com/livenews/3001775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时57分"
         }
       ]
     },
@@ -389,8 +534,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 07时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 08时57分]"
         }
       ]
     },
