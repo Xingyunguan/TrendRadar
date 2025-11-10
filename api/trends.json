@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T21:27:26.901065+08:00",
-  "total_titles_processed": 1667,
+  "generated_at": "2025-11-10T22:13:14.776422+08:00",
+  "total_titles_processed": 1752,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "若特朗普“对等关税”被推翻，市场会如何反应？",
@@ -47,6 +47,21 @@
           "time_info": "[00时12分 ~ 08时57分]"
         },
         {
+          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13,
+            11,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[14时20分 ~ 22时13分]"
+        },
+        {
           "title": "每人2000美元？特朗普扬言要撒“关税红利”，贝森特暗示通过减税实现！",
           "url": "https://www.cls.cn/detail/2195415",
           "source": "财联社热门",
@@ -72,21 +87,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时12分 ~ 08时57分]"
-        },
-        {
-          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            13,
-            11,
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时20分 ~ 21时27分]"
         },
         {
           "title": "特朗普提名约翰·科尔为美国驻白俄罗斯特使",
@@ -502,7 +502,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         },
@@ -527,6 +527,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时46分"
+        },
+        {
+          "title": "英国广播公司（BBC）：BBC收到了特朗普威胁采取法律行动的信。",
+          "url": "https://flash.jin10.com/detail/20251110213615372800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         },
         {
           "title": "特朗普拟向民众发关税红利有何目的",
@@ -590,7 +601,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         },
@@ -620,7 +631,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "一口气看清美股AI泡沫",
@@ -632,11 +643,12 @@
             4,
             5,
             9,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时45分 ~ 21时27分]"
+          "appearance_count": 15,
+          "time_info": "[10时45分 ~ 22时13分]"
         },
         {
           "title": "打破AI“用电荒”？太空算力争夺赛开打 科技巨头加速布局",
@@ -671,8 +683,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时57分 ~ 21时27分]"
+          "appearance_count": 16,
+          "time_info": "[08时57分 ~ 22时13分]"
         },
         {
           "title": "聆听“乌镇声音”：互联网大会上，企业家如何思考AI和未来",
@@ -876,6 +888,17 @@
           "time_info": "[15时13分 ~ 18时15分]"
         },
         {
+          "title": "澎湃AI晚新闻丨2025年11月9日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31928995",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时27分 ~ 22时13分]"
+        },
+        {
           "title": "最新风口是让AI当“狗”吗",
           "url": "https://www.toutiao.com/trending/7571013604158213682/",
           "source": "今日头条",
@@ -886,6 +909,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时11分 ~ 20时23分]"
+        },
+        {
+          "title": "复盘“五大泡沫指标”，高盛认为“当下更像1997而非1999，AI牛市还有下半场”",
+          "url": "https://wallstreetcn.com/articles/3759030",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时12分 ~ 22时13分]"
         },
         {
           "title": "AI引爆“电荒” 韩国电池三巨头转向储能 在美总产能计划翻倍",
@@ -944,17 +978,6 @@
           "time_info": "08时57分"
         },
         {
-          "title": "澎湃AI晚新闻丨2025年11月9日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31928995",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时27分"
-        },
-        {
           "title": "澳洲联储副主席豪瑟拒绝提供澳洲联储非加速通胀失业率（NAIRU）及中性利率预估。",
           "url": "https://wallstreetcn.com/livenews/3001775",
           "source": "华尔街见闻-快讯",
@@ -972,7 +995,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时27分"
         }
@@ -980,7 +1003,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "懂王胜选一周年，“川普2.0”与“1.0”市场走势高度相似，坏消息是第二年美股走势通常最差",
@@ -1012,6 +1035,30 @@
           "time_info": "[12时20分 ~ 16时18分]"
         },
         {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3002194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
+          "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
+          "url": "https://wallstreetcn.com/articles/3759034",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时23分 ~ 22时13分]"
+        },
+        {
           "title": "现货黄金此前触及两周高点，美股黄金矿业股盘前上涨。金罗斯黄金(KGC.N)涨3.5%，哈莫尼黄金(HMY.N)涨5.5%，金田(GFI.N)涨5.8%。",
           "url": "https://flash.jin10.com/detail/20251110175803111800",
           "source": "金十数据",
@@ -1036,18 +1083,6 @@
           "time_info": "[18时15分 ~ 19时12分]"
         },
         {
-          "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
-          "url": "https://wallstreetcn.com/articles/3759034",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时23分 ~ 21时27分]"
-        },
-        {
           "title": "美股盘前，明星科技股普涨，英伟达涨超3%，英特尔涨超1.8%，甲骨文涨超2%，台积电涨近3%。",
           "url": "https://wallstreetcn.com/livenews/3002065",
           "source": "华尔街见闻-快讯",
@@ -1069,6 +1104,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-10）",
+          "url": "https://flash.jin10.com/detail/20251110211923335800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         }
       ]
     },
@@ -1076,6 +1122,17 @@
       "keyword_group": "金价",
       "match_count": 4,
       "titles": [
+        {
+          "title": "金价再次直线上涨",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%86%8D%E6%AC%A1%E7%9B%B4%E7%BA%BF%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时15分 ~ 22时13分]"
+        },
         {
           "title": "金价",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26stream_entry_id%3D31%26band_rank%3D23%26flag%3D1%26realpos%3D23%26dgr%3D0%26filter_type%3Drealtimehot%26pos%3D24%26c_type%3D31%26lcate%3D5001%26display_time%3D1762746310%26pre_seqid%3D17627463100110268743551&launchid=10000360-page_H5",
@@ -1089,17 +1146,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时46分 ~ 16时18分]"
-        },
-        {
-          "title": "金价再次直线上涨",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%86%8D%E6%AC%A1%E7%9B%B4%E7%BA%BF%E4%B8%8A%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时15分 ~ 21时27分]"
         },
         {
           "title": "金十图示：2025年11月10日（周一）上海金早盘价为926.44元/克，较国际金价(926.8元/克)，低0.36元/克",
@@ -1123,6 +1169,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "伊朗外交部发言人：国际原子能机构的检查人员上周到访了伊朗的核设施。",
+          "url": "https://flash.jin10.com/detail/20251110161518791800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "伊朗货币改革将启动：删除4个0",
+          "url": "https://news.ifeng.com/c/8oAZlJ3VC59",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时23分 ~ 22时13分]"
+        },
+        {
+          "title": "伊朗将启动货币改革，删除面值末四个零",
+          "url": "https://wallstreetcn.com/livenews/3001716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时16分 ~ 07时11分]"
+        },
+        {
+          "title": "伊朗安全部官员否认德黑兰曾要求美国解除制裁",
+          "url": "https://flash.jin10.com/detail/20251110213825238800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         }
       ]
     },
@@ -1201,47 +1299,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "伊朗外交部发言人：国际原子能机构的检查人员上周到访了伊朗的核设施。",
-          "url": "https://flash.jin10.com/detail/20251110161518791800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
-        {
-          "title": "伊朗将启动货币改革，删除面值末四个零",
-          "url": "https://wallstreetcn.com/livenews/3001716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时16分 ~ 07时11分]"
-        },
-        {
-          "title": "伊朗货币改革将启动：删除4个0",
-          "url": "https://news.ifeng.com/c/8oAZlJ3VC59",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时23分 ~ 21时27分]"
         }
       ]
     },
