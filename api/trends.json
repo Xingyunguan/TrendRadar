@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T12:17:31.180960+08:00",
-  "total_titles_processed": 1083,
+  "generated_at": "2025-11-11T13:13:32.983746+08:00",
+  "total_titles_processed": 1153,
   "failed_sources": [],
   "trends": [
     {
@@ -41,11 +41,12 @@
             23,
             19,
             28,
-            29
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 10时29分]"
+          "appearance_count": 14,
+          "time_info": "[00时15分 ~ 13时13分]"
         },
         {
           "title": "与叙利亚政权领导人在白宫会晤，特朗普晒合影表态(图)",
@@ -56,8 +57,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时29分 ~ 12时17分]"
+          "appearance_count": 4,
+          "time_info": "[10时29分 ~ 13时13分]"
         },
         {
           "title": "特朗普：所有空中交通管制员立即复工",
@@ -188,11 +189,12 @@
           "url": "https://wallstreetcn.com/articles/3759093",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时17分]"
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 13时13分]"
         },
         {
           "title": "白宫经济顾问哈塞特被问及50年期抵押贷款方案，称：我支持美国总统特朗普（加密货币担保的按揭贷款）的想法。 白宫将举行一系列会议。",
@@ -640,8 +642,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时15分 ~ 12时17分]"
+          "appearance_count": 16,
+          "time_info": "[00时15分 ~ 13时13分]"
         },
         {
           "title": "12岁小孩做一张AI图吓坏整个小区",
@@ -666,11 +668,12 @@
             7,
             9,
             14,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时15分 ~ 12时17分]"
+          "appearance_count": 16,
+          "time_info": "[00时15分 ~ 13时13分]"
         },
         {
           "title": "台积电10月营收增速放缓 AI热潮可持续性再受质疑",
@@ -736,6 +739,19 @@
           "time_info": "05时13分"
         },
         {
+          "title": "美参议员指责AI热潮推高电价 要求白宫应对数据中心用电压力",
+          "url": "https://www.cls.cn/detail/2196521",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 13时13分]"
+        },
+        {
           "title": "现在的 AI 能够给黑白漫画上色了吗？",
           "url": "https://www.zhihu.com/question/1450725457",
           "source": "知乎",
@@ -749,6 +765,19 @@
           "time_info": "[01时12分 ~ 08时56分]"
         },
         {
+          "title": "“把算力送入太空！” 中国企业卡位“AI军备”前沿赛道｜聚焦",
+          "url": "https://www.cls.cn/detail/2196710",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 13时13分]"
+        },
+        {
           "title": "美国联邦住房金融局局长Pulte：目前正在评估数据分析公司FAIR ISAAC就实施其新信用评分系统达成的潜在协议。（外媒更正，说话人非特朗普）",
           "url": "https://flash.jin10.com/detail/20251111020735747800",
           "source": "金十数据",
@@ -760,19 +789,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时18分 ~ 04时14分]"
-        },
-        {
-          "title": "美参议员指责AI热潮推高电价 要求白宫应对数据中心用电压力",
-          "url": "https://www.cls.cn/detail/2196521",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时56分 ~ 12时17分]"
         },
         {
           "title": "C3.ai（AI）股价短线陡然拉升，涨幅从2%迅速扩大至10%。 据路透报道，C3.ai探索若干选项，其中包括出售。",
@@ -813,18 +829,6 @@
           "time_info": "[07时12分 ~ 12时17分]"
         },
         {
-          "title": "“把算力送入太空！” 中国企业卡位“AI军备”前沿赛道｜聚焦",
-          "url": "https://www.cls.cn/detail/2196710",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 12时17分]"
-        },
-        {
           "title": "苹果(AAPL.O)公司因销量疲软推迟发布下一代iPhone Air。",
           "url": "https://flash.jin10.com/detail/20251111031535141800",
           "source": "金十数据",
@@ -847,6 +851,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时14分 ~ 05时13分]"
+        },
+        {
+          "title": "美国AI被电力卡了脖子？大量数据中心面临闲置风险 电力设备行业或迎机遇",
+          "url": "https://www.cls.cn/detail/2196681",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 13时13分]"
         },
         {
           "title": "欧盟计划简化数据、AI（监管）制度，从而利好商业。",
@@ -879,18 +895,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        },
-        {
-          "title": "美国AI被电力卡了脖子？大量数据中心面临闲置风险 电力设备行业或迎机遇",
-          "url": "https://www.cls.cn/detail/2196681",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
         },
@@ -965,8 +970,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时15分 ~ 12时17分]"
+          "appearance_count": 16,
+          "time_info": "[00时15分 ~ 13时13分]"
         },
         {
           "title": "【早报】闪存龙头大涨12%，美股科技巨头集体反攻；促进民间投资，国办重磅发文",
@@ -976,8 +981,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时56分 ~ 12时17分]"
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 13时13分]"
         },
         {
           "title": "美股收盘：美国政府有望结束停摆 纳指反弹2.3% 英伟达涨超5%",
@@ -989,8 +994,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时56分 ~ 12时17分]"
+          "appearance_count": 5,
+          "time_info": "[08时56分 ~ 13时13分]"
         },
         {
           "title": "美政府关门有望结束，科技股引领美股强劲反弹，英伟达涨超5%，金银大涨",
@@ -1058,8 +1063,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时29分 ~ 12时17分]"
+          "appearance_count": 4,
+          "time_info": "[10时29分 ~ 13时13分]"
         },
         {
           "title": "半导体ETF收涨将近3.1%，领跑美股行业ETF，标普科技板块涨约2.7%",
@@ -1268,6 +1273,56 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "韩国相关部门表示，韩国方面暂未就谷歌(GOOG.O)提出的地图数据传输请求作出决定。",
+          "url": "https://flash.jin10.com/detail/20251111115436400800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "韩国相关部门表示，韩国将待谷歌(GOOG.O)提交补充文件后作出最终决定。",
+          "url": "https://flash.jin10.com/detail/20251111115423827800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "纳指涨超2%，纳斯达克100指数成分股Palantir涨7.1%，美光科技涨6.9%，Applovin涨6.3%，AMD涨5.5%，英伟达涨3.8%，谷歌A涨3.5%，特许通讯仍然跌2.4%，Axon跌3.2%。 标普涨1.1%，道指涨0.3%，半导体指数涨2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3002225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达收涨约5.8%，谷歌A涨4%",
+          "url": "https://wallstreetcn.com/livenews/3002330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 4,
       "titles": [
@@ -1356,34 +1411,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时43分 ~ 12时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "纳指涨超2%，纳斯达克100指数成分股Palantir涨7.1%，美光科技涨6.9%，Applovin涨6.3%，AMD涨5.5%，英伟达涨3.8%，谷歌A涨3.5%，特许通讯仍然跌2.4%，Axon跌3.2%。 标普涨1.1%，道指涨0.3%，半导体指数涨2.7%。",
-          "url": "https://wallstreetcn.com/livenews/3002225",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜英伟达收涨约5.8%，谷歌A涨4%",
-          "url": "https://wallstreetcn.com/livenews/3002330",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
         }
       ]
     },
