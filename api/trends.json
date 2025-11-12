@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T22:13:51.225784+08:00",
-  "total_titles_processed": 2009,
+  "generated_at": "2025-11-12T23:14:28.628782+08:00",
+  "total_titles_processed": 2104,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 61,
+      "match_count": 62,
       "titles": [
         {
           "title": "特朗普宣布美国不再资助乌克兰",
@@ -322,6 +322,18 @@
           "time_info": "[02时17分 ~ 03时10分]"
         },
         {
+          "title": "特朗普致信以色列总统 呼吁赦免内塔尼亚胡",
+          "url": "https://wallstreetcn.com/livenews/3003469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 23时14分]"
+        },
+        {
           "title": "白宫经济顾问哈塞特：有人告诉我，（特朗普政府关门期间）一些美国经济调查还没有完成。 通胀轨迹非常不错。 （特朗普政府）正关注住房市场，设法改善生活成本问题。",
           "url": "https://wallstreetcn.com/livenews/3002897",
           "source": "华尔街见闻-快讯",
@@ -428,17 +440,6 @@
           "time_info": "08时55分"
         },
         {
-          "title": "特朗普致信以色列总统 呼吁赦免内塔尼亚胡",
-          "url": "https://wallstreetcn.com/livenews/3003469",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
           "title": "特朗普：将降低部分咖啡关税。",
           "url": "https://wallstreetcn.com/livenews/3003047",
           "source": "华尔街见闻-快讯",
@@ -511,7 +512,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -522,7 +523,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -555,7 +556,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -580,6 +581,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时55分"
+        },
+        {
+          "title": "Ken Griffin（城堡创始人）、孙正义（日本软银集团CEO）被邀请与美国总统特朗普共同进餐。 财长贝森特和商务部长卢特尼克也收到与高管们共餐的邀请。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3003486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "美国总统特朗普：我们正在重启我们的国家。",
@@ -709,7 +721,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -728,7 +740,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
@@ -742,8 +754,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时28分 ~ 22时13分]"
+          "appearance_count": 17,
+          "time_info": "[10时28分 ~ 23时14分]"
         },
         {
           "title": "硅谷AI“地震”：从债券市场开始？",
@@ -799,8 +811,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时13分 ~ 22时13分]"
+          "appearance_count": 11,
+          "time_info": "[13时13分 ~ 23时14分]"
         },
         {
           "title": "硬刚真Air标准!联想官方遭怒喷",
@@ -867,6 +879,18 @@
           "time_info": "[17时15分 ~ 18时15分]"
         },
         {
+          "title": "重估中美AI不同路线",
+          "url": "https://www.toutiao.com/trending/7571825253601513003/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 23时14分]"
+        },
+        {
           "title": "周二（11月11日），降息赢家指数涨0.77%，报97.56点。 “特朗普关税输家”指数涨0.24%，报104.77点。 散户抱团概念股指数/迷因股（meme stock）指数涨0.86%，报18.11点。 人工智能（AI）赢家指数跌1.76%，AI软件先驱指数跌0.44%，AI风险敞口半导体跌2.77%。",
           "url": "https://wallstreetcn.com/livenews/3002989",
           "source": "华尔街见闻-快讯",
@@ -904,6 +928,18 @@
           "time_info": "[11时40分 ~ 12时16分]"
         },
         {
+          "title": "储能产业将乘上AI东风！瑞银：全球储能需求明年或暴增40%",
+          "url": "https://www.cls.cn/detail/2198526",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 23时14分]"
+        },
+        {
           "title": "NeoCloud（新云）供应商Nebius Group NV下跌超5.6%，Meta Platforms跌1.5%。 两家公司签署人工智能（AI）基础设施协议，Nebius三季度销售同比激增355%至1.46亿美元。",
           "url": "https://wallstreetcn.com/livenews/3002880",
           "source": "华尔街见闻-快讯",
@@ -939,6 +975,17 @@
           "time_info": "[16时17分 ~ 17时15分]"
         },
         {
+          "title": "软银清仓英伟达，孙正义套现 415 亿元，为何在此时清仓，AI 泡沫一旦破裂后，金融市场将有哪些连锁反应？",
+          "url": "https://www.zhihu.com/question/1971863649787319599",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 23时14分]"
+        },
+        {
           "title": "Grab整合AI与机器人技术 巩固东南亚市场领导地位",
           "url": "https://flash.jin10.com/detail/20251112163453885800",
           "source": "金十数据",
@@ -950,26 +997,26 @@
           "time_info": "17时15分"
         },
         {
-          "title": "储能产业将乘上AI东风！瑞银：全球储能需求明年或暴增40%",
-          "url": "https://www.cls.cn/detail/2198526",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
           "title": "俄罗斯总统普京：俄罗斯-哈萨克斯坦Baiterek项目框架下的首枚运载火箭预计将于今年年底前发射。",
           "url": "https://flash.jin10.com/detail/20251112214005918800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
+        },
+        {
+          "title": "美石油巨头要建巨型AI供电设施 欧洲市场再迎新高时刻 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2198795",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "中信建投人工智能2026年投资策略展望：国产AI芯片迎来高斜率增长期，应用商业化加速",
@@ -1005,17 +1052,6 @@
           "time_info": "10时28分"
         },
         {
-          "title": "软银清仓英伟达，孙正义套现 415 亿元，为何在此时清仓，AI 泡沫一旦破裂后，金融市场将有哪些连锁反应？",
-          "url": "https://www.zhihu.com/question/1971863649787319599",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
           "title": "业内：AI把闪存链烧断了",
           "url": "https://www.toutiao.com/trending/7571460734870097471/",
           "source": "今日头条",
@@ -1025,17 +1061,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
-        },
-        {
-          "title": "重估中美AI不同路线",
-          "url": "https://www.toutiao.com/trending/7571825253601513003/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
         },
         {
           "title": "鸿海第三季度净利润576.7亿元台币，市场预估509.5亿元台币。 第三季度营业利润705.4亿元台币，市场预估630.1亿元台币。 第三季度营收2.06万亿元台币，市场预估2.06万亿元台币。 第三季度每股收益4.15元台币，市场预估3.69元台币。 前9个月营业利润1,736.3亿元台币，净利润1,441.4亿元台币。 前9个月营收5.50万亿元台币，每股收益10.38元台币。 预计第四季度AI服务器营收环比增长。",
@@ -1052,7 +1077,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
@@ -1083,11 +1108,12 @@
           "url": "https://wallstreetcn.com/livenews/3003475",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 23时14分]"
         },
         {
           "title": "美股七巨头收盘播报｜周二（11月11日），美国科技股七巨头（Magnificent 7）指数跌0.21%，报210.01点。 “超级”市值科技股跌0.53%，报405.79点。",
@@ -1172,6 +1198,17 @@
           "time_info": "02时17分"
         },
         {
+          "title": "金十图示：2025年11月12日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251112224220193800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "生物科技ETF收涨将近2.9%，和医疗业ETF领跑美股行业ETF，半导体ETF跌超2.1%",
           "url": "https://wallstreetcn.com/livenews/3002976",
           "source": "华尔街见闻-快讯",
@@ -1181,6 +1218,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "美股开盘，道指涨0.18%，标普500指数涨0.31%，纳指涨0.41%。英伟达(NVDA.O)涨1.2%，前一交易日收跌约3%。AMD(AMD.O)涨7.58%，公司预计未来三到五年年均营收CAGR将超过35%。Circle(CRCL.N)跌4%。",
+          "url": "https://flash.jin10.com/detail/20251112223021773800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "美股盘初，行业ETF多数走高，能源业ETF涨0.94%，银行业ETF涨0.47%，可选消费ETF与全球航空业ETF大致持平。 网络股指数ETF跌0.28%，科技行业ETF跌0.62%，半导体ETF跌0.94%",
@@ -1482,7 +1530,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -1516,7 +1564,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -1527,7 +1575,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -1538,7 +1586,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -1560,7 +1608,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -1571,7 +1619,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -1582,7 +1630,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         }
@@ -1701,7 +1749,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
@@ -1712,8 +1760,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时55分 ~ 22时13分]"
+          "appearance_count": 18,
+          "time_info": "[08时55分 ~ 23时14分]"
         },
         {
           "title": "摩根大通美债客户净多头占比升至4月7日以来最高水平",
@@ -1726,6 +1774,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时28分 ~ 22时13分]"
+        },
+        {
+          "title": "受政府重开预期与科技股强势提振，美股指集体高开，AMD大涨8%，美债上扬，黄金转涨",
+          "url": "https://wallstreetcn.com/articles/3759214",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "分析师：预测十年期美债收益率将在3.6%至5%区间波动",
