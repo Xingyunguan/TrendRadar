@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-16T20:20:11.207061+08:00",
-  "total_titles_processed": 1185,
+  "generated_at": "2025-11-16T21:19:05.967348+08:00",
+  "total_titles_processed": 1235,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI agent",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "AI驱动掀起存储芯片“超级周期”：A股玩家谁能多分一杯羹？",
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时18分 ~ 20时20分]"
+          "appearance_count": 14,
+          "time_info": "[12时18分 ~ 21时19分]"
         },
         {
           "title": "大湾区国际创客峰会暨Maker Faire Shenzhen 2025在深圳开幕",
@@ -34,6 +34,19 @@
           "time_info": "[00时12分 ~ 08时58分]"
         },
         {
+          "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
+          "url": "https://www.cls.cn/detail/2201789",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时11分 ~ 21时19分]"
+        },
+        {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347153&amp;topic_name=AI%E7%88%86%E6%A2%97%E7%8E%8B%3F%E4%B8%B2%E5%AD%90%E7%BD%97%E4%BC%AF%E7%89%B9%E7%82%B8%E7%BF%BB%E5%85%A8%E5%9C%BA",
           "source": "贴吧",
@@ -44,24 +57,12 @@
             18,
             19,
             21,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时12分 ~ 20时20分]"
-        },
-        {
-          "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
-          "url": "https://www.cls.cn/detail/2201789",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时11分 ~ 20时20分]"
+          "appearance_count": 28,
+          "time_info": "[00时12分 ~ 21时19分]"
         },
         {
           "title": "字节、红杉投资的AI公司接入网易《蛋仔派对》，融资数千万美元",
@@ -89,15 +90,15 @@
           "time_info": "[11时44分 ~ 15时11分]"
         },
         {
-          "title": "现代汽车集团：公司计划到2030年实现每年从韩国交付247万辆车。 集团计划同期实现每年交付176万辆EVs、PHEVs、HEVs、以及FCEVs，而当前为69万。 公司将修建一座机器人制造工厂和代工设施。 公司还考虑成立一个高功率人工智能（AI）数据中心。",
-          "url": "https://wallstreetcn.com/livenews/3005332",
+          "title": "宇树科技CEO王兴兴：AI将赋能机器人“理解世界”，下一个十年注定是“生长与绽放”",
+          "url": "https://wallstreetcn.com/livenews/3005341",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时20分"
+          "time_info": "21时19分"
         },
         {
           "title": "华为将发布AI领域突破性技术，有望解决算力资源利用效率难题",
@@ -140,6 +141,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时44分 ~ 15时11分]"
+        },
+        {
+          "title": "现代汽车集团：公司计划到2030年实现每年从韩国交付247万辆车。 集团计划同期实现每年交付176万辆EVs、PHEVs、HEVs、以及FCEVs，而当前为69万。 公司将修建一座机器人制造工厂和代工设施。 公司还考虑成立一个高功率人工智能（AI）数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3005332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 21时19分]"
         },
         {
           "title": "FURIA战胜paiN晋级BLAST决赛",
@@ -188,6 +201,18 @@
           "time_info": "[20时19分 ~ 20时20分]"
         },
         {
+          "title": "芯联集成发布全新碳化硅G2.0技术平台 重点覆盖新能源和AI数据中心电源",
+          "url": "https://wallstreetcn.com/livenews/3005329",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 21时19分]"
+        },
+        {
           "title": "男子称iPhone Air把始祖鸟冲锋衣划破",
           "url": "https://www.toutiao.com/trending/7572867707574878249/",
           "source": "今日头条",
@@ -208,17 +233,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
-        },
-        {
-          "title": "芯联集成发布全新碳化硅G2.0技术平台 重点覆盖新能源和AI数据中心电源",
-          "url": "https://wallstreetcn.com/livenews/3005329",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
         },
         {
           "title": "async/await，真的是协程吗？",
@@ -280,6 +294,31 @@
           "time_info": "[00时12分 ~ 06时09分]"
         },
         {
+          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时14分 ~ 21时19分]"
+        },
+        {
+          "title": "10亿至50亿！特朗普开口了",
+          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时11分 ~ 21时19分]"
+        },
+        {
           "title": "特朗普集团正与沙特政府就房地产交易进行谈判。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3005184",
           "source": "华尔街见闻-快讯",
@@ -322,20 +361,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时12分 ~ 07时11分]"
-        },
-        {
-          "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31968861",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时14分 ~ 20时20分]"
         },
         {
           "title": "特朗普一个多月购债券逾八千万美元，涉及受益于其政策的行业",
@@ -382,17 +407,6 @@
           "time_info": "[14时17分 ~ 18时12分]"
         },
         {
-          "title": "10亿至50亿！特朗普开口了",
-          "url": "https://news.ifeng.com/c/8oKTyan4q6j",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时11分 ~ 20时20分]"
-        },
-        {
           "title": "特朗普：已对委内瑞拉问题作出决定",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B7%B2%E5%AF%B9%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E9%97%AE%E9%A2%98%E4%BD%9C%E5%87%BA%E5%86%B3%E5%AE%9A",
           "source": "百度热搜",
@@ -413,11 +427,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时09分 ~ 20时20分]"
+          "appearance_count": 3,
+          "time_info": "[19时09分 ~ 21时19分]"
         },
         {
           "title": "爱泼斯坦2万份文件揭了特朗普哪些短",
@@ -515,17 +530,6 @@
           "time_info": "[00时12分 ~ 07时11分]"
         },
         {
-          "title": "伊朗外长说：暂无正进行的铀浓缩活动",
-          "url": "https://wallstreetcn.com/livenews/3005334",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
           "title": "伊朗外长：美国正在转变为基于武力的霸权主义",
           "url": "https://flash.jin10.com/detail/20251116151301965800",
           "source": "金十数据",
@@ -555,16 +559,29 @@
           "time_info": "[08时58分 ~ 13时12分]"
         },
         {
+          "title": "伊朗外长说：暂无正进行的铀浓缩活动",
+          "url": "https://wallstreetcn.com/livenews/3005334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 21时19分]"
+        },
+        {
           "title": "伊朗外长称伊朗境内已全面停止铀浓缩活动",
           "url": "https://flash.jin10.com/detail/20251116184126885800",
           "source": "金十数据",
           "ranks": [
             2,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时09分 ~ 20时20分]"
+          "appearance_count": 3,
+          "time_info": "[19时09分 ~ 21时19分]"
         },
         {
           "title": "伊朗外交部长阿拉奇：伊朗将始终准备好参与外交，但不会参与旨在强加条件的谈判。",
@@ -572,11 +589,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时09分 ~ 20时20分]"
+          "appearance_count": 3,
+          "time_info": "[19时09分 ~ 21时19分]"
         },
         {
           "title": "伊朗外交部：美军事活动正在威胁国际和平与安全",
@@ -592,6 +610,19 @@
           "time_info": "[08时58分 ~ 12时18分]"
         },
         {
+          "title": "伊朗外交部长阿拉奇：当前美国的做法丝毫没有显示出愿意进行平等公正谈判的迹象。",
+          "url": "https://flash.jin10.com/detail/20251116183102013800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时09分 ~ 21时19分]"
+        },
+        {
           "title": "伊朗外长：美国正在转变为基于武力的霸权主义",
           "url": "https://wallstreetcn.com/livenews/3005270",
           "source": "华尔街见闻-快讯",
@@ -603,18 +634,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时14分 ~ 18时12分]"
-        },
-        {
-          "title": "伊朗外交部长阿拉奇：当前美国的做法丝毫没有显示出愿意进行平等公正谈判的迹象。",
-          "url": "https://flash.jin10.com/detail/20251116183102013800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时09分 ~ 20时20分]"
         }
       ]
     },
@@ -664,8 +683,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时12分 ~ 20时20分]"
+          "appearance_count": 28,
+          "time_info": "[00时12分 ~ 21时19分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -722,8 +741,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时14分 ~ 20时20分]"
+          "appearance_count": 9,
+          "time_info": "[16时14分 ~ 21时19分]"
         }
       ]
     }
