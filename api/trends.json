@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-17T06:11:07.325553+08:00",
-  "total_titles_processed": 436,
+  "generated_at": "2025-11-17T07:11:26.632537+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 06时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 07时11分]"
         },
         {
           "title": "AI驱动掀起存储芯片“超级周期”：A股玩家谁能多分一杯羹？",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 06时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 07时11分]"
         },
         {
           "title": "“AI仿冒名人”营销，有被仿冒专家觉得不可思议：相似度超乎想象",
@@ -36,11 +36,12 @@
           "ranks": [
             15,
             17,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 06时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 07时11分]"
         },
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
@@ -51,8 +52,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 06时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 07时11分]"
         },
         {
           "title": "宇树科技CEO王兴兴：AI将赋能机器人“理解世界”，下一个十年注定是“生长与绽放”",
@@ -91,11 +92,25 @@
           "ranks": [
             1,
             3,
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时13分 ~ 06时11分]"
+          "appearance_count": 4,
+          "time_info": "[04时13分 ~ 07时11分]"
+        },
+        {
+          "title": "如何看待「80% 的 AI 创业公司都在用中国开源模型」的现象？",
+          "url": "https://www.zhihu.com/question/1971154128169301668",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时12分 ~ 07时11分]"
         },
         {
           "title": "据知情人士透露，空中客车有望在迪拜航展宣布在打飞机采购中获得重大份额。 空客接近出售大约100架A321NEO飞机给FlyDubai，可能会获得更多订单。 波音公司洽谈向FlyDubai供相对偏小的订单，预计会出售几十架737 MAX飞机给对方。 FlyDubai飞机订单的最终结果将取决于眼下正在推进的谈判。（路透）",
@@ -107,24 +122,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
-        },
-        {
-          "title": "如何看待「80% 的 AI 创业公司都在用中国开源模型」的现象？",
-          "url": "https://www.zhihu.com/question/1971154128169301668",
-          "source": "知乎",
-          "ranks": [
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时12分 ~ 06时11分]"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "10亿至50亿！特朗普开口了",
@@ -134,8 +137,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 06时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 07时11分]"
         },
         {
           "title": "释疑｜爱泼斯坦案2万份新文件，揭了特朗普哪些短？",
@@ -143,11 +146,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 06时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 07时11分]"
         },
         {
           "title": "据AXIOS网站：以色列希望美国总统特朗普将向沙特出售F-35的条件与以色列实现关系正常化挂钩。",
@@ -188,8 +192,19 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时12分 ~ 05时10分]"
+          "appearance_count": 6,
+          "time_info": "[00时12分 ~ 07时11分]"
+        },
+        {
+          "title": "特朗普与得力干将反目成仇",
+          "url": "https://flash.jin10.com/detail/20251117062945107800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时11分"
         }
       ]
     },
@@ -207,8 +222,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 06时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 07时11分]"
         },
         {
           "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
@@ -219,8 +234,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时15分 ~ 06时11分]"
+          "appearance_count": 8,
+          "time_info": "[02时15分 ~ 07时11分]"
         }
       ]
     },
@@ -237,11 +252,12 @@
             3,
             6,
             12,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时13分 ~ 06时11分]"
+          "appearance_count": 8,
+          "time_info": "[00时13分 ~ 07时11分]"
         },
         {
           "title": "伊朗外长说：暂无正进行的铀浓缩活动",
@@ -274,8 +290,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时12分 ~ 06时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时12分 ~ 07时11分]"
         }
       ]
     }
