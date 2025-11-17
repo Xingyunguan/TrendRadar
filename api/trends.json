@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T15:13:41.016930+08:00",
-  "total_titles_processed": 1159,
+  "generated_at": "2025-11-17T16:19:08.565572+08:00",
+  "total_titles_processed": 1276,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "曝特朗普与昔日得力干将决裂",
@@ -21,8 +21,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时55分 ~ 15时13分]"
+          "appearance_count": 12,
+          "time_info": "[08时55分 ~ 16时19分]"
         },
         {
           "title": "10亿至50亿！特朗普开口了",
@@ -170,6 +170,17 @@
           "time_info": "[10时29分 ~ 11时44分]"
         },
         {
+          "title": "沙利文吐槽：特朗普遇强则弱，中国拿下两大关键成果",
+          "url": "https://news.ifeng.com/c/8oM8wzd4xsr",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 16时19分]"
+        },
+        {
           "title": "现货黄金抹去日内逾20美元的涨幅，现报4084.5美元/盎司。特朗普此前透露，可能会与委内瑞拉总统马杜罗进行讨论。",
           "url": "https://flash.jin10.com/detail/20251117081602441800",
           "source": "金十数据",
@@ -239,7 +250,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "周末要闻汇总：吴清发声！事关资本市场；华为将发布AI领域突破性技术",
@@ -261,8 +272,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时55分 ~ 15时13分]"
+          "appearance_count": 12,
+          "time_info": "[08时55分 ~ 16时19分]"
         },
         {
           "title": "AI驱动掀起存储芯片“超级周期”：A股玩家谁能多分一杯羹？",
@@ -289,8 +300,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时12分 ~ 15时13分]"
+          "appearance_count": 24,
+          "time_info": "[00时12分 ~ 16时19分]"
         },
         {
           "title": "AI爆梗王?串子罗伯特炸翻全场",
@@ -306,6 +317,19 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时12分 ~ 14时19分]"
+        },
+        {
+          "title": "无须担心AI泡沫和科技股抛售？华尔街给出了这样的解释……",
+          "url": "https://www.cls.cn/detail/2201993",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时18分 ~ 16时19分]"
         },
         {
           "title": "华为，AI突破将发布",
@@ -389,16 +413,17 @@
           "time_info": "04时13分"
         },
         {
-          "title": "无须担心AI泡沫和科技股抛售？华尔街给出了这样的解释……",
-          "url": "https://www.cls.cn/detail/2201993",
-          "source": "财联社热门",
+          "title": "成龙去世谣言系AI生成",
+          "url": "https://www.toutiao.com/trending/7573506510103691273/",
+          "source": "今日头条",
           "ranks": [
-            8,
-            7
+            21,
+            12,
+            25
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时18分 ~ 15时13分]"
+          "time_info": "[13时13分 ~ 16时19分]"
         },
         {
           "title": "阿里国际站推出AI Mode",
@@ -413,16 +438,16 @@
           "time_info": "[11时44分 ~ 12时19分]"
         },
         {
-          "title": "成龙去世谣言系AI生成",
-          "url": "https://www.toutiao.com/trending/7573506510103691273/",
-          "source": "今日头条",
+          "title": "千问APP正式上线，阿里要打造AI超级入口！",
+          "url": "https://wallstreetcn.com/articles/3759516",
+          "source": "华尔街见闻",
           "ranks": [
-            21,
-            12
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时13分 ~ 15时13分]"
+          "appearance_count": 4,
+          "time_info": "[14时19分 ~ 16时19分]"
         },
         {
           "title": "成龙去世谣言系AI生成",
@@ -438,16 +463,15 @@
           "time_info": "[13时13分 ~ 15时13分]"
         },
         {
-          "title": "千问APP正式上线，阿里要打造AI超级入口！",
-          "url": "https://wallstreetcn.com/articles/3759516",
-          "source": "华尔街见闻",
+          "title": "阿里 Qwen 同名个人 AI 助理「千问」App 开始公测，该产品体验效果如何？",
+          "url": "https://www.zhihu.com/question/1973700569139995365",
+          "source": "知乎",
           "ranks": [
-            9,
-            7
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时19分 ~ 15时13分]"
+          "time_info": "[16时18分 ~ 16时19分]"
         },
         {
           "title": "前美联储副主席Lael Brainard（布雷纳德）：美联储应该为了防止劳动力市场进一步疲软而谨慎行事，下个月应再次降息。",
@@ -470,6 +494,78 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美股期货上涨，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
+          "url": "https://wallstreetcn.com/articles/3759498",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 16时19分]"
+        },
+        {
+          "title": "金十图示：2025年11月17日（周一）上海金午盘价为928.44元/克，较国际金价(929.51元/克)，低1.07元/克",
+          "url": "https://flash.jin10.com/detail/20251117150157250800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
+          "title": "摩根士丹利：预计2026年黄金价格将达到每盎司4500美元。",
+          "url": "https://flash.jin10.com/detail/20251117153257595800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "金十图示：2025年11月17日（周一）上海金早盘价为933.64元/克，较国际金价(931.13元/克)，高2.51元/克",
+          "url": "https://flash.jin10.com/detail/20251117110119026800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时44分"
+        },
+        {
+          "title": "摩根士丹利预计2026年黄金价格将达到每盎司4500美元。 预计2026年铜价将达到每吨10,600美元。 由于供需平衡偏弱，布伦特原油2026年应维持在每桶约60美元附近。",
+          "url": "https://wallstreetcn.com/livenews/3005689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
+          "title": "降息预期降温之际，金价在连跌两日后小幅回升",
+          "url": "https://flash.jin10.com/detail/20251117073755033800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         }
       ]
     },
@@ -515,47 +611,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时18分 ~ 15时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金十图示：2025年11月17日（周一）上海金午盘价为928.44元/克，较国际金价(929.51元/克)，低1.07元/克",
-          "url": "https://flash.jin10.com/detail/20251117150157250800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时13分"
-        },
-        {
-          "title": "金十图示：2025年11月17日（周一）上海金早盘价为933.64元/克，较国际金价(931.13元/克)，高2.51元/克",
-          "url": "https://flash.jin10.com/detail/20251117110119026800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时44分"
-        },
-        {
-          "title": "降息预期降温之际，金价在连跌两日后小幅回升",
-          "url": "https://flash.jin10.com/detail/20251117073755033800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时56分"
+          "appearance_count": 6,
+          "time_info": "[12时18分 ~ 16时19分]"
         }
       ]
     },
@@ -619,7 +676,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时13分"
         },
