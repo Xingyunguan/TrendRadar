@@ -1,15 +1,20 @@
 {
-  "generated_at": "2025-11-18T20:26:55.793191+08:00",
+  "generated_at": "2025-11-18T21:31:26.716533+08:00",
   "total_titles_processed": 1765,
   "failed_sources": [
+    "toutiao",
     "baidu",
     "wallstreetcn-hot",
+    "thepaper",
     "bilibili-hot-search",
     "cls-hot",
     "ifeng",
     "jin10",
     "wallstreetcn-quick",
-    "weibo"
+    "tieba",
+    "weibo",
+    "douyin",
+    "zhihu"
   ],
   "trends": [
     {
@@ -817,7 +822,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时26分"
         },
