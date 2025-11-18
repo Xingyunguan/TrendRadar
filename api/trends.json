@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T04:14:54.185235+08:00",
-  "total_titles_processed": 531,
+  "generated_at": "2025-11-19T06:12:24.507447+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 04时14分]"
+          "appearance_count": 6,
+          "time_info": "[01时13分 ~ 06时12分]"
         },
         {
           "title": "美国总统特朗普：伊朗非常希望达成协议。",
@@ -37,7 +37,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
         },
@@ -203,7 +203,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
         },
@@ -236,7 +236,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
         },
@@ -269,7 +269,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
         },
@@ -464,7 +464,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "一图看懂 | AI产业迎密集事件催化 应用概念股全景图来了",
@@ -474,8 +474,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 06时12分]"
         },
         {
           "title": "新质观察｜谁来喂饱中国的AI？公共数据开放的关键一跃",
@@ -487,21 +487,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时14分]"
-        },
-        {
-          "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
-          "url": "https://www.zhihu.com/question/1971246965376389265",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 06时12分]"
         },
         {
           "title": "【数据看盘】机构连续两日减持锂电产业链 多路资金激烈博弈AI应用股",
@@ -511,8 +498,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 06时12分]"
+        },
+        {
+          "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
+          "url": "https://www.zhihu.com/question/1971246965376389265",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 06时12分]"
         },
         {
           "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
@@ -522,8 +523,23 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 06时12分]"
+        },
+        {
+          "title": "Plain Jane Remix编舞跳起来",
+          "url": "https://www.douyin.com/hot/2310465",
+          "source": "抖音",
+          "ranks": [
+            21,
+            26,
+            20,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 06时12分]"
         },
         {
           "title": "【每日收评】创业板指震荡走低跌超1%，锂电股全线退潮，AI应用方向逆势活跃",
@@ -542,21 +558,6 @@
           "source": "华尔街见闻",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时14分]"
-        },
-        {
-          "title": "Plain Jane Remix编舞跳起来",
-          "url": "https://www.douyin.com/hot/2310465",
-          "source": "抖音",
-          "ranks": [
-            21,
-            26,
-            20,
-            22,
-            25
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -635,6 +636,17 @@
           "time_info": "01时13分"
         },
         {
+          "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3759633",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
           "title": "据知情人士透露，德国量子计算供应商Raith考虑出售，希望于潜在交易获得大约10亿欧元估值。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3006622",
           "source": "华尔街见闻-快讯",
@@ -703,8 +715,135 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "全球市场恐慌发酵：美股指低开低走，欧股全线下跌，日本股债汇三杀，现货黄金反弹至4060美元",
+          "url": "https://wallstreetcn.com/articles/3759603",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 06时12分]"
+        },
+        {
+          "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
+          "url": "https://wallstreetcn.com/articles/3759576",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 06时12分]"
+        },
+        {
+          "title": "周二（11月18日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨1.25%，报93120美元，日内交投于89325-93960美元区间。 CME以太币期货DCR主力合约涨4.09%，报3129.50美元，日内交投于2948-3175.50美元区间。 美股加密货币与加密货币关联指数收涨2.74%，报65.33点。 MarketVector数字资产100小盘指数最近24小时涨约2.90%，暂报19435.73点。",
+          "url": "https://wallstreetcn.com/livenews/3006744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "半导体ETF收跌超2%，领跌美股行业ETF，银行ETF涨超0.8%，标普可选消费板块跌2.5%",
+          "url": "https://wallstreetcn.com/livenews/3006743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "华尔街巨鳄比尔·阿克曼：现在不是出售房利美、房地美股票的合适时机。",
+          "url": "https://flash.jin10.com/detail/20251118233954230800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "美股银行股濒临跌破关键支撑位 将对整体股市发出严重警告",
+          "url": "https://flash.jin10.com/detail/20251119025030602800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时14分"
+        },
+        {
+          "title": "美国债市冲高回落，美股抛售一度带来避险需求",
+          "url": "https://wallstreetcn.com/livenews/3006725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "金十图示：2025年11月18日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251119050528422800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "金十图示：2025年11月18日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251119050517257800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "美股收盘：三大股指齐挫 拼多多跌超7%",
+          "url": "https://flash.jin10.com/detail/20251119050132552800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "金十图示：2025年11月18日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251119013116709800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "谷歌正式发布Gemini3",
@@ -712,11 +851,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            3
+            3,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时18分 ~ 04时14分]"
+          "appearance_count": 5,
+          "time_info": "[02时18分 ~ 06时12分]"
         },
         {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
@@ -724,11 +864,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 06时12分]"
         },
         {
           "title": "亚马逊和谷歌被欧盟列为金融业 \"关键 \"技术供应商",
@@ -764,6 +905,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "谷歌计划在澳大利亚的圣诞岛建设数据中心",
+          "url": "https://wallstreetcn.com/livenews/3006723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
+        },
+        {
+          "title": "谷歌计划在澳大利亚的圣诞岛建设数据中心",
+          "url": "https://flash.jin10.com/detail/20251119044837907800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         },
         {
           "title": "谷歌发布超强模型Gemini 3 推理与编码能力实现巨大飞跃",
@@ -853,67 +1016,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "全球市场恐慌发酵：美股指低开低走，欧股全线下跌，日本股债汇三杀，现货黄金反弹至4060美元",
-          "url": "https://wallstreetcn.com/articles/3759603",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时14分]"
-        },
-        {
-          "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
-          "url": "https://wallstreetcn.com/articles/3759576",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时14分]"
-        },
-        {
-          "title": "华尔街巨鳄比尔·阿克曼：现在不是出售房利美、房地美股票的合适时机。",
-          "url": "https://flash.jin10.com/detail/20251118233954230800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "美股银行股濒临跌破关键支撑位 将对整体股市发出严重警告",
-          "url": "https://flash.jin10.com/detail/20251119025030602800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时14分"
-        },
-        {
-          "title": "金十图示：2025年11月18日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251119013116709800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
@@ -925,8 +1027,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时14分]"
+          "appearance_count": 7,
+          "time_info": "[00时16分 ~ 06时12分]"
         },
         {
           "title": "非洲股市收盘播报｜周二（11月18日），南非富时/JSE非洲领先40可交易指数收跌1.71%，报10.3万点。 南非股市在低开后逐步微幅收复失地——整体呈现出长尾L形走势，金价日内的“低位反弹”行情没能给矿业股带来提振。 因帕拉白金控股（IMP.SJ）收跌4.37%，跌幅第二大，英美公司跌3.68%、Sibanye Stillwater跌3%紧随其后。",
@@ -946,11 +1048,12 @@
           "url": "https://www.toutiao.com/trending/7574003822264061446/",
           "source": "今日头条",
           "ranks": [
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 03时11分]"
+          "appearance_count": 3,
+          "time_info": "[03时10分 ~ 06时12分]"
         }
       ]
     },
@@ -968,6 +1071,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周二（11月18日）纽约尾盘，ICE美元指数跌0.05%，报99.541点，日内交投区间为99.661-99.396点，北京时间23:32出现一波从日低快速反弹的行情。 彭博美元指数跌0.06%，报1219.19点，日内交投区间为1220.71-1218.31点。",
+          "url": "https://wallstreetcn.com/livenews/3006719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         }
       ]
     },
