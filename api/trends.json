@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T17:14:36.854516+08:00",
-  "total_titles_processed": 1365,
+  "generated_at": "2025-11-19T18:14:20.992267+08:00",
+  "total_titles_processed": 1443,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 68,
       "titles": [
         {
           "title": "【早报】与日方外交官磋商后对结果满意吗？中方：当然不满意；特朗普：美联储主席人选已定",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时27分 ~ 17时14分]"
+          "appearance_count": 11,
+          "time_info": "[10时27分 ~ 18时14分]"
         },
         {
           "title": "特朗普：台湾生产了几乎100%的芯片",
@@ -67,11 +68,12 @@
             10,
             8,
             19,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时40分 ~ 17时14分]"
+          "appearance_count": 9,
+          "time_info": "[11时40分 ~ 18时14分]"
         },
         {
           "title": "视频片段显示，埃隆·马斯克与众多嘉宾一道出席了特朗普与沙特王储的晚宴。 葡萄牙足球巨星罗纳尔多出席特朗普与沙特王储的晚宴。",
@@ -215,6 +217,17 @@
           "time_info": "[02时18分 ~ 04时14分]"
         },
         {
+          "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
+          "url": "https://www.cls.cn/detail/2204709",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 18时14分]"
+        },
+        {
           "title": "特朗普：沙特将获得F-35战机 已就此达成协议",
           "url": "https://flash.jin10.com/detail/20251119022122408800",
           "source": "金十数据",
@@ -251,17 +264,6 @@
           "time_info": "[03时11分 ~ 04时14分]"
         },
         {
-          "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
-          "url": "https://www.cls.cn/detail/2204709",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 17时14分]"
-        },
-        {
           "title": "特朗普怼记者：沙特王储对卡舒吉案“一无所知”，别让他难堪",
           "url": "https://news.ifeng.com/c/8oPCfhjamik",
           "source": "凤凰网",
@@ -271,6 +273,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时18分 ~ 15时13分]"
+        },
+        {
+          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
+          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 18时14分]"
         },
         {
           "title": "美国总统特朗普结束在白宫的讲话。",
@@ -385,17 +398,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
-        },
-        {
-          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
-          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时14分"
         },
         {
           "title": "美国总统特朗普：南非的行为极其恶劣。",
@@ -673,6 +675,17 @@
           "time_info": "14时18分"
         },
         {
+          "title": "被特朗普指鼻骂“猪”的女记者是谁",
+          "url": "https://www.toutiao.com/trending/7574328835857023012/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
           "title": "美国总统特朗普：可以看到与沙特阿拉伯达成民用核协议。",
           "url": "https://flash.jin10.com/detail/20251119015618344800",
           "source": "金十数据",
@@ -723,7 +736,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时14分"
         },
@@ -756,7 +769,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时14分"
         },
@@ -826,6 +839,22 @@
           "time_info": "[00时16分 ~ 10时28分]"
         },
         {
+          "title": "爆冲榜首!豆包反超AI老大哥登顶",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            4,
+            5,
+            7,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时40分 ~ 18时14分]"
+        },
+        {
           "title": "你认为该图片是真实拍摄的还是由 AI 生成的？",
           "url": "https://www.zhihu.com/question/1971246965376389265",
           "source": "知乎",
@@ -842,22 +871,6 @@
           "time_info": "[00时16分 ~ 08时54分]"
         },
         {
-          "title": "爆冲榜首!豆包反超AI老大哥登顶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347260&amp;topic_name=%E7%88%86%E5%86%B2%E6%A6%9C%E9%A6%96%21%E8%B1%86%E5%8C%85%E5%8F%8D%E8%B6%85AI%E8%80%81%E5%A4%A7%E5%93%A5%E7%99%BB%E9%A1%B6",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            4,
-            5,
-            7,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时40分 ~ 17时14分]"
-        },
-        {
           "title": "小米Q3经调整净利润同比大增80.9%创新高，电动汽车及AI等创新业务首次实现单季经营盈利 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3759633",
           "source": "华尔街见闻",
@@ -869,8 +882,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时12分 ~ 17时14分]"
+          "appearance_count": 14,
+          "time_info": "[06时12分 ~ 18时14分]"
         },
         {
           "title": "Plain Jane Remix编舞跳起来",
@@ -936,6 +949,18 @@
           "time_info": "08时54分"
         },
         {
+          "title": "财晓得｜AI正在如何改写教育类APP版图？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31941227",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时18分 ~ 18时14分]"
+        },
+        {
           "title": "据华尔街日报：消息人士称，xAI正与投资者进行高级别谈判，以筹集150亿美元，此轮融资将使xAI的估值达到2300亿美元。",
           "url": "https://flash.jin10.com/detail/20251119120532267800",
           "source": "金十数据",
@@ -961,16 +986,16 @@
           "time_info": "[16时17分 ~ 17时14分]"
         },
         {
-          "title": "财晓得｜AI正在如何改写教育类APP版图？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31941227",
-          "source": "澎湃新闻",
+          "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
+          "url": "https://www.cls.cn/detail/2198644",
+          "source": "财联社热门",
           "ranks": [
-            15,
-            9
+            13,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时18分 ~ 17时14分]"
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 18时14分]"
         },
         {
           "title": "蚂蚁下场抢夺AI超级入口：全模态通用AI助手“灵光”正式上线，30秒即可生成应用",
@@ -1083,6 +1108,18 @@
           "time_info": "[13时13分 ~ 14时18分]"
         },
         {
+          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
+          "url": "https://www.cls.cn/detail/2204885",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 18时14分]"
+        },
+        {
           "title": "金十整理：沙特与美国合作细则一览——防务、核能、AI与万亿美元投资勾勒新同盟关系",
           "url": "https://flash.jin10.com/detail/20251119110504493800",
           "source": "金十数据",
@@ -1151,28 +1188,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
-        },
-        {
-          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
-          "url": "https://www.cls.cn/detail/2204885",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时14分"
-        },
-        {
-          "title": "欧莱雅中国x阿里云：以AI共启美妆行业数智化新篇章",
-          "url": "https://www.cls.cn/detail/2198644",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时14分"
         },
         {
           "title": "据知情人士透露，德国量子计算供应商Raith考虑出售，希望于潜在交易获得大约10亿欧元估值。（彭博）",
@@ -1316,6 +1331,19 @@
           "time_info": "[10时27分 ~ 17时14分]"
         },
         {
+          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
+          "url": "https://wallstreetcn.com/articles/3759657",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[08时54分 ~ 18时14分]"
+        },
+        {
           "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
           "url": "https://www.cls.cn/detail/2204346",
           "source": "财联社热门",
@@ -1326,6 +1354,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[08时54分 ~ 13时13分]"
+        },
+        {
+          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
+          "url": "https://wallstreetcn.com/articles/3759673",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时40分 ~ 18时14分]"
         },
         {
           "title": "Gemini3为何是目前最强AI",
@@ -1339,23 +1380,12 @@
             6,
             7,
             19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时27分 ~ 17时14分]"
-        },
-        {
-          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
-          "url": "https://wallstreetcn.com/articles/3759657",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
+            20,
+            28
           ],
           "is_new": false,
           "appearance_count": 11,
-          "time_info": "[08时54分 ~ 17时14分]"
+          "time_info": "[10时27分 ~ 18时14分]"
         },
         {
           "title": "谷歌正式发布Gemini3",
@@ -1370,18 +1400,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时18分 ~ 08时54分]"
-        },
-        {
-          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
-          "url": "https://wallstreetcn.com/articles/3759673",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时40分 ~ 17时14分]"
         },
         {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
@@ -1418,8 +1436,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时13分 ~ 17时14分]"
+          "appearance_count": 4,
+          "time_info": "[15时13分 ~ 18时14分]"
         },
         {
           "title": "亚马逊和谷歌被欧盟列为金融业 \"关键 \"技术供应商",
@@ -1875,8 +1893,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时27分 ~ 15时13分]"
+          "appearance_count": 9,
+          "time_info": "[10时27分 ~ 18时14分]"
         },
         {
           "title": "OpenAI：所有受影响的服务现已完全恢复。",
