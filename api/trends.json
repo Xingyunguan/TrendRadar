@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-21T19:11:23.553232+08:00",
-  "total_titles_processed": 1826,
+  "generated_at": "2025-11-21T20:22:14.703221+08:00",
+  "total_titles_processed": 1916,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
+        {
+          "title": "特朗普批鲍威尔：想立刻炒了你",
+          "url": "https://www.douyin.com/hot/2313190",
+          "source": "抖音",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时18分 ~ 20时22分]"
+        },
         {
           "title": "泽连斯基将与特朗普磋商和平方案 美能源部宣布重组 | 环球市场",
           "url": "https://www.cls.cn/detail/2206817",
@@ -20,18 +32,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[08时54分 ~ 16时17分]"
-        },
-        {
-          "title": "特朗普批鲍威尔：想立刻炒了你",
-          "url": "https://www.douyin.com/hot/2313190",
-          "source": "抖音",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时18分 ~ 19时11分]"
         },
         {
           "title": "泽连斯基已收到美和平计划草案，将与特朗普通话",
@@ -74,7 +74,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
@@ -269,7 +269,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
@@ -351,6 +351,17 @@
           "time_info": "04时14分"
         },
         {
+          "title": "美媒称特朗普执政团队可能“大换血” 白宫发言人否认",
+          "url": "https://flash.jin10.com/detail/20251121192247348800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
           "title": "美国白宫：我们相信乌克兰计划应为双方所接受，特朗普支持该计划，我们正就结束乌克兰冲突与双方进行良好的对话。",
           "url": "https://flash.jin10.com/detail/20251121025425743800",
           "source": "金十数据",
@@ -368,7 +379,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
@@ -445,7 +456,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
@@ -483,6 +494,17 @@
           "time_info": "02时18分"
         },
         {
+          "title": "泽连斯基将于下周与特朗普讨论和平计划",
+          "url": "https://wallstreetcn.com/livenews/3008662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
           "title": "乌克兰总统办公室：预计泽连斯基将在未来几天与特朗普对话。",
           "url": "https://flash.jin10.com/detail/20251121001848368800",
           "source": "金十数据",
@@ -497,7 +519,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "纳指日内暴跌5%！4月以来最惨烈波动，美股怎么了？",
@@ -509,8 +531,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时26分 ~ 19时11分]"
+          "appearance_count": 14,
+          "time_info": "[10时26分 ~ 20时22分]"
         },
         {
           "title": "【早报】美股上演“过山车式”大跳水；磷酸铁锂行业推进反内卷",
@@ -574,8 +596,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时26分 ~ 19时11分]"
+          "appearance_count": 14,
+          "time_info": "[10时26分 ~ 20时22分]"
         },
         {
           "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
@@ -593,6 +615,18 @@
           "time_info": "[12时15分 ~ 18时13分]"
         },
         {
+          "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
+          "url": "https://wallstreetcn.com/articles/3759849",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时18分 ~ 20时22分]"
+        },
+        {
           "title": "美股为何巨震暴跌",
           "url": "https://www.toutiao.com/trending/7574979338739650091/",
           "source": "今日头条",
@@ -604,18 +638,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[11时39分 ~ 16时17分]"
-        },
-        {
-          "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
-          "url": "https://wallstreetcn.com/articles/3759849",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时18分 ~ 19时11分]"
         },
         {
           "title": "美股为何巨震暴跌",
@@ -630,6 +652,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时13分 ~ 17时14分]"
+        },
+        {
+          "title": "美国消费“凉了”？美股45年来首次出现这一幕……",
+          "url": "https://www.cls.cn/detail/2207216",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时13分 ~ 20时22分]"
         },
         {
           "title": "英伟达(NVDA.O)美股尾盘跌幅扩大至3%。",
@@ -675,18 +709,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时11分 ~ 06时12分]"
-        },
-        {
-          "title": "美国消费“凉了”？美股45年来首次出现这一幕……",
-          "url": "https://www.cls.cn/detail/2207216",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时13分 ~ 19时11分]"
         },
         {
           "title": "美股上演“大逆转” 投资者开始寻找还有什么可以推动年末行情",
@@ -759,6 +781,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时39分 ~ 12时15分]"
+        },
+        {
+          "title": "美股投资者为何不愿为英伟达财报买单",
+          "url": "https://www.toutiao.com/trending/7575115515551551030/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 20时22分]"
         },
         {
           "title": "英伟达光环消失！美股遭遇惨烈高台跳水 华尔街全在问：为什么？",
@@ -918,7 +951,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "家长用 AI 监督孩子写作业，称「不吼不骂，一小时作业十分钟就完成」，监督写作业真能交给 AI 干吗？",
@@ -989,8 +1022,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时39分 ~ 19时11分]"
+          "appearance_count": 13,
+          "time_info": "[11时39分 ~ 20时22分]"
         },
         {
           "title": "爆冲榜首!豆包反超AI老大哥登顶",
@@ -1003,6 +1036,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时15分 ~ 10时26分]"
+        },
+        {
+          "title": "英伟达内部会，黄仁勋坦言：太难了，“做得好是AI泡沫”，“一点点不及预期，整个世界就会崩溃”",
+          "url": "https://wallstreetcn.com/articles/3759864",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时13分 ~ 20时22分]"
         },
         {
           "title": "马斯克黄仁勋对谈：AI会让你更忙，人形机器人将成为有史以来最大的产业",
@@ -1033,19 +1079,6 @@
           "time_info": "[08时54分 ~ 15时13分]"
         },
         {
-          "title": "英伟达内部会，黄仁勋坦言：太难了，“做得好是AI泡沫”，“一点点不及预期，整个世界就会崩溃”",
-          "url": "https://wallstreetcn.com/articles/3759864",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时13分 ~ 19时11分]"
-        },
-        {
           "title": "鸿海董事长：我们一周能生产1000个AI机柜，明年会更多。 电动车已接近委外代工的临界点。 我们正在研发量子计算。",
           "url": "https://wallstreetcn.com/livenews/3008340",
           "source": "华尔街见闻-快讯",
@@ -1055,6 +1088,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        },
+        {
+          "title": "易梦玲称和胡彦斌海边视频是AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E6%A2%A6%E7%8E%B2%E7%A7%B0%E5%92%8C%E8%83%A1%E5%BD%A6%E6%96%8C%E6%B5%B7%E8%BE%B9%E8%A7%86%E9%A2%91%E6%98%AFAI%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时13分 ~ 20时22分]"
         },
         {
           "title": "鸿海董事长刘扬伟：我们一周内可以生产1000个AI机架，明年产量还会更多。",
@@ -1126,16 +1172,16 @@
           "time_info": "[14时19分 ~ 15时13分]"
         },
         {
-          "title": "易梦玲称和胡彦斌海边视频是AI",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%98%93%E6%A2%A6%E7%8E%B2%E7%A7%B0%E5%92%8C%E8%83%A1%E5%BD%A6%E6%96%8C%E6%B5%B7%E8%BE%B9%E8%A7%86%E9%A2%91%E6%98%AFAI%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
+          "title": "【焦点复盘】沪指放量长阴失守3900点，全市场超450股跌超7%，AI应用端一枝独秀",
+          "url": "https://www.cls.cn/detail/2207484",
+          "source": "财联社热门",
           "ranks": [
-            22,
-            21
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时13分 ~ 19时11分]"
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 20时22分]"
         },
         {
           "title": "元宝上线AI视频能力，实现“图文音视”多模态覆盖",
@@ -1174,6 +1220,17 @@
           "time_info": "[13时13分 ~ 14时19分]"
         },
         {
+          "title": "我AI的易梦玲胡彦斌",
+          "url": "https://s.weibo.com/weibo?q=%E6%88%91AI%E7%9A%84%E6%98%93%E6%A2%A6%E7%8E%B2%E8%83%A1%E5%BD%A6%E6%96%8C&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 20时22分]"
+        },
+        {
           "title": "市场消息：美国可持续投资公司Overwatch Capital和Idemitsu达成1吉瓦的合作，在美国十个州建设高密度AI数据中心。",
           "url": "https://flash.jin10.com/detail/20251121061512933800",
           "source": "金十数据",
@@ -1207,17 +1264,6 @@
           "time_info": "08时54分"
         },
         {
-          "title": "【焦点复盘】沪指放量长阴失守3900点，全市场超450股跌超7%，AI应用端一枝独秀",
-          "url": "https://www.cls.cn/detail/2207484",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时11分"
-        },
-        {
           "title": "特朗普晒与C罗在白宫踢球AI视频",
           "url": "https://www.toutiao.com/trending/7574730776219369513/",
           "source": "今日头条",
@@ -1240,13 +1286,24 @@
           "time_info": "05时11分"
         },
         {
+          "title": "【摩尔线程：AI计算加速芯片的市场需求呈爆炸式增长，GPU依然是主导芯片】摩尔线程创始人、董事长、总经理张建中在摩尔线程首次公开发行股票并在科创板上市网上投资者交流会上表示，随着中国AI下游应用市场的迅速扩张，AI计算加速芯片的市场需求呈现爆炸式增长，吸引各类芯片制造商的加入。张建中表示，目前，GPU依然是AI市场的主导芯片。不过，以ASIC和FPGA为代表的其他类型芯片也已实现商业化，并在市场中占据一定比例。张建中表示，未来，随着中国GPU企业在技术上的不断突破，AI计算加速芯片的市场规模预计将实现快速增长。(澎湃新闻)",
+          "url": "https://wallstreetcn.com/livenews/3008679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
+        },
+        {
           "title": "美国国税局正在该机构的多个部门推广Salesforce(CRM.N)的人工智能体Agentforce。",
           "url": "https://flash.jin10.com/detail/20251121182347367800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
@@ -1320,7 +1377,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "谷歌发布新一代图像生成模型",
@@ -1464,6 +1521,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "出门问问TicNote与CodeBanana已全面接入Gemini 3模型",
+          "url": "https://wallstreetcn.com/livenews/3008660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时22分"
         }
       ]
     },
@@ -1672,8 +1740,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时54分 ~ 19时11分]"
+          "appearance_count": 15,
+          "time_info": "[08时54分 ~ 20时22分]"
         },
         {
           "title": "英伟达业绩驱散悲观情绪，“悲喜交织”就业数据后，美股指数高开高走，美债上扬",
