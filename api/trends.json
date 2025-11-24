@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T16:18:24.420179+08:00",
-  "total_titles_processed": 1237,
+  "generated_at": "2025-11-24T17:16:43.005790+08:00",
+  "total_titles_processed": 1352,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普猛烈抨击：基辅方面“毫无感激之情”",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时58分 ~ 16时18分]"
+          "appearance_count": 9,
+          "time_info": "[08时58分 ~ 17时16分]"
         },
         {
           "title": "特朗普：普京只敢在拜登任内动手 我继承了一场本不该发生的“俄乌冲突”",
@@ -179,11 +179,12 @@
           "url": "https://news.ifeng.com/c/8oXW7E8CBM3",
           "source": "凤凰网",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时19分 ~ 16时18分]"
+          "appearance_count": 4,
+          "time_info": "[14时19分 ~ 17时16分]"
         },
         {
           "title": "乌克兰总统泽连斯基：与美国代表进行对话是件好事，有迹象表明，美国总统特朗普的团队“听到了我们的声音”。",
@@ -291,6 +292,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基办公室副主任Brusylo：谈判将在未来几天继续进行。 谈判将在工作组层面继续进行。 乌克兰加入北约的可能性并未完全排除。 泽连斯基和特朗普将最终敲定领土问题的想法。",
+          "url": "https://wallstreetcn.com/livenews/3009492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
+        },
+        {
+          "title": "曝特朗普最后一刻才知28点计划内容",
+          "url": "https://www.toutiao.com/trending/7575287851869323300/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "若泽连斯基拒绝美方和平计划？特朗普：他可以和俄罗斯打个痛快",
@@ -407,11 +430,12 @@
             14,
             16,
             18,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时13分 ~ 16时18分]"
+          "appearance_count": 18,
+          "time_info": "[00时13分 ~ 17时16分]"
         },
         {
           "title": "若AI泡沫破灭谁能幸存？七巨头中Alphabet和苹果或“笑到最后”",
@@ -424,6 +448,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时13分 ~ 08时58分]"
+        },
+        {
+          "title": "英伟达救不了AI股，市场想看到什么？",
+          "url": "https://wallstreetcn.com/articles/3759961",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时53分 ~ 17时16分]"
         },
         {
           "title": "需要AI给答案",
@@ -440,17 +477,16 @@
           "time_info": "[10时51分 ~ 16时18分]"
         },
         {
-          "title": "英伟达救不了AI股，市场想看到什么？",
-          "url": "https://wallstreetcn.com/articles/3759961",
+          "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
+          "url": "https://wallstreetcn.com/articles/3759968",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
-            6
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时53分 ~ 16时18分]"
+          "appearance_count": 4,
+          "time_info": "[14时19分 ~ 17时16分]"
         },
         {
           "title": "特斯拉CEO在自家社交媒体平台X（原名推特）上表示：大多数人不知道，特斯拉拥有一个先进的AI芯片和电路板工程团队，而且已经存在很多年了。 该团队已经设计并部署了数百万计的AI芯片在我们的汽车和数据中心中。正是这些芯片使特斯拉能够成为现实世界AI领域的领导者。",
@@ -466,27 +502,28 @@
           "time_info": "[04时13分 ~ 07时11分]"
         },
         {
-          "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
-          "url": "https://wallstreetcn.com/articles/3759968",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时19分 ~ 16时18分]"
-        },
-        {
           "title": "上海市网信办开展“AI滥用”专项执法工作",
           "url": "https://wallstreetcn.com/livenews/3009453",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
+        },
+        {
+          "title": "马斯克发布“太空AI”颠覆性愿景，黄仁勋却泼冷水？一文读懂",
+          "url": "https://www.cls.cn/detail/2208561",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时14分 ~ 17时16分]"
         },
         {
           "title": "创业板指午后涨超1%，沪指涨0.3%，深成指涨0.85%。AI应用、商业航天、军工、软件开发等方向领涨，沪深京三市上涨个股超4500只。",
@@ -501,19 +538,6 @@
           "time_info": "[14时19分 ~ 15时13分]"
         },
         {
-          "title": "马斯克发布“太空AI”颠覆性愿景，黄仁勋却泼冷水？一文读懂",
-          "url": "https://www.cls.cn/detail/2208561",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时14分 ~ 16时18分]"
-        },
-        {
           "title": "大摩：2026年的主要风险是“AI资本狂潮未能提升生产力”",
           "url": "https://wallstreetcn.com/articles/3759964",
           "source": "华尔街见闻",
@@ -521,8 +545,20 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时13分 ~ 17时16分]"
+        },
+        {
+          "title": "外资唱多声不断！高盛：中国股票将延续“牛气” AI股仍有上涨空间",
+          "url": "https://www.cls.cn/detail/2208653",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时13分 ~ 16时18分]"
+          "time_info": "[16时18分 ~ 17时16分]"
         },
         {
           "title": "银行系股权投资“扩军”，三家股份制银行AIC已上阵",
@@ -534,17 +570,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时11分"
-        },
-        {
-          "title": "外资唱多声不断！高盛：中国股票将延续“牛气” AI股仍有上涨空间",
-          "url": "https://www.cls.cn/detail/2208653",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时18分"
         },
         {
           "title": "A股三大指数午后再度翻红，中船系、军工装备、智谱AI板块涨幅居前。",
@@ -600,6 +625,17 @@
           "time_info": "[11时53分 ~ 13时14分]"
         },
         {
+          "title": "谷歌称必须每6个月将AI算力翻倍 谷歌算力供应链有望站上风口",
+          "url": "https://www.cls.cn/detail/2208396",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时18分 ~ 17时16分]"
+        },
+        {
           "title": "中信证券：英伟达指引、Google Gemini 3超预期 持续看好AI PCB板块",
           "url": "https://wallstreetcn.com/livenews/3009237",
           "source": "华尔街见闻-快讯",
@@ -609,17 +645,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
-        },
-        {
-          "title": "谷歌称必须每6个月将AI算力翻倍 谷歌算力供应链有望站上风口",
-          "url": "https://www.cls.cn/detail/2208396",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时18分"
         },
         {
           "title": "谷歌云：北约与谷歌云签署数百万美元协议，打造由人工智能驱动的主权云。",
@@ -646,49 +671,20 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 3,
+      "keyword_group": "美股",
+      "match_count": 5,
       "titles": [
         {
-          "title": "金十图示：2025年11月24日（周一）上海金早盘价为924.85元/克，较国际金价(924.38元/克)，高0.47元/克",
-          "url": "https://flash.jin10.com/detail/20251124110330638800",
-          "source": "金十数据",
+          "title": "美股盘前：中概股、科技股普涨",
+          "url": "https://wallstreetcn.com/livenews/3009505",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 12时27分]"
-        },
-        {
-          "title": "Reliance分析师：未来三至五周，金价将呈现持平至负面基调",
-          "url": "https://flash.jin10.com/detail/20251124154725600800",
-          "source": "金十数据",
-          "ranks": [
-            9
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时18分"
+          "time_info": "17时16分"
         },
-        {
-          "title": "金十图示：2025年11月24日（周一）上海金午盘价为926.34元/克，较国际金价(926.63元/克)，低0.29元/克",
-          "url": "https://flash.jin10.com/detail/20251124150234455800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
         {
           "title": "本周重要事件与数据预告：美国数据密集补发、美股假期休市及阿里财报",
           "url": "https://flash.jin10.com/detail/20251124071540282800",
@@ -699,6 +695,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        },
+        {
+          "title": "美股期货涨幅扩大，纳斯达克100指数期货涨1%，标普500指数期货涨0.7%，道指期货涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3009473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         },
         {
           "title": "美股股指期货周一高开，纳指期货涨近1%。",
@@ -721,6 +728,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金十图示：2025年11月24日（周一）上海金早盘价为924.85元/克，较国际金价(924.38元/克)，高0.47元/克",
+          "url": "https://flash.jin10.com/detail/20251124110330638800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 12时27分]"
+        },
+        {
+          "title": "Reliance分析师：未来三至五周，金价将呈现持平至负面基调",
+          "url": "https://flash.jin10.com/detail/20251124154725600800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "金十图示：2025年11月24日（周一）上海金午盘价为926.34元/克，较国际金价(926.63元/克)，低0.29元/克",
+          "url": "https://flash.jin10.com/detail/20251124150234455800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         }
       ]
     },
@@ -764,6 +811,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "增速超越ChatGPT！千问、灵光持续破圈 国产AI大战2.0打响",
+          "url": "https://www.cls.cn/detail/2208933",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         }
       ]
     }
