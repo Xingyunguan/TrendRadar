@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-27T15:15:01.589602+08:00",
-  "total_titles_processed": 1375,
+  "generated_at": "2025-11-27T16:18:26.505382+08:00",
+  "total_titles_processed": 1490,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "中方是否请特朗普向高市传口信？外交部回应",
@@ -29,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时15分 ~ 15时15分]"
+          "appearance_count": 21,
+          "time_info": "[00时15分 ~ 16时18分]"
         },
         {
           "title": "特朗普一通电话后 高市早苗只有沉默",
@@ -46,21 +46,6 @@
           "time_info": "[00时15分 ~ 10时26分]"
         },
         {
-          "title": "特朗普力推,尖峰时刻4要来了?",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347542&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8A%9B%E6%8E%A8%2C%E5%B0%96%E5%B3%B0%E6%97%B6%E5%88%BB4%E8%A6%81%E6%9D%A5%E4%BA%86%3F",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            10,
-            13,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时15分 ~ 15时15分]"
-        },
-        {
           "title": "特朗普施压高市别在台湾问题上挑衅",
           "url": "https://www.toutiao.com/trending/7576971637803716150/",
           "source": "今日头条",
@@ -70,8 +55,24 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时26分 ~ 15时15分]"
+          "appearance_count": 9,
+          "time_info": "[10时26分 ~ 16时18分]"
+        },
+        {
+          "title": "特朗普力推,尖峰时刻4要来了?",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347542&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8A%9B%E6%8E%A8%2C%E5%B0%96%E5%B3%B0%E6%97%B6%E5%88%BB4%E8%A6%81%E6%9D%A5%E4%BA%86%3F",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            10,
+            13,
+            14,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时15分 ~ 16时18分]"
         },
         {
           "title": "白宫附近发生枪击 特朗普要求向华盛顿增派数百名士兵 | 环球市场",
@@ -88,17 +89,6 @@
           "time_info": "[08时53分 ~ 15时15分]"
         },
         {
-          "title": "委内瑞拉谴责美国犯下反人类罪行，欢迎与特朗普直接对话",
-          "url": "https://news.ifeng.com/c/8obnIsox9nT",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时53分 ~ 14时20分]"
-        },
-        {
           "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1976945155765465978",
           "source": "知乎",
@@ -108,8 +98,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时26分 ~ 15时15分]"
+          "appearance_count": 9,
+          "time_info": "[10时26分 ~ 16时18分]"
         },
         {
           "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
@@ -119,11 +109,23 @@
             19,
             18,
             17,
-            16
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时26分 ~ 16时18分]"
+        },
+        {
+          "title": "委内瑞拉谴责美国犯下反人类罪行，欢迎与特朗普直接对话",
+          "url": "https://news.ifeng.com/c/8obnIsox9nT",
+          "source": "凤凰网",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[10时26分 ~ 15时15分]"
+          "time_info": "[08时53分 ~ 14时20分]"
         },
         {
           "title": "特朗普一通电话后 高市早苗只有沉默",
@@ -139,6 +141,31 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时15分 ~ 07时11分]"
+        },
+        {
+          "title": "特朗普下令增兵：行凶者必付出代价",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%A2%9E%E5%85%B5%EF%BC%9A%E8%A1%8C%E5%87%B6%E8%80%85%E5%BF%85%E4%BB%98%E5%87%BA%E4%BB%A3%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时16分 ~ 16时18分]"
+        },
+        {
+          "title": "特朗普施压高市别在台湾问题上挑衅",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            7,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时41分 ~ 16时18分]"
         },
         {
           "title": "美国总统特朗普：我们将立即停止向他们支付所有款项和补贴。",
@@ -161,6 +188,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时26分"
+        },
+        {
+          "title": "要乌方让出的土地太多？特朗普：早晚要被拿下，停战就是俄方最大让步",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32046964",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时13分 ~ 16时18分]"
         },
         {
           "title": "特朗普为何称明年G20峰会不邀请南非",
@@ -189,17 +229,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时15分 ~ 08时54分]"
-        },
-        {
-          "title": "特朗普下令增兵：行凶者必付出代价",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E5%A2%9E%E5%85%B5%EF%BC%9A%E8%A1%8C%E5%87%B6%E8%80%85%E5%BF%85%E4%BB%98%E5%87%BA%E4%BB%A3%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时16分 ~ 15时15分]"
         },
         {
           "title": "特朗普称不再给乌克兰设最后期限",
@@ -251,19 +280,6 @@
           "time_info": "04时13分"
         },
         {
-          "title": "特朗普施压高市别在台湾问题上挑衅",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时41分 ~ 15时15分]"
-        },
-        {
           "title": "特朗普宣布“特赦”，火鸡突然大叫",
           "url": "https://m.thepaper.cn/newsDetail_forward_32045220",
           "source": "澎湃新闻",
@@ -275,18 +291,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时53分 ~ 12时16分]"
-        },
-        {
-          "title": "要乌方让出的土地太多？特朗普：早晚要被拿下，停战就是俄方最大让步",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32046964",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时13分 ~ 15时15分]"
         },
         {
           "title": "高市早苗与特朗普通话内容曝光",
@@ -462,6 +466,17 @@
           "time_info": "05时11分"
         },
         {
+          "title": "特朗普致电高市：别在台湾问题上挑衅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32053388",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "委内瑞拉谴责美国犯下反人类罪行，欢迎与特朗普直接对话",
           "url": "https://wallstreetcn.com/livenews/3011041",
           "source": "华尔街见闻-快讯",
@@ -498,7 +513,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "阿里财报后为何“高开低走”？高盛：AI和云业务超预期，但电话会“短期波动”说法加剧电商忧虑",
@@ -571,11 +586,12 @@
             23,
             26,
             27,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时15分 ~ 15时15分]"
+          "appearance_count": 21,
+          "time_info": "[00时15分 ~ 16时18分]"
         },
         {
           "title": "GAI进化论6万人重庆场记录",
@@ -614,11 +630,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时41分 ~ 15时15分]"
+          "appearance_count": 6,
+          "time_info": "[11时41分 ~ 16时18分]"
         },
         {
           "title": "多家手机厂商取消Air机型",
@@ -627,11 +644,12 @@
           "ranks": [
             29,
             26,
-            23
+            23,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时13分 ~ 15时15分]"
+          "appearance_count": 6,
+          "time_info": "[13时13分 ~ 16时18分]"
         },
         {
           "title": "创业板指午后翻绿，早盘一度涨超2%，海南自贸区、AI应用、培育钻石等方向跌幅居前。",
@@ -665,7 +683,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -676,7 +694,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -703,6 +721,17 @@
           "time_info": "10时26分"
         },
         {
+          "title": "夸克AI眼镜正式发布 阿里巴巴加速AI战略落地消费端",
+          "url": "https://flash.jin10.com/detail/20251127154544500800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
           "title": "软银累计发行640亿美元零售债券以推动AI发展计划",
           "url": "https://flash.jin10.com/detail/20251127073755002800",
           "source": "金十数据",
@@ -712,6 +741,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
+        },
+        {
+          "title": "夸克AI眼镜发布两个系列六款单品，G1系列最低到手价1899元起",
+          "url": "https://wallstreetcn.com/livenews/3011399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         },
         {
           "title": "姚明邓亚萍合照诡异的像AI",
@@ -921,8 +961,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时53分 ~ 15时15分]"
+          "appearance_count": 11,
+          "time_info": "[08时53分 ~ 16时18分]"
         },
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -990,11 +1030,12 @@
           "url": "https://www.cls.cn/detail/2212466",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时14分 ~ 15时15分]"
+          "appearance_count": 3,
+          "time_info": "[15时14分 ~ 16时18分]"
         },
         {
           "title": "美股七巨头收盘播报｜微软、特斯拉、英伟达至多收涨约1.8%，谷歌A则跌约1.1%",
@@ -1037,8 +1078,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时15分 ~ 15时15分]"
+          "appearance_count": 21,
+          "time_info": "[00时15分 ~ 16时18分]"
         },
         {
           "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
@@ -1099,7 +1140,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
         },
@@ -1185,11 +1226,12 @@
           "url": "https://www.toutiao.com/trending/7576229938517852170/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时14分 ~ 15时15分]"
+          "appearance_count": 3,
+          "time_info": "[15时14分 ~ 16时18分]"
         }
       ]
     },
