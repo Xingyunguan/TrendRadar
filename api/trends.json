@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T19:11:20.528245+08:00",
-  "total_titles_processed": 1668,
+  "generated_at": "2025-11-28T20:23:27.438286+08:00",
+  "total_titles_processed": 1749,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普施压高市别在台湾问题上挑衅",
@@ -36,6 +36,20 @@
           "time_info": "[00时15分 ~ 07时11分]"
         },
         {
+          "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32056350",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时26分 ~ 20时23分]"
+        },
+        {
           "title": "特朗普致电高市：别在台湾问题上挑衅",
           "url": "https://m.thepaper.cn/newsDetail_forward_32053388",
           "source": "澎湃新闻",
@@ -49,20 +63,6 @@
           "time_info": "[00时15分 ~ 10时26分]"
         },
         {
-          "title": "释疑｜美俄密谈录音泄露：美特使指点俄方如何逢迎特朗普，推销“28点方案”雏形",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32056350",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时26分 ~ 19时11分]"
-        },
-        {
           "title": "特朗普：将无限期暂停来自“第三世界国家”的移民",
           "url": "https://www.cls.cn/detail/2213724",
           "source": "财联社热门",
@@ -73,8 +73,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时13分 ~ 19时11分]"
+          "appearance_count": 6,
+          "time_info": "[15时13分 ~ 20时23分]"
         },
         {
           "title": "特朗普称将暂停“第三世界国家”移民",
@@ -84,11 +84,12 @@
             2,
             1,
             12,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时19分 ~ 18时14分]"
+          "appearance_count": 6,
+          "time_info": "[14时19分 ~ 20时23分]"
         },
         {
           "title": "特朗普：将对委内瑞拉展开地面行动",
@@ -323,6 +324,17 @@
           "time_info": "14时19分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-28）",
+          "url": "https://flash.jin10.com/detail/20251128192525355800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "美国总统特朗普：正在解决F-35战机的维护问题。",
           "url": "https://flash.jin10.com/detail/20251128080533252800",
           "source": "金十数据",
@@ -384,7 +396,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
@@ -395,7 +407,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         },
@@ -447,7 +459,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "【早报】北京：拟将大规模AI算力搬上太空；摩根大通唱多A股",
@@ -471,8 +483,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时11分 ~ 19时11分]"
+          "appearance_count": 14,
+          "time_info": "[07时11分 ~ 20时23分]"
         },
         {
           "title": "解读马斯克用AI宣战LOL顶尖战队",
@@ -515,11 +527,12 @@
             8,
             17,
             14,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时15分 ~ 19时11分]"
+          "appearance_count": 24,
+          "time_info": "[00时15分 ~ 20时23分]"
         },
         {
           "title": "【焦点复盘】双创指数尾盘跳水终结3连涨，AI应用端表现降温，多款新品发布引爆消费电子板块",
@@ -584,8 +597,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 19时11分]"
+          "appearance_count": 3,
+          "time_info": "[18时14分 ~ 20时23分]"
         },
         {
           "title": "夸克AI眼镜持续霸榜第一",
@@ -683,6 +696,17 @@
           "time_info": "10时26分"
         },
         {
+          "title": "雷军称所有产业都值得用AI再做一遍",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E7%A7%B0%E6%89%80%E6%9C%89%E4%BA%A7%E4%B8%9A%E9%83%BD%E5%80%BC%E5%BE%97%E7%94%A8AI%E5%86%8D%E5%81%9A%E4%B8%80%E9%81%8D",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "TES官宣naiyou加入",
           "url": "https://search.bilibili.com/all?keyword=TES%E5%AE%98%E5%AE%A3naiyou%E5%8A%A0%E5%85%A5",
           "source": "bilibili 热搜",
@@ -715,11 +739,12 @@
           "url": "https://www.zhihu.com/question/1977462001522450495",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时53分 ~ 19时11分]"
+          "appearance_count": 13,
+          "time_info": "[08时53分 ~ 20时23分]"
         },
         {
           "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
@@ -730,11 +755,12 @@
             7,
             3,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时11分 ~ 19时11分]"
+          "appearance_count": 14,
+          "time_info": "[07时11分 ~ 20时23分]"
         },
         {
           "title": "DeepSeek开源新模型",
@@ -745,11 +771,12 @@
             3,
             20,
             28,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时15分 ~ 15时13分]"
+          "appearance_count": 17,
+          "time_info": "[00时15分 ~ 20时23分]"
         },
         {
           "title": "DeepSeek开启无限进化新时代",
@@ -776,8 +803,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时13分 ~ 19时11分]"
+          "appearance_count": 6,
+          "time_info": "[15时13分 ~ 20时23分]"
         },
         {
           "title": "DeepSeek推出新模型",
@@ -808,7 +835,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时11分"
         }
@@ -1013,8 +1040,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时53分 ~ 19时11分]"
+          "appearance_count": 13,
+          "time_info": "[08时53分 ~ 20时23分]"
         },
         {
           "title": "提醒：美股周四休市，周五将提前三个小时收盘",
@@ -1171,6 +1198,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时41分 ~ 12时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "芝商所（CME）：交易平台BrokerTec美债期货已恢复交易，其他市场目前仍暂停交易。",
+          "url": "https://flash.jin10.com/detail/20251128190714411800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         }
       ]
     }
