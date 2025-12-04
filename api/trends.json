@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T17:16:45.338117+08:00",
-  "total_titles_processed": 1528,
+  "generated_at": "2025-12-04T18:15:40.126047+08:00",
+  "total_titles_processed": 1613,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 64,
       "titles": [
         {
           "title": "【早报】特朗普签署涉台法案，外交部发声；摩尔线程周五上市",
@@ -53,11 +53,12 @@
             10,
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时48分 ~ 17时16分]"
+          "appearance_count": 11,
+          "time_info": "[11时48分 ~ 18时15分]"
         },
         {
           "title": "圆桌｜美俄5个小时没谈成，特朗普力推的“和平计划”关键分歧点在哪里？",
@@ -75,6 +76,20 @@
           "time_info": "[00时18分 ~ 13时13分]"
         },
         {
+          "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时22分 ~ 18时15分]"
+        },
+        {
           "title": "中方回应特朗普签署涉台法案",
           "url": "https://www.douyin.com/hot/2325113",
           "source": "抖音",
@@ -87,20 +102,6 @@
           "time_info": "[01时16分 ~ 17时16分]"
         },
         {
-          "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时22分 ~ 17时16分]"
-        },
-        {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
           "url": "https://wallstreetcn.com/articles/3760565",
           "source": "华尔街见闻",
@@ -111,6 +112,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时18分 ~ 04时14分]"
+        },
+        {
+          "title": "特朗普政府转向机器人之际 两大顶流厂商上演“隔空赛跑”",
+          "url": "https://www.cls.cn/detail/2219555",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时18分 ~ 18时15分]"
         },
         {
           "title": "特朗普：将很快在拉美开展地面打击",
@@ -168,18 +182,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
-        },
-        {
-          "title": "特朗普政府转向机器人之际 两大顶流厂商上演“隔空赛跑”",
-          "url": "https://www.cls.cn/detail/2219555",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时18分 ~ 17时16分]"
         },
         {
           "title": "美国总统特朗普：美国很快将控制芯片市场的大部分份额。",
@@ -291,6 +293,18 @@
           "time_info": "[05时12分 ~ 06时13分]"
         },
         {
+          "title": "特朗普政府All in！据称考虑明年发机器人行政令，iRobot盘中飙涨近80%",
+          "url": "https://wallstreetcn.com/articles/3760664",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时18分 ~ 18时15分]"
+        },
+        {
           "title": "特朗普“眼中钉”暂时拔不掉了？德银：鲍威尔卸任美联储主席后或留任理事",
           "url": "https://www.cls.cn/detail/2218431",
           "source": "财联社热门",
@@ -314,17 +328,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时19分 ~ 04时14分]"
-        },
-        {
-          "title": "特朗普政府All in！据称考虑明年发机器人行政令，iRobot盘中飙涨近80%",
-          "url": "https://wallstreetcn.com/articles/3760664",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时18分 ~ 17时16分]"
         },
         {
           "title": "英伟达CEO黄仁勋：特朗普总统的促增长能源政策“拯救了人工智能产业”。",
@@ -526,6 +529,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时13分 ~ 14时19分]"
+        },
+        {
+          "title": "美部长花式“拍特朗普马屁”，特朗普听完直接笑了",
+          "url": "https://v.ifeng.com/c/8ooVjzBecEz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "戴尔夫妇豪捐62.5亿美元，为2500万儿童开设特朗普账户，特朗普：慷慨！",
@@ -751,7 +765,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "AI“外挂”引发入口之争！淘宝、微信等多款App“出招”应对",
@@ -764,8 +778,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时22分 ~ 17时16分]"
+          "appearance_count": 10,
+          "time_info": "[12时22分 ~ 18时15分]"
         },
         {
           "title": "理想AI眼镜Livis首发开箱",
@@ -780,6 +794,18 @@
           "time_info": "[03时12分 ~ 11时48分]"
         },
         {
+          "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
+          "url": "https://www.zhihu.com/question/1979578572474709507",
+          "source": "知乎",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时14分 ~ 18时15分]"
+        },
+        {
           "title": "AI的钱太好赚！美光宣布“艰难决定”：退出零售存储业务",
           "url": "https://www.cls.cn/detail/2218945",
           "source": "财联社热门",
@@ -792,18 +818,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时44分 ~ 14时19分]"
-        },
-        {
-          "title": "豆包 AI 手机登录微信被「踢下线」，原因为何？端侧 AI 与头部应用的生态兼容上存在哪些挑战？",
-          "url": "https://www.zhihu.com/question/1979578572474709507",
-          "source": "知乎",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时14分 ~ 17时16分]"
         },
         {
           "title": "买家AI合成“死蟹”骗退款被拘留8日",
@@ -843,6 +857,18 @@
           "time_info": "[10时44分 ~ 11时48分]"
         },
         {
+          "title": "前安克全球CMO王时远入局AI录音硬件，拿下红杉种子融资",
+          "url": "https://wallstreetcn.com/livenews/3015061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时15分]"
+        },
+        {
           "title": "周三（12月3日），人工智能（AI）赢家指数涨0.61%，报283.91点，美股盘初下跌，随后持续反弹。 AI软件先驱指数涨1.53%，微幅跳空低开之后，全天持续震荡上扬。 AI风险指数涨0.59%，AI工业指数涨0.29%，AI机器人指数涨2.98%——微幅高开之后持续上涨。",
           "url": "https://wallstreetcn.com/livenews/3014638",
           "source": "华尔街见闻-快讯",
@@ -865,6 +891,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时16分 ~ 02时19分]"
+        },
+        {
+          "title": "理想汽车首款 AI 眼镜 Livis 发布，国补后 1699 元起，有哪些功能亮点，实际体验如何？",
+          "url": "https://www.zhihu.com/question/1979645846510335630",
+          "source": "知乎",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时16分 ~ 18时15分]"
         },
         {
           "title": "欧洲STOXX 600指数收涨0.10%，报576.22点，欧股盘初走高，之后持续回吐涨幅——美股盘前随着微软的AI消息而一度短暂转跌。 欧元区STOXX 50指数收涨0.15%，报5694.56点，也曾在报道称微软下调AI软件销售目标之后转跌。 富时泛欧绩优300指数收涨0.13%，报2297.89点。",
@@ -912,17 +950,6 @@
           "time_info": "08时56分"
         },
         {
-          "title": "前安克全球CMO王时远入局AI录音硬件，拿下红杉种子融资",
-          "url": "https://wallstreetcn.com/livenews/3015061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时16分"
-        },
-        {
           "title": "陈天桥发文：AI时代，企业管理退场认知上位，KPI体系要塌了！",
           "url": "https://wallstreetcn.com/articles/3760612",
           "source": "华尔街见闻",
@@ -951,7 +978,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
         },
@@ -967,17 +994,6 @@
           "time_info": "06时13分"
         },
         {
-          "title": "理想汽车首款 AI 眼镜 Livis 发布，国补后 1699 元起，有哪些功能亮点，实际体验如何？",
-          "url": "https://www.zhihu.com/question/1979645846510335630",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时16分"
-        },
-        {
           "title": "德意志银行：AI投资主题利好亚洲 但波动性将加剧",
           "url": "https://flash.jin10.com/detail/20251204133940732800",
           "source": "金十数据",
@@ -987,6 +1003,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时19分"
+        },
+        {
+          "title": "陈都灵TFBOYS同框 诡异到像AI",
+          "url": "https://s.weibo.com/weibo?q=%E9%99%88%E9%83%BD%E7%81%B5TFBOYS%E5%90%8C%E6%A1%86%20%E8%AF%A1%E5%BC%82%E5%88%B0%E5%83%8FAI&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         }
       ]
     },
@@ -1436,6 +1463,37 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Deepseek 团队为什么把大量精力花在 IMO 这种对普通人和商业应用都没有用途的地方？",
+          "url": "https://www.zhihu.com/question/1979307622185341611",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3,
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 10时44分]"
+        },
+        {
+          "title": "实测欧洲版Deepseek水平如何",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8B%E6%AC%A7%E6%B4%B2%E7%89%88Deepseek%E6%B0%B4%E5%B9%B3%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -1489,26 +1547,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Deepseek 团队为什么把大量精力花在 IMO 这种对普通人和商业应用都没有用途的地方？",
-          "url": "https://www.zhihu.com/question/1979307622185341611",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3,
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时18分 ~ 10时44分]"
         }
       ]
     }
