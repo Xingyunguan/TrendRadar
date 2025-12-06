@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T01:10:18.983689+08:00",
-  "total_titles_processed": 350,
+  "generated_at": "2025-12-07T02:16:13.541198+08:00",
+  "total_titles_processed": 367,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "明年起，特朗普生日当天美国国家公园免费入园，外国人除外",
@@ -27,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "特朗普获“国际足联和平奖”，迫不及待给自己戴奖牌",
@@ -38,8 +38,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "特朗普最终果然如媒体和大众判断的那样，顺利获得国际足联新设立的和平奖，对此你怎么看？",
@@ -49,8 +49,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 02时16分]"
         }
       ]
     },
@@ -63,11 +63,12 @@
           "url": "https://www.cls.cn/detail/2221699",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "豆包AI手机深度体验",
@@ -75,11 +76,12 @@
           "source": "抖音",
           "ranks": [
             5,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "C罗入股美国AI初创公司",
@@ -89,8 +91,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时16分]"
         }
       ]
     },
@@ -106,8 +108,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
@@ -135,8 +137,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 02时16分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -146,8 +148,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 02时16分]"
         }
       ]
     },
@@ -164,8 +166,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 02时16分]"
         }
       ]
     },
@@ -181,8 +183,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 02时16分]"
         }
       ]
     }
