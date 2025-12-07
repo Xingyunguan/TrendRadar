@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T16:15:21.743627+08:00",
-  "total_titles_processed": 920,
+  "generated_at": "2025-12-07T17:12:20.968611+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
@@ -78,11 +78,12 @@
             1,
             6,
             11,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时12分 ~ 16时15分]"
+          "appearance_count": 5,
+          "time_info": "[13时12分 ~ 17时12分]"
         },
         {
           "title": "美防长：特朗普政府将“把国家实际利益放在首位”",
@@ -92,11 +93,12 @@
             4,
             9,
             14,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时12分 ~ 16时15分]"
+          "appearance_count": 5,
+          "time_info": "[13时12分 ~ 17时12分]"
         },
         {
           "title": "特朗普称其主持典礼会比吉米做得更好",
@@ -135,8 +137,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时13分 ~ 16时15分]"
+          "appearance_count": 19,
+          "time_info": "[00时13分 ~ 17时12分]"
         },
         {
           "title": "豆包AI手机深度体验",
@@ -201,7 +203,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时15分"
         }
@@ -316,8 +318,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时17分 ~ 16时15分]"
+          "appearance_count": 4,
+          "time_info": "[14时17分 ~ 17时12分]"
         }
       ]
     },
