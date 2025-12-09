@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T19:12:41.103099+08:00",
-  "total_titles_processed": 1771,
+  "generated_at": "2025-12-09T20:24:51.308366+08:00",
+  "total_titles_processed": 1878,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 69,
       "titles": [
         {
           "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
@@ -65,11 +65,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时15分 ~ 19时12分]"
+          "appearance_count": 7,
+          "time_info": "[15时15分 ~ 20时24分]"
         },
         {
           "title": "美国总统特朗普在一场圆桌会议上声称：将把一部分关税“收入”用于救济农民经济。",
@@ -572,6 +573,39 @@
           "time_info": "10时44分"
         },
         {
+          "title": "特朗普拒绝排除派遣美军进入委内瑞拉的可能性",
+          "url": "https://flash.jin10.com/detail/20251209194914113800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "特朗普：可能降低部分商品关税 立即降息是选择美联储新主席的“试金石”",
+          "url": "https://flash.jin10.com/detail/20251209194439853800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "据Politico，特朗普称降息是美联储主席的试金石。",
+          "url": "https://wallstreetcn.com/livenews/3017651",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "美国总统特朗普：通货膨胀还会进一步下降，但不会通货紧缩。",
           "url": "https://flash.jin10.com/detail/20251209041301695800",
           "source": "金十数据",
@@ -600,7 +634,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -616,6 +650,28 @@
           "time_info": "10时44分"
         },
         {
+          "title": "特朗普可能会通过调整关税来降低部分商品价格。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3017647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "特朗普否认向匈牙利提供财政援助",
+          "url": "https://flash.jin10.com/detail/20251209193147882800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "市场消息：美国最高法院暗示，将支持特朗普罢免（联邦政府）机构主管的做法。",
           "url": "https://flash.jin10.com/detail/20251209013000707800",
           "source": "金十数据",
@@ -627,6 +683,39 @@
           "time_info": "02时19分"
         },
         {
+          "title": "据Politico：特朗普称，可能将反毒品军事行动扩展至墨西哥和哥伦比亚。",
+          "url": "https://flash.jin10.com/detail/20251209192513127800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "美国总统特朗普表示，欧洲国家“正在走向衰败”，领导人“软弱”。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3017639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "据Politico：特朗普称降息是美联储主席的试金石。",
+          "url": "https://flash.jin10.com/detail/20251209192404204800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普计划的第一阶段任务，现在将集中精力解除加沙的武装并收缴哈马斯的武器。",
           "url": "https://flash.jin10.com/detail/20251209001747407800",
           "source": "金十数据",
@@ -636,6 +725,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "据Politico：特朗普称欧洲在乌克兰问题上“处理不当”。",
+          "url": "https://flash.jin10.com/detail/20251209192248926800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "特朗普下令：裁员、关闭办公室、利用人工智能提高政府效率",
@@ -660,6 +760,17 @@
           "time_info": "08时56分"
         },
         {
+          "title": "据Politico：美国总统特朗普表示，“毫无疑问，俄罗斯的立场更加强硬”。",
+          "url": "https://flash.jin10.com/detail/20251209192122447800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "俄总统新闻秘书：目前没有普京与特朗普新年前会晤的消息",
           "url": "https://wallstreetcn.com/livenews/3017247",
           "source": "华尔街见闻-快讯",
@@ -680,12 +791,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
+        },
+        {
+          "title": "据Politico：美国总统特朗普可能调整关税以降低部分商品价格。",
+          "url": "https://flash.jin10.com/detail/20251209191746757800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         }
       ]
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "如何看待各大 App 禁止豆包手机登陆，AI 手机会是「兵家必争之地」吗？",
@@ -728,8 +850,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时44分 ~ 19时12分]"
+          "appearance_count": 13,
+          "time_info": "[10时44分 ~ 20时24分]"
+        },
+        {
+          "title": "聚焦“AI+” 看各地“十五五”规划“+”什么？",
+          "url": "https://www.cls.cn/detail/2223769",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时15分 ~ 20时24分]"
         },
         {
           "title": "任正非最新讲话谈及 AI，称别盯着「发明」要盯着「应用」，算力过剩的时代一定会到来，如何理解这些观点？",
@@ -747,20 +883,6 @@
           "time_info": "[08时56分 ~ 15时16分]"
         },
         {
-          "title": "聚焦“AI+” 看各地“十五五”规划“+”什么？",
-          "url": "https://www.cls.cn/detail/2223769",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时15分 ~ 19时12分]"
-        },
-        {
           "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32130774",
           "source": "澎湃新闻",
@@ -772,8 +894,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时13分 ~ 19时12分]"
+          "appearance_count": 10,
+          "time_info": "[13时13分 ~ 20时24分]"
         },
         {
           "title": "仅仅成立两个月 这家AI计算机初创公司估值高达45亿美元",
@@ -797,11 +919,12 @@
             19,
             18,
             16,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时15分 ~ 19时12分]"
+          "appearance_count": 7,
+          "time_info": "[15时15分 ~ 20时24分]"
         },
         {
           "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
@@ -813,8 +936,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时19分 ~ 19时12分]"
+          "appearance_count": 5,
+          "time_info": "[16时19分 ~ 20时24分]"
         },
         {
           "title": "群核科技发布Aholo空间智能开放平台，CEO陈航：AI只会让设计师能做的事越来越多",
@@ -823,21 +946,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
-        },
-        {
-          "title": "努比亚总裁：AI手机发展势不可逆；抖音集团李亮：AI一定是未来",
-          "url": "https://wallstreetcn.com/livenews/3017390",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 14时26分]"
         },
         {
           "title": "NMIXX翻唱UP主AI版大东北",
@@ -850,8 +961,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时19分 ~ 19时12分]"
+          "appearance_count": 5,
+          "time_info": "[16时19分 ~ 20时24分]"
+        },
+        {
+          "title": "努比亚总裁：AI手机发展势不可逆；抖音集团李亮：AI一定是未来",
+          "url": "https://wallstreetcn.com/livenews/3017390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 14时26分]"
         },
         {
           "title": "美国食品药品监督管理局（FDA）：已批准首个基于人工智能的药物开发工具——基于人工智能的非酒精性脂肪性肝炎组织学测量工具（AIM-NASH）。",
@@ -932,7 +1055,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -943,7 +1066,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -965,7 +1088,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -979,6 +1102,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
+        },
+        {
+          "title": "如何看待英伟达 H200 芯片获准对华出售，对国内 AI 产业发展会带来哪些直接影响？",
+          "url": "https://www.zhihu.com/question/1981675433712976771",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         }
       ]
     },
@@ -1167,7 +1301,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -1252,7 +1386,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
@@ -1344,6 +1478,18 @@
           "time_info": "[06时12分 ~ 07时12分]"
         },
         {
+          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
+          "url": "https://wallstreetcn.com/articles/3760956",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时15分 ~ 20时24分]"
+        },
+        {
           "title": "据了解沟通情况的机构买家们透露，谷歌公司将于2026年在Gemini提供广告服务。（ADWeek）",
           "url": "https://wallstreetcn.com/livenews/3017098",
           "source": "华尔街见闻-快讯",
@@ -1355,18 +1501,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时19分 ~ 04时14分]"
-        },
-        {
-          "title": "首款搭载Gemini的AI眼镜！谷歌携手中国企业XREAL，计划明年推出",
-          "url": "https://wallstreetcn.com/articles/3760956",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 19时12分]"
         },
         {
           "title": "Warby Parker与谷歌将于2026年推出AI智能眼镜",
@@ -1434,6 +1568,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时16分"
+        },
+        {
+          "title": "欧盟委员会已向美国官员通报谷歌反垄断调查事宜。",
+          "url": "https://flash.jin10.com/detail/20251209193235925800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "外媒：谷歌计划于2026年在Gemini平台上推出广告",
@@ -1509,6 +1654,21 @@
           "time_info": "[01时13分 ~ 08时56分]"
         },
         {
+          "title": "如何看待梁文锋、杜梦然入选《自然》年度十大人物，是中国科研环境变化的缩影吗？",
+          "url": "https://www.zhihu.com/question/1981658527434053567",
+          "source": "知乎",
+          "ranks": [
+            16,
+            12,
+            6,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时25分 ~ 20时24分]"
+        },
+        {
           "title": "梁文锋入选《自然》年度十大科学人物",
           "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E5%85%A5%E9%80%89%E3%80%8A%E8%87%AA%E7%84%B6%E3%80%8B%E5%B9%B4%E5%BA%A6%E5%8D%81%E5%A4%A7%E7%A7%91%E5%AD%A6%E4%BA%BA%E7%89%A9",
           "source": "百度热搜",
@@ -1521,20 +1681,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时13分 ~ 07时12分]"
-        },
-        {
-          "title": "如何看待梁文锋、杜梦然入选《自然》年度十大人物，是中国科研环境变化的缩影吗？",
-          "url": "https://www.zhihu.com/question/1981658527434053567",
-          "source": "知乎",
-          "ranks": [
-            16,
-            12,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时25分 ~ 19时12分]"
         }
       ]
     },
@@ -1593,8 +1739,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时56分 ~ 19时12分]"
+          "appearance_count": 14,
+          "time_info": "[08时56分 ~ 20时24分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
