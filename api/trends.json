@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T22:15:52.799300+08:00",
-  "total_titles_processed": 2048,
+  "generated_at": "2025-12-10T23:16:03.831302+08:00",
+  "total_titles_processed": 2128,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 81,
+      "match_count": 83,
       "titles": [
         {
           "title": "特朗普现在很焦虑",
@@ -168,6 +168,17 @@
           "time_info": "[16时18分 ~ 19时12分]"
         },
         {
+          "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
+          "url": "https://news.ifeng.com/c/8oyaoHd0S2N",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时24分 ~ 23时16分]"
+        },
+        {
           "title": "特朗普政府宣布终止拜登时代的学生贷款偿还计划",
           "url": "https://flash.jin10.com/detail/20251210070402355800",
           "source": "金十数据",
@@ -258,6 +269,19 @@
           "time_info": "[19时12分 ~ 22时15分]"
         },
         {
+          "title": "特朗普夸白宫发言人漂亮",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%B8%E7%99%BD%E5%AE%AB%E5%8F%91%E8%A8%80%E4%BA%BA%E6%BC%82%E4%BA%AE",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            28,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时31分 ~ 23时16分]"
+        },
+        {
           "title": "泽连斯基回应特朗普：乌方愿举行选举",
           "url": "https://news.ifeng.com/c/8oxFNJttZN2",
           "source": "凤凰网",
@@ -328,17 +352,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时32分 ~ 22时15分]"
-        },
-        {
-          "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
-          "url": "https://news.ifeng.com/c/8oyaoHd0S2N",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时24分 ~ 22时15分]"
         },
         {
           "title": "德国总理默茨：我下次见到美国总统特朗普时，会告诉他，我们在移民政策上取得了成功。",
@@ -424,18 +437,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[20时24分 ~ 21时32分]"
-        },
-        {
-          "title": "特朗普夸白宫发言人漂亮",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%B8%E7%99%BD%E5%AE%AB%E5%8F%91%E8%A8%80%E4%BA%BA%E6%BC%82%E4%BA%AE",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时31分 ~ 22时15分]"
         },
         {
           "title": "特朗普继续数落欧洲，默茨：要做好“欧美不同行”的准备",
@@ -611,6 +612,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "特朗普政府批准再将6个州排除在补充营养协助计划（SNAP）之外。",
+          "url": "https://flash.jin10.com/detail/20251210225946205800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "瑞士选举帕尔梅兰为2026年总统 将主持达沃斯论坛再迎特朗普",
           "url": "https://flash.jin10.com/detail/20251210193900379800",
           "source": "金十数据",
@@ -765,6 +777,17 @@
           "time_info": "09时06分"
         },
         {
+          "title": "墨西哥总统辛鲍姆：自美国总统特朗普今年1月上任以来，已有约15.26万名移民被遣返回墨西哥。",
+          "url": "https://flash.jin10.com/detail/20251210224822561800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "英媒：特朗普“施压”泽连斯基几日内回应和平提议 盼圣诞前达成协议",
           "url": "https://flash.jin10.com/detail/20251210022230589800",
           "source": "金十数据",
@@ -793,7 +816,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -955,7 +978,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
@@ -968,6 +991,23 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时16分 ~ 11时52分]"
+        },
+        {
+          "title": "罗永浩闫俊杰谈中美AI发展差异",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%97%AB%E4%BF%8A%E6%9D%B0%E8%B0%88%E4%B8%AD%E7%BE%8EAI%E5%8F%91%E5%B1%95%E5%B7%AE%E5%BC%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            21,
+            11,
+            22,
+            12,
+            29,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时18分 ~ 23时16分]"
         },
         {
           "title": "AI手机挑战大厂生态，谁会打赢这场“护城河”攻防战？",
@@ -1025,20 +1065,16 @@
           "time_info": "[15时16分 ~ 21时32分]"
         },
         {
-          "title": "罗永浩闫俊杰谈中美AI发展差异",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%97%AB%E4%BF%8A%E6%9D%B0%E8%B0%88%E4%B8%AD%E7%BE%8EAI%E5%8F%91%E5%B1%95%E5%B7%AE%E5%BC%82",
-          "source": "bilibili 热搜",
+          "title": "如何评价 AI 科技自媒体「十字路口」对原神前主创的采访文章?",
+          "url": "https://www.zhihu.com/question/1981848905307137705",
+          "source": "知乎",
           "ranks": [
-            3,
-            21,
-            11,
-            22,
-            12,
-            29
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时18分 ~ 22时15分]"
+          "appearance_count": 5,
+          "time_info": "[21时31分 ~ 23时16分]"
         },
         {
           "title": "【明日主题前瞻】一天一个价，存储芯片或迎以AI驱动的新一轮景气周期",
@@ -1054,28 +1090,6 @@
           "time_info": "[01时13分 ~ 06时47分]"
         },
         {
-          "title": "如何评价 AI 科技自媒体「十字路口」对原神前主创的采访文章?",
-          "url": "https://www.zhihu.com/question/1981848905307137705",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时31分 ~ 22时15分]"
-        },
-        {
-          "title": "知情人士称，Meta公司使用阿里巴巴的通义大模型对新AI模型进行了微调。 阿里巴巴(BABA.N)盘前涨逾4%，Meta Platforms(META.O)跌超1%。",
-          "url": "https://flash.jin10.com/detail/20251210220349529800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
           "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
           "url": "https://www.cls.cn/detail/2225488",
           "source": "财联社热门",
@@ -1085,17 +1099,17 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时24分 ~ 22时15分]"
+          "appearance_count": 6,
+          "time_info": "[20时24分 ~ 23时16分]"
         },
         {
-          "title": "报道：Meta使用了阿里巴巴通义千问QWEN来优化其新的AI模型",
-          "url": "https://wallstreetcn.com/livenews/3018493",
-          "source": "华尔街见闻-快讯",
+          "title": "知情人士称，Meta公司使用阿里巴巴的通义大模型对新AI模型进行了微调。 阿里巴巴(BABA.N)盘前涨逾4%，Meta Platforms(META.O)跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251210220349529800",
+          "source": "金十数据",
           "ranks": [
-            5
+            2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -1149,6 +1163,18 @@
           "time_info": "[00时16分 ~ 01时14分]"
         },
         {
+          "title": "报道：Meta使用了阿里巴巴通义千问QWEN来优化其新的AI模型",
+          "url": "https://wallstreetcn.com/livenews/3018493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 23时16分]"
+        },
+        {
           "title": "马克斯：AI技术的需求增长“完全不可预测”，投资者目前的行为是“投机性”的",
           "url": "https://wallstreetcn.com/livenews/3017846",
           "source": "华尔街见闻-快讯",
@@ -1173,6 +1199,17 @@
           "time_info": "[00时16分 ~ 01时14分]"
         },
         {
+          "title": "我国AI产业规模突破9000亿元",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BDAI%E4%BA%A7%E4%B8%9A%E8%A7%84%E6%A8%A1%E7%AA%81%E7%A0%B49000%E4%BA%BF%E5%85%83%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时15分 ~ 23时16分]"
+        },
+        {
           "title": "导演陆川：将与MiniMax联合开发AI漫剧项目，合作落地院线电影和剧集",
           "url": "https://wallstreetcn.com/livenews/3018434",
           "source": "华尔街见闻-快讯",
@@ -1183,6 +1220,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时24分 ~ 21时32分]"
+        },
+        {
+          "title": "报道：META使用了阿里巴巴的通义千问（QWEN）来优化其新的AI模型",
+          "url": "https://wallstreetcn.com/articles/3761127",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时15分 ~ 23时16分]"
         },
         {
           "title": "夸克AI眼镜“一镜难求”，二手溢价飙到5000元",
@@ -1255,6 +1303,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "GE Vernova上涨11%，创盘中历史新高，人工智能（AI）繁荣刺激该公司将派息力度翻倍、扩大股票回购规模。",
+          "url": "https://wallstreetcn.com/livenews/3018509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
+        },
+        {
           "title": "限量发售的豆包AI手机被追捧，二手价最高3.6万元",
           "url": "https://wallstreetcn.com/livenews/3018230",
           "source": "华尔街见闻-快讯",
@@ -1313,7 +1372,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
@@ -1372,7 +1431,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -1402,6 +1461,18 @@
           "time_info": "[04时17分 ~ 05时11分]"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3018491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时15分 ~ 23时16分]"
+        },
+        {
           "title": "周二（12月9日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨2.12%，报92915美元。 CME以太币期货DCR主力合约涨5.97%，报3330.50美元。 美股加密货币与加密货币关联指数涨3.59%，报72.92点，美股开盘后至北京时间01:00持续走高，之后高位震荡。 最近24小时，MarketVector数字资产100小盘指数涨1.28%，暂报4209.80点。",
           "url": "https://wallstreetcn.com/livenews/3017904",
           "source": "华尔街见闻-快讯",
@@ -1426,24 +1497,13 @@
           "time_info": "[06时47分 ~ 07时12分]"
         },
         {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3018491",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
           "title": "金十数据整理：每日美股市场要闻速递（2025-12-10）",
           "url": "https://flash.jin10.com/detail/20251210214414427800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时15分"
         },
@@ -1457,6 +1517,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "全球航空业ETF美股盘初涨0.36%，与可选消费ETF领跑行业ETF，网络股指数ETF跌0.16%，半导体ETF跌0.28%，科技行业ETF跌0.44%，全球科技股指数ETF跌0.56%。",
+          "url": "https://wallstreetcn.com/livenews/3018507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "光掩模供应商Photronics美股盘前大涨15%，公司第一季度营收预期超出预期。",
@@ -1479,6 +1550,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
+        },
+        {
+          "title": "阿里巴巴美股盘前涨超4%，百度涨2.2%；Meta Platforms盘前跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3018495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "周二（12月9日），美股行业ETF涨跌各异，能源业ETF收涨0.62%，网络股指数ETF、科技行业ETF、全球科技股指数ETF至多涨0.32%，半导体ETF涨0.12%。 金融业ETF则收跌0.37%，生物科技指数ETF跌1.68%。",
@@ -1737,8 +1819,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时06分 ~ 22时15分]"
+          "appearance_count": 19,
+          "time_info": "[09时06分 ~ 23时16分]"
         },
         {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
