@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T11:01:03.674949+08:00",
-  "total_titles_processed": 1022,
+  "generated_at": "2025-12-10T11:52:35.147018+08:00",
+  "total_titles_processed": 1111,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -44,8 +44,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 11时01分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 11时52分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -96,8 +96,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时06分 ~ 11时01分]"
+          "appearance_count": 4,
+          "time_info": "[09时06分 ~ 11时52分]"
         },
         {
           "title": "泰柬冲突再起或惹恼特朗普？泰国首相强硬回应",
@@ -454,7 +454,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
         },
@@ -465,9 +465,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
+        },
+        {
+          "title": "79岁特朗普回应年龄质疑 称认知能力测试“全优”通过",
+          "url": "https://flash.jin10.com/detail/20251210111006441800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
         },
         {
           "title": "市场消息：美国总统特朗普关于食品供应链的行政令已在《联邦公报》上发布。",
@@ -589,6 +600,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
+        },
+        {
+          "title": "美国企业界对特朗普执政表现评价不高",
+          "url": "https://www.toutiao.com/trending/7581666417361092614/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
         }
       ]
     },
@@ -632,8 +654,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时47分 ~ 11时01分]"
+          "appearance_count": 6,
+          "time_info": "[06时47分 ~ 11时52分]"
         },
         {
           "title": "金十图示：2025年12月09日（周二）热门中概股行情一览（美股收盘）",
@@ -787,8 +809,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 11时01分]"
+          "appearance_count": 14,
+          "time_info": "[00时16分 ~ 11时52分]"
         },
         {
           "title": "NMIXX翻唱UP主AI版大东北",
@@ -854,6 +876,18 @@
           "time_info": "[00时16分 ~ 01时14分]"
         },
         {
+          "title": "智谱开源“会操作手机的AI”",
+          "url": "https://www.douyin.com/hot/2331460",
+          "source": "抖音",
+          "ranks": [
+            14,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时00分 ~ 11时52分]"
+        },
+        {
           "title": "马克斯：AI技术的需求增长“完全不可预测”，投资者目前的行为是“投机性”的",
           "url": "https://wallstreetcn.com/livenews/3017846",
           "source": "华尔街见闻-快讯",
@@ -876,17 +910,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时16分 ~ 01时14分]"
-        },
-        {
-          "title": "智谱开源“会操作手机的AI”",
-          "url": "https://www.douyin.com/hot/2331460",
-          "source": "抖音",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时00分 ~ 11时01分]"
         },
         {
           "title": "霍华德·马克斯：AI对就业的影响“是可怕的”，质疑债务成本",
@@ -1023,8 +1046,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时06分 ~ 11时01分]"
+          "appearance_count": 4,
+          "time_info": "[09时06分 ~ 11时52分]"
         },
         {
           "title": "美债价格在美国职位空缺数据发布后显著下挫",
@@ -1066,6 +1089,17 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
+          "url": "https://wallstreetcn.com/articles/3760995",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时06分 ~ 11时52分]"
+        },
+        {
           "title": "美国国防部表示，已选择谷歌(GOOG.O)公司的Gemini for Government系统，为其约300万文职和军事雇员提供人工智能服务。",
           "url": "https://flash.jin10.com/detail/20251210063207113800",
           "source": "金十数据",
@@ -1089,17 +1123,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时10分 ~ 05时11分]"
-        },
-        {
-          "title": "Gemini 3赢了下载却输了习惯？ChatGPT仍垄断90%移动端会话，日均打开超8次",
-          "url": "https://wallstreetcn.com/articles/3760995",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时06分 ~ 11时01分]"
         },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
@@ -1133,6 +1156,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时16分 ~ 06时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月10日（周三）上海金早盘价为953.31元/克，较国际金价(956.52元/克)，低3.21元/克",
+          "url": "https://flash.jin10.com/detail/20251210111107526800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
         }
       ]
     },
