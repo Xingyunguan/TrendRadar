@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T09:06:46.840880+08:00",
-  "total_titles_processed": 884,
+  "generated_at": "2025-12-10T11:01:03.674949+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 50,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -44,8 +44,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 09时06分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 11时01分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -89,6 +89,17 @@
           "time_info": "[01时13分 ~ 07时12分]"
         },
         {
+          "title": "特朗普现在很焦虑",
+          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时06分 ~ 11时01分]"
+        },
+        {
           "title": "泰柬冲突再起或惹恼特朗普？泰国首相强硬回应",
           "url": "https://news.ifeng.com/c/8ox4f6sWwBR",
           "source": "凤凰网",
@@ -117,28 +128,6 @@
           "time_info": "[00时16分 ~ 07时12分]"
         },
         {
-          "title": "特朗普现在很焦虑",
-          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时06分"
-        },
-        {
-          "title": "特朗普：泽连斯基要开始接受现实了",
-          "url": "https://www.toutiao.com/trending/7581295755181424686/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时06分"
-        },
-        {
           "title": "特朗普政府宣布终止拜登时代的学生贷款偿还计划",
           "url": "https://flash.jin10.com/detail/20251210070402355800",
           "source": "金十数据",
@@ -156,7 +145,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
         },
@@ -178,7 +167,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
         },
@@ -189,7 +178,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
         },
@@ -215,6 +204,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时13分 ~ 03时10分]"
+        },
+        {
+          "title": "特朗普：泽连斯基要开始接受现实了",
+          "url": "https://www.toutiao.com/trending/7581295755181424686/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时06分 ~ 11时00分]"
         },
         {
           "title": "据消息人士透露，特朗普计划任命国土安全部副部长担任美国驻萨尔瓦多大使，这将是国土安全部领导层结构的一次重大调整。",
@@ -326,6 +327,17 @@
           "time_info": "[02时16分 ~ 03时10分]"
         },
         {
+          "title": "特朗普：北约叫我爸爸",
+          "url": "https://www.toutiao.com/trending/7581363071462408202/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时00分"
+        },
+        {
           "title": "泽连斯基回应特朗普：已准备好举行选举",
           "url": "https://news.ifeng.com/c/8oxUGggjWaR",
           "source": "凤凰网",
@@ -354,7 +366,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
         },
@@ -387,7 +399,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
         },
@@ -398,7 +410,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
         },
@@ -420,7 +432,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
         },
@@ -431,9 +443,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        },
+        {
+          "title": "选民质疑声不断 特朗普就关税政策辩称“聪明的人能懂”",
+          "url": "https://flash.jin10.com/detail/20251210095640613800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        },
+        {
+          "title": "美国总统特朗普：明天我将就泰国、柬埔寨事宜拨打电话。",
+          "url": "https://flash.jin10.com/detail/20251210094525762800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时01分"
         },
         {
           "title": "市场消息：美国总统特朗普关于食品供应链的行政令已在《联邦公报》上发布。",
@@ -453,7 +487,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
         },
@@ -475,7 +509,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
         },
@@ -588,6 +622,20 @@
           "time_info": "[01时13分 ~ 04时17分]"
         },
         {
+          "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
+          "url": "https://www.cls.cn/detail/2224722",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时47分 ~ 11时01分]"
+        },
+        {
           "title": "金十图示：2025年12月09日（周二）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251210050514464800",
           "source": "金十数据",
@@ -597,19 +645,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
-          "url": "https://www.cls.cn/detail/2224722",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时47分 ~ 09时06分]"
         },
         {
           "title": "美股费城银行指数转跌，此前一度上涨1.4%。",
@@ -741,7 +776,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
@@ -752,8 +787,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 09时06分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 11时01分]"
         },
         {
           "title": "NMIXX翻唱UP主AI版大东北",
@@ -841,6 +876,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时16分 ~ 01时14分]"
+        },
+        {
+          "title": "智谱开源“会操作手机的AI”",
+          "url": "https://www.douyin.com/hot/2331460",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时00分 ~ 11时01分]"
         },
         {
           "title": "霍华德·马克斯：AI对就业的影响“是可怕的”，质疑债务成本",
@@ -976,9 +1022,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时06分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时06分 ~ 11时01分]"
         },
         {
           "title": "美债价格在美国职位空缺数据发布后显著下挫",
@@ -1051,9 +1097,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时06分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时06分 ~ 11时01分]"
         },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
