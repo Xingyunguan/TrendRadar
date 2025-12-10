@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T19:12:31.938062+08:00",
-  "total_titles_processed": 1778,
+  "generated_at": "2025-12-10T20:24:56.861655+08:00",
+  "total_titles_processed": 1881,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 76,
       "titles": [
         {
           "title": "特朗普现在很焦虑",
@@ -56,8 +56,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时16分 ~ 19时12分]"
+          "appearance_count": 24,
+          "time_info": "[00时16分 ~ 20时24分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -101,6 +101,21 @@
           "time_info": "[01时13分 ~ 07时12分]"
         },
         {
+          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
+          "url": "https://www.cls.cn/detail/2225037",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时18分 ~ 20时24分]"
+        },
+        {
           "title": "特朗普：泰柬又打起来了，我得打个电话",
           "url": "https://news.ifeng.com/c/8oyCMciyCox",
           "source": "凤凰网",
@@ -124,20 +139,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时16分 ~ 09时06分]"
-        },
-        {
-          "title": "特朗普俄乌“和平计划”失败？泽连斯基强硬表态：不会放弃任何领土",
-          "url": "https://www.cls.cn/detail/2225037",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时18分 ~ 19时12分]"
         },
         {
           "title": "采访中特朗普突然发飙怒斥记者",
@@ -195,7 +196,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -424,6 +425,18 @@
           "time_info": "[06时47分 ~ 07时12分]"
         },
         {
+          "title": "特朗普继续数落欧洲 德总理：要做好“欧美不同行”的准备",
+          "url": "https://wallstreetcn.com/livenews/3018408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 20时24分]"
+        },
+        {
           "title": "特朗普政府：维持大豆库存等预期不变",
           "url": "https://wallstreetcn.com/livenews/3017823",
           "source": "华尔街见闻-快讯",
@@ -434,6 +447,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时16分 ~ 03时10分]"
+        },
+        {
+          "title": "特朗普：泽连斯基是顶级推销员，他什么都能卖",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144595",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 20时24分]"
         },
         {
           "title": "特朗普抱怨为什么收垃圾国家移民",
@@ -513,6 +538,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
+          "url": "https://news.ifeng.com/c/8oyaoHd0S2N",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "瑞士选举帕尔梅兰为2026年总统 将主持达沃斯论坛再迎特朗普",
+          "url": "https://flash.jin10.com/detail/20251210193900379800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "美国贸易办公室（USTR）代表格里尔在参议院听证会谈及墨西哥和加拿大对USMCA问题的反应，表示：加拿大并没有在那些（美国总统特朗普）重视的领域遵守承诺。 正与墨西哥密切合作，他们是“讲求实际的”。 预计2026年1月份，美墨加将为了修订USMCA而坐下来（讨论）。",
@@ -614,17 +661,6 @@
           "time_info": "11时01分"
         },
         {
-          "title": "特朗普继续数落欧洲 德总理：要做好“欧美不同行”的准备",
-          "url": "https://wallstreetcn.com/livenews/3018408",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
-        },
-        {
           "title": "美国总统特朗普：明天我将就泰国、柬埔寨事宜拨打电话。",
           "url": "https://flash.jin10.com/detail/20251210094525762800",
           "source": "金十数据",
@@ -689,17 +725,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
-        },
-        {
-          "title": "特朗普：泽连斯基是顶级推销员，他什么都能卖",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144595",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
         },
         {
           "title": "美国总统特朗普：我们现在的重点必须放在赢得中期选举上。",
@@ -768,6 +793,17 @@
           "time_info": "00时16分"
         },
         {
+          "title": "特朗普演讲中低俗调侃议员老婆",
+          "url": "https://www.toutiao.com/trending/7581732466420973574/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "据福克斯新闻：以为知情人士透露，美国总统特朗普尚未与司法部反垄断部门会面，就派拉蒙天舞、奈飞(NFLX.O)和华纳兄弟探索公司(WBD.O)之间的交易问题表达其意见。",
           "url": "https://flash.jin10.com/detail/20251210020446643800",
           "source": "金十数据",
@@ -790,6 +826,17 @@
           "time_info": "00时16分"
         },
         {
+          "title": "消息人士：随着美国总统特朗普调整打击犯罪的重点，税务诉讼大幅下降；美国联邦法院的诉讼记录显示，今年有160名司法部律师参与了税务诉讼，而去年是420名。",
+          "url": "https://flash.jin10.com/detail/20251210190245650800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "周二（12月9日），降息赢家指数跌0.37%，报97.42点。 “特朗普关税输家”指数涨0.38%，散户抱团概念股指数/迷因股（meme stock）指数涨0.83%。",
           "url": "https://wallstreetcn.com/livenews/3017890",
           "source": "华尔街见闻-快讯",
@@ -799,6 +846,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
+        },
+        {
+          "title": "路透社/益普索民意调查发现，近一半的美国人反对特朗普政府在加勒比海和东太平洋对船只进行致命袭击，只有三分之一的人支持。",
+          "url": "https://flash.jin10.com/detail/20251210190210044800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "消息人士：由于特朗普政府削减了律师和代理人的人数，联邦税务起诉比2024年减少了27%以上。",
+          "url": "https://flash.jin10.com/detail/20251210190156712800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "特朗普谈泰柬冲突：我得打个电话",
@@ -826,7 +895,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "掀桌！豆包被“围攻”后，智谱把手机Agent开源，让人人皆可打造AI手机",
@@ -881,6 +950,20 @@
           "time_info": "[00时16分 ~ 09时06分]"
         },
         {
+          "title": "摩尔线程联创李丰曾推出「马勒戈币（MGD）」，后更名为「羊驼币」，他是怎么从币圈辗转到 AI 圈的？",
+          "url": "https://www.zhihu.com/question/1981300590727356751",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时16分 ~ 20时24分]"
+        },
+        {
           "title": "【明日主题前瞻】一天一个价，存储芯片或迎以AI驱动的新一轮景气周期",
           "url": "https://www.cls.cn/detail/2224154",
           "source": "财联社热门",
@@ -894,31 +977,18 @@
           "time_info": "[01时13分 ~ 06时47分]"
         },
         {
-          "title": "摩尔线程联创李丰曾推出「马勒戈币（MGD）」，后更名为「羊驼币」，他是怎么从币圈辗转到 AI 圈的？",
-          "url": "https://www.zhihu.com/question/1981300590727356751",
-          "source": "知乎",
-          "ranks": [
-            8,
-            5,
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时16分 ~ 19时12分]"
-        },
-        {
           "title": "罗永浩闫俊杰谈中美AI发展差异",
           "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%97%AB%E4%BF%8A%E6%9D%B0%E8%B0%88%E4%B8%AD%E7%BE%8EAI%E5%8F%91%E5%B1%95%E5%B7%AE%E5%BC%82",
           "source": "bilibili 热搜",
           "ranks": [
             3,
             21,
-            11
+            11,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时18分 ~ 19时12分]"
+          "appearance_count": 5,
+          "time_info": "[16时18分 ~ 20时24分]"
         },
         {
           "title": "美团AI转向，前字节视觉模型AI平台负责人潘欣加入",
@@ -994,6 +1064,18 @@
           "time_info": "[00时16分 ~ 01时14分]"
         },
         {
+          "title": "夸克AI眼镜“一镜难求”，二手溢价飙到5000元",
+          "url": "https://wallstreetcn.com/livenews/3018412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 20时24分]"
+        },
+        {
           "title": "霍华德·马克斯：AI对就业的影响“是可怕的”，质疑债务成本",
           "url": "https://wallstreetcn.com/livenews/3017838",
           "source": "华尔街见闻-快讯",
@@ -1029,15 +1111,26 @@
           "time_info": "07时12分"
         },
         {
-          "title": "夸克AI眼镜“一镜难求”，二手溢价飙到5000元",
-          "url": "https://wallstreetcn.com/livenews/3018412",
-          "source": "华尔街见闻-快讯",
+          "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
+          "url": "https://www.cls.cn/detail/2225488",
+          "source": "财联社热门",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时12分"
+          "time_info": "20时24分"
+        },
+        {
+          "title": "导演陆川：将与MiniMax联合开发AI漫剧项目，合作落地院线电影和剧集",
+          "url": "https://wallstreetcn.com/livenews/3018434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "限量发售的豆包AI手机被追捧，二手价最高3.6万元",
@@ -1057,7 +1150,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -1344,6 +1437,78 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
+          "url": "https://wallstreetcn.com/articles/3760999",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[09时06分 ~ 20时24分]"
+        },
+        {
+          "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
+          "url": "https://wallstreetcn.com/articles/3760903",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时12分]"
+        },
+        {
+          "title": "美债价格在美国职位空缺数据发布后显著下挫",
+          "url": "https://wallstreetcn.com/livenews/3017876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时11分"
+        },
+        {
+          "title": "美利率决议前市场谨慎，美股指集体低开，美债收益率高位回落，美元企稳，现货黄金重新站上4200美元",
+          "url": "https://wallstreetcn.com/articles/3760999",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "十年期美债收益率升至三月高点 分析师称美联储决议后升幅有限",
+          "url": "https://flash.jin10.com/detail/20251210194057228800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
+          "title": "美国10年期国债收益率短线从4.15%反弹至4.18%上方，在北京时间23:00发布美国职位空缺数据后刷新日高。 两年期美债收益率也从日低3.5628%附近拉升至3.6064%，刷新日高；“影子美联储主席”、白宫顾问哈塞特谈论美联储降息问题、自己对特朗普政策利率态度的看法并未带来“丝毫”波动。",
+          "url": "https://wallstreetcn.com/livenews/3017796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 5,
       "titles": [
@@ -1404,70 +1569,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
-          "url": "https://wallstreetcn.com/articles/3760999",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时06分 ~ 19时12分]"
-        },
-        {
-          "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
-          "url": "https://wallstreetcn.com/articles/3760903",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时16分 ~ 07时12分]"
-        },
-        {
-          "title": "美债价格在美国职位空缺数据发布后显著下挫",
-          "url": "https://wallstreetcn.com/livenews/3017876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "美利率决议前市场谨慎，美股指集体低开，美债收益率高位回落，美元企稳，现货黄金重新站上4200美元",
-          "url": "https://wallstreetcn.com/articles/3760999",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "美国10年期国债收益率短线从4.15%反弹至4.18%上方，在北京时间23:00发布美国职位空缺数据后刷新日高。 两年期美债收益率也从日低3.5628%附近拉升至3.6064%，刷新日高；“影子美联储主席”、白宫顾问哈塞特谈论美联储降息问题、自己对特朗普政策利率态度的看法并未带来“丝毫”波动。",
-          "url": "https://wallstreetcn.com/livenews/3017796",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时14分"
         }
       ]
     },
@@ -1522,7 +1626,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -1533,7 +1637,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -1544,7 +1648,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         }
