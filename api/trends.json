@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T14:21:01.321384+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2025-12-11T15:18:20.483106+08:00",
+  "total_titles_processed": 1444,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "高市早苗求见特朗普",
@@ -21,6 +21,18 @@
           "time_info": "[04时14分 ~ 10时51分]"
         },
         {
+          "title": "特朗普威胁哥伦比亚总统：马杜罗之后，就是你",
+          "url": "https://news.ifeng.com/c/8ozeTrd98oe",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时54分 ~ 15时18分]"
+        },
+        {
           "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
           "url": "https://news.ifeng.com/c/8oyaoHd0S2N",
           "source": "凤凰网",
@@ -33,29 +45,18 @@
           "time_info": "[00时18分 ~ 08时58分]"
         },
         {
-          "title": "特朗普威胁哥伦比亚总统：马杜罗之后，就是你",
-          "url": "https://news.ifeng.com/c/8ozeTrd98oe",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时54分 ~ 14时21分]"
-        },
-        {
           "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
           "url": "https://www.cls.cn/detail/2225986",
           "source": "财联社热门",
           "ranks": [
             11,
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时58分 ~ 14时21分]"
+          "appearance_count": 8,
+          "time_info": "[08时58分 ~ 15时18分]"
         },
         {
           "title": "美国总统特朗普：墨西哥的水资源和污水问题是“对得克萨斯州、加利福尼亚州及美国的真正威胁”。",
@@ -379,7 +380,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -415,6 +416,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "美威胁国际刑事法院：不要调查特朗普",
+          "url": "https://www.toutiao.com/trending/7582367829178269750/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "高市早苗求见特朗普",
@@ -541,7 +553,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "Meta转向！扎克伯格亲自挂帅，引入阿里Qwen训练，从开源走向盈利型闭源AI",
@@ -556,8 +568,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时18分 ~ 14时21分]"
+          "appearance_count": 18,
+          "time_info": "[00时18分 ~ 15时18分]"
         },
         {
           "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
@@ -572,6 +584,17 @@
           "time_info": "[00时18分 ~ 07时11分]"
         },
         {
+          "title": "网警：男子AI生成车展低俗视频被拘",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%EF%BC%9A%E7%94%B7%E5%AD%90AI%E7%94%9F%E6%88%90%E8%BD%A6%E5%B1%95%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时58分 ~ 15时18分]"
+        },
+        {
           "title": "网警查处一起AI生成虚假低俗视频案",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E6%9F%A5%E5%A4%84%E4%B8%80%E8%B5%B7AI%E7%94%9F%E6%88%90%E8%99%9A%E5%81%87%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E6%A1%88%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -583,17 +606,6 @@
           "time_info": "[08时58分 ~ 12时28分]"
         },
         {
-          "title": "网警：男子AI生成车展低俗视频被拘",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%EF%BC%9A%E7%94%B7%E5%AD%90AI%E7%94%9F%E6%88%90%E8%BD%A6%E5%B1%95%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时58分 ~ 14时21分]"
-        },
-        {
           "title": "甲骨文股价暴跌超10%！订单积压越来越多 “烧钱”砸AI风险令人担忧",
           "url": "https://www.cls.cn/detail/2225983",
           "source": "财联社热门",
@@ -603,8 +615,30 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时58分 ~ 15时18分]"
+        },
+        {
+          "title": "男子AI生成车展低俗视频被拘",
+          "url": "https://www.douyin.com/hot/2333057",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[08时58分 ~ 14时21分]"
+          "time_info": "[10时51分 ~ 15时18分]"
+        },
+        {
+          "title": "男子AI生成车展低俗视频造谣被拘",
+          "url": "https://www.toutiao.com/trending/7582391057200074250/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时54分 ~ 15时18分]"
         },
         {
           "title": "男子AI生成车展虚假低俗视频被拘",
@@ -616,28 +650,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时51分 ~ 14时21分]"
-        },
-        {
-          "title": "男子AI生成车展低俗视频被拘",
-          "url": "https://www.douyin.com/hot/2333057",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时51分 ~ 14时21分]"
-        },
-        {
-          "title": "男子AI生成车展低俗视频造谣被拘",
-          "url": "https://www.toutiao.com/trending/7582391057200074250/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时54分 ~ 14时21分]"
         },
         {
           "title": "罗永浩闫俊杰谈中美AI发展差异",
@@ -667,6 +679,17 @@
           "time_info": "[12时28分 ~ 13时16分]"
         },
         {
+          "title": "我国AI产业规模突破9000亿元",
+          "url": "https://www.douyin.com/hot/2332984",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时20分 ~ 15时18分]"
+        },
+        {
           "title": "网警：男子AI生成车展低俗视频被拘",
           "url": "https://www.toutiao.com/trending/7582391057200074250/",
           "source": "今日头条",
@@ -688,17 +711,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时16分 ~ 14时21分]"
-        },
-        {
-          "title": "我国AI产业规模突破9000亿元",
-          "url": "https://www.douyin.com/hot/2332984",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时20分 ~ 14时21分]"
         },
         {
           "title": "华为、支付宝、中移互联网合作布局AI+5G新通话DC生态",
@@ -759,6 +771,17 @@
           "time_info": "08时58分"
         },
         {
+          "title": "Baird将Adobe目标价从425美元下调至410美元；将甲骨文目标价从315美元下调至300美元。",
+          "url": "https://wallstreetcn.com/livenews/3019009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "AIG涨4.3%，刷新日高，创4月份以来最大盘中涨幅。",
           "url": "https://wallstreetcn.com/livenews/3018650",
           "source": "华尔街见闻-快讯",
@@ -768,6 +791,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
+          "url": "https://www.zhihu.com/question/1982385153180394991",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
+          "title": "投行Baird：将甲骨文(ORCL.N)目标价从315美元下调至300美元。",
+          "url": "https://flash.jin10.com/detail/20251211144209926800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "鲍威尔：我认为，人工智能（AI）让使用它的人们具有更高的生产力。",
@@ -827,8 +872,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时58分 ~ 14时21分]"
+          "appearance_count": 8,
+          "time_info": "[08时58分 ~ 15时18分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -839,8 +884,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时11分 ~ 14时21分]"
+          "appearance_count": 9,
+          "time_info": "[07时11分 ~ 15时18分]"
         },
         {
           "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
@@ -1159,7 +1204,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价",
@@ -1176,6 +1221,17 @@
           "time_info": "[10时51分 ~ 13时16分]"
         },
         {
+          "title": "金十图示：2025年12月11日（周四）上海金午盘价为952.81元/克，较国际金价(956.07元/克)，低3.26元/克",
+          "url": "https://flash.jin10.com/detail/20251211150430758800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
+        },
+        {
           "title": "金十图示：2025年12月11日（周四）上海金早盘价为957.9元/克，较国际金价(960.44元/克)，低2.54元/克",
           "url": "https://flash.jin10.com/detail/20251211101756207800",
           "source": "金十数据",
@@ -1185,6 +1241,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
+        },
+        {
+          "title": "高盛预计4,900美元的金价预期有上调空间 ETF资金流入将是推动力",
+          "url": "https://wallstreetcn.com/livenews/3019003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时18分"
         },
         {
           "title": "市场反应：美联储决议声明发布后，美债、金价走高，道指涨幅扩大",
