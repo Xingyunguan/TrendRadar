@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T20:21:33.052662+08:00",
-  "total_titles_processed": 1265,
+  "generated_at": "2025-12-14T21:22:37.274317+08:00",
+  "total_titles_processed": 1323,
   "failed_sources": [],
   "trends": [
     {
@@ -218,9 +218,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时21分 ~ 21时22分]"
         },
         {
           "title": "美布朗大学枪击案已致2死8重伤，特朗普最新发声",
@@ -467,8 +467,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时13分 ~ 20时21分]"
+          "appearance_count": 11,
+          "time_info": "[13时13分 ~ 21时22分]"
         },
         {
           "title": "媒体：“声音被偷”？滥用AI要不得",
@@ -506,11 +506,12 @@
           "ranks": [
             3,
             9,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时12分 ~ 20时21分]"
+          "appearance_count": 4,
+          "time_info": "[18时12分 ~ 21时22分]"
         },
         {
           "title": "抖音推出“AI时代前沿学科共建计划”，百门名校公开课助推知识普惠",
@@ -577,7 +578,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时21分"
         }
@@ -706,6 +707,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时22分 ~ 13时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "10月净买入49吨！央行购金依然强劲，高盛：“代币化黄金”目前还非金价主力",
+          "url": "https://wallstreetcn.com/articles/3761367",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时22分"
         }
       ]
     }
