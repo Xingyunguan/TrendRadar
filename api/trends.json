@@ -1,8 +1,277 @@
 {
-  "generated_at": "2025-12-15T22:17:53.440252+08:00",
-  "total_titles_processed": 1812,
+  "generated_at": "2025-12-15T23:17:43.780230+08:00",
+  "total_titles_processed": 1915,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "特朗普",
+      "match_count": 21,
+      "titles": [
+        {
+          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时14分 ~ 07时11分]"
+        },
+        {
+          "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
+          "url": "https://wallstreetcn.com/articles/3761378",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[10时58分 ~ 23时17分]"
+        },
+        {
+          "title": "乌克兰放弃加入北约 特朗普特使称和平谈判取得“重大进展”",
+          "url": "https://www.cls.cn/detail/2229153",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时58分 ~ 16时20分]"
+        },
+        {
+          "title": "日媒：特朗普曾警告高市早苗“别来添乱”",
+          "url": "https://news.ifeng.com/c/8p6g6UaeUPY",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时23分 ~ 20时26分]"
+        },
+        {
+          "title": "连续表达“独立性”！哈塞特：若被选中领导美联储，特朗普可以提意见，但对美联储决策“毫无分量”",
+          "url": "https://wallstreetcn.com/articles/3761377",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[14时21分 ~ 23时17分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任凯文·哈塞特：如果沃什出任美联储主席，希望他能（在利率政策问题上）与总统特朗普对话。 即便（我）担任美联储主席，也乐意于与特朗普对话。 经济数据表明，美国CPI朝着美联储2%目标靠拢。 美联储的职责是保持独立。 我们不会有10月家庭（就业）调查。",
+          "url": "https://wallstreetcn.com/livenews/3020426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            3,
+            6,
+            9,
+            10,
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时10分 ~ 07时11分]"
+        },
+        {
+          "title": "美国总统特朗普：很快就会选择新的美联储主席。 新任美联储主席想要看到利率下降。 虽然（现在还是）是鲍威尔担任美联储主席，但利率正在下降。",
+          "url": "https://wallstreetcn.com/livenews/3020431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            3,
+            4,
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时10分 ~ 07时11分]"
+        },
+        {
+          "title": "日媒：特朗普曾警告高市早苗“别添乱”",
+          "url": "https://news.ifeng.com/c/8p6g6UaeUPY",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时35分 ~ 23时17分]"
+        },
+        {
+          "title": "美国总统特朗普：通胀“完全被抵消了”，你们不希望看到通缩。 从许多方面来看，通缩情况都比通胀更糟。",
+          "url": "https://wallstreetcn.com/livenews/3020430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            4,
+            5,
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时10分 ~ 07时11分]"
+        },
+        {
+          "title": "悉尼水果店老板徒手夺枪获特朗普称赞",
+          "url": "https://www.toutiao.com/trending/7583736813425066020/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时18分 ~ 15时18分]"
+        },
+        {
+          "title": "“影子美联储主席”哈塞特：特朗普可以向美联储提供建议，但无权设定其行动",
+          "url": "https://wallstreetcn.com/livenews/3020440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时11分 ~ 07时11分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：特朗普可以自由地就美联储政策发表意见。",
+          "url": "https://flash.jin10.com/detail/20251215202342606800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "日媒爆特朗普警告高市早苗别添乱",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E7%88%86%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%88%AB%E6%B7%BB%E4%B9%B1%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "拜登白送的无人机特朗普要收钱，台军：不要了",
+          "url": "https://news.ifeng.com/c/8p6WipSN2un",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时20分 ~ 20时26分]"
+        },
+        {
+          "title": "据AXIOS网站：乌克兰总统泽连斯基将在柏林会见美国中东问题特使威特科夫及特朗普女婿库什纳。之后他将分别会见来自法国、德国和英国的国家安全顾问。",
+          "url": "https://flash.jin10.com/detail/20251214211648647800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时14分 ~ 05时11分]"
+        },
+        {
+          "title": "曝特朗普曾警告高市早苗别来添乱",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E6%9B%BE%E8%AD%A6%E5%91%8A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%88%AB%E6%9D%A5%E6%B7%BB%E4%B9%B1",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            28,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时35分 ~ 23时17分]"
+        },
+        {
+          "title": "哈塞特谈接掌美联储：考虑特朗普意见 但坚持决策独立性",
+          "url": "https://flash.jin10.com/detail/20251215045241134800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 07时11分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-15）",
+          "url": "https://flash.jin10.com/detail/20251215180602946800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 19时13分]"
+        },
+        {
+          "title": "欧盟官员表示，美国中东问题特使威特科夫和及特朗普高级顾问库什纳通过视频会议向欧盟各国外交部长简要通报加沙局势。",
+          "url": "https://flash.jin10.com/detail/20251215174214172800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时17分"
+        },
+        {
+          "title": "特朗普指着台下女子说你好像伊万卡",
+          "url": "https://www.toutiao.com/trending/7583883670654681098/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
+          "title": "悉尼水果店老板徒手夺枪获特朗普称赞",
+          "url": "https://www.baidu.com/s?wd=%E6%82%89%E5%B0%BC%E6%B0%B4%E6%9E%9C%E5%BA%97%E8%80%81%E6%9D%BF%E5%BE%92%E6%89%8B%E5%A4%BA%E6%9E%AA%E8%8E%B7%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%B5%9E",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时23分"
+        }
+      ]
+    },
     {
       "keyword_group": "AI agent",
       "match_count": 20,
@@ -48,17 +317,6 @@
           "time_info": "[14时21分 ~ 19时13分]"
         },
         {
-          "title": "鹏鼎控股：2026年拟向泰国园区投资合计42.97亿元人民币用于建设泰国园区生产厂房及周边配套设施，并同步投资建设包括高阶HDI（含SLP）、HLC等产品产能，为快速成长的AI应用市场提供涵盖服务器、AI端侧产品、低轨卫星等多领域的全方位PCB解决方案。",
-          "url": "https://wallstreetcn.com/livenews/3020926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
           "title": "【焦点复盘】金融权重护盘提振有限，AI硬件股现深幅调整，商业航天概念持续站上风口",
           "url": "https://www.cls.cn/detail/2229902",
           "source": "财联社热门",
@@ -70,8 +328,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时17分 ~ 22时17分]"
+          "appearance_count": 7,
+          "time_info": "[18时17分 ~ 23时17分]"
+        },
+        {
+          "title": "鹏鼎控股：2026年拟向泰国园区投资合计42.97亿元人民币用于建设泰国园区生产厂房及周边配套设施，并同步投资建设包括高阶HDI（含SLP）、HLC等产品产能，为快速成长的AI应用市场提供涵盖服务器、AI端侧产品、低轨卫星等多领域的全方位PCB解决方案。",
+          "url": "https://wallstreetcn.com/livenews/3020926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时13分"
         },
         {
           "title": "商汤日日新Seko系列模型与寒武纪成功适配，国产算力&多模态AI实现关键跨越",
@@ -185,7 +454,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -196,7 +465,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -247,265 +516,8 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
-          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时14分 ~ 07时11分]"
-        },
-        {
-          "title": "不确定经济政策能否赢中选，特朗普质疑“现在有好消息股市反而下跌，消息特别好股市就会崩盘”，这都是美联储的错！",
-          "url": "https://wallstreetcn.com/articles/3761378",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时58分 ~ 22时17分]"
-        },
-        {
-          "title": "乌克兰放弃加入北约 特朗普特使称和平谈判取得“重大进展”",
-          "url": "https://www.cls.cn/detail/2229153",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时58分 ~ 16时20分]"
-        },
-        {
-          "title": "日媒：特朗普曾警告高市早苗“别来添乱”",
-          "url": "https://news.ifeng.com/c/8p6g6UaeUPY",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时23分 ~ 20时26分]"
-        },
-        {
-          "title": "连续表达“独立性”！哈塞特：若被选中领导美联储，特朗普可以提意见，但对美联储决策“毫无分量”",
-          "url": "https://wallstreetcn.com/articles/3761377",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时21分 ~ 22时17分]"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任凯文·哈塞特：如果沃什出任美联储主席，希望他能（在利率政策问题上）与总统特朗普对话。 即便（我）担任美联储主席，也乐意于与特朗普对话。 经济数据表明，美国CPI朝着美联储2%目标靠拢。 美联储的职责是保持独立。 我们不会有10月家庭（就业）调查。",
-          "url": "https://wallstreetcn.com/livenews/3020426",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            3,
-            6,
-            9,
-            10,
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 07时11分]"
-        },
-        {
-          "title": "美国总统特朗普：很快就会选择新的美联储主席。 新任美联储主席想要看到利率下降。 虽然（现在还是）是鲍威尔担任美联储主席，但利率正在下降。",
-          "url": "https://wallstreetcn.com/livenews/3020431",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            3,
-            4,
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时10分 ~ 07时11分]"
-        },
-        {
-          "title": "美国总统特朗普：通胀“完全被抵消了”，你们不希望看到通缩。 从许多方面来看，通缩情况都比通胀更糟。",
-          "url": "https://wallstreetcn.com/livenews/3020430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            4,
-            5,
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时10分 ~ 07时11分]"
-        },
-        {
-          "title": "日媒：特朗普曾警告高市早苗“别添乱”",
-          "url": "https://news.ifeng.com/c/8p6g6UaeUPY",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时35分 ~ 22时17分]"
-        },
-        {
-          "title": "悉尼水果店老板徒手夺枪获特朗普称赞",
-          "url": "https://www.toutiao.com/trending/7583736813425066020/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时18分 ~ 15时18分]"
-        },
-        {
-          "title": "“影子美联储主席”哈塞特：特朗普可以向美联储提供建议，但无权设定其行动",
-          "url": "https://wallstreetcn.com/livenews/3020440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时11分 ~ 07时11分]"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：特朗普可以自由地就美联储政策发表意见。",
-          "url": "https://flash.jin10.com/detail/20251215202342606800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时26分"
-        },
-        {
-          "title": "拜登白送的无人机特朗普要收钱，台军：不要了",
-          "url": "https://news.ifeng.com/c/8p6WipSN2un",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时20分 ~ 20时26分]"
-        },
-        {
-          "title": "据AXIOS网站：乌克兰总统泽连斯基将在柏林会见美国中东问题特使威特科夫及特朗普女婿库什纳。之后他将分别会见来自法国、德国和英国的国家安全顾问。",
-          "url": "https://flash.jin10.com/detail/20251214211648647800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时14分 ~ 05时11分]"
-        },
-        {
-          "title": "哈塞特谈接掌美联储：考虑特朗普意见 但坚持决策独立性",
-          "url": "https://flash.jin10.com/detail/20251215045241134800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 07时11分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-15）",
-          "url": "https://flash.jin10.com/detail/20251215180602946800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 19时13分]"
-        },
-        {
-          "title": "曝特朗普曾警告高市早苗别来添乱",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E6%9B%BE%E8%AD%A6%E5%91%8A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%88%AB%E6%9D%A5%E6%B7%BB%E4%B9%B1",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时35分 ~ 22时17分]"
-        },
-        {
-          "title": "欧盟官员表示，美国中东问题特使威特科夫和及特朗普高级顾问库什纳通过视频会议向欧盟各国外交部长简要通报加沙局势。",
-          "url": "https://flash.jin10.com/detail/20251215174214172800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "特朗普指着台下女子说你好像伊万卡",
-          "url": "https://www.toutiao.com/trending/7583883670654681098/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
-          "title": "悉尼水果店老板徒手夺枪获特朗普称赞",
-          "url": "https://www.baidu.com/s?wd=%E6%82%89%E5%B0%BC%E6%B0%B4%E6%9E%9C%E5%BA%97%E8%80%81%E6%9D%BF%E5%BE%92%E6%89%8B%E5%A4%BA%E6%9E%AA%E8%8E%B7%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%B5%9E",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
@@ -542,7 +554,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -553,9 +565,23 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
+        },
+        {
+          "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
+          "url": "https://wallstreetcn.com/articles/3761417",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时26分 ~ 23时17分]"
         },
         {
           "title": "iRobot股价美股盘前暴跌超80%，至0.76美元，此前公司已申请破产，并寻求收购制造商。",
@@ -571,17 +597,15 @@
           "time_info": "[17时23分 ~ 19时13分]"
         },
         {
-          "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
-          "url": "https://wallstreetcn.com/articles/3761417",
-          "source": "华尔街见闻",
+          "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2230200",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            8,
-            6
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时26分 ~ 22时17分]"
+          "appearance_count": 2,
+          "time_info": "[22时17分 ~ 23时17分]"
         },
         {
           "title": "金十数据整理：每日美股市场要闻速递（2025-12-15）",
@@ -590,7 +614,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -612,18 +636,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时17分"
-        },
-        {
-          "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2230200",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时17分"
         },
@@ -637,6 +650,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
+        },
+        {
+          "title": "行业ETF美股盘初普遍走高，半导体ETF涨1.41%，银行业ETF涨1.11%，可选消费ETF涨1.05%，科技行业ETF涨0.64%，能源业ETF跌0.12%。",
+          "url": "https://wallstreetcn.com/livenews/3021053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
+        },
+        {
+          "title": "英伟达发布Nemotron 3开源模型系列，股价美股盘前涨1.7%",
+          "url": "https://wallstreetcn.com/livenews/3021038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时17分"
         }
       ]
     },
