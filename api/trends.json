@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T21:29:14.289311+08:00",
-  "total_titles_processed": 2017,
+  "generated_at": "2025-12-17T22:14:49.251017+08:00",
+  "total_titles_processed": 2103,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 68,
       "titles": [
         {
           "title": "特朗普：认定委内瑞拉现政府是“外国恐怖组织”",
@@ -98,8 +98,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时15分 ~ 21时29分]"
+          "appearance_count": 14,
+          "time_info": "[13时15分 ~ 22时14分]"
         },
         {
           "title": "“爱泼斯坦案”背后的正义、叙述与情绪：特朗普和美国政治的梦魇",
@@ -532,6 +532,17 @@
           "time_info": "00时17分"
         },
         {
+          "title": "据ABC新闻：美国总统特朗普预计最快于今日签署大麻相关行政命令。",
+          "url": "https://flash.jin10.com/detail/20251217213540631800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "Citadel创始人Ken Griffin：美国民众对通胀粘性感到疲惫不堪。 （总统特朗普所属）共和党纠缠的那些政策会助涨通胀。 （但）去监管最终具有反通胀效果。 欧洲资本市场还不够深。",
           "url": "https://wallstreetcn.com/livenews/3021805",
           "source": "华尔街见闻-快讯",
@@ -585,6 +596,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
+        },
+        {
+          "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32196119",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "委内瑞拉副总统：特朗普正以威胁手段图谋掠夺本国资源。",
@@ -708,6 +730,17 @@
           "time_info": "08时54分"
         },
         {
+          "title": "美联储理事沃勒：将向美国总统特朗普强调美联储独立性的重要性。美联储仍对美国公众负责。",
+          "url": "https://flash.jin10.com/detail/20251217212751799800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "Citadel创始人Ken Griffin：美国民众对通胀粘性感到疲惫不堪。 （总统特朗普所属）共和党纠缠的那些政策（关税和移民）会助涨通胀。 （但）去监管最终具有反通胀效果。 欧洲资本市场还不够深。",
           "url": "https://wallstreetcn.com/livenews/3021805",
           "source": "华尔街见闻-快讯",
@@ -766,7 +799,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
@@ -893,6 +926,17 @@
           "time_info": "[02时19分 ~ 04时15分]"
         },
         {
+          "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时28分 ~ 22时14分]"
+        },
+        {
           "title": "即梦AI上新，支持声音、画面同步生成",
           "url": "https://wallstreetcn.com/livenews/3021804",
           "source": "华尔街见闻-快讯",
@@ -903,17 +947,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 01时18分]"
-        },
-        {
-          "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 21时29分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普没有比Wiles更棒或更忠诚的顾问了。 有关Vanity Fair（名利场）的大部分内容失实。",
@@ -972,6 +1005,17 @@
           "time_info": "16时18分"
         },
         {
+          "title": "AI芯片初创公司Mythic融资1.25亿美元，旨在挑战英伟达",
+          "url": "https://flash.jin10.com/detail/20251217213434412800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
+        },
+        {
           "title": "成都35所中小学试点AI批改作业",
           "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD35%E6%89%80%E4%B8%AD%E5%B0%8F%E5%AD%A6%E8%AF%95%E7%82%B9AI%E6%89%B9%E6%94%B9%E4%BD%9C%E4%B8%9A",
           "source": "百度热搜",
@@ -1019,7 +1063,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股收盘：三大指数涨跌不一 特斯拉创历史新高",
@@ -1062,11 +1106,12 @@
           "url": "https://wallstreetcn.com/livenews/3022443",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时29分 ~ 22时14分]"
         },
         {
           "title": "金十图示：2025年12月16日（周二）美股热门股票行情一览（美股收盘）",
@@ -1103,6 +1148,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时12分]"
+        },
+        {
+          "title": "甲骨文美股盘前股价下跌2%，有报道称公司100亿美元密歇根数据中心项目陷入困境，因与Blue Owl的融资谈判陷入僵局。",
+          "url": "https://wallstreetcn.com/livenews/3022447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨3.1%，时隔一年再创收盘历史新高",
@@ -1174,7 +1230,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "OpenAI：全新图像模型和功能今日已在ChatGPT中面向所有用户推出，并作为GPT Image 1.5在API中上线。",
@@ -1279,6 +1335,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时19分"
+        },
+        {
+          "title": "如何评价 OpenAI 刚推出的 GPT Image 1.5，有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1984534689147531765",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "据悉OpenAI商谈从亚马逊融资100亿美元",
