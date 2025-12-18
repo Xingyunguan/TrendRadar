@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T19:12:52.617156+08:00",
-  "total_titles_processed": 1708,
+  "generated_at": "2025-12-18T20:24:29.018982+08:00",
+  "total_titles_processed": 1815,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 72,
       "titles": [
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -206,18 +206,6 @@
           "time_info": "[00时16分 ~ 02时20分]"
         },
         {
-          "title": "“宣战”猜测甚嚣尘上，特朗普全国讲话却只字未提",
-          "url": "https://news.ifeng.com/c/8pBZNpaMDrn",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时19分 ~ 19时12分]"
-        },
-        {
           "title": "特朗普即将宣布新任美联储主席人选：必须认同低利率！",
           "url": "https://www.cls.cn/detail/2233203",
           "source": "财联社热门",
@@ -225,6 +213,18 @@
             13,
             9,
             11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时19分 ~ 20时24分]"
+        },
+        {
+          "title": "“宣战”猜测甚嚣尘上，特朗普全国讲话却只字未提",
+          "url": "https://news.ifeng.com/c/8pBZNpaMDrn",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -338,6 +338,17 @@
           "time_info": "[14时19分 ~ 14时20分]"
         },
         {
+          "title": "特朗普对台军售创四大最恶劣纪录，中国大陆发出反制信号",
+          "url": "https://news.ifeng.com/c/8pBrdVMrLgT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
+        },
+        {
           "title": "特朗普说委内瑞拉抢了美国的石油",
           "url": "https://wallstreetcn.com/livenews/3022878",
           "source": "华尔街见闻-快讯",
@@ -380,6 +391,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        },
+        {
+          "title": "特朗普媒体科技集团：合并后公司预计将于2026年选址并开始建设首座公用事业规模的核聚变发电厂 。",
+          "url": "https://wallstreetcn.com/livenews/3023108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "KPI暴增10倍 特朗普政府拟加码撤销入籍公民身份",
@@ -446,6 +468,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        },
+        {
+          "title": "特朗普媒体科技集团将以全股票交易方式与TAE Technologies合并",
+          "url": "https://wallstreetcn.com/livenews/3023103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "市场消息：SOC投资集团正向亚马逊、沃尔玛及Alphabet询问，要求这些企业说明特朗普政府的移民政策如何影响其财务状况与供应链。",
@@ -608,7 +641,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -803,7 +836,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -814,8 +847,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[06时12分 ~ 19时12分]"
+          "appearance_count": 18,
+          "time_info": "[06时12分 ~ 20时24分]"
         },
         {
           "title": "AI引爆存储需求！美光业绩、指引双双爆表 盘后股价涨超7%",
@@ -870,8 +903,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时19分 ~ 19时12分]"
+          "appearance_count": 4,
+          "time_info": "[17时19分 ~ 20时24分]"
         },
         {
           "title": "AI制药公司英矽智能今起招股，募资至多23亿港元",
@@ -1034,6 +1067,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
+        },
+        {
+          "title": "光合组织：未来三年将推动超过20个行业级AI4S软硬协同解决方案落地",
+          "url": "https://wallstreetcn.com/livenews/3023093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时24分"
         },
         {
           "title": "字节宣布AI节省计划",
@@ -1321,6 +1365,17 @@
           "time_info": "00时16分"
         },
         {
+          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
+          "url": "https://wallstreetcn.com/articles/3761592",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 20时24分]"
+        },
+        {
           "title": "谷歌发布 Gemini 3 Flash，相比上一代 2.5 Flash 有哪些提升？使用体验如何？",
           "url": "https://www.zhihu.com/question/1984788546771517931",
           "source": "知乎",
@@ -1342,17 +1397,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 02时20分]"
-        },
-        {
-          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
-          "url": "https://wallstreetcn.com/articles/3761592",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 19时12分]"
         },
         {
           "title": "谷歌DeepMind公司Gemini产品管理高级总监Tulsee Doshi：几周前我们发布了Gemini的Pro版本，其市场反馈令我们感到兴奋。 通过Gemini 3 Flash，我们将把这一模型带给每一个人。",
@@ -1452,8 +1496,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时19分 ~ 19时12分]"
+          "appearance_count": 7,
+          "time_info": "[14时19分 ~ 20时24分]"
         },
         {
           "title": "OpenAI：开发者们现在可以向ChatGPT上传APPs。",
@@ -1609,9 +1653,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 20时24分]"
         }
       ]
     },
