@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T19:10:13.925946+08:00",
-  "total_titles_processed": 1374,
+  "generated_at": "2025-12-20T20:21:31.587161+08:00",
+  "total_titles_processed": 1433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
@@ -45,8 +45,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时54分 ~ 19时10分]"
+          "appearance_count": 19,
+          "time_info": "[08时54分 ~ 20时21分]"
         },
         {
           "title": "特朗普年终演讲为何不提中国",
@@ -167,6 +167,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时14分 ~ 08时55分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
+          "url": "https://flash.jin10.com/detail/20251220184219205800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
         },
         {
           "title": "美国总统特朗普：强生公司和其他四家公司将于下周加入协议，他们已同意提供全球最低价。",
@@ -501,11 +512,12 @@
             8,
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时11分 ~ 19时10分]"
+          "appearance_count": 10,
+          "time_info": "[15时11分 ~ 20时21分]"
         },
         {
           "title": "王俊凯话剧首秀，与饶晓志在《趁世界还年青》叩问AI时代",
@@ -522,6 +534,19 @@
           "time_info": "[00时15分 ~ 12时18分]"
         },
         {
+          "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
+          "url": "https://wallstreetcn.com/articles/3761759",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时15分 ~ 20时21分]"
+        },
+        {
           "title": "美国数据中心密集区电价五年暴涨 267%，居民为何要「平摊」AI 耗电账单？",
           "url": "https://www.zhihu.com/question/1984644910364774911",
           "source": "知乎",
@@ -535,19 +560,6 @@
           "time_info": "[07时12分 ~ 12时18分]"
         },
         {
-          "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
-          "url": "https://wallstreetcn.com/articles/3761759",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时15分 ~ 19时10分]"
-        },
-        {
           "title": "摩尔线程发布AI算力笔记本MTT AIBOOK，售价9999元",
           "url": "https://flash.jin10.com/detail/20251220123029184800",
           "source": "金十数据",
@@ -558,11 +570,12 @@
             12,
             17,
             18,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时13分 ~ 19时10分]"
+          "appearance_count": 8,
+          "time_info": "[13时13分 ~ 20时21分]"
         },
         {
           "title": "担忧AI，澳大利亚最大养老基金计划减配全球股票",
@@ -575,11 +588,12 @@
             13,
             18,
             19,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时13分 ~ 19时10分]"
+          "appearance_count": 8,
+          "time_info": "[13时13分 ~ 20时21分]"
         },
         {
           "title": "高盛大宗商品展望：AI引爆“铜与电”短缺危机，局部停电、电价飙升可能拖累美国AI进展",
@@ -611,6 +625,48 @@
           "time_info": "[13时13分 ~ 18时13分]"
         },
         {
+          "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
+          "url": "https://wallstreetcn.com/articles/3761689",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时12分 ~ 20时21分]"
+        },
+        {
+          "title": "付鹏：如果AI被证伪，全球股市都将面临剧烈波动",
+          "url": "https://wallstreetcn.com/livenews/3024251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8,
+            18,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时16分 ~ 20时21分]"
+        },
+        {
+          "title": "付鹏：2026年将是AI应用的“证伪之年”，巨头们需证明自己",
+          "url": "https://wallstreetcn.com/livenews/3024250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9,
+            19,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时16分 ~ 20时21分]"
+        },
+        {
           "title": "知名经济学家付鹏：现在AI市场的焦点是“路修好了，有车跑吗”",
           "url": "https://wallstreetcn.com/livenews/3024247",
           "source": "华尔街见闻-快讯",
@@ -625,32 +681,32 @@
           "time_info": "[15时12分 ~ 18时13分]"
         },
         {
-          "title": "付鹏：如果AI被证伪，全球股市都将面临剧烈波动",
-          "url": "https://wallstreetcn.com/livenews/3024251",
+          "title": "蚂蚁数科AI原生事业部总经理王磊：严谨性与“压制幻觉”是金融AI第一要务",
+          "url": "https://wallstreetcn.com/livenews/3024259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11,
+            20,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时12分 ~ 20时21分]"
+        },
+        {
+          "title": "蚂蚁数科AI原生事业部总经理王磊：金融AI落地需构建“可信智能体”三大基石",
+          "url": "https://wallstreetcn.com/livenews/3024257",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            8,
-            18,
-            27
+            13,
+            22,
+            23
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时16分 ~ 19时10分]"
-        },
-        {
-          "title": "付鹏：2026年将是AI应用的“证伪之年”，巨头们需证明自己",
-          "url": "https://wallstreetcn.com/livenews/3024250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时16分 ~ 19时10分]"
+          "time_info": "[17时12分 ~ 20时21分]"
         },
         {
           "title": "摩尔线程发布AI算力笔记本MTT AIBOOK，预售价9999元",
@@ -668,16 +724,18 @@
           "time_info": "[13时13分 ~ 17时12分]"
         },
         {
-          "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
-          "url": "https://wallstreetcn.com/articles/3761689",
-          "source": "华尔街见闻",
+          "title": "蚂蚁数科AI原生事业部总经理王磊：垂直大模型训练成本呈百倍级下降",
+          "url": "https://wallstreetcn.com/livenews/3024256",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9
+            4,
+            14,
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时12分 ~ 19时10分]"
+          "appearance_count": 4,
+          "time_info": "[17时12分 ~ 20时21分]"
         },
         {
           "title": "美国纽约州长签署先进AI限制法案，遭科技行业反对",
@@ -693,43 +751,30 @@
           "time_info": "[07时13分 ~ 10时29分]"
         },
         {
-          "title": "蚂蚁数科AI原生事业部总经理王磊：严谨性与“压制幻觉”是金融AI第一要务",
-          "url": "https://wallstreetcn.com/livenews/3024259",
+          "title": "中信建投期货研究所联席负责人田亚雄：若AI投资泡沫破裂，商品将提前反应，白银已在抢跑",
+          "url": "https://wallstreetcn.com/livenews/3024264",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            11,
-            20
+            6,
+            15,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时12分 ~ 19时10分]"
+          "time_info": "[18时13分 ~ 20时21分]"
         },
         {
-          "title": "蚂蚁数科AI原生事业部总经理王磊：金融AI落地需构建“可信智能体”三大基石",
-          "url": "https://wallstreetcn.com/livenews/3024257",
+          "title": "蚂蚁数科AI原生事业部总经理王磊：大模型落地本质是业务战略的重塑",
+          "url": "https://wallstreetcn.com/livenews/3024262",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            13,
-            22
+            8,
+            17,
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时12分 ~ 19时10分]"
-        },
-        {
-          "title": "蚂蚁数科AI原生事业部总经理王磊：垂直大模型训练成本呈百倍级下降",
-          "url": "https://wallstreetcn.com/livenews/3024256",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时12分 ~ 19时10分]"
+          "time_info": "[18时13分 ~ 20时21分]"
         },
         {
           "title": "回顾 2025 年，你与 AI 的关系是什么？",
@@ -744,18 +789,6 @@
           "time_info": "[01时12分 ~ 02时18分]"
         },
         {
-          "title": "中信建投期货研究所联席负责人田亚雄：若AI投资泡沫破裂，商品将提前反应，白银已在抢跑",
-          "url": "https://wallstreetcn.com/livenews/3024264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时13分 ~ 19时10分]"
-        },
-        {
           "title": "安进表示，与美国政府携手采取行动，降低美国患者的药品成本，将Aimovig和Amjevita以每月299美元的折扣价提供。",
           "url": "https://wallstreetcn.com/livenews/3024138",
           "source": "华尔街见闻-快讯",
@@ -766,18 +799,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时14分 ~ 05时11分]"
-        },
-        {
-          "title": "蚂蚁数科AI原生事业部总经理王磊：大模型落地本质是业务战略的重塑",
-          "url": "https://wallstreetcn.com/livenews/3024262",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时13分 ~ 19时10分]"
         },
         {
           "title": "AI大神：AI大模型正演变成新型智能",
@@ -816,8 +837,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时54分 ~ 19时10分]"
+          "appearance_count": 19,
+          "time_info": "[08时54分 ~ 20时21分]"
         },
         {
           "title": "美股三大指数集体高开，甲骨文涨超6%，日元跌破157关口，白银再涨逼近66美元，黄金回落至4330美元",
@@ -842,8 +863,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[08时54分 ~ 19时10分]"
+          "appearance_count": 19,
+          "time_info": "[08时54分 ~ 20时21分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -866,8 +887,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时12分 ~ 19时10分]"
+          "appearance_count": 13,
+          "time_info": "[13时12分 ~ 20时21分]"
         },
         {
           "title": "Clocktower首席策略师王凯文：美股步入周期尾段，盈利驱动与估值压力并存",
@@ -887,6 +908,19 @@
           "time_info": "[10时29分 ~ 16时16分]"
         },
         {
+          "title": "浙商期货首席策略师、投资咨询部总经理徐涛：明年商品市场最大风险点在美股，但“大坑”是较好的买入时机",
+          "url": "https://wallstreetcn.com/livenews/3024266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时13分 ~ 20时21分]"
+        },
+        {
           "title": "（美股）费城金银指数收涨2.79%，报347.80点，本周累计上涨2.98%，周五美股盘初短线拉升的涨幅突出。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.07%，报2460.91点，本周累涨2.34%。",
           "url": "https://wallstreetcn.com/livenews/3024176",
           "source": "华尔街见闻-快讯",
@@ -898,18 +932,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时13分 ~ 08时55分]"
-        },
-        {
-          "title": "浙商期货首席策略师、投资咨询部总经理徐涛：明年商品市场最大风险点在美股，但“大坑”是较好的买入时机",
-          "url": "https://wallstreetcn.com/livenews/3024266",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时13分 ~ 19时10分]"
         },
         {
           "title": "半导体行业ETF收涨将近2.6%，领跑美股行业ETF",
@@ -997,134 +1019,8 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "伊朗为何不饱和攻击机场，让以战机无法起飞？",
-          "url": "https://www.zhihu.com/question/1918243705258751137",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时28分 ~ 18时13分]"
-        },
-        {
-          "title": "以色列暗杀伊朗核专家细节曝光",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E6%9A%97%E6%9D%80%E4%BC%8A%E6%9C%97%E6%A0%B8%E4%B8%93%E5%AE%B6%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            27,
-            14,
-            10,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时18分 ~ 07时13分]"
-        },
-        {
-          "title": "以色列暗杀伊朗核专家细节曝光",
-          "url": "https://news.ifeng.com/c/8pDtj9kdFzQ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时12分 ~ 10时29分]"
-        },
-        {
-          "title": "伊朗处决一名为以色列工作的间谍",
-          "url": "https://flash.jin10.com/detail/20251220153845757800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时16分 ~ 19时10分]"
-        },
-        {
-          "title": "以色列暗杀伊朗核专家细节曝光",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%9A%97%E6%9D%80%E4%BC%8A%E6%9C%97%E6%A0%B8%E4%B8%93%E5%AE%B6%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时28分 ~ 10时29分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "据Business Insider：谷歌警告部分签证员工不要离开美国，因为回国可能面临长达一年的“重大”延误。",
-          "url": "https://flash.jin10.com/detail/20251220105539232800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            13,
-            16,
-            18,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时44分 ~ 16时16分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
-          "url": "https://wallstreetcn.com/livenews/3024168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时13分 ~ 07时13分]"
-        },
-        {
-          "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
-          "url": "https://wallstreetcn.com/livenews/3024274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时10分"
-        },
-        {
-          "title": "派拓网络（Palo Alto Networks）宣布，与谷歌云达成（至少）数十亿美元规模的协议。",
-          "url": "https://wallstreetcn.com/livenews/3024048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
@@ -1178,6 +1074,145 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时12分 ~ 19时10分]"
+        },
+        {
+          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
+          "url": "https://wallstreetcn.com/articles/3761763",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "伊朗为何不饱和攻击机场，让以战机无法起飞？",
+          "url": "https://www.zhihu.com/question/1918243705258751137",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[10时28分 ~ 18时13分]"
+        },
+        {
+          "title": "以色列暗杀伊朗核专家细节曝光",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E6%9A%97%E6%9D%80%E4%BC%8A%E6%9C%97%E6%A0%B8%E4%B8%93%E5%AE%B6%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            27,
+            14,
+            10,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时18分 ~ 07时13分]"
+        },
+        {
+          "title": "伊朗处决一名为以色列工作的间谍",
+          "url": "https://flash.jin10.com/detail/20251220153845757800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            7,
+            8,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时16分 ~ 20时21分]"
+        },
+        {
+          "title": "以色列暗杀伊朗核专家细节曝光",
+          "url": "https://news.ifeng.com/c/8pDtj9kdFzQ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时12分 ~ 10时29分]"
+        },
+        {
+          "title": "以色列暗杀伊朗核专家细节曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%9A%97%E6%9D%80%E4%BC%8A%E6%9C%97%E6%A0%B8%E4%B8%93%E5%AE%B6%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 10时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "据Business Insider：谷歌警告部分签证员工不要离开美国，因为回国可能面临长达一年的“重大”延误。",
+          "url": "https://flash.jin10.com/detail/20251220105539232800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            13,
+            16,
+            18,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时44分 ~ 16时16分]"
+        },
+        {
+          "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
+          "url": "https://wallstreetcn.com/livenews/3024274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 20时21分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
+          "url": "https://wallstreetcn.com/livenews/3024168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时13分 ~ 07时13分]"
+        },
+        {
+          "title": "派拓网络（Palo Alto Networks）宣布，与谷歌云达成（至少）数十亿美元规模的协议。",
+          "url": "https://wallstreetcn.com/livenews/3024048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
         }
       ]
     },
