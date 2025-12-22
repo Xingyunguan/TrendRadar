@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T11:01:45.726297+08:00",
-  "total_titles_processed": 765,
+  "generated_at": "2025-12-22T12:33:25.572687+08:00",
+  "total_titles_processed": 886,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
@@ -42,8 +42,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 11时01分]"
+          "appearance_count": 17,
+          "time_info": "[00时14分 ~ 12时33分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -52,11 +52,12 @@
           "ranks": [
             19,
             17,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时09分 ~ 11时01分]"
+          "appearance_count": 12,
+          "time_info": "[03时09分 ~ 12时33分]"
         },
         {
           "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
@@ -68,8 +69,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时16分 ~ 11时01分]"
+          "appearance_count": 14,
+          "time_info": "[02时16分 ~ 12时33分]"
         },
         {
           "title": "唐宁街：英国首相斯塔默周日与美国总统特朗普对话，谈及乌克兰和加沙。",
@@ -163,13 +164,35 @@
           "time_info": "[00时14分 ~ 05时11分]"
         },
         {
+          "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
+          "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
+          "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
+          "url": "https://www.cls.cn/detail/2235857",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
           "title": "特朗普：任命路易斯安那州州长杰夫·兰德里为美国驻格陵兰岛特使。",
           "url": "https://flash.jin10.com/detail/20251222102452415800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
         },
@@ -188,7 +211,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "付鹏：决定2026全球资产涨跌的关键—AI“高速路”上，真有车跑吗? | Alpha峰会",
@@ -265,8 +288,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时10分 ~ 11时01分]"
+          "appearance_count": 14,
+          "time_info": "[01时10分 ~ 12时33分]"
         },
         {
           "title": "最快IPO AI公司诞生！MiniMax通过港交所聆讯 不足4年用户突破2亿",
@@ -274,11 +297,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时00分 ~ 11时01分]"
+          "appearance_count": 4,
+          "time_info": "[09时00分 ~ 12时33分]"
         },
         {
           "title": "如何适当提醒过度迷信 AI 的老板？",
@@ -302,6 +326,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "UP主用AI改写三体名场面",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%94%B9%E5%86%99%E4%B8%89%E4%BD%93%E5%90%8D%E5%9C%BA%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
+          "title": "让AI成为你的情绪垃圾桶",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%AE%A9AI%E6%88%90%E4%B8%BA%E4%BD%A0%E7%9A%84%E6%83%85%E7%BB%AA%E5%9E%83%E5%9C%BE%E6%A1%B6%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         }
       ]
     },
@@ -376,11 +422,12 @@
           "url": "https://www.douyin.com/hot/2343367",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 12时33分]"
         }
       ]
     },
@@ -408,7 +455,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
         },
@@ -419,9 +466,50 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
+          "url": "https://wallstreetcn.com/articles/3761788",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 11时01分]"
+        },
+        {
+          "title": "美股期货亚市盘初走高，标普500指数期货、纳斯达克100指数期货上涨0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3024485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "35亿美元大单引爆美股商业航天？SDA加速布局太空防御网 低轨商业卫星成关键",
+          "url": "https://www.cls.cn/detail/2235916",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         }
       ]
     },
@@ -439,8 +527,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 11时01分]"
+          "appearance_count": 17,
+          "time_info": "[00时14分 ~ 12时33分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
@@ -449,9 +537,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时01分 ~ 12时33分]"
         }
       ]
     },
@@ -484,36 +572,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时17分 ~ 07时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
-          "url": "https://wallstreetcn.com/articles/3761788",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时14分 ~ 11时01分]"
-        },
-        {
-          "title": "美股期货亚市盘初走高，标普500指数期货、纳斯达克100指数期货上涨0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3024485",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时11分"
         }
       ]
     },
