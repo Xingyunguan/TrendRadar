@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T17:20:17.278721+08:00",
-  "total_titles_processed": 1348,
+  "generated_at": "2025-12-22T18:14:19.464068+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
@@ -31,6 +31,19 @@
           "time_info": "[00时14分 ~ 09时01分]"
         },
         {
+          "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
+          "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时33分 ~ 18时14分]"
+        },
+        {
           "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
           "url": "https://wallstreetcn.com/articles/3761799",
           "source": "华尔街见闻",
@@ -42,21 +55,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时14分 ~ 17时20分]"
-        },
-        {
-          "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
-          "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时33分 ~ 17时20分]"
+          "appearance_count": 24,
+          "time_info": "[00时14分 ~ 18时14分]"
         },
         {
           "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
@@ -173,8 +173,34 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时20分]"
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 18时14分]"
+        },
+        {
+          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            19,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时18分 ~ 18时14分]"
+        },
+        {
+          "title": "特朗普政府频频拦截油轮，美国会议员都看不下去了",
+          "url": "https://news.ifeng.com/c/8pI7DqwwUlP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时21分 ~ 18时14分]"
         },
         {
           "title": "英国政府发言人：斯塔默和特朗普首先回顾了乌克兰局势，斯塔默还向特朗普通报了新任英国驻美大使克里斯蒂安·特纳的任命情况。",
@@ -203,20 +229,6 @@
           "time_info": "[05时11分 ~ 07时11分]"
         },
         {
-          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时18分 ~ 17时20分]"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
           "url": "https://flash.jin10.com/detail/20251221182933074800",
           "source": "金十数据",
@@ -229,27 +241,17 @@
           "time_info": "[00时14分 ~ 05时11分]"
         },
         {
-          "title": "特朗普政府频频拦截油轮，美国会议员都看不下去了",
-          "url": "https://news.ifeng.com/c/8pI7DqwwUlP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时21分 ~ 17时20分]"
-        },
-        {
           "title": "飞机闯入特朗普官邸上空被紧急拦截",
           "url": "https://www.toutiao.com/trending/7586445374106796082/",
           "source": "今日头条",
           "ranks": [
             4,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时19分 ~ 17时20分]"
+          "appearance_count": 4,
+          "time_info": "[16时19分 ~ 18时14分]"
         },
         {
           "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
@@ -259,8 +261,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时20分]"
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 18时14分]"
         },
         {
           "title": "丹麦外交部长：美国总统特朗普任命驻格陵兰岛特别使节，证实美国仍对格陵兰岛感兴趣。",
@@ -272,6 +274,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时19分"
+        },
+        {
+          "title": "市场消息：在美国总统特朗普任命格陵兰岛特使后，丹麦外交大臣长将召见美国驻丹麦大使。",
+          "url": "https://flash.jin10.com/detail/20251222174043679800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "特朗普：任命路易斯安那州州长杰夫·兰德里为美国驻格陵兰岛特使。",
@@ -294,12 +307,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-22）",
+          "url": "https://flash.jin10.com/detail/20251222173421961800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         }
       ]
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "付鹏：决定2026全球资产涨跌的关键—AI“高速路”上，真有车跑吗? | Alpha峰会",
@@ -380,8 +404,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时10分 ~ 17时20分]"
+          "appearance_count": 21,
+          "time_info": "[01时10分 ~ 18时14分]"
         },
         {
           "title": "最快IPO AI公司诞生！MiniMax通过港交所聆讯 不足4年用户突破2亿",
@@ -397,17 +421,6 @@
           "time_info": "[09时00分 ~ 14时21分]"
         },
         {
-          "title": "南亚新材：拟定增募资不超过9亿元，用于基于AI算力的高阶高频高速覆铜板研发及产业化项目、补充流动资金。",
-          "url": "https://wallstreetcn.com/livenews/3024853",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
-        },
-        {
           "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
           "url": "https://news.ifeng.com/c/8pI4dhdsa8y",
           "source": "凤凰网",
@@ -416,8 +429,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时21分 ~ 17时20分]"
+          "appearance_count": 6,
+          "time_info": "[14时21分 ~ 18时14分]"
         },
         {
           "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
@@ -429,8 +442,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时18分 ~ 17时20分]"
+          "appearance_count": 5,
+          "time_info": "[15时18分 ~ 18时14分]"
+        },
+        {
+          "title": "南亚新材：拟定增募资不超过9亿元，用于基于AI算力的高阶高频高速覆铜板研发及产业化项目、补充流动资金。",
+          "url": "https://wallstreetcn.com/livenews/3024853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时14分]"
         },
         {
           "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
@@ -471,6 +496,18 @@
           "time_info": "[09时00分 ~ 11时01分]"
         },
         {
+          "title": "夸克AI眼镜G1开启预售，最低1999元",
+          "url": "https://wallstreetcn.com/livenews/3024838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时14分]"
+        },
+        {
           "title": "让AI成为你的情绪垃圾桶",
           "url": "https://s.weibo.com/weibo?q=%23%E8%AE%A9AI%E6%88%90%E4%B8%BA%E4%BD%A0%E7%9A%84%E6%83%85%E7%BB%AA%E5%9E%83%E5%9C%BE%E6%A1%B6%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -483,15 +520,15 @@
           "time_info": "[12时33分 ~ 13时18分]"
         },
         {
-          "title": "夸克AI眼镜G1开启预售，最低1999元",
-          "url": "https://wallstreetcn.com/livenews/3024838",
-          "source": "华尔街见闻-快讯",
+          "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
+          "url": "https://wallstreetcn.com/articles/3761823",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时20分"
+          "time_info": "18时14分"
         },
         {
           "title": "麦迪科技：带有丰富表情的AI陪伴机器人即将发布",
@@ -503,6 +540,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "面对无法规避的交通事故，AI 的决策原则应优先「对驾驶者负责」还是「社会利益最大化」？",
+          "url": "https://www.zhihu.com/question/1972372550760784385",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         },
         {
           "title": "华泰证券：建议继续布局春季躁动 关注AI链等景气改善方向",
@@ -563,7 +611,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美媒爆以色列准备再次打击伊朗",
@@ -639,6 +687,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时01分 ~ 17时20分]"
+        },
+        {
+          "title": "伊朗要下场帮委内瑞拉了吗",
+          "url": "https://www.toutiao.com/trending/7586586005637959214/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         }
       ]
     },
@@ -646,6 +705,21 @@
       "keyword_group": "美股",
       "match_count": 5,
       "titles": [
+        {
+          "title": "35亿美元大单引爆美股商业航天？SDA加速布局太空防御网 低轨商业卫星成关键",
+          "url": "https://www.cls.cn/detail/2235916",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时33分 ~ 18时14分]"
+        },
         {
           "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
           "url": "https://wallstreetcn.com/articles/3761788",
@@ -660,20 +734,6 @@
           "time_info": "[00时14分 ~ 11时01分]"
         },
         {
-          "title": "35亿美元大单引爆美股商业航天？SDA加速布局太空防御网 低轨商业卫星成关键",
-          "url": "https://www.cls.cn/detail/2235916",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时33分 ~ 17时20分]"
-        },
-        {
           "title": "押注“圣诞行情”！全球股市普涨，美股期货走高，黄金站上4400，白银续刷新高，油价反弹超1%，日元小幅上涨",
           "url": "https://wallstreetcn.com/articles/3761821",
           "source": "华尔街见闻",
@@ -681,8 +741,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时19分 ~ 17时20分]"
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 18时14分]"
         },
         {
           "title": "美股期货亚市盘初走高，标普500指数期货、纳斯达克100指数期货上涨0.3%。",
@@ -700,11 +760,12 @@
           "url": "https://wallstreetcn.com/livenews/3024841",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 18时14分]"
         }
       ]
     },
@@ -775,8 +836,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时14分 ~ 17时20分]"
+          "appearance_count": 24,
+          "time_info": "[00时14分 ~ 18时14分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
@@ -855,8 +916,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时18分 ~ 17时20分]"
+          "appearance_count": 5,
+          "time_info": "[15时18分 ~ 18时14分]"
         }
       ]
     }
