@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-23T18:15:04.604157+08:00",
-  "total_titles_processed": 1623,
+  "generated_at": "2025-12-23T19:12:28.321065+08:00",
+  "total_titles_processed": 1720,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 76,
+      "match_count": 79,
       "titles": [
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时57分 ~ 18时15分]"
+          "appearance_count": 15,
+          "time_info": "[08时57分 ~ 19时12分]"
         },
         {
           "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
@@ -52,8 +52,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时52分 ~ 18时15分]"
+          "appearance_count": 14,
+          "time_info": "[10时52分 ~ 19时12分]"
         },
         {
           "title": "特朗普叫停美国最大海上风电项目",
@@ -88,11 +88,12 @@
             16,
             15,
             9,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时52分 ~ 18时15分]"
+          "appearance_count": 14,
+          "time_info": "[10时52分 ~ 19时12分]"
         },
         {
           "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
@@ -106,6 +107,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时15分 ~ 07时12分]"
+        },
+        {
+          "title": "如何看特朗普级战列舰计划",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%88%98%E5%88%97%E8%88%B0%E8%AE%A1%E5%88%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时17分 ~ 19时12分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -136,17 +148,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[13时17分 ~ 18时15分]"
-        },
-        {
-          "title": "如何看特朗普级战列舰计划",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%88%98%E5%88%97%E8%88%B0%E8%AE%A1%E5%88%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时17分 ~ 18时15分]"
         },
         {
           "title": "美新型战舰被命名为特朗普级你咋看",
@@ -266,6 +267,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-23）",
+          "url": "https://flash.jin10.com/detail/20251223184540612800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "特朗普可能会在1月第一周任命新的美联储主席。 （CNBC）",
           "url": "https://wallstreetcn.com/livenews/3025056",
           "source": "华尔街见闻-快讯",
@@ -329,6 +341,29 @@
           "time_info": "[05时11分 ~ 06时13分]"
         },
         {
+          "title": "特朗普又自恋,新战舰用自己名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时14分 ~ 19时12分]"
+        },
+        {
+          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
+          "url": "https://news.ifeng.com/c/8pJycIBu5di",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时14分 ~ 19时12分]"
+        },
+        {
           "title": "特朗普宣布：建造特朗普级战列舰",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%EF%BC%9A%E5%BB%BA%E9%80%A0%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%88%98%E5%88%97%E8%88%B0",
           "source": "百度热搜",
@@ -351,28 +386,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时17分 ~ 16时19分]"
-        },
-        {
-          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
-          "url": "https://news.ifeng.com/c/8pJycIBu5di",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 18时15分]"
-        },
-        {
-          "title": "特朗普又自恋,新战舰用自己名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 18时15分]"
         },
         {
           "title": "特朗普发出干预威胁后 美国在尼日利亚开展侦察飞行",
@@ -557,6 +570,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "美国总统特朗普公布“特朗普级”战舰后，亨廷顿英格尔斯工业股价盘前上涨4.4%。",
+          "url": "https://flash.jin10.com/detail/20251223184036942800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "美国总统特朗普：我们正在建造三艘大型航空母舰。",
@@ -878,6 +902,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "特朗普的战列舰狂想",
+          "url": "https://www.toutiao.com/trending/7586959074525187625/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
           "title": "特朗普：美国需要格陵兰岛不是为了关键矿产",
           "url": "https://flash.jin10.com/detail/20251223072906047800",
           "source": "金十数据",
@@ -892,7 +927,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "AI定格|2025·强国脉动",
@@ -936,8 +971,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时15分 ~ 18时15分]"
+          "appearance_count": 23,
+          "time_info": "[00时15分 ~ 19时12分]"
         },
         {
           "title": "利用AI造谣“中国女篮”，两男子刑拘",
@@ -947,8 +982,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时57分 ~ 18时15分]"
+          "appearance_count": 15,
+          "time_info": "[08时57分 ~ 19时12分]"
         },
         {
           "title": "两男子用AI造谣中国女篮被刑拘",
@@ -958,8 +993,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时57分 ~ 18时15分]"
+          "appearance_count": 15,
+          "time_info": "[08时57分 ~ 19时12分]"
         },
         {
           "title": "两男子用AI造谣中国女篮被刑拘",
@@ -969,8 +1004,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时57分 ~ 18时15分]"
+          "appearance_count": 15,
+          "time_info": "[08时57分 ~ 19时12分]"
         },
         {
           "title": "AI大模型独角兽招股书深度拆解：MiniMax to C，智谱 to B",
@@ -1116,6 +1151,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时57分 ~ 12时32分]"
+        },
+        {
+          "title": "报道：字节在海外上线AI办公App“AnyGen”",
+          "url": "https://wallstreetcn.com/livenews/3025558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
+        },
+        {
+          "title": "报道：阿里推出“千问智学”，加码AI教育",
+          "url": "https://wallstreetcn.com/livenews/3025557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时12分"
         },
         {
           "title": "千问发布 2025 十大 AI 提示词，股票意外排名第一，普通人如何用 AI 做好投资？",
@@ -1490,7 +1547,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时15分"
         },
@@ -1508,6 +1565,18 @@
           "time_info": "[14时20分 ~ 17时17分]"
         },
         {
+          "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
+          "url": "https://www.cls.cn/detail/2237629",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时14分 ~ 19时12分]"
+        },
+        {
           "title": "机构：金价创历史新高 降息预期与地缘风险成双引擎",
           "url": "https://flash.jin10.com/detail/20251223020756394800",
           "source": "金十数据",
@@ -1518,17 +1587,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时12分 ~ 04时14分]"
-        },
-        {
-          "title": "2025年黄金年终盘点：宏观环境一变再变 却全是金价上涨理由",
-          "url": "https://www.cls.cn/detail/2237629",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时14分 ~ 18时15分]"
         },
         {
           "title": "金价大涨的背后原因是什么",
@@ -1659,8 +1717,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时12分 ~ 18时15分]"
+          "appearance_count": 24,
+          "time_info": "[01时12分 ~ 19时12分]"
         },
         {
           "title": "谷歌母公司Alphabet将以47.5亿美元（现金+债务）收购数据中心的能源/电力供应商Intersect。",
