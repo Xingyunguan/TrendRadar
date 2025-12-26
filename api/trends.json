@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T19:12:10.971619+08:00",
-  "total_titles_processed": 1532,
+  "generated_at": "2025-12-26T20:23:34.644664+08:00",
+  "total_titles_processed": 1639,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时50分 ~ 19时12分]"
+          "appearance_count": 16,
+          "time_info": "[10时50分 ~ 20时23分]"
         },
         {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
@@ -57,6 +57,17 @@
           "time_info": "[02时18分 ~ 06时12分]"
         },
         {
+          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
+          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时14分 ~ 20时23分]"
+        },
+        {
           "title": "美国总统特朗普：战争部执行了无数次完美打击。",
           "url": "https://flash.jin10.com/detail/20251226070310001800",
           "source": "金十数据",
@@ -77,17 +88,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
-        },
-        {
-          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
-          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时14分 ~ 19时12分]"
         },
         {
           "title": "乌克兰总统泽连斯基：与美国特使威特科夫和特朗普高级顾问库什纳通话约一小时。",
@@ -298,11 +298,12 @@
             18,
             13,
             14,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时50分 ~ 19时12分]"
+          "appearance_count": 16,
+          "time_info": "[10时50分 ~ 20时23分]"
         },
         {
           "title": "画师全跑光,马斯克AI贴脸盗图",
@@ -334,6 +335,19 @@
           "time_info": "15时16分"
         },
         {
+          "title": "《科创板日报》评选2025十大科技热词出炉，AI成绝对主线",
+          "url": "https://www.cls.cn/detail/2239926",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时14分 ~ 20时23分]"
+        },
+        {
           "title": "如果只能用一个词来形容人和 AI 的区别以及人类的不可代替之处，你会选哪个词？为什么？",
           "url": "https://www.zhihu.com/question/1987780060753719586",
           "source": "知乎",
@@ -344,18 +358,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时29分 ~ 15时16分]"
-        },
-        {
-          "title": "《科创板日报》评选2025十大科技热词出炉，AI成绝对主线",
-          "url": "https://www.cls.cn/detail/2239926",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时14分 ~ 19时12分]"
         },
         {
           "title": "日本下一年预算案将芯片和AI领域的支持增加近三倍",
@@ -443,8 +445,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时50分 ~ 19时12分]"
+          "appearance_count": 16,
+          "time_info": "[10时50分 ~ 20时23分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
