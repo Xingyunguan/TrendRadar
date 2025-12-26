@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T16:17:27.862050+08:00",
-  "total_titles_processed": 1255,
+  "generated_at": "2025-12-26T17:15:13.583562+08:00",
+  "total_titles_processed": 1356,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时50分 ~ 16时17分]"
+          "appearance_count": 12,
+          "time_info": "[10时50分 ~ 17时15分]"
         },
         {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
@@ -120,6 +120,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时11分 ~ 04时14分]"
+        },
+        {
+          "title": "特朗普人事强震引爆新争议",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%BA%BA%E4%BA%8B%E5%BC%BA%E9%9C%87%E5%BC%95%E7%88%86%E6%96%B0%E4%BA%89%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 17时15分]"
+        },
+        {
+          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
+          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 17时15分]"
         },
         {
           "title": "Marko Papic万字访谈：委内瑞拉救不了油价，特朗普或在2026年“压榨”美联储，股市迎来“YOLO时刻”",
@@ -216,18 +238,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
-          "title": "特朗普人事强震引爆新争议",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%BA%BA%E4%BA%8B%E5%BC%BA%E9%9C%87%E5%BC%95%E7%88%86%E6%96%B0%E4%BA%89%E8%AE%AE",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         }
@@ -235,7 +246,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "AI“世界模型”来袭：全球游戏产业或迎来颠覆时刻",
@@ -260,8 +271,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时50分 ~ 16时17分]"
+          "appearance_count": 12,
+          "time_info": "[10时50分 ~ 17时15分]"
         },
         {
           "title": "AI音乐MV绩效改进计划",
@@ -278,8 +289,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时50分 ~ 16时17分]"
+          "appearance_count": 12,
+          "time_info": "[10时50分 ~ 17时15分]"
         },
         {
           "title": "画师全跑光,马斯克AI贴脸盗图",
@@ -292,11 +303,12 @@
             20,
             22,
             27,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时15分 ~ 16时17分]"
+          "appearance_count": 24,
+          "time_info": "[00时15分 ~ 17时15分]"
         },
         {
           "title": "快看漫画与MiniMax合作上线首个AI互动漫画",
@@ -335,6 +347,28 @@
           "time_info": "[11时55分 ~ 13时15分]"
         },
         {
+          "title": "UP主用AI挑战肉鸽游戏",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%8C%91%E6%88%98%E8%82%89%E9%B8%BD%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 17时15分]"
+        },
+        {
+          "title": "《科创板日报》评选2025十大科技热词出炉，AI成绝对主线",
+          "url": "https://www.cls.cn/detail/2239926",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 17时15分]"
+        },
+        {
           "title": "机构：高市早苗、AI和企业改革为明年日股上涨铺平道路",
           "url": "https://flash.jin10.com/detail/20251226064520664800",
           "source": "金十数据",
@@ -363,7 +397,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         }
@@ -384,8 +418,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时50分 ~ 16时17分]"
+          "appearance_count": 12,
+          "time_info": "[10时50分 ~ 17时15分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -402,6 +436,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时15分 ~ 08时58分]"
+        },
+        {
+          "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
+          "url": "https://www.cls.cn/detail/2240558",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时20分 ~ 17时15分]"
         },
         {
           "title": "金十图示：2025年12月26日（周五）上海金早盘价为1010.21元/克，较国际金价(1014.02元/克)，低3.81元/克",
@@ -449,18 +496,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时15分 ~ 04时14分]"
-        },
-        {
-          "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
-          "url": "https://www.cls.cn/detail/2240558",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时20分 ~ 16时17分]"
         },
         {
           "title": "铂金价格创纪录新高，因欧盟拟撤销燃油车禁售令",
@@ -555,7 +590,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -566,7 +601,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时17分"
         },
@@ -628,8 +663,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时15分 ~ 16时17分]"
+          "appearance_count": 24,
+          "time_info": "[00时15分 ~ 17时15分]"
         }
       ]
     },
