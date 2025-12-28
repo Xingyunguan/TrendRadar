@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T20:22:37.263099+08:00",
-  "total_titles_processed": 1134,
+  "generated_at": "2025-12-28T21:24:56.205954+08:00",
+  "total_titles_processed": 1210,
   "failed_sources": [],
   "trends": [
     {
@@ -98,6 +98,17 @@
           "time_info": "[00时14分 ~ 03时10分]"
         },
         {
+          "title": "泽连斯基：我想跟特朗普谈5个问题",
+          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时12分 ~ 21时24分]"
+        },
+        {
           "title": "乌媒：泽连斯基概述想和特朗普讨论“和平计划”的5个问题",
           "url": "https://flash.jin10.com/detail/20251228145227378800",
           "source": "金十数据",
@@ -122,17 +133,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时14分 ~ 17时13分]"
-        },
-        {
-          "title": "泽连斯基：我想跟特朗普谈5个问题",
-          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时12分 ~ 20时22分]"
         },
         {
           "title": "特朗普与泽连斯基会晤时间有所调整",
@@ -257,8 +257,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时17分 ~ 20时22分]"
+          "appearance_count": 11,
+          "time_info": "[13时17分 ~ 21时24分]"
         },
         {
           "title": "北京推出三项“AI+教育”应用成果 启动建设未来数智书院",
@@ -294,11 +294,12 @@
           "url": "https://search.bilibili.com/all?keyword=2025%E6%9C%80%E5%85%A8AI%E6%88%90%E6%9E%9C%E7%9B%98%E7%82%B9",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时22分 ~ 21时24分]"
         },
         {
           "title": "研究发现 YouTube新用户推荐内容中逾两成是低质量AI视频",
@@ -341,8 +342,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时30分 ~ 20时22分]"
+          "appearance_count": 15,
+          "time_info": "[11时30分 ~ 21时24分]"
         },
         {
           "title": "佩泽希齐扬：伊朗正与美欧打“全面战争”",
@@ -432,8 +433,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时14分 ~ 20时22分]"
+          "appearance_count": 7,
+          "time_info": "[15时14分 ~ 21时24分]"
         },
         {
           "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",
