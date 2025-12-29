@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T20:26:13.621444+08:00",
-  "total_titles_processed": 1595,
+  "generated_at": "2025-12-29T21:32:22.247297+08:00",
+  "total_titles_processed": 1683,
   "failed_sources": [],
   "trends": [
     {
@@ -86,6 +86,19 @@
           "time_info": "[00时14分 ~ 07时12分]"
         },
         {
+          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时19分 ~ 21时32分]"
+        },
+        {
           "title": "特朗普当众施压泽连斯基",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%93%E4%BC%97%E6%96%BD%E5%8E%8B%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA",
           "source": "百度热搜",
@@ -127,19 +140,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时14分 ~ 05时11分]"
-        },
-        {
-          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时19分 ~ 20时26分]"
         },
         {
           "title": "特朗普：泰柬冲突将停火 美国才是“真正的联合国”",
@@ -979,11 +979,12 @@
             25,
             18,
             15,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时14分 ~ 20时26分]"
+          "appearance_count": 29,
+          "time_info": "[00时14分 ~ 21时32分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -1168,7 +1169,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股冲刺历史新高 年末聚焦美联储政策与板块轮动",
@@ -1193,6 +1194,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "受科技股拖累，美股指期货走低，现货白银跳水日内大跌6%，伦铜逼近13000美元，WTI原油涨逾2%",
+          "url": "https://wallstreetcn.com/articles/3762238",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时32分"
         },
         {
           "title": "受科技股拖累，美股指期货走低，贵金属全线回落，现货白银新高后跳水日内大跌6%，WTI原油涨逾2%",
@@ -1283,22 +1295,24 @@
           "url": "https://www.cls.cn/detail/2242969",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时12分 ~ 20时26分]"
+          "appearance_count": 4,
+          "time_info": "[19时12分 ~ 21时32分]"
         },
         {
           "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
           "url": "https://wallstreetcn.com/articles/3762071",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时25分 ~ 20时26分]"
+          "appearance_count": 3,
+          "time_info": "[20时25分 ~ 21时32分]"
         }
       ]
     },
