@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-30T22:14:06.586436+08:00",
-  "total_titles_processed": 1842,
+  "generated_at": "2025-12-30T23:13:53.095368+08:00",
+  "total_titles_processed": 1937,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 109,
+      "match_count": 110,
       "titles": [
+        {
+          "title": "外交部回应特朗普涉中国军演言论",
+          "url": "https://news.ifeng.com/c/8pVVKejSSSi",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时18分 ~ 23时13分]"
+        },
         {
           "title": "普京一个电话后，特朗普怒了",
           "url": "https://news.ifeng.com/c/8pUyRCwSPET",
@@ -31,17 +42,6 @@
           "time_info": "[02时19分 ~ 07时12分]"
         },
         {
-          "title": "外交部回应特朗普涉中国军演言论",
-          "url": "https://news.ifeng.com/c/8pVVKejSSSi",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时18分 ~ 22时14分]"
-        },
-        {
           "title": "美对委境内发动军事打击，特朗普：他们装毒品的码头区不存在了",
           "url": "https://news.ifeng.com/c/8pVTEbBDKdx",
           "source": "凤凰网",
@@ -63,8 +63,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时57分 ~ 22时14分]"
+          "appearance_count": 18,
+          "time_info": "[08时57分 ~ 23时13分]"
         },
         {
           "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
@@ -78,8 +78,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时58分 ~ 22时14分]"
+          "appearance_count": 14,
+          "time_info": "[11时58分 ~ 23时13分]"
         },
         {
           "title": "得知普京官邸遭袭，特朗普：我很生气！",
@@ -93,8 +93,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时20分 ~ 22时14分]"
+          "appearance_count": 11,
+          "time_info": "[14时20分 ~ 23时13分]"
         },
         {
           "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
@@ -125,6 +125,32 @@
           "time_info": "[08时57分 ~ 13时17分]"
         },
         {
+          "title": "特朗普称美对委进行首次陆地打击",
+          "url": "https://www.douyin.com/hot/2352186",
+          "source": "抖音",
+          "ranks": [
+            5,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时14分 ~ 23时13分]"
+        },
+        {
+          "title": "特朗普称不担心解放军绕台军演",
+          "url": "https://www.douyin.com/hot/2351614",
+          "source": "抖音",
+          "ranks": [
+            19,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时17分 ~ 23时13分]"
+        },
+        {
           "title": "普京称官邸遭袭 特朗普回应",
           "url": "https://www.douyin.com/hot/2351475",
           "source": "抖音",
@@ -141,17 +167,15 @@
           "time_info": "[13时17分 ~ 19时12分]"
         },
         {
-          "title": "特朗普称美对委进行首次陆地打击",
-          "url": "https://www.douyin.com/hot/2352186",
-          "source": "抖音",
+          "title": "普京通知特朗普自己官邸遇袭，泽连斯基：完全的捏造",
+          "url": "https://news.ifeng.com/c/8pVTIAwBtvp",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            14,
-            13
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时14分 ~ 22时14分]"
+          "appearance_count": 7,
+          "time_info": "[18时14分 ~ 23时13分]"
         },
         {
           "title": "特朗普称对中方此次军演不担忧，外交部回应",
@@ -167,19 +191,6 @@
           "time_info": "[17时17分 ~ 22时14分]"
         },
         {
-          "title": "特朗普称不担心解放军绕台军演",
-          "url": "https://www.douyin.com/hot/2351614",
-          "source": "抖音",
-          "ranks": [
-            19,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时17分 ~ 22时14分]"
-        },
-        {
           "title": "特朗普称得知普京官邸遭袭很生气",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%BE%97%E7%9F%A5%E6%99%AE%E4%BA%AC%E5%AE%98%E9%82%B8%E9%81%AD%E8%A2%AD%E5%BE%88%E7%94%9F%E6%B0%94%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
@@ -189,17 +200,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时57分 ~ 08时58分]"
-        },
-        {
-          "title": "普京通知特朗普自己官邸遇袭，泽连斯基：完全的捏造",
-          "url": "https://news.ifeng.com/c/8pVTIAwBtvp",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时14分 ~ 22时14分]"
         },
         {
           "title": "特朗普：普京说他被袭击了 我很生气",
@@ -324,6 +324,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[19时12分 ~ 22时14分]"
+        },
+        {
+          "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
+          "url": "https://wallstreetcn.com/articles/3762272",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时17分 ~ 23时13分]"
         },
         {
           "title": "美国总统特朗普：现在（还）不是（乌克兰）袭击俄罗斯总统普京住所的时候。 普京告诉我有关乌克兰（对其住所）发动袭击的事。 从普京那里听到的事情让我非常生气。",
@@ -488,18 +500,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 01时12分]"
-        },
-        {
-          "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
-          "url": "https://wallstreetcn.com/articles/3762272",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时17分 ~ 20时24分]"
         },
         {
           "title": "美国总统特朗普：俄罗斯总统普京告诉我，他的官邸遭到乌克兰袭击。（就该事件）我不认同此类行为。",
@@ -1298,6 +1298,17 @@
           "time_info": "06时12分"
         },
         {
+          "title": "美国法官叫停美国总统特朗普政府终止对南苏丹国民驱逐出境临时保护的计划。",
+          "url": "https://flash.jin10.com/detail/20251230221758554800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "美国总统特朗普：我们拭目以待黎巴嫩解除真主党武装的努力，真主党一直表现得很糟糕。伊朗的行为或许有些不当，但这尚未得到证实。",
           "url": "https://flash.jin10.com/detail/20251230050729543800",
           "source": "金十数据",
@@ -1312,7 +1323,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
@@ -1322,11 +1333,12 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时17分 ~ 22时14分]"
+          "appearance_count": 12,
+          "time_info": "[13时17分 ~ 23时13分]"
         },
         {
           "title": "盘点2025年度AI大事件",
@@ -1340,11 +1352,12 @@
             9,
             8,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时58分 ~ 22时14分]"
+          "appearance_count": 13,
+          "time_info": "[11时58分 ~ 23时13分]"
         },
         {
           "title": "原告向法庭出示带豆包生成伪证被训诫，这一处罚合理吗? 若未来 AI 造假无破绽，司法与公众该如何应对？",
@@ -1363,6 +1376,20 @@
           "time_info": "[10时53分 ~ 19时12分]"
         },
         {
+          "title": "“AI+教育”成这场收官发布会重头戏 明年将出台相关政策",
+          "url": "https://www.cls.cn/detail/2244074",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时17分 ~ 23时13分]"
+        },
+        {
           "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
           "url": "https://www.cls.cn/detail/2243270",
           "source": "财联社热门",
@@ -1376,20 +1403,6 @@
           "time_info": "[00时15分 ~ 10时54分]"
         },
         {
-          "title": "“AI+教育”成这场收官发布会重头戏 明年将出台相关政策",
-          "url": "https://www.cls.cn/detail/2244074",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时17分 ~ 22时14分]"
-        },
-        {
           "title": "AI造假当庭露馅,法官严斥伪造者",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348548&amp;topic_name=AI%E9%80%A0%E5%81%87%E5%BD%93%E5%BA%AD%E9%9C%B2%E9%A6%85%2C%E6%B3%95%E5%AE%98%E4%B8%A5%E6%96%A5%E4%BC%AA%E9%80%A0%E8%80%85",
           "source": "贴吧",
@@ -1401,8 +1414,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时20分 ~ 22时14分]"
+          "appearance_count": 11,
+          "time_info": "[14时20分 ~ 23时13分]"
         },
         {
           "title": "2025最全AI成果盘点",
@@ -1453,6 +1466,19 @@
           "time_info": "[01时11分 ~ 10时54分]"
         },
         {
+          "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
+          "url": "https://www.cls.cn/detail/2244203",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时14分 ~ 23时13分]"
+        },
+        {
           "title": "“AI教父”拉响警报",
           "url": "https://www.baidu.com/s?wd=%E2%80%9CAI%E6%95%99%E7%88%B6%E2%80%9D%E6%8B%89%E5%93%8D%E8%AD%A6%E6%8A%A5",
           "source": "百度热搜",
@@ -1479,19 +1505,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时58分 ~ 16时18分]"
-        },
-        {
-          "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
-          "url": "https://www.cls.cn/detail/2244203",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时14分 ~ 22时14分]"
         },
         {
           "title": "泰柬与AI如何影响全球经济",
@@ -1613,6 +1626,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "顶级投资人段永平看好AI医疗",
+          "url": "https://wallstreetcn.com/livenews/3028830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "独居女生深夜肠胃炎靠AI自救脱险",
           "url": "https://s.weibo.com/weibo?q=%23%E7%8B%AC%E5%B1%85%E5%A5%B3%E7%94%9F%E6%B7%B1%E5%A4%9C%E8%82%A0%E8%83%83%E7%82%8E%E9%9D%A0AI%E8%87%AA%E6%95%91%E8%84%B1%E9%99%A9%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -1649,7 +1673,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 23,
       "titles": [
         {
           "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
@@ -1659,8 +1683,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[08时57分 ~ 22时14分]"
+          "appearance_count": 18,
+          "time_info": "[08时57分 ~ 23时13分]"
         },
         {
           "title": "美股指集体低开，纳指跌超0.7%，现货黄金单日跌超100美元，白银暴跌8%，伦铜逼近13000美元",
@@ -1766,6 +1790,18 @@
           "time_info": "02时19分"
         },
         {
+          "title": "静待美联储会议纪要，美股指期货持平，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
+          "url": "https://wallstreetcn.com/articles/3762305",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时13分 ~ 23时13分]"
+        },
+        {
           "title": "（美股）费城金银指数收跌5.21%，报344.29点。 （全球时段）纽约证交所ARCA金矿开采商指数收跌4.76%，报2449.98点，北京时间22:30美股开盘时跳空（加速）下跌。 原材料指数跌1.59%，金属与矿业指数跌1.95%。",
           "url": "https://wallstreetcn.com/livenews/3028344",
           "source": "华尔街见闻-快讯",
@@ -1776,6 +1812,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时12分 ~ 07时12分]"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3028816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时14分 ~ 23时13分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌3.27%，英伟达跌1.21%",
@@ -1790,26 +1838,48 @@
           "time_info": "[06时12分 ~ 07时12分]"
         },
         {
-          "title": "静待美联储会议纪要，美股指期货持平，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
-          "url": "https://wallstreetcn.com/articles/3762305",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时13分 ~ 22时14分]"
-        },
-        {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3028816",
+          "title": "行业ETF美股盘初多数走低，可选消费ETF、生物科技指数ETF跌超0.4%，网络股指数ETF跌约0.3%，全球科技股指数ETF涨0.1%，半导体ETF涨超0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3028834",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时14分"
+          "time_info": "23时13分"
+        },
+        {
+          "title": "美股开盘：百度高开超4%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E9%AB%98%E5%BC%80%E8%B6%854%25",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "美股三大股指相继转涨。",
+          "url": "https://flash.jin10.com/detail/20251230225658830800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "白银价格大幅反弹 美股三大期指微跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2244587",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "航空业ETF收跌将近1.3%，领跌美股行业ETF",
@@ -1832,12 +1902,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
+        },
+        {
+          "title": "金十图示：2025年12月30日（周二）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251230223703332800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "美股热门中概股多数高开，百度(BIDU.O)涨5.6%，蔚来汽车(NIO.N)、小鹏汽车(XPEV.N)涨超3%，网易(NTES.O)涨超2%，台积电(TSM.N)、哔哩哔哩(BILI.O)、阿里巴巴(BABA.N)涨超0.3%。",
+          "url": "https://flash.jin10.com/detail/20251230223250434800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "美股开盘，道指跌0.06%，标普500指数跌0.05%，纳指跌0.04%。矿业股普涨，金田(GFI.N)、泛美白银(PAAS.O)、哈莫尼黄金(HMY.N)涨约3%，科尔黛伦矿业(CDE.N)、纽蒙特矿业(NEM.N)涨超2%。",
+          "url": "https://flash.jin10.com/detail/20251230223027479800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "市场消息：俄罗斯总统普京与伊朗总统佩泽什基扬进行了通话。",
@@ -1860,6 +1963,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时24分"
+        },
+        {
+          "title": "美国更新对伊朗相关制裁名单中的指定对象。",
+          "url": "https://flash.jin10.com/detail/20251230230520346800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         },
         {
           "title": "伊朗里亚尔 (Iranian Rial)兑美元跌至145万，创历史新低。",
@@ -1886,6 +2000,17 @@
           "time_info": "18时14分"
         },
         {
+          "title": "俄罗斯伊朗两国总统通电话 讨论伊核计划等事",
+          "url": "https://wallstreetcn.com/livenews/3028833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "市场消息：伊朗德黑兰和伊斯法罕发生学生抗议活动。",
           "url": "https://flash.jin10.com/detail/20251230193448582800",
           "source": "金十数据",
@@ -1903,7 +2028,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时14分"
         },
@@ -1922,7 +2047,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "金价跌至每盎司 4346 美元，白银跌幅一度逼近 9%，为何国际金、银价格会大幅下跌？",
@@ -1976,6 +2101,17 @@
           "time_info": "10时54分"
         },
         {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
           "title": "金十图示：2025年12月30日（周二）上海金午盘价为980.74元/克，较国际金价(983.6元/克)，低2.86元/克",
           "url": "https://flash.jin10.com/detail/20251230155139232800",
           "source": "金十数据",
@@ -1985,6 +2121,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时18分"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         }
       ]
     },
@@ -2060,6 +2207,34 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时15分 ~ 16时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "报道：软银已完成对OpenAI的400亿美元投资承诺",
+          "url": "https://wallstreetcn.com/livenews/3028826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
+        },
+        {
+          "title": "消息人士：软银已完成对OpenAI 400亿美元的投资承诺",
+          "url": "https://flash.jin10.com/detail/20251230222113988800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时13分"
         }
       ]
     },
