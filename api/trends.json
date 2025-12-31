@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T17:17:07.010893+08:00",
-  "total_titles_processed": 1448,
+  "generated_at": "2025-12-31T18:13:56.334062+08:00",
+  "total_titles_processed": 1536,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI agent",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
@@ -68,6 +68,22 @@
           "time_info": "[00时16分 ~ 15时18分]"
         },
         {
+          "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32289346",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            15,
+            14,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时54分 ~ 18时13分]"
+        },
+        {
           "title": "【焦点复盘】科创50指数收涨超1%，国产算力概念全天亮眼，AI智能体概念异军突起",
           "url": "https://www.cls.cn/detail/2244203",
           "source": "财联社热门",
@@ -78,21 +94,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时16分 ~ 07时12分]"
-        },
-        {
-          "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32289346",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时54分 ~ 17时17分]"
         },
         {
           "title": "AI造假当庭露馅,法官严斥伪造者",
@@ -108,6 +109,19 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时16分 ~ 14时20分]"
+        },
+        {
+          "title": "【午报】创业板指冲高回落跌超1%，AI应用逆势爆发，商业航天概念股反复活跃",
+          "url": "https://www.cls.cn/detail/2245117",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时17分 ~ 18时13分]"
         },
         {
           "title": "国家广播电视总局部署开展“AI魔改”视频专项治理。",
@@ -131,19 +145,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时54分 ~ 12时34分]"
-        },
-        {
-          "title": "【午报】创业板指冲高回落跌超1%，AI应用逆势爆发，商业航天概念股反复活跃",
-          "url": "https://www.cls.cn/detail/2245117",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时17分 ~ 17时17分]"
         },
         {
           "title": "AI耳机销量涨超600%，智能穿戴设备功能持续提升",
@@ -290,6 +291,17 @@
           "time_info": "02时19分"
         },
         {
+          "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
+          "url": "https://www.cls.cn/detail/2245529",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "产值冲刺8000亿元，全球市场占比近54%，新型显示从“链式生态” 迈向“AI+显示”新纪元",
           "url": "https://wallstreetcn.com/livenews/3028945",
           "source": "华尔街见闻-快讯",
@@ -310,6 +322,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        },
+        {
+          "title": "【焦点复盘】银行等权重板块护盘，沪指追平日线连阳历史纪录，AI软硬件分化再现",
+          "url": "https://www.cls.cn/detail/2245628",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "向低质AI内容说不",
@@ -414,7 +437,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "外交部回应特朗普涉中国军演言论",
@@ -625,6 +648,17 @@
           "time_info": "00时16分"
         },
         {
+          "title": "李在明展示特朗普送的白宫金钥匙(图)",
+          "url": "https://news.ifeng.com/c/8pWu87Onyz4",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "特朗普集团旗下Trump Mobile推迟原定于今年发布的金色智能手机",
           "url": "https://flash.jin10.com/detail/20251231131511777800",
           "source": "金十数据",
@@ -727,8 +761,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时58分 ~ 17时17分]"
+          "appearance_count": 13,
+          "time_info": "[08时58分 ~ 18时13分]"
         },
         {
           "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
@@ -911,7 +945,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "伊朗外长：伊朗不会放弃和平核技术",
@@ -936,6 +970,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时16分 ~ 17时17分]"
+        },
+        {
+          "title": "内塔尼亚胡喊话伊朗：不要犯这样的错误",
+          "url": "https://news.ifeng.com/c/8pXFMyQDXcJ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "伊朗外长：伊朗不会放弃和平核技术",
