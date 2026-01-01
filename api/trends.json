@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T21:28:29.019861+08:00",
-  "total_titles_processed": 1442,
+  "generated_at": "2026-01-01T22:12:50.136064+08:00",
+  "total_titles_processed": 1488,
   "failed_sources": [],
   "trends": [
     {
@@ -47,6 +47,20 @@
           "time_info": "05时11分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
+          "url": "https://flash.jin10.com/detail/20260101184638613800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            9,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时12分 ~ 22时12分]"
+        },
+        {
           "title": "迫于物价压力 特朗普推迟对家具及橱柜加征关税至2027年",
           "url": "https://flash.jin10.com/detail/20260101113737125800",
           "source": "金十数据",
@@ -71,19 +85,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时13分 ~ 09时04分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
-          "url": "https://flash.jin10.com/detail/20260101184638613800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时12分 ~ 21时28分]"
         },
         {
           "title": "美国总统特朗普：共和党人别再给保险公司钱了。资金必须直接流向民众，让他们自行购买医疗保险。",
@@ -244,8 +245,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时20分 ~ 21时28分]"
+          "appearance_count": 12,
+          "time_info": "[14时20分 ~ 22时12分]"
         },
         {
           "title": "国家广电总局专项治理“AI魔改”视频：重点清理基于四大名著等“魔改”内容",
@@ -283,8 +284,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时04分 ~ 20时24分]"
+          "appearance_count": 15,
+          "time_info": "[09时04分 ~ 22时12分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -294,8 +295,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时43分 ~ 21时28分]"
+          "appearance_count": 15,
+          "time_info": "[11时43分 ~ 22时12分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -305,8 +306,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时43分 ~ 21时28分]"
+          "appearance_count": 15,
+          "time_info": "[11时43分 ~ 22时12分]"
         },
         {
           "title": "【每日收评】沪指11连阳收官！商业航天卷土重来，AI应用端强势延续",
@@ -319,6 +320,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时15分 ~ 07时12分]"
+        },
+        {
+          "title": "AI魔改翻车,广电出手救名著",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348618&amp;topic_name=AI%E9%AD%94%E6%94%B9%E7%BF%BB%E8%BD%A6%2C%E5%B9%BF%E7%94%B5%E5%87%BA%E6%89%8B%E6%95%91%E5%90%8D%E8%91%97",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            12,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时16分 ~ 22时12分]"
         },
         {
           "title": "AI魔改翻车!广电出手救名著",
@@ -334,19 +349,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时43分 ~ 16时18分]"
-        },
-        {
-          "title": "AI魔改翻车,广电出手救名著",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348618&amp;topic_name=AI%E9%AD%94%E6%94%B9%E7%BF%BB%E8%BD%A6%2C%E5%B9%BF%E7%94%B5%E5%87%BA%E6%89%8B%E6%95%91%E5%90%8D%E8%91%97",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时16分 ~ 21时28分]"
         },
         {
           "title": "2026年全球经济十大悬念：AI泡沫会破吗？黄金会否冲破5000？泽连斯基会妥协吗?",
@@ -473,8 +475,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时04分 ~ 21时28分]"
+          "appearance_count": 16,
+          "time_info": "[09时04分 ~ 22时12分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
@@ -587,8 +589,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时11分 ~ 21时28分]"
+          "appearance_count": 6,
+          "time_info": "[19时11分 ~ 22时12分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文 开启架构新篇章",
@@ -599,11 +601,12 @@
             7,
             11,
             17,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时17分 ~ 21时28分]"
+          "appearance_count": 6,
+          "time_info": "[17时17分 ~ 22时12分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文：提出mHC新架构 提升大模型训练稳定性",
@@ -618,6 +621,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时14分 ~ 21时28分]"
+        },
+        {
+          "title": "DeepSeek开年发布新论文",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E5%B9%B4%E5%8F%91%E5%B8%83%E6%96%B0%E8%AE%BA%E6%96%87",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 22时12分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -636,22 +651,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%88%E5%8F%91%E8%AE%BA%E6%96%87%E4%BA%86",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            14,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "DeepSeek开年发布新论文",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E5%B9%B4%E5%8F%91%E5%B8%83%E6%96%B0%E8%AE%BA%E6%96%87",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时28分 ~ 22时12分]"
         }
       ]
     },
@@ -707,11 +712,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 21时28分]"
+          "appearance_count": 3,
+          "time_info": "[20时24分 ~ 22时12分]"
         },
         {
           "title": "伊朗总统：伊朗正处于一场全面战争中",
@@ -719,11 +725,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时24分 ~ 21时28分]"
+          "appearance_count": 3,
+          "time_info": "[20时24分 ~ 22时12分]"
         },
         {
           "title": "内塔尼亚胡喊话伊朗",
