@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T14:20:51.191555+08:00",
-  "total_titles_processed": 1040,
+  "generated_at": "2026-01-01T15:16:44.673168+08:00",
+  "total_titles_processed": 1091,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时04分 ~ 14时20分]"
+          "appearance_count": 6,
+          "time_info": "[09时04分 ~ 15时16分]"
         },
         {
           "title": "中方回应特朗普涉东部战区军演言论",
@@ -266,8 +266,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时43分 ~ 14时20分]"
+          "appearance_count": 5,
+          "time_info": "[11时43分 ~ 15时16分]"
         },
         {
           "title": "2026年全球经济十大悬念：AI泡沫会破吗？黄金会否冲破5000？泽连斯基会妥协吗?",
@@ -279,8 +279,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时04分 ~ 14时20分]"
+          "appearance_count": 6,
+          "time_info": "[09时04分 ~ 15时16分]"
         },
         {
           "title": "“AI教父”警告：AI显现自我保护迹象，人类应做好“拔掉插头”的准备",
@@ -292,8 +292,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时04分 ~ 14时20分]"
+          "appearance_count": 6,
+          "time_info": "[09时04分 ~ 15时16分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -303,8 +303,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时43分 ~ 14时20分]"
+          "appearance_count": 5,
+          "time_info": "[11时43分 ~ 15时16分]"
         },
         {
           "title": "给AI内容“卸妆” 一眼辨真伪",
@@ -314,8 +314,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时43分 ~ 14时20分]"
+          "appearance_count": 5,
+          "time_info": "[11时43分 ~ 15时16分]"
         },
         {
           "title": "法国总统马克龙：呼吁欧洲在AI和量子计算技术领域实现独立。",
@@ -344,6 +344,18 @@
           "time_info": "[11时43分 ~ 13时21分]"
         },
         {
+          "title": "展望半导体2026三大关键词：存储、AI、国产化",
+          "url": "https://www.cls.cn/detail/2245258",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时20分 ~ 15时16分]"
+        },
+        {
           "title": "明查｜不是AI！这是贵州“荒山再利用”光伏项目",
           "url": "https://m.thepaper.cn/newsDetail_forward_32282883",
           "source": "澎湃新闻",
@@ -354,17 +366,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时12分 ~ 09时04分]"
-        },
-        {
-          "title": "展望半导体2026三大关键词：存储、AI、国产化",
-          "url": "https://www.cls.cn/detail/2245258",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时20分"
         },
         {
           "title": "报道：英伟达正投资布鲁克菲尔德AI基础设施基金",
@@ -395,7 +396,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         }
@@ -437,8 +438,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时04分 ~ 14时20分]"
+          "appearance_count": 6,
+          "time_info": "[09时04分 ~ 15时16分]"
         },
         {
           "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股盘中）",
@@ -584,8 +585,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时04分 ~ 14时20分]"
+          "appearance_count": 6,
+          "time_info": "[09时04分 ~ 15时16分]"
         }
       ]
     },
