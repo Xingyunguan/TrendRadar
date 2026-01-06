@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T10:57:07.643047+08:00",
-  "total_titles_processed": 1018,
+  "generated_at": "2026-01-06T12:01:30.437405+08:00",
+  "total_titles_processed": 1098,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 60,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -83,8 +83,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时17分 ~ 10时57分]"
+          "appearance_count": 17,
+          "time_info": "[00时17分 ~ 12时01分]"
         },
         {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
@@ -123,6 +123,17 @@
           "time_info": "[01时16分 ~ 08时59分]"
         },
         {
+          "title": "美视马杜罗案高度敏感，批评者：想象可否绑架特朗普",
+          "url": "https://news.ifeng.com/c/8pgdYCJGTs1",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时56分 ~ 12时01分]"
+        },
+        {
           "title": "特朗普对印度买俄石油发出最后通牒",
           "url": "https://www.toutiao.com/trending/7591650384435888171/",
           "source": "今日头条",
@@ -134,17 +145,6 @@
           "time_info": "[00时17分 ~ 00时18分]"
         },
         {
-          "title": "美视马杜罗案高度敏感，批评者：想象可否绑架特朗普",
-          "url": "https://news.ifeng.com/c/8pgdYCJGTs1",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 10时57分]"
-        },
-        {
           "title": "据NBC：美国总统特朗普表示，该项目可能只需不到18个月。",
           "url": "https://flash.jin10.com/detail/20260106070427283800",
           "source": "金十数据",
@@ -154,6 +154,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "墨总统回应特朗普：合作可以干预不行",
+          "url": "https://www.toutiao.com/trending/7591151766478290986/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            10,
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时59分 ~ 12时01分]"
         },
         {
           "title": "据NBC：美国总统特朗普表示，美国可能会资助石油公司重建该国能源基础设施。",
@@ -211,6 +225,28 @@
           "time_info": "07时13分"
         },
         {
+          "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
+          "url": "https://www.zhihu.com/question/1991570437310740440",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时59分 ~ 12时01分]"
+        },
+        {
+          "title": "特朗普绑架马杜罗后，台湾岛内有人开始害怕了",
+          "url": "https://news.ifeng.com/c/8pgiEdwqhPP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时56分 ~ 12时01分]"
+        },
+        {
           "title": "美国本周将会见石油高管们，讨论（特朗普政府掳走委内瑞拉总统马杜罗之后的）委国“复苏”问题。",
           "url": "https://wallstreetcn.com/livenews/3031051",
           "source": "华尔街见闻-快讯",
@@ -224,17 +260,15 @@
           "time_info": "[02时20分 ~ 04时15分]"
         },
         {
-          "title": "墨总统回应特朗普：合作可以干预不行",
-          "url": "https://www.toutiao.com/trending/7591151766478290986/",
-          "source": "今日头条",
+          "title": "特朗普想“一口闷”委石油，美巨头却“不给面子”",
+          "url": "https://news.ifeng.com/c/8pgcXc4Nym2",
+          "source": "凤凰网",
           "ranks": [
-            4,
-            10,
-            11
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时59分 ~ 10时57分]"
+          "appearance_count": 4,
+          "time_info": "[10时56分 ~ 12时01分]"
         },
         {
           "title": "墨西哥总统回应特朗普：合作可以，干预不行",
@@ -247,6 +281,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 01时16分]"
+        },
+        {
+          "title": "特朗普放话“我们绝对需要格陵兰岛”，丹麦强硬回击",
+          "url": "https://news.ifeng.com/c/8pgZkuVTOGk",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时56分 ~ 12时01分]"
         },
         {
           "title": "马杜罗被俘虏后，特朗普拿着“让伊朗再次伟大”的帽子拍照",
@@ -284,15 +329,16 @@
           "time_info": "[00时17分 ~ 02时20分]"
         },
         {
-          "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
-          "url": "https://www.zhihu.com/question/1991570437310740440",
-          "source": "知乎",
+          "title": "中方回应特朗普威胁古巴等国",
+          "url": "https://www.douyin.com/hot/2358268",
+          "source": "抖音",
           "ranks": [
-            11
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时59分 ~ 10时57分]"
+          "appearance_count": 4,
+          "time_info": "[10时56分 ~ 12时01分]"
         },
         {
           "title": "格陵兰岛总理强硬表态：特朗普必须放弃“吞并幻想”",
@@ -307,28 +353,6 @@
           "time_info": "[08时59分 ~ 10时57分]"
         },
         {
-          "title": "特朗普绑架马杜罗后，台湾岛内有人开始害怕了",
-          "url": "https://news.ifeng.com/c/8pgiEdwqhPP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 10时57分]"
-        },
-        {
-          "title": "特朗普想“一口闷”委石油，美巨头却“不给面子”",
-          "url": "https://news.ifeng.com/c/8pgcXc4Nym2",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 10时57分]"
-        },
-        {
           "title": "美国参议院多数党领袖John Thune：事先并不知道特朗普要袭击委内瑞拉。",
           "url": "https://wallstreetcn.com/livenews/3031091",
           "source": "华尔街见闻-快讯",
@@ -339,17 +363,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时13分 ~ 06时13分]"
-        },
-        {
-          "title": "特朗普放话“我们绝对需要格陵兰岛”，丹麦强硬回击",
-          "url": "https://news.ifeng.com/c/8pgZkuVTOGk",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 10时57分]"
         },
         {
           "title": "英国外交大臣Cooper：格陵兰岛的未来由格陵兰岛和丹麦决定，而非（特朗普政府等）其他方面来决定。",
@@ -364,15 +377,15 @@
           "time_info": "[03时15分 ~ 04时15分]"
         },
         {
-          "title": "中方回应特朗普威胁古巴等国",
-          "url": "https://www.douyin.com/hot/2358268",
-          "source": "抖音",
+          "title": "特朗普在变成第二个拜登吗",
+          "url": "https://www.toutiao.com/trending/7592036422320655891/",
+          "source": "今日头条",
           "ranks": [
-            14
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时56分 ~ 10时57分]"
+          "time_info": "[11时59分 ~ 12时01分]"
         },
         {
           "title": "美国在联合国会议上遭猛烈抨击，美方辩称特朗普无意占领委内瑞拉",
@@ -387,6 +400,18 @@
           "time_info": "[03时15分 ~ 04时15分]"
         },
         {
+          "title": "格陵兰岛总理回应特朗普",
+          "url": "https://www.douyin.com/hot/2358627",
+          "source": "抖音",
+          "ranks": [
+            21,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 12时01分]"
+        },
+        {
           "title": "特朗普一天之内威胁多国",
           "url": "https://www.toutiao.com/trending/7591841454150913599/",
           "source": "今日头条",
@@ -396,6 +421,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 00时18分]"
+        },
+        {
+          "title": "特朗普说美需要格陵兰岛 欧洲怎么想",
+          "url": "https://www.toutiao.com/trending/7592021922519453234/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 12时01分]"
         },
         {
           "title": "特朗普涉印度表态让印网民不满",
@@ -437,7 +473,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -558,7 +594,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -591,7 +627,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -613,7 +649,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -665,7 +701,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
@@ -678,8 +714,24 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时17分 ~ 10时57分]"
+          "appearance_count": 17,
+          "time_info": "[00时17分 ~ 12时01分]"
+        },
+        {
+          "title": "AI说啥我穿啥",
+          "url": "https://www.douyin.com/hot/2357791",
+          "source": "抖音",
+          "ranks": [
+            22,
+            17,
+            28,
+            19,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[02时20分 ~ 12时01分]"
         },
         {
           "title": "B站AI大赛开始了",
@@ -699,21 +751,6 @@
           "time_info": "[01时16分 ~ 10时57分]"
         },
         {
-          "title": "AI说啥我穿啥",
-          "url": "https://www.douyin.com/hot/2357791",
-          "source": "抖音",
-          "ranks": [
-            22,
-            17,
-            28,
-            19,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时20分 ~ 10时57分]"
-        },
-        {
           "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
           "url": "https://www.cls.cn/detail/2248593",
           "source": "财联社热门",
@@ -723,8 +760,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时12分 ~ 10时57分]"
+          "appearance_count": 7,
+          "time_info": "[07时12分 ~ 12时01分]"
         },
         {
           "title": "智谱AI在厦门投资成立新公司",
@@ -736,6 +773,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "抖音：2025年AI兴趣用户增长翻倍",
+          "url": "https://wallstreetcn.com/livenews/3031344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        },
+        {
+          "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9AAI%E8%B6%85%E7%BA%A7%E8%8A%AF%E7%89%87%E5%B9%B3%E5%8F%B0Rubin%E5%85%A8%E9%9D%A2%E6%8A%95%E4%BA%A7",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时59分 ~ 12时01分]"
         },
         {
           "title": "英伟达发布首个专为自动驾驶汽车设计的“推理”AI",
@@ -762,16 +822,16 @@
           "time_info": "[06时13分 ~ 07时13分]"
         },
         {
-          "title": "黄仁勋：AI超级芯片平台Rubin全面投产",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9AAI%E8%B6%85%E7%BA%A7%E8%8A%AF%E7%89%87%E5%B9%B3%E5%8F%B0Rubin%E5%85%A8%E9%9D%A2%E6%8A%95%E4%BA%A7",
-          "source": "百度热搜",
+          "title": "全域AI能给汽车带来什么",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9F%9FAI%E8%83%BD%E7%BB%99%E6%B1%BD%E8%BD%A6%E5%B8%A6%E6%9D%A5%E4%BB%80%E4%B9%88%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
             19,
-            26
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时59分 ~ 10时57分]"
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 12时01分]"
         },
         {
           "title": "惠普新3K笔记本比Macbook Air更薄",
@@ -863,6 +923,17 @@
           "time_info": "07时13分"
         },
         {
+          "title": "AMD首席执行官苏姿丰在CES上表示：下一代MI500系列的开发工作已全面展开。 我们正按计划实现AI性能提升1000倍的目标。",
+          "url": "https://wallstreetcn.com/livenews/3031328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        },
+        {
           "title": "波士顿动力机器人首次进厂干活，现代汽车正式公布集团级AI机器人战略",
           "url": "https://wallstreetcn.com/livenews/3031036",
           "source": "华尔街见闻-快讯",
@@ -883,6 +954,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "AMD推出全新的Ryzen AI 400及PRO 400系列处理器。 AMD面向AI PC和嵌入式应用推出全新的AMD Ryzen AI平台。",
+          "url": "https://wallstreetcn.com/livenews/3031327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
         },
         {
           "title": "英伟达(NVDA.O)：微软的“Fairwater”人工智能超级工厂将扩展至配备数十万块英伟达Vera Rubin超级芯片。",
@@ -947,19 +1029,6 @@
           "time_info": "[00时17分 ~ 06时13分]"
         },
         {
-          "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2248463",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时17分 ~ 10时57分]"
-        },
-        {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
           "url": "https://wallstreetcn.com/articles/3762559",
           "source": "华尔街见闻",
@@ -968,8 +1037,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时12分 ~ 10时57分]"
+          "appearance_count": 7,
+          "time_info": "[07时12分 ~ 12时01分]"
         },
         {
           "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
@@ -981,8 +1050,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时12分 ~ 10时57分]"
+          "appearance_count": 7,
+          "time_info": "[07时12分 ~ 12时01分]"
+        },
+        {
+          "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2248463",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时17分 ~ 12时01分]"
         },
         {
           "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览（美股收盘）",
@@ -1215,6 +1298,18 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
+          "url": "https://wallstreetcn.com/articles/3762605",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时56分 ~ 12时01分]"
+        },
+        {
           "title": "OpenAI家务机器人售价2万美元",
           "url": "https://wallstreetcn.com/livenews/3031066",
           "source": "华尔街见闻-快讯",
@@ -1226,17 +1321,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时15分 ~ 05时13分]"
-        },
-        {
-          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
-          "url": "https://wallstreetcn.com/articles/3762605",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 10时57分]"
         },
         {
           "title": "OpenAI支持的公司推家务机器人 售价2万美元",
@@ -1278,6 +1362,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "瑞银上调金价目标至5000美元",
+          "url": "https://www.toutiao.com/trending/7592024699937230379/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 12时01分]"
+        },
+        {
           "title": "阿塞拜疆总统坚信金价上涨 国家基金大赚超100亿美元",
           "url": "https://flash.jin10.com/detail/20260106052744835800",
           "source": "金十数据",
@@ -1295,18 +1391,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
-          "title": "瑞银上调金价目标至5000美元",
-          "url": "https://www.toutiao.com/trending/7592024699937230379/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -1409,22 +1494,22 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "大白话解读DeepSeek论文",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%99%BD%E8%AF%9D%E8%A7%A3%E8%AF%BBDeepSeek%E8%AE%BA%E6%96%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时56分 ~ 10时57分]"
-        },
-        {
           "title": "黄仁勋新年第一场演讲提了DeepSeek",
           "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%9C%BA%E6%BC%94%E8%AE%B2%E6%8F%90%E4%BA%86DeepSeek",
           "source": "百度热搜",
           "ranks": [
             16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时56分 ~ 12时01分]"
+        },
+        {
+          "title": "大白话解读DeepSeek论文",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%99%BD%E8%AF%9D%E8%A7%A3%E8%AF%BBDeepSeek%E8%AE%BA%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
