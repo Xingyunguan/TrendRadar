@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T15:20:31.559393+08:00",
-  "total_titles_processed": 1400,
+  "generated_at": "2026-01-06T16:19:37.528000+08:00",
+  "total_titles_processed": 1502,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 65,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -23,11 +23,12 @@
           "url": "https://news.ifeng.com/c/8pgdYCJGTs1",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时56分 ~ 15时20分]"
+          "appearance_count": 10,
+          "time_info": "[10时56分 ~ 16时19分]"
         },
         {
           "title": "美国是否会在哥伦比亚开展行动？特朗普：这听上去挺不错的",
@@ -78,8 +79,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时59分 ~ 15时20分]"
+          "appearance_count": 11,
+          "time_info": "[08时59分 ~ 16时19分]"
         },
         {
           "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
@@ -121,8 +122,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时17分 ~ 15时20分]"
+          "appearance_count": 23,
+          "time_info": "[00时17分 ~ 16时19分]"
         },
         {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
@@ -134,6 +135,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时17分 ~ 07时13分]"
+        },
+        {
+          "title": "中方回应特朗普威胁古巴等国",
+          "url": "https://www.douyin.com/hot/2358268",
+          "source": "抖音",
+          "ranks": [
+            14,
+            16,
+            29,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时56分 ~ 16时19分]"
         },
         {
           "title": "特朗普称格陵兰岛“到处都是中国船只”，外交部驳斥",
@@ -166,20 +181,6 @@
           "source": "凤凰网",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时56分 ~ 15时20分]"
-        },
-        {
-          "title": "中方回应特朗普威胁古巴等国",
-          "url": "https://www.douyin.com/hot/2358268",
-          "source": "抖音",
-          "ranks": [
-            14,
-            16,
-            29,
-            20
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -220,6 +221,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时59分 ~ 12时01分]"
+        },
+        {
+          "title": "特朗普：美国将深度介入委内瑞拉",
+          "url": "https://www.cls.cn/detail/2248692",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时40分 ~ 16时19分]"
+        },
+        {
+          "title": "丹麦首相警告特朗普涉格陵兰岛言论",
+          "url": "https://www.toutiao.com/trending/7592114928259285042/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "据NBC：美国总统特朗普表示，美国可能会资助石油公司重建该国能源基础设施。",
@@ -299,17 +324,30 @@
           "time_info": "[10时56分 ~ 12时40分]"
         },
         {
-          "title": "特朗普：美国将深度介入委内瑞拉",
-          "url": "https://www.cls.cn/detail/2248692",
-          "source": "财联社热门",
+          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
+          "url": "https://wallstreetcn.com/articles/3762615",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            11,
-            12
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[12时40分 ~ 15时20分]"
+          "time_info": "[13时18分 ~ 16时19分]"
+        },
+        {
+          "title": "格陵兰岛总理回应特朗普",
+          "url": "https://www.douyin.com/hot/2358627",
+          "source": "抖音",
+          "ranks": [
+            21,
+            20,
+            29,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 16时19分]"
         },
         {
           "title": "美国本周将会见石油高管们，讨论（特朗普政府掳走委内瑞拉总统马杜罗之后的）委国“复苏”问题。",
@@ -361,17 +399,6 @@
           "time_info": "[05时13分 ~ 06时13分]"
         },
         {
-          "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
-          "url": "https://wallstreetcn.com/articles/3762615",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时18分 ~ 15时20分]"
-        },
-        {
           "title": "下一个打击目标？特朗普威胁对哥伦比亚动武 哥方强烈驳斥",
           "url": "https://www.cls.cn/detail/2248057",
           "source": "财联社热门",
@@ -381,19 +408,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时17分 ~ 02时20分]"
-        },
-        {
-          "title": "格陵兰岛总理回应特朗普",
-          "url": "https://www.douyin.com/hot/2358627",
-          "source": "抖音",
-          "ranks": [
-            21,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 14时21分]"
         },
         {
           "title": "格陵兰岛总理强硬表态：特朗普必须放弃“吞并幻想”",
@@ -755,7 +769,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
@@ -768,8 +782,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时17分 ~ 15时20分]"
+          "appearance_count": 23,
+          "time_info": "[00时17分 ~ 16时19分]"
         },
         {
           "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
@@ -782,8 +796,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时12分 ~ 15时20分]"
+          "appearance_count": 13,
+          "time_info": "[07时12分 ~ 16时19分]"
         },
         {
           "title": "B站AI大赛开始了",
@@ -844,6 +858,17 @@
           "time_info": "[14时20分 ~ 14时21分]"
         },
         {
+          "title": "马斯克旗下AI被指涉色情 欧盟等多方监管机构介入",
+          "url": "https://flash.jin10.com/detail/20260106155623997800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
+        },
+        {
           "title": "智谱AI在厦门投资成立新公司",
           "url": "https://wallstreetcn.com/livenews/3031212",
           "source": "华尔街见闻-快讯",
@@ -853,6 +878,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        },
+        {
+          "title": "阿里Qoder升级补全功能，AI代码采纳率提升65%",
+          "url": "https://wallstreetcn.com/livenews/3031515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "抖音：2025年AI兴趣用户增长翻倍",
@@ -918,6 +954,18 @@
           "time_info": "[11时59分 ~ 12时40分]"
         },
         {
+          "title": "AirPods Pro3马年特别款开箱",
+          "url": "https://www.douyin.com/hot/2358692",
+          "source": "抖音",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时20分 ~ 16时19分]"
+        },
+        {
           "title": "AMD首席执行官苏姿丰在CES上表示：下一代MI500系列的开发工作已全面展开。 我们正按计划实现AI性能提升1000倍的目标。",
           "url": "https://wallstreetcn.com/livenews/3031328",
           "source": "华尔街见闻-快讯",
@@ -974,17 +1022,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
-        },
-        {
-          "title": "AirPods Pro3马年特别款开箱",
-          "url": "https://www.douyin.com/hot/2358692",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时20分"
         },
         {
           "title": "AMD在CES展示多款企业级及消费级AI芯片",
@@ -1103,7 +1140,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -1144,8 +1181,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时12分 ~ 15时20分]"
+          "appearance_count": 13,
+          "time_info": "[07时12分 ~ 16时19分]"
         },
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -1169,8 +1206,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时12分 ~ 15时20分]"
+          "appearance_count": 13,
+          "time_info": "[07时12分 ~ 16时19分]"
         },
         {
           "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
@@ -1328,8 +1365,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时20分 ~ 15时20分]"
+          "appearance_count": 4,
+          "time_info": "[14时20分 ~ 16时19分]"
         },
         {
           "title": "伊朗要求国际原子能机构谴责针对伊朗核设施的犯罪行为",
@@ -1457,7 +1494,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -1478,11 +1515,12 @@
           "url": "https://www.cls.cn/detail/2248953",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时20分 ~ 16时19分]"
         },
         {
           "title": "分析师：降息预期与避险需求推升金价 本周关注关键非农数据",
@@ -1551,11 +1589,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时56分 ~ 15时20分]"
+          "appearance_count": 10,
+          "time_info": "[10时56分 ~ 16时19分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
@@ -1640,7 +1679,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
