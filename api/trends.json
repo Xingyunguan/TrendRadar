@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-01-08T10:57:18.261329+08:00",
-  "total_titles_processed": 989,
-  "failed_sources": [],
+  "generated_at": "2026-01-08T12:01:38.518462+08:00",
+  "total_titles_processed": 1096,
+  "failed_sources": [
+    "bilibili-hot-search"
+  ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 77,
       "titles": [
         {
           "title": "特朗普的下一步，难了",
@@ -15,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 10时57分]"
+          "appearance_count": 18,
+          "time_info": "[00时18分 ~ 12时01分]"
         },
         {
           "title": "特朗普称「委内瑞拉临时政府将向美移交 3 千万至 5 千万桶石油」，委内瑞拉妥协了吗？",
@@ -41,8 +43,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 10时57分]"
+          "appearance_count": 18,
+          "time_info": "[00时18分 ~ 12时01分]"
         },
         {
           "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
@@ -56,6 +58,18 @@
           "time_info": "[00时18分 ~ 07时13分]"
         },
         {
+          "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
+          "url": "https://www.zhihu.com/question/1992497349604438807",
+          "source": "知乎",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 12时01分]"
+        },
+        {
           "title": "美国总统特朗普：Raytheon必须停止回购股票。",
           "url": "https://wallstreetcn.com/livenews/3032696",
           "source": "华尔街见闻-快讯",
@@ -65,6 +79,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "特朗普提出将美军费提至1.5万亿美元",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%87%BA%E5%B0%86%E7%BE%8E%E5%86%9B%E8%B4%B9%E6%8F%90%E8%87%B31.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时00分"
         },
         {
           "title": "英国方面表示，英国首相斯塔默于今晚与美国总统特朗普通话，并阐述了其在格陵兰岛问题上的立场。",
@@ -87,17 +112,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
-        },
-        {
-          "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
-          "url": "https://www.zhihu.com/question/1992497349604438807",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
         },
         {
           "title": "特朗普：将禁止大型机构投资者购买更多独栋住宅",
@@ -221,6 +235,18 @@
           "time_info": "[02时20分 ~ 04时15分]"
         },
         {
+          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 12时01分]"
+        },
+        {
           "title": "特朗普向国防承包商回购股票的做法发出威胁",
           "url": "https://wallstreetcn.com/livenews/3032663",
           "source": "华尔街见闻-快讯",
@@ -303,6 +329,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时19分 ~ 02时20分]"
+        },
+        {
+          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
+          "url": "https://wallstreetcn.com/articles/3762789",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时00分 ~ 12时01分]"
+        },
+        {
+          "title": "特朗普威胁吞并格陵兰岛，六种棋局推演",
+          "url": "https://news.ifeng.com/c/8pk5HcG7PZo",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时00分 ~ 12时01分]"
         },
         {
           "title": "特朗普：美国2027年的军费预算应提升至1.5万亿美元",
@@ -388,6 +436,17 @@
           "time_info": "07时13分"
         },
         {
+          "title": "美国总统特朗普：将于美东时间周四下午5:30参加政策会议。",
+          "url": "https://flash.jin10.com/detail/20260108114002884800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        },
+        {
           "title": "特朗普住房新政引发震荡 黑石集团股价应声重挫逾9%",
           "url": "https://flash.jin10.com/detail/20260108023113755800",
           "source": "金十数据",
@@ -460,7 +519,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -537,18 +596,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
-          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -614,7 +662,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -625,7 +673,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -757,7 +805,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -790,7 +838,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -834,7 +882,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         }
@@ -842,7 +890,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "直播电商新规强化AI内容监管",
@@ -852,8 +900,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时19分 ~ 10时57分]"
+          "appearance_count": 15,
+          "time_info": "[02时19分 ~ 12时01分]"
         },
         {
           "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
@@ -866,8 +914,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 10时57分]"
+          "appearance_count": 18,
+          "time_info": "[00时18分 ~ 12时01分]"
         },
         {
           "title": "闪迪一夜暴涨28%！老黄一句话，存储行情又燃了，AI市场逻辑从“买铲子”转向“建仓库”",
@@ -896,6 +944,18 @@
           "time_info": "[00时18分 ~ 07时13分]"
         },
         {
+          "title": "AI引爆存储芯片涨价潮！三星Q4营业利润飙升208% 创历史新高",
+          "url": "https://www.cls.cn/detail/2251233",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 12时01分]"
+        },
+        {
           "title": "AI引爆存储市场：三星电子利润创历史新高",
           "url": "https://wallstreetcn.com/livenews/3032745",
           "source": "华尔街见闻-快讯",
@@ -905,17 +965,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
-        },
-        {
-          "title": "AI引爆存储芯片涨价潮！三星Q4营业利润飙升208% 创历史新高",
-          "url": "https://www.cls.cn/detail/2251233",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
         },
         {
           "title": "卡特彼勒围绕AI解决方案与英伟达合作。",
@@ -954,6 +1003,18 @@
           "time_info": "[04时15分 ~ 05时13分]"
         },
         {
+          "title": "AI大模型上市第一股",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B8%8A%E5%B8%82%E7%AC%AC%E4%B8%80%E8%82%A1%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时00分 ~ 12时01分]"
+        },
+        {
           "title": "马斯克：中国AI算力领先世界",
           "url": "https://www.toutiao.com/trending/7592779381248888362/",
           "source": "今日头条",
@@ -964,6 +1025,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时59分 ~ 10时57分]"
+        },
+        {
+          "title": "阿里云推出面向AI硬件的多模态交互开发套件",
+          "url": "https://wallstreetcn.com/livenews/3032905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
         },
         {
           "title": "黄仁勋演讲点燃华尔街信心！两大投行点赞：英伟达将是2026最强AI概念股！",
@@ -977,13 +1049,24 @@
           "time_info": "08时59分"
         },
         {
+          "title": "智谱预计全球AI公司将陷入价格战",
+          "url": "https://wallstreetcn.com/livenews/3032893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时01分"
+        },
+        {
           "title": "中芯国际在陆港两地上涨 摩根士丹利称其为中国AI本地化的关键支持者",
           "url": "https://wallstreetcn.com/livenews/3032851",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -1022,11 +1105,24 @@
           "ranks": [
             12,
             5,
-            3
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时13分 ~ 12时01分]"
+        },
+        {
+          "title": "美股再现“马斯克式”天价薪酬包 游戏驿站抛出百亿美元CEO激励计划",
+          "url": "https://www.cls.cn/detail/2251127",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时13分 ~ 10时57分]"
+          "time_info": "[10时57分 ~ 12时01分]"
         },
         {
           "title": "（美股）费城金银指数收跌0.97%，报366.95点，美国ISM非制造业指数与职位空缺数据发布后，刷新日低至352.65点，随后逐步收复失地。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.80%，报2585.17点。 （美股）原材料指数跌1.67%，报237.22点，整体呈现出长尾L形走势。 （美股）金属与矿业指数跌0.97%，报230.56点。",
@@ -1047,7 +1143,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -1072,17 +1168,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
-        },
-        {
-          "title": "美股再现“马斯克式”天价薪酬包 游戏驿站抛出百亿美元CEO激励计划",
-          "url": "https://www.cls.cn/detail/2251127",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
         },
         {
           "title": "金十图示：2026年01月07日（周三）美股热门股票行情一览（美股收盘）",
@@ -1177,11 +1262,12 @@
           "source": "贴吧",
           "ranks": [
             25,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时18分 ~ 10时57分]"
+          "appearance_count": 18,
+          "time_info": "[00时18分 ~ 12时01分]"
         },
         {
           "title": "伊朗谴责以色列外长进入索马里兰",
@@ -1287,8 +1373,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 10时57分]"
+          "appearance_count": 4,
+          "time_info": "[08时59分 ~ 12时01分]"
         },
         {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
@@ -1484,8 +1570,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 10时57分]"
+          "appearance_count": 4,
+          "time_info": "[08时59分 ~ 12时01分]"
         },
         {
           "title": "金十图示：2026年01月08日（周四）上海金早盘价为999.71元/克，较国际金价(999.06元/克)，高0.65元/克",
@@ -1494,7 +1580,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
