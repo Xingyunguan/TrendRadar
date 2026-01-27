@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T11:31:43.031440+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2026-01-27T12:40:26.042077+08:00",
+  "total_titles_processed": 1060,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -25,11 +25,12 @@
           "ranks": [
             11,
             10,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 11时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 12时40分]"
         },
         {
           "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
@@ -47,11 +48,12 @@
           "url": "https://news.ifeng.com/c/8qFDsemU0yq",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 11时31分]"
+          "appearance_count": 3,
+          "time_info": "[09时03分 ~ 12时40分]"
         },
         {
           "title": "特朗普称对韩关税从15%上调至25%，韩方回应",
@@ -61,8 +63,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 11时31分]"
+          "appearance_count": 3,
+          "time_info": "[09时03分 ~ 12时40分]"
         },
         {
           "title": "韩国人还在睡梦中，特朗普突然下手了",
@@ -72,8 +74,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时03分 ~ 12时40分]"
+        },
+        {
+          "title": "“关税阴霾”卷土重来？特朗普：韩国对贸易协议“不作为”，上调税率至25%！",
+          "url": "https://www.cls.cn/detail/2270546",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时03分 ~ 11时31分]"
+          "time_info": "[11时31分 ~ 12时40分]"
         },
         {
           "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
@@ -109,15 +122,29 @@
           "time_info": "07时14分"
         },
         {
-          "title": "“关税阴霾”卷土重来？特朗普：韩国对贸易协议“不作为”，上调税率至25%！",
-          "url": "https://www.cls.cn/detail/2270546",
+          "title": "贵金属暴涨后大幅回调 特朗普称提高对韩国关税 | 环球市场",
+          "url": "https://www.cls.cn/detail/2270513",
           "source": "财联社热门",
           "ranks": [
-            4
+            7,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时03分 ~ 12时40分]"
+        },
+        {
+          "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
+          "url": "https://wallstreetcn.com/articles/3764157",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时14分 ~ 12时40分]"
         },
         {
           "title": "美国白宫：总统特朗普并未放弃乌克兰和平进程。",
@@ -143,18 +170,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时14分]"
-        },
-        {
-          "title": "贵金属暴涨后大幅回调 特朗普称提高对韩国关税 | 环球市场",
-          "url": "https://www.cls.cn/detail/2270513",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 11时31分]"
         },
         {
           "title": "特朗普：与明州州长“想法相近” 将处理执法枪击事件",
@@ -193,17 +208,17 @@
           "time_info": "[04时16分 ~ 09时03分]"
         },
         {
-          "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
-          "url": "https://wallstreetcn.com/articles/3764157",
-          "source": "华尔街见闻",
+          "title": "特朗普：提高对韩国多种商品关税税率至25%",
+          "url": "https://www.cls.cn/detail/2270499",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            7,
-            6
+            10,
+            9,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时14分 ~ 11时31分]"
+          "time_info": "[09时03分 ~ 12时40分]"
         },
         {
           "title": "特朗普政府表示正在重组联邦航空管理局的架构，将把安全活动集中到一个办公室。",
@@ -240,18 +255,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时14分]"
-        },
-        {
-          "title": "特朗普：提高对韩国多种商品关税税率至25%",
-          "url": "https://www.cls.cn/detail/2270499",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 11时31分]"
         },
         {
           "title": "美国总统特朗普：哈马斯帮助找到最后一具以色列人质的遗体，他们现在必须解除武装。（Axios）",
@@ -468,7 +471,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -515,6 +518,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "韩国股市低开高走，特朗普关税威胁引发逢低买入",
+          "url": "https://flash.jin10.com/detail/20260127114326791800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "美国总统特朗普：我在此宣布，将韩国的汽车、木材、药品以及所有其他对等关税的税率从15%提高到25%。",
@@ -578,7 +592,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -644,7 +658,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -666,7 +680,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -688,7 +702,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         }
@@ -696,7 +710,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
@@ -708,8 +722,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 11时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 12时40分]"
         },
         {
           "title": "阶跃星辰印奇谈AI商业化",
@@ -717,11 +731,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 11时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 12时40分]"
         },
         {
           "title": "瑞银展望2026美国经济：一旦AI泡沫破裂衰退概率将达50%，市场低估了6月前降息的可能性",
@@ -732,8 +747,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 11时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 12时40分]"
         },
         {
           "title": "AI红包春节档四强争霸 马化腾喊话重现11年前微信红包盛况",
@@ -760,6 +775,40 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时23分 ~ 07时14分]"
+        },
+        {
+          "title": "中国AI的“Max时刻”！千问最强模型开启第二增长曲线",
+          "url": "https://wallstreetcn.com/articles/3764198",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 12时40分]"
+        },
+        {
+          "title": "连线丨暴风雪肆虐美国24州，中国留学生直呼罕见：大雪灌入地铁像AI画面",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466140",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "EDA巨头：AI基建吞噬世界产能 存储芯片紧缺或持续到明年",
+          "url": "https://www.cls.cn/detail/2270449",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时03分 ~ 12时40分]"
         },
         {
           "title": "桥水CIO：AI领域公司无法接受落后 资本支出会层层加码",
@@ -795,15 +844,15 @@
           "time_info": "07时14分"
         },
         {
-          "title": "中国AI的“Max时刻”！千问最强模型开启第二增长曲线",
-          "url": "https://wallstreetcn.com/articles/3764198",
-          "source": "华尔街见闻",
+          "title": "马化腾：AI全家桶未必大家都喜欢，反对黑产外挂录屏上传云端",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466338",
+          "source": "澎湃新闻",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时31分"
+          "time_info": "12时40分"
         },
         {
           "title": "中信证券：大厂角逐ToD AI医疗 有望跑通商业闭环",
@@ -815,18 +864,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
-        },
-        {
-          "title": "EDA巨头：AI基建吞噬世界产能 存储芯片紧缺或持续到明年",
-          "url": "https://www.cls.cn/detail/2270449",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 11时31分]"
         },
         {
           "title": "微软发布第二代AI芯片Maia 200 ，希望降低对英伟达的依赖",
@@ -841,24 +878,36 @@
           "time_info": "[00时23分 ~ 01时23分]"
         },
         {
-          "title": "美光加码投资240亿美元在新加坡扩产 以应对AI芯片短缺",
-          "url": "https://flash.jin10.com/detail/20260127110940817800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
-        },
-        {
           "title": "腾讯正式推出社交AI功能“元宝派”，实测来了！",
           "url": "https://www.cls.cn/detail/2270597",
           "source": "财联社热门",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 12时40分]"
+        },
+        {
+          "title": "AI 霸总「围猎」老年女性，婚介机构借此引流、老人被骗上千元学电商，类似情况为何屡禁不止？监管难在哪？",
+          "url": "https://www.zhihu.com/question/1998804557132690728",
+          "source": "知乎",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 12时40分]"
+        },
+        {
+          "title": "美光加码投资240亿美元在新加坡扩产 以应对AI芯片短缺",
+          "url": "https://flash.jin10.com/detail/20260127110940817800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -874,15 +923,15 @@
           "time_info": "09时03分"
         },
         {
-          "title": "AI 霸总「围猎」老年女性，婚介机构借此引流、老人被骗上千元学电商，类似情况为何屡禁不止？监管难在哪？",
-          "url": "https://www.zhihu.com/question/1998804557132690728",
+          "title": "开源 AI 助理 Clawdbot 获 Karpathy 点赞，它究竟是什么，有何亮点？",
+          "url": "https://www.zhihu.com/question/1998931277835941056",
           "source": "知乎",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时31分"
+          "time_info": "12时40分"
         },
         {
           "title": "百度智能云上调AI相关收入增速目标至200%",
@@ -902,7 +951,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -946,6 +995,17 @@
           "time_info": "[00时23分 ~ 06时14分]"
         },
         {
+          "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时14分 ~ 12时40分]"
+        },
+        {
           "title": "美股期指小幅走低 美国稀土盘前涨超20% | 今夜看点",
           "url": "https://www.cls.cn/detail/2270324",
           "source": "财联社热门",
@@ -958,17 +1018,6 @@
           "time_info": "[00时23分 ~ 09时03分]"
         },
         {
-          "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时14分 ~ 11时31分]"
-        },
-        {
           "title": "美股收盘：三大指数集体上涨 美政府将入股稀土公司",
           "url": "https://www.cls.cn/detail/2270480",
           "source": "财联社热门",
@@ -978,8 +1027,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时14分 ~ 11时31分]"
+          "appearance_count": 4,
+          "time_info": "[07时14分 ~ 12时40分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.75%，暂报3615.83点，北京时间04:37跌至3455.34点刷新日低——至亚太早盘呈现出V形走势，09:00以来持稳于3600点下方，美股开盘以来微幅上涨。 MarketVectorTM数字资产100中盘指数跌0.30%，报3409.47点。 MarketVector数字资产100指数持平，报17939.14点。 目前，Solana涨5.33%，狗狗币涨3.81%，XRP涨5.57%。 比特币目前涨1.41%，暂报87563.98美元；以太坊涨3.62%，报2900.74美元。",
@@ -1059,7 +1108,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -1144,11 +1193,12 @@
             18,
             16,
             15,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 11时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 12时40分]"
         },
         {
           "title": "外媒报道称伊朗最高领袖哈梅内伊已进入德黑兰一处加固地堡，美国会对伊朗动武吗？当前伊朗局势如何？",
@@ -1170,8 +1220,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 11时31分]"
+          "appearance_count": 3,
+          "time_info": "[09时03分 ~ 12时40分]"
         },
         {
           "title": "阿联酋重申不得使用其领土军事打击伊朗",
@@ -1191,11 +1241,12 @@
           "source": "今日头条",
           "ranks": [
             7,
-            6
+            6,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时03分 ~ 11时31分]"
+          "appearance_count": 3,
+          "time_info": "[09时03分 ~ 12时40分]"
         },
         {
           "title": "伊朗外交部：武装力量将全力应对任何侵犯",
@@ -1222,6 +1273,18 @@
           "time_info": "[03时18分 ~ 04时16分]"
         },
         {
+          "title": "美军航母进入美中央司令部印度洋责任区，以伊朗目前军力，能够对抗美军航母的打击吗？",
+          "url": "https://www.zhihu.com/question/1999248453998441588",
+          "source": "知乎",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 12时40分]"
+        },
+        {
           "title": "美国官员：如果伊朗希望与美方联系，华盛顿“敞开大门”。",
           "url": "https://flash.jin10.com/detail/20260127042034581800",
           "source": "金十数据",
@@ -1231,17 +1294,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
-        },
-        {
-          "title": "美军航母进入美中央司令部印度洋责任区，以伊朗目前军力，能够对抗美军航母的打击吗？",
-          "url": "https://www.zhihu.com/question/1999248453998441588",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
         },
         {
           "title": "“林肯”号航母打击群一两天内即可对伊朗动武",
@@ -1302,7 +1354,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -1344,11 +1396,12 @@
           "url": "https://www.toutiao.com/trending/7599218772373995556/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 12时40分]"
         },
         {
           "title": "金价",
@@ -1357,20 +1410,32 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 12时40分]"
         },
         {
           "title": "金价银价巨震",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E5%B7%A8%E9%9C%87%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
-            22
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 12时40分]"
+        },
+        {
+          "title": "水贝首饰金价一天涨超20元",
+          "url": "https://wallstreetcn.com/livenews/3044438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时31分"
+          "time_info": "12时40分"
         },
         {
           "title": "关税担忧推动金价上涨",
@@ -1390,7 +1455,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         }
@@ -1492,7 +1557,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
         },
@@ -1511,8 +1576,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "日债暴跌后，市场热议GPIF“抛美债、买日债”的可能性",
+          "url": "https://flash.jin10.com/detail/20260127122310103800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
         {
           "title": "沙特阿美发行40亿美元债券，为2026年首次销售债券。 据知情人士透露，这笔债券供应获得超过220亿美元认购，（久期最长的）30年期公司债收益率较可比美债高出1.3个百分点，较最初讨论的低大约25个基点。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3044170",
