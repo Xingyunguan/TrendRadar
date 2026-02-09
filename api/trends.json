@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-02-09T19:40:09.342814+08:00",
-  "total_titles_processed": 1456,
+  "generated_at": "2026-02-09T20:43:41.464507+08:00",
+  "total_titles_processed": 1554,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI agent",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
-        {
-          "title": "本周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
-          "url": "https://wallstreetcn.com/articles/3765243",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时15分 ~ 19时40分]"
-        },
         {
           "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
           "url": "https://wallstreetcn.com/articles/3765241",
@@ -29,6 +18,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时19分 ~ 09时15分]"
+        },
+        {
+          "title": "本周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
+          "url": "https://wallstreetcn.com/articles/3765243",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时15分 ~ 20时43分]"
         },
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -68,6 +69,20 @@
           "time_info": "[12时16分 ~ 19时40分]"
         },
         {
+          "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
+          "url": "https://wallstreetcn.com/premium/articles/3765169?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时01分 ~ 20时43分]"
+        },
+        {
           "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
           "url": "https://wallstreetcn.com/articles/3765259",
           "source": "华尔街见闻",
@@ -75,24 +90,12 @@
             8,
             5,
             6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时16分 ~ 19时40分]"
-        },
-        {
-          "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
-          "url": "https://wallstreetcn.com/premium/articles/3765169?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
             4,
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时01分 ~ 19时40分]"
+          "appearance_count": 12,
+          "time_info": "[12时16分 ~ 20时43分]"
         },
         {
           "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
@@ -119,6 +122,19 @@
           "time_info": "[00时19分 ~ 07时21分]"
         },
         {
+          "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
+          "url": "https://www.zhihu.com/question/2003997015852482602",
+          "source": "知乎",
+          "ranks": [
+            9,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时49分 ~ 20时43分]"
+        },
+        {
           "title": "马斯克再发警告：若没有AI和机器人，美国1000%会走向破产",
           "url": "https://www.cls.cn/detail/2283869",
           "source": "财联社热门",
@@ -143,19 +159,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[09时15分 ~ 19时40分]"
-        },
-        {
-          "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
-          "url": "https://www.zhihu.com/question/2003997015852482602",
-          "source": "知乎",
-          "ranks": [
-            9,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时49分 ~ 19时40分]"
         },
         {
           "title": "忙到深夜！“年轻人的新年货”提前集中释放 联合治疗、AI辅助有望成医美新趋势｜传真",
@@ -186,6 +189,19 @@
           "time_info": "[00时19分 ~ 09时15分]"
         },
         {
+          "title": "AIGC整活新春联欢会",
+          "url": "https://search.bilibili.com/all?keyword=AIGC%E6%95%B4%E6%B4%BB%E6%96%B0%E6%98%A5%E8%81%94%E6%AC%A2%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时52分 ~ 20时43分]"
+        },
+        {
           "title": "阿里千问撒外卖券，腾讯元宝发现金红包，如何看待大厂通过「请客」这一朴素方式推广最前沿的 AI 技术的策略？",
           "url": "https://www.zhihu.com/question/2003429600861110745",
           "source": "知乎",
@@ -199,19 +215,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时19分 ~ 07时21分]"
-        },
-        {
-          "title": "AIGC整活新春联欢会",
-          "url": "https://search.bilibili.com/all?keyword=AIGC%E6%95%B4%E6%B4%BB%E6%96%B0%E6%98%A5%E8%81%94%E6%AC%A2%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时52分 ~ 19时40分]"
         },
         {
           "title": "集邦咨询：AI带动超级循环，存储器产值攀升至晶圆代工2倍以上",
@@ -236,16 +239,16 @@
           "time_info": "14时02分"
         },
         {
-          "title": "回到60年前！硅谷大厂竞相复刻IBM模式：垂直整合成AI博弈终极答案？",
-          "url": "https://www.cls.cn/detail/2284501",
+          "title": "一图看懂｜AI应用“春节档”持续上新，下一波神仙打架已就位？",
+          "url": "https://www.cls.cn/detail/2284846",
           "source": "财联社热门",
           "ranks": [
-            8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时52分 ~ 19时40分]"
+          "appearance_count": 3,
+          "time_info": "[19时39分 ~ 20时43分]"
         },
         {
           "title": "创业板涨3%，AI应用、CPO暴涨，光伏掀涨停潮，恒科指涨1%，澜起科技IPO首日涨超60%",
@@ -253,11 +256,25 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时52分 ~ 19时40分]"
+          "appearance_count": 5,
+          "time_info": "[17时52分 ~ 20时43分]"
+        },
+        {
+          "title": "回到60年前！硅谷大厂竞相复刻IBM模式：垂直整合成AI博弈终极答案？",
+          "url": "https://www.cls.cn/detail/2284501",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时52分 ~ 20时43分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
@@ -268,8 +285,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时52分 ~ 19时40分]"
+          "appearance_count": 5,
+          "time_info": "[17时52分 ~ 20时43分]"
         },
         {
           "title": "泰国大选：根据选举委员会初步计票结果，在已统计15%有效选票的情况下，自豪泰党（Bhumjaithai Party）暂时领先。",
@@ -282,17 +299,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时19分 ~ 03时19分]"
-        },
-        {
-          "title": "一图看懂｜AI应用“春节档”持续上新，下一波神仙打架已就位？",
-          "url": "https://www.cls.cn/detail/2284846",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时39分 ~ 19时40分]"
         },
         {
           "title": "UP主联合自制AI春晚",
@@ -317,6 +323,18 @@
           "time_info": "[16时39分 ~ 16时40分]"
         },
         {
+          "title": "吉利AI团队3篇论文入选ICLR 2026",
+          "url": "https://wallstreetcn.com/livenews/3052288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 20时43分]"
+        },
+        {
           "title": "这会是改变视频行业的AI吗",
           "url": "https://www.douyin.com/hot/2394323",
           "source": "抖音",
@@ -337,17 +355,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
-        },
-        {
-          "title": "吉利AI团队3篇论文入选ICLR 2026",
-          "url": "https://wallstreetcn.com/livenews/3052288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时40分"
         },
         {
           "title": "夸克AI眼镜全系列升级：S1新增直播功能，G1推超级夜景模式",
@@ -389,7 +396,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -414,6 +421,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
+        },
+        {
+          "title": "千家人AI购物实录",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E5%AE%B6%E4%BA%BAAI%E8%B4%AD%E7%89%A9%E5%AE%9E%E5%BD%95%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
+          "title": "马斯克警告「没有 AI 和机器人，国债危机下美国 1000% 会破产」，AI 和机器人能解美债问题吗？",
+          "url": "https://www.zhihu.com/question/2004143319609993151",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "因阻止第三方AI助手遭欧盟警告，Meta：欧盟没有理由干预WhatsApp商务API",
@@ -449,6 +478,20 @@
           "time_info": "[00时19分 ~ 07时21分]"
         },
         {
+          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时01分 ~ 20时43分]"
+        },
+        {
           "title": "美国总统特朗普对美国滑雪运动员亨特·赫斯发出批评，并称他为“彻头彻尾的失败者”。",
           "url": "https://flash.jin10.com/detail/20260208234215396800",
           "source": "金十数据",
@@ -463,19 +506,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时19分 ~ 07时21分]"
-        },
-        {
-          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时01分 ~ 19时40分]"
         },
         {
           "title": "特朗普被白头海雕打脸视频再度火了",
@@ -496,8 +526,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时48分 ~ 19时40分]"
+          "appearance_count": 4,
+          "time_info": "[18时48分 ~ 20时43分]"
         },
         {
           "title": "美国财长贝森特：日本新首相是“伟大的盟友”，与美国总统特朗普关系良好。",
@@ -713,7 +743,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "伊朗外长：伊美核谈判开局良好",
@@ -744,17 +774,6 @@
           "time_info": "[00时19分 ~ 05时18分]"
         },
         {
-          "title": "伊朗最高领袖顾问明日访问阿曼",
-          "url": "https://wallstreetcn.com/livenews/3052299",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时40分"
-        },
-        {
           "title": "伊朗外长：伊方绝不接受“零浓缩铀”",
           "url": "https://wallstreetcn.com/livenews/3051814",
           "source": "华尔街见闻-快讯",
@@ -764,6 +783,29 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时19分 ~ 04时16分]"
+        },
+        {
+          "title": "伊朗最高领袖顾问明日访问阿曼",
+          "url": "https://wallstreetcn.com/livenews/3052299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 20时43分]"
+        },
+        {
+          "title": "伊朗外长：美方行为致伊朗对美国存在“不信任之墙”",
+          "url": "https://wallstreetcn.com/livenews/3052323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗最高领袖哈梅内伊的顾问拉里贾尼将于周二访问阿曼，此前几天他与美国进行了核谈判。",
@@ -797,12 +839,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
+        },
+        {
+          "title": "伊朗原子能机构负责人埃斯拉米：从伊朗境内转移铀材料目前未被提上议程。即便未来涉及此类讨论，已有国家表示愿协助谈判，但现阶段会谈中并未讨论该议题。",
+          "url": "https://flash.jin10.com/detail/20260209195730696800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        },
+        {
+          "title": "伊朗原子能机构负责人埃斯拉米：我们与国际原子能机构的合作仍在继续，但该机构对受保障核设施遭军事袭击一事尚有未完成的任务，这无法回避。",
+          "url": "https://flash.jin10.com/detail/20260209195706293800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "高盛交易员警告：美股抛售尚未结束",
@@ -818,6 +882,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时20分 ~ 07时21分]"
+        },
+        {
+          "title": "美股三大期指盘前集体走低 美光跌3%诺和诺德暴涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2285010",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
         },
         {
           "title": "高盛交易员警告：随着算法资金抛售，美股将迎来剧烈波动，请“系好安全带”",
@@ -860,7 +935,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -923,7 +998,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -1025,6 +1100,23 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Kimi建议网友先用DeepSeek",
+          "url": "https://s.weibo.com/weibo?q=%23Kimi%E5%BB%BA%E8%AE%AE%E7%BD%91%E5%8F%8B%E5%85%88%E7%94%A8DeepSeek%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -1037,8 +1129,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时48分 ~ 19时40分]"
+          "appearance_count": 4,
+          "time_info": "[18时48分 ~ 20时43分]"
         }
       ]
     },
