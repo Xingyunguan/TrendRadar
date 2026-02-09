@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T14:02:08.173296+08:00",
-  "total_titles_processed": 927,
+  "generated_at": "2026-02-09T15:49:54.878055+08:00",
+  "total_titles_processed": 1052,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI agent",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "AI交易“被忽视的风险”：万一，天量资本开支“花不出去”",
@@ -67,6 +67,17 @@
           "time_info": "[00时19分 ~ 07时21分]"
         },
         {
+          "title": "本周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
+          "url": "https://wallstreetcn.com/articles/3765243",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时15分 ~ 15时49分]"
+        },
+        {
           "title": "马斯克再发警告：若没有AI和机器人，美国1000%会走向破产",
           "url": "https://www.cls.cn/detail/2283869",
           "source": "财联社热门",
@@ -78,17 +89,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时19分 ~ 09时15分]"
-        },
-        {
-          "title": "本周重磅日程：美非农CPI齐发，中国通胀，AI、机器人春节大战",
-          "url": "https://wallstreetcn.com/articles/3765243",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时15分 ~ 14时02分]"
         },
         {
           "title": "忙到深夜！“年轻人的新年货”提前集中释放 联合治疗、AI辅助有望成医美新趋势｜传真",
@@ -139,11 +139,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时16分 ~ 14时02分]"
+          "appearance_count": 5,
+          "time_info": "[12时16分 ~ 15时49分]"
         },
         {
           "title": "凌晨三点，彻底失眠：Seedance 2.0告诉我们，AI对现实世界工作流“压缩”正在加速",
@@ -151,33 +152,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时16分 ~ 14时02分]"
-        },
-        {
-          "title": "集邦咨询：AI带动超级循环，存储器产值攀升至晶圆代工2倍以上",
-          "url": "https://wallstreetcn.com/livenews/3052101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        },
-        {
-          "title": "分析师：近期科技股抛售并不意味着AI投资热潮结束",
-          "url": "https://flash.jin10.com/detail/20260209131648292800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时02分"
+          "appearance_count": 5,
+          "time_info": "[12时16分 ~ 15时49分]"
         },
         {
           "title": "OpenClaw走红，个人AI代理时代真的来了",
@@ -188,8 +168,42 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时15分 ~ 14时02分]"
+          "appearance_count": 6,
+          "time_info": "[09时15分 ~ 15时49分]"
+        },
+        {
+          "title": "集邦咨询：AI带动超级循环，存储器产值攀升至晶圆代工2倍以上",
+          "url": "https://wallstreetcn.com/livenews/3052101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "分析师：近期科技股抛售并不意味着AI投资热潮结束",
+          "url": "https://flash.jin10.com/detail/20260209131648292800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
+          "url": "https://wallstreetcn.com/premium/articles/3765169?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时01分 ~ 15时49分]"
         },
         {
           "title": "泰国大选：根据选举委员会初步计票结果，在已统计15%有效选票的情况下，自豪泰党（Bhumjaithai Party）暂时领先。",
@@ -202,17 +216,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时19分 ~ 03时19分]"
-        },
-        {
-          "title": "汇丰中国财富洞察：AI技术更迭引发软件股重挫，软件板块未来发展或分化|热点追踪",
-          "url": "https://wallstreetcn.com/premium/articles/3765169?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
         },
         {
           "title": "UP主联合自制AI春晚",
@@ -246,6 +249,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "如何评价影视飓风在凌晨发布视频《改变视频行业的 AI，快来了》？",
+          "url": "https://www.zhihu.com/question/2003997015852482602",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "夸克AI眼镜全系列升级：S1新增直播功能，G1推超级夜景模式",
@@ -287,7 +301,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
         }
@@ -295,7 +309,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "美国总统特朗普：美国的选举充满舞弊和窃取，已成为全世界的笑柄。",
@@ -367,6 +381,28 @@
           "time_info": "[14时01分 ~ 14时02分]"
         },
         {
+          "title": "特朗普称“期待高市实现以实力保障和平的政策”，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3052163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
+          "title": "印尼总统发言人：总统普拉博沃受邀于2月19日赴美，出席美国总统特朗普和平委员会会议，希望在此次访问期间与美国总统特朗普签署贸易协议。",
+          "url": "https://flash.jin10.com/detail/20260209153806428800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
           "title": "日本首相高市早苗：将于三月会见特朗普期间，深化与美国的经济安全关系，包括稀土供应问题。",
           "url": "https://flash.jin10.com/detail/20260208215651951800",
           "source": "金十数据",
@@ -416,6 +452,18 @@
           "time_info": "[05时18分 ~ 06时18分]"
         },
         {
+          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时01分 ~ 15时49分]"
+        },
+        {
           "title": "美国总统特朗普谈及通胀问题，宣称：我解决了问题。 对经济现状感到骄傲。",
           "url": "https://wallstreetcn.com/livenews/3051847",
           "source": "华尔街见闻-快讯",
@@ -428,15 +476,15 @@
           "time_info": "[05时18分 ~ 06时18分]"
         },
         {
-          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
-          "source": "澎湃新闻",
+          "title": "如何看待特朗普怒喷第 60 届超级碗中场秀「史上最烂」，因表演中几乎完全没有说英文？",
+          "url": "https://www.zhihu.com/question/2004153656694503218",
+          "source": "知乎",
           "ranks": [
-            15
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "特朗普被美国国鸟疯狂打脸",
@@ -448,6 +496,73 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "伊朗外长：伊美核谈判开局良好",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32563811",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            16,
+            17,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时19分 ~ 12时17分]"
+        },
+        {
+          "title": "伊朗武装部队总参谋长：没有兴趣发动地区战争",
+          "url": "https://wallstreetcn.com/livenews/3051828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时19分 ~ 05时18分]"
+        },
+        {
+          "title": "伊朗外长：伊方绝不接受“零浓缩铀”",
+          "url": "https://wallstreetcn.com/livenews/3051814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 04时16分]"
+        },
+        {
+          "title": "外媒：伊朗外长称，伊朗已向中俄通报伊美谈判有关情况",
+          "url": "https://wallstreetcn.com/livenews/3052067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        },
+        {
+          "title": "伊朗称已向中俄通报伊美谈判情况",
+          "url": "https://www.toutiao.com/trending/7604403113240952895/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         }
       ]
     },
@@ -500,62 +615,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "伊朗外长：伊美核谈判开局良好",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32563811",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            14,
-            16,
-            17,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 12时17分]"
-        },
-        {
-          "title": "伊朗武装部队总参谋长：没有兴趣发动地区战争",
-          "url": "https://wallstreetcn.com/livenews/3051828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时19分 ~ 05时18分]"
-        },
-        {
-          "title": "伊朗外长：伊方绝不接受“零浓缩铀”",
-          "url": "https://wallstreetcn.com/livenews/3051814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 04时16分]"
-        },
-        {
-          "title": "外媒：伊朗外长称，伊朗已向中俄通报伊美谈判有关情况",
-          "url": "https://wallstreetcn.com/livenews/3052067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时02分"
         }
       ]
     },
