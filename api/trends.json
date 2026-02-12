@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T17:39:12.989429+08:00",
-  "total_titles_processed": 1565,
+  "generated_at": "2026-02-12T18:35:42.369359+08:00",
+  "total_titles_processed": 1668,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 65,
       "titles": [
         {
           "title": "特朗普：伊朗希望达成协议，不然太蠢了",
@@ -31,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时51分 ~ 17时39分]"
+          "appearance_count": 18,
+          "time_info": "[01时51分 ~ 18时35分]"
         },
         {
           "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
@@ -58,8 +58,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时58分 ~ 17时39分]"
+          "appearance_count": 7,
+          "time_info": "[13时58分 ~ 18时35分]"
         },
         {
           "title": "特朗普将于4月初访华？外交部回应",
@@ -69,19 +69,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时35分 ~ 17时39分]"
-        },
-        {
-          "title": "中方回应特朗普或将4月访华",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时35分 ~ 17时39分]"
+          "appearance_count": 4,
+          "time_info": "[16时35分 ~ 18时35分]"
         },
         {
           "title": "特朗普否认了，仅拒邀两人",
@@ -92,8 +81,60 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时58分 ~ 17时39分]"
+          "appearance_count": 6,
+          "time_info": "[14时58分 ~ 18时35分]"
+        },
+        {
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时35分 ~ 18时35分]"
+        },
+        {
+          "title": "中方回应特朗普预计4月初访华",
+          "url": "https://www.toutiao.com/trending/7605620935953956906/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时35分 ~ 18时35分]"
+        },
+        {
+          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时58分 ~ 18时35分]"
+        },
+        {
+          "title": "外交部：中美元首通话中，特朗普总统再次表达了4月访华的愿望",
+          "url": "https://www.cls.cn/detail/2288372",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时35分 ~ 18时35分]"
         },
         {
           "title": "特朗普发帖后 CNN都看不下去了",
@@ -107,17 +148,16 @@
           "time_info": "[00时23分 ~ 00时24分]"
         },
         {
-          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
-          "source": "澎湃新闻",
+          "title": "中方回应特朗普预计4月初访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E9%A2%84%E8%AE%A14%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
             10,
-            8,
-            9
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时58分 ~ 17时39分]"
+          "appearance_count": 4,
+          "time_info": "[16时35分 ~ 18时35分]"
         },
         {
           "title": "以色列宣布总理内塔尼亚胡与美国总统特朗普会面的情况：双方同意继续紧密合作。",
@@ -144,18 +184,6 @@
           "time_info": "01时51分"
         },
         {
-          "title": "中方回应特朗普预计4月初访华",
-          "url": "https://www.toutiao.com/trending/7605620935953956906/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时35分 ~ 17时39分]"
-        },
-        {
           "title": "Peabody Energy的CEO Jim Grech：公司正与美国总统特朗普的政府围绕修建新的煤炭发电厂的可能性合作。",
           "url": "https://wallstreetcn.com/livenews/3054006",
           "source": "华尔街见闻-快讯",
@@ -167,28 +195,16 @@
           "time_info": "07时23分"
         },
         {
-          "title": "外交部：中美元首通话中，特朗普总统再次表达了4月访华的愿望",
-          "url": "https://www.cls.cn/detail/2288372",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时35分 ~ 17时39分]"
-        },
-        {
-          "title": "中方回应特朗普预计4月初访华",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E9%A2%84%E8%AE%A14%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
+          "title": "中方回应特朗普或将4月访华",
+          "url": "https://www.douyin.com/hot/2398243",
+          "source": "抖音",
           "ranks": [
             10,
-            5
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时35分 ~ 17时39分]"
+          "appearance_count": 5,
+          "time_info": "[15时48分 ~ 18时35分]"
         },
         {
           "title": "美国财长贝森特：总统特朗普对伊朗保持“开放态度”。",
@@ -303,16 +319,16 @@
           "time_info": "[06时21分 ~ 07时23分]"
         },
         {
-          "title": "中方回应特朗普或将4月访华",
-          "url": "https://www.douyin.com/hot/2398243",
-          "source": "抖音",
+          "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32591772",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时48分 ~ 17时39分]"
+          "appearance_count": 3,
+          "time_info": "[17时38分 ~ 18时35分]"
         },
         {
           "title": "特朗普：要求与伊朗继续进行谈判 未与内塔尼亚胡达成任何其他决定",
@@ -486,17 +502,6 @@
           "time_info": "[06时21分 ~ 07时23分]"
         },
         {
-          "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32591772",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 17时39分]"
-        },
-        {
           "title": "美国总统特朗普：指示能源部向包括西弗吉尼亚州和俄亥俄州在内的各州的燃煤电厂拨款。",
           "url": "https://flash.jin10.com/detail/20260212054108494800",
           "source": "金十数据",
@@ -542,6 +547,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时51分 ~ 04时29分]"
+        },
+        {
+          "title": "中方回应“特朗普将于4月初访华”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BA%8E4%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "美国总统特朗普将两名民主党州长排除在州长会议邀请之外",
+          "url": "https://wallstreetcn.com/livenews/3054430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         },
         {
           "title": "美国总统特朗普：希望我这四年任期内不会有（新审批的）风电场。",
@@ -720,6 +747,17 @@
           "time_info": "03时51分"
         },
         {
+          "title": "据AXIOS网站：部分美国众议院民主党人表示，他们打算违抗众议院民主党领袖杰弗里斯的指示，计划在2月24日特朗普发表国情咨文演讲期间进行抗议。",
+          "url": "https://flash.jin10.com/detail/20260212173940564800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
           "title": "以总理被曝向特朗普提要求：与伊朗的协议不应设置到期时间",
           "url": "https://flash.jin10.com/detail/20260212024236323800",
           "source": "金十数据",
@@ -745,7 +783,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 46,
+      "match_count": 49,
       "titles": [
         {
           "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
@@ -756,8 +794,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时23分 ~ 17时39分]"
+          "appearance_count": 11,
+          "time_info": "[07时23分 ~ 18时35分]"
         },
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -797,8 +835,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时23分 ~ 17时39分]"
+          "appearance_count": 21,
+          "time_info": "[00时23分 ~ 18时35分]"
+        },
+        {
+          "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
+          "url": "https://wallstreetcn.com/articles/3765544",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时15分 ~ 18时35分]"
         },
         {
           "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
@@ -831,8 +881,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时23分 ~ 17时39分]"
+          "appearance_count": 21,
+          "time_info": "[00时23分 ~ 18时35分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -844,18 +894,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时23分 ~ 09时14分]"
-        },
-        {
-          "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
-          "url": "https://wallstreetcn.com/articles/3765544",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时15分 ~ 17时39分]"
         },
         {
           "title": "传统制作成本转向算力成本？AI技术平权能给影视行业带来什么",
@@ -873,6 +911,23 @@
           "time_info": "[09时13分 ~ 17时39分]"
         },
         {
+          "title": "让AI集体翻车的洗车难题",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%A9AI%E9%9B%86%E4%BD%93%E7%BF%BB%E8%BD%A6%E7%9A%84%E6%B4%97%E8%BD%A6%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            10,
+            18,
+            21,
+            16,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时15分 ~ 18时35分]"
+        },
+        {
           "title": "AI基建投入持续加码 Meta斥资逾100亿美元新建1吉瓦数据中心",
           "url": "https://www.cls.cn/detail/2287778",
           "source": "财联社热门",
@@ -884,22 +939,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时13分 ~ 13时58分]"
-        },
-        {
-          "title": "让AI集体翻车的洗车难题",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AE%A9AI%E9%9B%86%E4%BD%93%E7%BF%BB%E8%BD%A6%E7%9A%84%E6%B4%97%E8%BD%A6%E9%9A%BE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            10,
-            18,
-            21,
-            16,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时15分 ~ 17时39分]"
         },
         {
           "title": "男子用AI一夜赚够一线房首付",
@@ -981,6 +1020,17 @@
           "time_info": "09时14分"
         },
         {
+          "title": "Seedance2.0展示中国AI潜力",
+          "url": "https://www.douyin.com/hot/2398167",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时48分 ~ 18时35分]"
+        },
+        {
           "title": "马斯克：遗憾的是，必须与xAI的部分员工分道扬镳。",
           "url": "https://flash.jin10.com/detail/20260212035557254800",
           "source": "金十数据",
@@ -1040,17 +1090,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时15分 ~ 13时58分]"
-        },
-        {
-          "title": "Seedance2.0展示中国AI潜力",
-          "url": "https://www.douyin.com/hot/2398167",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时48分 ~ 17时39分]"
         },
         {
           "title": "AI淘金热变成AI恐慌潮！华尔街新共识：躲开一切可能被颠覆的公司",
@@ -1192,6 +1231,17 @@
           "time_info": "16时35分"
         },
         {
+          "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
+          "url": "https://wallstreetcn.com/livenews/3054425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
           "title": "蚂蚁阿福开启春节支付宝红包活动 AI医疗行业有望再度站上风口",
           "url": "https://www.cls.cn/detail/2287850",
           "source": "财联社热门",
@@ -1209,9 +1259,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
+        },
+        {
+          "title": "哈尔滨小哥为早回家过年找AI替班",
+          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%B0%8F%E5%93%A5%E4%B8%BA%E6%97%A9%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E6%89%BEAI%E6%9B%BF%E7%8F%AD",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         },
         {
           "title": "依视路陆逊梯卡（EssilorLuxottica）四季度营收76亿欧元，分析师预期71.5亿欧元。 四季度剔除汇率因素后营收增长18.4%，分析师预期增长11.5%。 全年营收284.9亿欧元，分析师预期280.9亿欧元。 全年剔除汇率因素的营收增长11.2%，分析师预期增长9.19%。 全年销售超过700万套人工智能眼镜（AI glasses）。 预计营收将在未来五年稳步增长。 依视路陆逊梯卡ADR涨幅扩大至8.6%。",
@@ -1234,6 +1295,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "全国首单“AI+人形机器人”研发领域科创债发行",
+          "url": "https://wallstreetcn.com/livenews/3054410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         },
         {
           "title": "机械开发设计岗会不会被 ai 取代?",
@@ -1305,7 +1377,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "伊朗总统致歉",
@@ -1474,12 +1546,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        },
+        {
+          "title": "大宗商品交易商维托集团CEO：俄罗斯和伊朗石油的买家正在转向西方供应。",
+          "url": "https://flash.jin10.com/detail/20260212174546669800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
@@ -1531,17 +1614,6 @@
           "time_info": "01时51分"
         },
         {
-          "title": "美股存储概念股盘前上涨，闪迪涨超6%，美光科技涨3.7%，西部数据、希捷科技涨近3%。",
-          "url": "https://wallstreetcn.com/livenews/3054396",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时39分"
-        },
-        {
           "title": "金十图示：2026年02月11日（周三）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260212013019120800",
           "source": "金十数据",
@@ -1576,6 +1648,18 @@
           "time_info": "[05时27分 ~ 06时21分]"
         },
         {
+          "title": "美股存储概念股盘前上涨，闪迪涨超6%，美光科技涨3.7%，西部数据、希捷科技涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3054396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时39分 ~ 18时35分]"
+        },
+        {
           "title": "Peabody Energy美股盘后涨7%，此前特朗普兜售美国煤炭。",
           "url": "https://wallstreetcn.com/livenews/3053983",
           "source": "华尔街见闻-快讯",
@@ -1586,6 +1670,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时23分]"
+        },
+        {
+          "title": "盈利提振全球存储概念股集体走高，美股盘前美光涨超4%，韩股三星电子大涨6%，日债收益率集体下行",
+          "url": "https://wallstreetcn.com/articles/3765553",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         },
         {
           "title": "生物技术公司Viking Therapeutics股价在美股盘后交易中上涨9.1%。 该公司宣布，计划在今年第三季度将其口服肥胖症治疗药物VK2735推向3期临床试验。 尽管第四季度亏损超预期（主要受研发支出激增驱动），但其口服药物的进度优势抵消了财务压力。",
@@ -1605,7 +1700,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         }
@@ -1649,11 +1744,12 @@
             10,
             9,
             11,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时23分 ~ 17时39分]"
+          "appearance_count": 21,
+          "time_info": "[00时23分 ~ 18时35分]"
         },
         {
           "title": "DeepSeek新模型来了？",
@@ -1666,8 +1762,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时21分 ~ 17时39分]"
+          "appearance_count": 12,
+          "time_info": "[06时21分 ~ 18时35分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -1675,11 +1771,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时23分 ~ 17时39分]"
+          "appearance_count": 21,
+          "time_info": "[00时23分 ~ 18时35分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
