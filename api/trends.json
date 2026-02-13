@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T22:36:29.301478+08:00",
-  "total_titles_processed": 2031,
+  "generated_at": "2026-02-13T23:33:31.705400+08:00",
+  "total_titles_processed": 2135,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 66,
       "titles": [
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -83,8 +83,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时46分 ~ 22时36分]"
+          "appearance_count": 20,
+          "time_info": "[00时46分 ~ 23时33分]"
         },
         {
           "title": "路透社：特朗普访华前暂停对华科技禁令",
@@ -104,11 +104,12 @@
           "source": "凤凰网",
           "ranks": [
             4,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时34分 ~ 22时36分]"
+          "appearance_count": 9,
+          "time_info": "[17时34分 ~ 23时33分]"
         },
         {
           "title": "特朗普称期待4月访华",
@@ -197,6 +198,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        },
+        {
+          "title": "白宫贸易顾问纳瓦罗在通话中表示，有关特朗普政府计划削减钢铁和铝关税的说法没有“事实基础”。 对特朗普政府来说，金属关税“是神圣的”。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3055271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -782,7 +794,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 56,
+      "match_count": 59,
       "titles": [
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -792,8 +804,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时17分 ~ 22时36分]"
+          "appearance_count": 17,
+          "time_info": "[09时17分 ~ 23时33分]"
         },
         {
           "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
@@ -807,6 +819,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时46分 ~ 09时17分]"
+        },
+        {
+          "title": "老码农裁员理由+1:被AI优化",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350655&amp;topic_name=%E8%80%81%E7%A0%81%E5%86%9C%E8%A3%81%E5%91%98%E7%90%86%E7%94%B1%2B1%3A%E8%A2%ABAI%E4%BC%98%E5%8C%96",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时32分 ~ 23时33分]"
         },
         {
           "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
@@ -846,19 +871,6 @@
           "time_info": "[09时17分 ~ 20时35分]"
         },
         {
-          "title": "老码农裁员理由+1:被AI优化",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350655&amp;topic_name=%E8%80%81%E7%A0%81%E5%86%9C%E8%A3%81%E5%91%98%E7%90%86%E7%94%B1%2B1%3A%E8%A2%ABAI%E4%BC%98%E5%8C%96",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时32分 ~ 22时36分]"
-        },
-        {
           "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
           "url": "https://www.cls.cn/detail/2289051",
           "source": "财联社热门",
@@ -881,8 +893,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时11分 ~ 22时36分]"
+          "appearance_count": 16,
+          "time_info": "[12时11分 ~ 23时33分]"
         },
         {
           "title": "CPI前AI恐慌又袭，盘中标普跌超1%、思科跌超10%、物流股大跌，白银跳水超7%",
@@ -894,6 +906,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时44分 ~ 06时23分]"
+        },
+        {
+          "title": "AI整活无底线,赛文演员急了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350657&amp;topic_name=AI%E6%95%B4%E6%B4%BB%E6%97%A0%E5%BA%95%E7%BA%BF%2C%E8%B5%9B%E6%96%87%E6%BC%94%E5%91%98%E6%80%A5%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时34分 ~ 23时33分]"
         },
         {
           "title": "中国大模型“春节档”打响！等待消费级AI出“爆款”",
@@ -918,8 +943,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时17分 ~ 22时36分]"
+          "appearance_count": 16,
+          "time_info": "[09时17分 ~ 23时33分]"
         },
         {
           "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
@@ -930,8 +955,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时43分 ~ 22时36分]"
+          "appearance_count": 11,
+          "time_info": "[15时43分 ~ 23时33分]"
         },
         {
           "title": "【焦点复盘】市场全天现深强沪弱，AI硬件端表现火热，大消费板块延续调整",
@@ -955,11 +980,12 @@
             18,
             17,
             14,
-            24
+            24,
+            22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时43分 ~ 22时36分]"
+          "appearance_count": 11,
+          "time_info": "[15时43分 ~ 23时33分]"
         },
         {
           "title": "AI 视频工具已经能生成导演级镜头，作为观众，你能接受 AI 生成的影视剧或动画吗？愿意买单吗？",
@@ -983,19 +1009,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时46分 ~ 09时17分]"
-        },
-        {
-          "title": "AI整活无底线,赛文演员急了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350657&amp;topic_name=AI%E6%95%B4%E6%B4%BB%E6%97%A0%E5%BA%95%E7%BA%BF%2C%E8%B5%9B%E6%96%87%E6%BC%94%E5%91%98%E6%80%A5%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时34分 ~ 22时36分]"
         },
         {
           "title": "澎湃AI晚新闻丨2026年2月12日",
@@ -1036,6 +1049,22 @@
           "time_info": "[09时17分 ~ 14时47分]"
         },
         {
+          "title": "Seedance2.0展示中国AI潜力",
+          "url": "https://www.douyin.com/hot/2398167",
+          "source": "抖音",
+          "ranks": [
+            25,
+            23,
+            18,
+            20,
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时43分 ~ 23时33分]"
+        },
+        {
           "title": "多位美国明星AI公司研究人员在离职之际拉响警报",
           "url": "https://www.cls.cn/detail/2288921",
           "source": "财联社热门",
@@ -1059,22 +1088,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时31分 ~ 19时25分]"
-        },
-        {
-          "title": "Seedance2.0展示中国AI潜力",
-          "url": "https://www.douyin.com/hot/2398167",
-          "source": "抖音",
-          "ranks": [
-            25,
-            23,
-            18,
-            20,
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时43分 ~ 22时36分]"
         },
         {
           "title": "2026春节：中国AI的“两弹一星”时刻",
@@ -1150,15 +1163,37 @@
           "time_info": "01时51分"
         },
         {
+          "title": "美国联邦贸易委员会（FTC）加速调查微软，就云和AI问题询问该公司的竞争对手们。",
+          "url": "https://wallstreetcn.com/livenews/3055274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
           "title": "据知情人士透露，Shield AI（护盾人工智能）洽谈按120亿美元估值融资10亿美元。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3055240",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时36分"
+        },
+        {
+          "title": "美国劳工部寻求为工人提高AI培训。（Blaw）",
+          "url": "https://wallstreetcn.com/livenews/3055273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "AI初创公司助力企业预测财报电话会议提问",
@@ -1385,6 +1420,17 @@
           "time_info": "16时32分"
         },
         {
+          "title": "马斯克旗下银团正商讨方案，旨在解决SpaceX与xAI合并后的债务问题",
+          "url": "https://wallstreetcn.com/livenews/3055261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
           "title": "人工智能（AI）公司Algorhythm Holdings Inc.表示，其SemiCab平台能帮助客户在没有相应增加运营人员的情况下，将货运量规模扩大300%-400%。 该公司股价随后飙升了26%。",
           "url": "https://wallstreetcn.com/livenews/3054662",
           "source": "华尔街见闻-快讯",
@@ -1465,7 +1511,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 37,
+      "match_count": 41,
       "titles": [
         {
           "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
@@ -1476,8 +1522,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时17分 ~ 22时36分]"
+          "appearance_count": 17,
+          "time_info": "[09时17分 ~ 23时33分]"
         },
         {
           "title": "【早报】深夜跳水！美股、黄金、白银、原油集体大跌；央行今日出手，万亿逆回购来了",
@@ -1500,8 +1546,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时53分 ~ 22时36分]"
+          "appearance_count": 14,
+          "time_info": "[13时53分 ~ 23时33分]"
         },
         {
           "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
@@ -1514,8 +1560,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时47分 ~ 22时36分]"
+          "appearance_count": 12,
+          "time_info": "[14时47分 ~ 23时33分]"
         },
         {
           "title": "存储概念股盘前延续涨势 美股三大期指小幅走高 | 今夜看点",
@@ -1539,8 +1585,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时43分 ~ 22时36分]"
+          "appearance_count": 11,
+          "time_info": "[15时43分 ~ 23时33分]"
         },
         {
           "title": "CPI前夕美股高开低走，盘中标普纳指跌超1%、思科跌超10%，白银跳水超7%",
@@ -1634,6 +1680,19 @@
           "time_info": "[20时35分 ~ 21时56分]"
         },
         {
+          "title": "美CPI数据即将公布 美股期指盘前集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2289929",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时55分 ~ 23时33分]"
+        },
+        {
           "title": "金十图示：2026年02月12日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260213050512806800",
           "source": "金十数据",
@@ -1646,6 +1705,18 @@
           "time_info": "[05时26分 ~ 06时23分]"
         },
         {
+          "title": "美股脆弱之际，今晚CPI恐现“鹰派意外”",
+          "url": "https://wallstreetcn.com/articles/3765660",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时55分 ~ 23时33分]"
+        },
+        {
           "title": "美股收盘：三大指数收跌 苹果大跌5%",
           "url": "https://flash.jin10.com/detail/20260213050029671800",
           "source": "金十数据",
@@ -1656,30 +1727,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时23分]"
-        },
-        {
-          "title": "美CPI数据即将公布 美股期指盘前集体走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2289929",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时55分 ~ 22时36分]"
-        },
-        {
-          "title": "美股脆弱之际，今晚CPI恐现“鹰派意外”",
-          "url": "https://wallstreetcn.com/articles/3765660",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时55分 ~ 22时36分]"
         },
         {
           "title": "纳斯达克金龙中国指数收跌3.00%，报7599.35点，美股盘初持续走低，北京时间00:00过后持续低位窄幅震荡。 成分股。 热门中概股里，腾讯音乐初步收跌10%，携程跌6%，贝壳跌5.8%，B站、百度、阿特斯、百胜中国跌超4%，阿里跌3.4%，亚朵涨1.2%，世纪互联涨3.7%。 ETF中，中概互联网指数ETF（KWEB）收跌3.84%，中国科技指数ETF（CQQQ）收跌2.48%。 德银嘉实沪深300指数ETF（ASHR）收跌0.56%，XtrackersHarvest中证50（ASHS）收涨0.16%。",
@@ -1784,7 +1831,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时36分"
         },
@@ -1806,9 +1853,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时36分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数跌幅收窄至将近0.5%，美股盘初一度跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3055265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览（美股盘中）",
@@ -1831,6 +1889,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "金十图示：2026年02月13日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260213223705054800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "美股罗素3000卡车运输指数重挫7%",
@@ -1877,6 +1946,28 @@
           "time_info": "00时46分"
         },
         {
+          "title": "美股开盘，道指跌0.03%，标普500指数跌0.01%，纳指跌0.12%。Rivian(RIVN.O)大涨27%，公司预计2026年交付量将激增53%。部分中概股走低，阿里巴巴(BABA.N)跌3.6%，蔚来汽车(NIO.N)跌1.46%，百度(BIDU.O)跌4.5%。",
+          "url": "https://flash.jin10.com/detail/20260213223027809800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
+          "title": "医疗业ETF涨1.27%，生物科技指数ETF涨1.20%，在美股行业盘初领跑，半导体ETF涨0.63%，网络股指数ETF涨0.49%，科技行业ETF涨0.26%，全球科技股指数ETF跌0.11%，银行业ETF跌0.25%。",
+          "url": "https://wallstreetcn.com/livenews/3055251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -1901,8 +1992,152 @@
       ]
     },
     {
+      "keyword_group": "claude code anthropic",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "特朗普称必须与伊朗达成协议 Anthropic完成300亿美元融资 | 环球市场",
+          "url": "https://www.cls.cn/detail/2289062",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时17分 ~ 15时43分]"
+        },
+        {
+          "title": "数据中心疯狂耗电惹争议 Anthropic承诺全额埋单电网升级费",
+          "url": "https://www.cls.cn/detail/2288901",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时17分 ~ 13时54分]"
+        },
+        {
+          "title": "Anthropic完成300亿美元融资 公司估值达3800亿美元",
+          "url": "https://flash.jin10.com/detail/20260213031347065800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 04时24分]"
+        },
+        {
+          "title": "人工智能公司Anthropic：克里斯·利德尔（Chris Liddell、曾担任特朗普助手）被任命为董事会成员。",
+          "url": "https://flash.jin10.com/detail/20260213230215077800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
+          "title": "Anthropic准备最早今年上市。 为此，该公司在董事会新增一名成员。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3055268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
+          "title": "Anthropic PBC：任命曾经担任美国总统特朗普助理的Chris Liddell为董事会成员。",
+          "url": "https://wallstreetcn.com/livenews/3055266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
+          "title": "Anthropic：年化收入现已达到140亿美元。",
+          "url": "https://flash.jin10.com/detail/20260213031648169800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "Anthropic按3800亿美元估值敲定300亿美元融资。",
+          "url": "https://wallstreetcn.com/livenews/3054689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "Anthropic：本轮融资的重要投资方包括Accel、Addition、Alpha Wave Global、Altimeter Capital、AMP、Appaloosa LP以及Baillie Gifford。",
+          "url": "https://flash.jin10.com/detail/20260213030259152800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "Anthropic：本轮融资还包含此前宣布的来自微软和英伟达的投资部分。",
+          "url": "https://flash.jin10.com/detail/20260213030246759800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "Anthropic完成300亿美元融资交易，公司估值升至3800亿美元",
+          "url": "https://wallstreetcn.com/livenews/3054689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "市场消息：Anthropic完成300亿美元融资，公司估值达到3800亿美元。",
+          "url": "https://flash.jin10.com/detail/20260213030133450800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "特写｜断网与战争阴霾之下：在伊朗，普通人的生活如何继续",
@@ -1958,22 +2193,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32596568",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时55分 ~ 22时36分]"
+          "appearance_count": 4,
+          "time_info": "[21时55分 ~ 23时33分]"
         },
         {
           "title": "伊朗总统：伊朗不寻求核武器",
           "url": "https://m.thepaper.cn/newsDetail_forward_32596571",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时55分 ~ 22时36分]"
+          "appearance_count": 4,
+          "time_info": "[21时55分 ~ 23时33分]"
         },
         {
           "title": "伊朗为何愿意接受任何核项目核查",
@@ -2007,6 +2244,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
+        },
+        {
+          "title": "伊朗前高官：若遭美攻击先打以色列",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32596357",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "美政府被曝向伊朗境内秘密输送“星链”终端协助骚乱人员",
@@ -2054,7 +2302,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时36分"
         },
@@ -2099,7 +2347,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时36分"
         },
@@ -2110,7 +2358,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时36分"
         },
@@ -2182,8 +2430,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时43分 ~ 22时36分]"
+          "appearance_count": 11,
+          "time_info": "[15时43分 ~ 23时33分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -2282,117 +2530,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "claude code anthropic",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "特朗普称必须与伊朗达成协议 Anthropic完成300亿美元融资 | 环球市场",
-          "url": "https://www.cls.cn/detail/2289062",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时17分 ~ 15时43分]"
-        },
-        {
-          "title": "数据中心疯狂耗电惹争议 Anthropic承诺全额埋单电网升级费",
-          "url": "https://www.cls.cn/detail/2288901",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时17分 ~ 13时54分]"
-        },
-        {
-          "title": "Anthropic完成300亿美元融资 公司估值达3800亿美元",
-          "url": "https://flash.jin10.com/detail/20260213031347065800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时44分 ~ 04时24分]"
-        },
-        {
-          "title": "Anthropic：年化收入现已达到140亿美元。",
-          "url": "https://flash.jin10.com/detail/20260213031648169800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
-        },
-        {
-          "title": "Anthropic按3800亿美元估值敲定300亿美元融资。",
-          "url": "https://wallstreetcn.com/livenews/3054689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "Anthropic：本轮融资的重要投资方包括Accel、Addition、Alpha Wave Global、Altimeter Capital、AMP、Appaloosa LP以及Baillie Gifford。",
-          "url": "https://flash.jin10.com/detail/20260213030259152800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "Anthropic：本轮融资还包含此前宣布的来自微软和英伟达的投资部分。",
-          "url": "https://flash.jin10.com/detail/20260213030246759800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "Anthropic完成300亿美元融资交易，公司估值升至3800亿美元",
-          "url": "https://wallstreetcn.com/livenews/3054689",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
-        },
-        {
-          "title": "市场消息：Anthropic完成300亿美元融资，公司估值达到3800亿美元。",
-          "url": "https://flash.jin10.com/detail/20260213030133450800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
         }
       ]
     },
