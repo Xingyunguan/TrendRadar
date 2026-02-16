@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T19:33:57.434915+08:00",
-  "total_titles_processed": 1250,
+  "generated_at": "2026-02-16T20:39:40.984170+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI agent",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "“SaaS已死，SaaS到来”！Altman预言“全AI企业”时代开启",
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时18分 ~ 19时33分]"
+          "appearance_count": 24,
+          "time_info": "[00时18分 ~ 20时39分]"
         },
         {
           "title": "Stratechery创始人深度访谈：预警2029年大规模“芯片荒”，SaaS模式将终结，广告才是AI终极商业闭环",
@@ -72,6 +72,18 @@
           "time_info": "[00时18分 ~ 19时33分]"
         },
         {
+          "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
+          "url": "https://wallstreetcn.com/articles/3765773",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时45分 ~ 20时39分]"
+        },
+        {
           "title": "从“玩具”到“工具”，AI是否正在逼近影视生产力拐点？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32610730",
           "source": "澎湃新闻",
@@ -85,18 +97,6 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时18分 ~ 17时42分]"
-        },
-        {
-          "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
-          "url": "https://wallstreetcn.com/articles/3765773",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时45分 ~ 19时33分]"
         },
         {
           "title": "影响万亿资本的市场叙事争夺：一边是“AI颠覆一切”，一边是“AI回报不够”",
@@ -121,8 +121,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时18分 ~ 19时33分]"
+          "appearance_count": 24,
+          "time_info": "[00时18分 ~ 20时39分]"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -134,8 +134,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时13分 ~ 19时33分]"
+          "appearance_count": 13,
+          "time_info": "[09时13分 ~ 20时39分]"
+        },
+        {
+          "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
+          "url": "https://wallstreetcn.com/articles/3765774",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时35分 ~ 20时39分]"
         },
         {
           "title": "美军被曝在委内瑞拉军事行动中使用AI模型，开发公司回应质疑",
@@ -175,8 +188,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时18分 ~ 19时33分]"
+          "appearance_count": 24,
+          "time_info": "[00时18分 ~ 20时39分]"
         },
         {
           "title": "AI无视版权,老外集火围殴",
@@ -191,19 +204,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时18分 ~ 15时46分]"
-        },
-        {
-          "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
-          "url": "https://wallstreetcn.com/articles/3765774",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时35分 ~ 19时33分]"
         },
         {
           "title": "分析师：AI风险主导市场 投资者抛售相关股票",
@@ -230,8 +230,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时45分 ~ 19时33分]"
+          "appearance_count": 9,
+          "time_info": "[15时45分 ~ 20时39分]"
         },
         {
           "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
@@ -243,8 +243,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时45分 ~ 19时33分]"
+          "appearance_count": 9,
+          "time_info": "[15时45分 ~ 20时39分]"
         },
         {
           "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
@@ -253,11 +253,12 @@
           "ranks": [
             18,
             16,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时45分 ~ 19时33分]"
+          "appearance_count": 9,
+          "time_info": "[15时45分 ~ 20时39分]"
         },
         {
           "title": "新春走基层·山乡新貌｜从清理冒牌软件到教用AI：家乡长辈们正努力填平“数字鸿沟”",
@@ -266,11 +267,12 @@
           "ranks": [
             19,
             17,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时45分 ~ 19时33分]"
+          "appearance_count": 9,
+          "time_info": "[15时45分 ~ 20时39分]"
         },
         {
           "title": "AI购票成春节档预售亮点，“千问帮我买电影票”订单量暴增500%",
@@ -294,8 +296,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时39分 ~ 19时33分]"
+          "appearance_count": 4,
+          "time_info": "[18时39分 ~ 20时39分]"
         },
         {
           "title": "斯坦福专家：美国正跨入“AI收获期”，2025年生产率增速有望翻倍至2.7%",
@@ -307,6 +309,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时45分 ~ 15时46分]"
+        },
+        {
+          "title": "跑赢99%同行的基金警示：AI浪潮下 软件公司幸存者寥寥",
+          "url": "https://wallstreetcn.com/livenews/3055722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 20时39分]"
         },
         {
           "title": "UP主联合手搓AI春晚",
@@ -342,15 +356,15 @@
           "time_info": "09时13分"
         },
         {
-          "title": "跑赢99%同行的基金警示：AI浪潮下 软件公司幸存者寥寥",
-          "url": "https://wallstreetcn.com/livenews/3055722",
-          "source": "华尔街见闻-快讯",
+          "title": "这波三角洲AI春晚真该留到今晚看",
+          "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E6%B3%A2%E4%B8%89%E8%A7%92%E6%B4%B2AI%E6%98%A5%E6%99%9A%E7%9C%9F%E8%AF%A5%E7%95%99%E5%88%B0%E4%BB%8A%E6%99%9A%E7%9C%8B",
+          "source": "bilibili 热搜",
           "ranks": [
-            11
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时33分"
+          "time_info": "20时39分"
         },
         {
           "title": "印度AI概念股Fractal Analytics上市首日重挫5%",
@@ -400,7 +414,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "美伊新一轮谈判在即，以总理：伊朗必须拆除核设施",
@@ -409,11 +423,12 @@
           "ranks": [
             6,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时01分 ~ 19时33分]"
+          "appearance_count": 10,
+          "time_info": "[14时01分 ~ 20时39分]"
         },
         {
           "title": "伊朗官员：已准备好与美谈判方案 但对结果不乐观",
@@ -488,26 +503,18 @@
           "time_info": "[00时18分 ~ 05时16分]"
         },
         {
-          "title": "美国国务卿鲁比奥：与伊朗达成协议将非常困难。",
-          "url": "https://flash.jin10.com/detail/20260216191911022800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时33分"
-        },
-        {
-          "title": "伊朗革命卫队海军在霍尔木兹海峡举行军演",
-          "url": "https://wallstreetcn.com/livenews/3055730",
+          "title": "伊朗外长说不会屈服于威胁",
+          "url": "https://wallstreetcn.com/livenews/3055707",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2,
+            13,
+            24,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时33分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时42分 ~ 20时39分]"
         },
         {
           "title": "伊朗大秀肌肉回应美国施压",
@@ -545,17 +552,28 @@
           "time_info": "[00时18分 ~ 04时15分]"
         },
         {
-          "title": "伊朗外长说不会屈服于威胁",
-          "url": "https://wallstreetcn.com/livenews/3055707",
-          "source": "华尔街见闻-快讯",
+          "title": "美国国务卿鲁比奥：与伊朗达成协议将非常困难。",
+          "url": "https://flash.jin10.com/detail/20260216191911022800",
+          "source": "金十数据",
           "ranks": [
             2,
-            13,
-            24
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时42分 ~ 19时33分]"
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 20时39分]"
+        },
+        {
+          "title": "伊朗革命卫队海军在霍尔木兹海峡举行军演",
+          "url": "https://wallstreetcn.com/livenews/3055730",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 20时39分]"
         },
         {
           "title": "美伊新一轮谈判在即，以总理：伊朗必须拆除核设施",
@@ -653,6 +671,18 @@
           "time_info": "[17时42分 ~ 18时40分]"
         },
         {
+          "title": "国际原子能机构总干事说已与伊朗外长完成技术讨论",
+          "url": "https://wallstreetcn.com/livenews/3055723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 20时39分]"
+        },
+        {
           "title": "伊朗外长：欧洲大国在核谈判中“无关紧要”",
           "url": "https://flash.jin10.com/detail/20260216155000444800",
           "source": "金十数据",
@@ -676,24 +706,13 @@
           "time_info": "15时46分"
         },
         {
-          "title": "国际原子能机构总干事说已与伊朗外长完成技术讨论",
-          "url": "https://wallstreetcn.com/livenews/3055723",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时33分"
-        },
-        {
           "title": "伊朗革命卫队海军在霍尔木兹海峡举行演习",
           "url": "https://flash.jin10.com/detail/20260216185851469800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         },
@@ -709,13 +728,24 @@
           "time_info": "15时46分"
         },
         {
+          "title": "伊朗谈判桌上抛出经济筹码",
+          "url": "https://www.toutiao.com/trending/7607288187614232627/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
           "title": "伊朗革命卫队海军在霍尔木兹海峡举行演习，旨在检验其应对“潜在安全和军事威胁”的战备状态。",
           "url": "https://flash.jin10.com/detail/20260216184823345800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         }
@@ -723,7 +753,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "奥巴马回应被特朗普恶搞成猿猴",
@@ -829,17 +859,6 @@
           "time_info": "[09时13分 ~ 14时01分]"
         },
         {
-          "title": "欧盟委员会发言人：欧盟委员苏伊卡将作为观察员前往华盛顿，参加美国总统特朗普主持的“和平委员会”会议。",
-          "url": "https://flash.jin10.com/detail/20260216191824464800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时33分"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
           "url": "https://flash.jin10.com/detail/20260215183847434800",
           "source": "金十数据",
@@ -877,6 +896,31 @@
           "time_info": "[05时16分 ~ 07时17分]"
         },
         {
+          "title": "欧盟委员会发言人：欧盟委员苏伊卡将作为观察员前往华盛顿，参加美国总统特朗普主持的“和平委员会”会议。",
+          "url": "https://flash.jin10.com/detail/20260216191824464800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 20时39分]"
+        },
+        {
+          "title": "特朗普签令决定对向古巴提供石油的国家采取关税措施，俄大使：完全疯狂",
+          "url": "https://wallstreetcn.com/livenews/3055714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时40分 ~ 20时39分]"
+        },
+        {
           "title": "特朗普：和平委员会成员已承诺提供逾50亿美元资金",
           "url": "https://flash.jin10.com/detail/20260216042836136800",
           "source": "金十数据",
@@ -890,27 +934,28 @@
           "time_info": "[05时16分 ~ 07时17分]"
         },
         {
-          "title": "特朗普签令决定对向古巴提供石油的国家采取关税措施，俄大使：完全疯狂",
-          "url": "https://wallstreetcn.com/livenews/3055714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时40分 ~ 19时33分]"
-        },
-        {
           "title": "美国国务卿鲁比奥：美国总统特朗普和匈牙利总理欧尔班有着非常亲密的个人关系，这对双边关系大有裨益。",
           "url": "https://flash.jin10.com/detail/20260216191100927800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 20时39分]"
+        },
+        {
+          "title": "美国国务卿鲁比奥：如果匈牙利遇到麻烦，特朗普会考虑帮助欧尔班。",
+          "url": "https://flash.jin10.com/detail/20260216185958619800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 20时39分]"
         },
         {
           "title": "涉特朗普政府政策，希拉里与捷克副总理上演言语冲突",
@@ -935,15 +980,26 @@
           "time_info": "09时13分"
         },
         {
-          "title": "美国国务卿鲁比奥：如果匈牙利遇到麻烦，特朗普会考虑帮助欧尔班。",
-          "url": "https://flash.jin10.com/detail/20260216185958619800",
-          "source": "金十数据",
+          "title": "美国国务卿卢比奥：与匈牙利的关系极为紧密。 我们不想把任何和平协议强加于乌克兰。 如果匈牙利出现任何金融困难，美国总统唐纳德·特朗普将准备好提供协助。",
+          "url": "https://wallstreetcn.com/livenews/3055729",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时33分"
+          "time_info": "20时39分"
+        },
+        {
+          "title": "匈牙利总理欧尔班：自美国总统特朗普上台以来，美匈关系中不存在任何冲突点。",
+          "url": "https://flash.jin10.com/detail/20260216192059299800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         },
         {
           "title": "美国国务卿鲁比奥：美国总统特朗普坚定致力于你们（匈牙利总理欧尔班）的成功。",
@@ -952,7 +1008,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
         },
@@ -992,11 +1048,12 @@
             9,
             8,
             5,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时14分 ~ 19时33分]"
+          "appearance_count": 12,
+          "time_info": "[12时14分 ~ 20时39分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -1087,7 +1144,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
@@ -1099,8 +1156,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时18分 ~ 19时33分]"
+          "appearance_count": 24,
+          "time_info": "[00时18分 ~ 20时39分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -1130,6 +1187,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时42分 ~ 19时33分]"
+        },
+        {
+          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
+          "url": "https://wallstreetcn.com/articles/3765786",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
+        },
+        {
+          "title": "千问3.5成本仅为谷歌大模型5%",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AE3.5%E6%88%90%E6%9C%AC%E4%BB%85%E4%B8%BA%E8%B0%B7%E6%AD%8C%E5%A4%A7%E6%A8%A1%E5%9E%8B5%25%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时39分"
         }
       ]
     },
@@ -1176,8 +1255,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时45分 ~ 19时33分]"
+          "appearance_count": 8,
+          "time_info": "[15时45分 ~ 20时39分]"
         },
         {
           "title": "大摩：市场开始买美债了",
