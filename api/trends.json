@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T14:46:26.727634+08:00",
-  "total_titles_processed": 1006,
+  "generated_at": "2026-02-17T15:44:02.034901+08:00",
+  "total_titles_processed": 1085,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时12分 ~ 14时46分]"
+          "appearance_count": 7,
+          "time_info": "[09时12分 ~ 15时44分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -332,7 +332,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
@@ -343,8 +343,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时32分 ~ 14时46分]"
+          "appearance_count": 20,
+          "time_info": "[00时32分 ~ 15时44分]"
         },
         {
           "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
@@ -367,8 +367,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时32分 ~ 14时46分]"
+          "appearance_count": 20,
+          "time_info": "[00时32分 ~ 15时44分]"
         },
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -381,8 +381,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时32分 ~ 14时46分]"
+          "appearance_count": 20,
+          "time_info": "[00时32分 ~ 15时44分]"
         },
         {
           "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
@@ -393,8 +393,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时32分 ~ 14时46分]"
+          "appearance_count": 20,
+          "time_info": "[00时32分 ~ 15时44分]"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -406,8 +406,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时32分 ~ 14时46分]"
+          "appearance_count": 20,
+          "time_info": "[00时32分 ~ 15时44分]"
         },
         {
           "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
@@ -480,11 +480,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            9
+            9,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 14时46分]"
+          "appearance_count": 3,
+          "time_info": "[13时53分 ~ 15时44分]"
         },
         {
           "title": "美国钢铁公司（AISI）数据显示，截至2月14日当周，美国钢铁产能利用率为77.8%。",
@@ -597,6 +598,17 @@
           "time_info": "[13时53分 ~ 14时46分]"
         },
         {
+          "title": "当高定遇上AI，“上海定制”的变与不变",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32621562",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时43分 ~ 15时44分]"
+        },
+        {
           "title": "Meta内部测试显示其AI聊天机器人未能有效保护儿童",
           "url": "https://flash.jin10.com/detail/20260217055715846800",
           "source": "金十数据",
@@ -606,6 +618,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "印度阿达尼集团：将投资建设绿色能源驱动的AI就绪数据中心，目标在2035年前提升数据中心容量。",
+          "url": "https://flash.jin10.com/detail/20260217145958963800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         }
       ]
     },
@@ -634,8 +657,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时12分 ~ 14时46分]"
+          "appearance_count": 7,
+          "time_info": "[09时12分 ~ 15时44分]"
+        },
+        {
+          "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
+          "url": "https://wallstreetcn.com/articles/3765802",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 15时44分]"
         },
         {
           "title": "阿曼外交大臣与伊朗外长讨论伊美第二轮核谈判筹备事宜",
@@ -651,18 +686,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时32分 ~ 06时19分]"
-        },
-        {
-          "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
-          "url": "https://wallstreetcn.com/articles/3765802",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 14时46分]"
         },
         {
           "title": "市场消息：伊朗外交部长于周一晚间与阿曼外交部长举行了会晤，这符合每次谈判回合的惯例安排，旨在为德黑兰与华盛顿之间的间接谈判正式开启做好前期准备工作。",
@@ -859,8 +882,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时32分 ~ 14时46分]"
+          "appearance_count": 20,
+          "time_info": "[00时32分 ~ 15时44分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -874,8 +897,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时32分 ~ 14时46分]"
+          "appearance_count": 20,
+          "time_info": "[00时32分 ~ 15时44分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
@@ -904,8 +927,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时12分 ~ 14时46分]"
+          "appearance_count": 7,
+          "time_info": "[09时12分 ~ 15时44分]"
         },
         {
           "title": "提醒：美股今日因假期休市一天。",
