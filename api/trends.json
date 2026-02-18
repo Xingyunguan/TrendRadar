@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T12:12:54.526628+08:00",
-  "total_titles_processed": 952,
+  "generated_at": "2026-02-18T13:56:00.377633+08:00",
+  "total_titles_processed": 1045,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "哈梅内伊回应特朗普威胁",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时15分 ~ 12时12分]"
+          "appearance_count": 12,
+          "time_info": "[03时15分 ~ 13时56分]"
         },
         {
           "title": "美部长与下属传出婚外情，特朗普回应",
@@ -85,9 +85,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "特朗普宣布大消息，日本要当冤大头了",
+          "url": "https://news.ifeng.com/c/8qq0daMEvoo",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时14分 ~ 13时56分]"
         },
         {
           "title": "市场消息：特朗普内阁与顾问开会讨论中期选举策略。",
@@ -186,15 +197,16 @@
           "time_info": "[04时33分 ~ 05时27分]"
         },
         {
-          "title": "特朗普宣布大消息，日本要当冤大头了",
-          "url": "https://news.ifeng.com/c/8qq0daMEvoo",
-          "source": "凤凰网",
+          "title": "特朗普女儿伊万卡中文拜年：新年快乐",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%EF%BC%9A%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
+          "source": "百度热搜",
           "ranks": [
-            6
+            18,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时14分 ~ 12时12分]"
+          "time_info": "[12时12分 ~ 13时56分]"
         },
         {
           "title": "美国总统特朗普：波托马克河泄漏是激进左派造成的环境危害。",
@@ -360,6 +372,17 @@
           "time_info": "05时27分"
         },
         {
+          "title": "墨西哥总统：墨西哥已拒绝特朗普加入“和平委员会”的邀请",
+          "url": "https://wallstreetcn.com/livenews/3056209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
           "title": "据Politico：美国总统特朗普与阿根廷总统米莱达成的协议加大欧盟敲定南方共同市场协定的压力。",
           "url": "https://flash.jin10.com/detail/20260218005046026800",
           "source": "金十数据",
@@ -369,17 +392,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
-        },
-        {
-          "title": "特朗普女儿伊万卡中文拜年：新年快乐",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A5%B3%E5%84%BF%E4%BC%8A%E4%B8%87%E5%8D%A1%E4%B8%AD%E6%96%87%E6%8B%9C%E5%B9%B4%EF%BC%9A%E6%96%B0%E5%B9%B4%E5%BF%AB%E4%B9%90",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
         },
         {
           "title": "特朗普关税引发损失，企业加大货币对冲力度",
@@ -396,7 +408,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "马年春晚黑科技！四家机器人同台献技 AI大模型渗透内容制作",
@@ -407,8 +419,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时45分 ~ 12时12分]"
+          "appearance_count": 15,
+          "time_info": "[00时45分 ~ 13时56分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -417,11 +429,12 @@
           "ranks": [
             2,
             3,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时45分 ~ 12时12分]"
+          "appearance_count": 15,
+          "time_info": "[00时45分 ~ 13时56分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -434,8 +447,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时45分 ~ 12时12分]"
+          "appearance_count": 15,
+          "time_info": "[00时45分 ~ 13时56分]"
+        },
+        {
+          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
+          "url": "https://wallstreetcn.com/articles/3765810",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时14分 ~ 13时56分]"
         },
         {
           "title": "王菲化妆师改口问就是AI",
@@ -462,16 +487,16 @@
           "time_info": "[00时45分 ~ 06时21分]"
         },
         {
-          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
-          "url": "https://wallstreetcn.com/articles/3765810",
-          "source": "华尔街见闻",
+          "title": "AI驱动存储持续迭代！三星PIM技术量产在即 或绕过CPU、GPU直接计算",
+          "url": "https://www.cls.cn/detail/2291068",
+          "source": "财联社热门",
           "ranks": [
-            2,
-            1
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 12时12分]"
+          "appearance_count": 6,
+          "time_info": "[07时20分 ~ 13时56分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
@@ -496,16 +521,40 @@
           "time_info": "03时41分"
         },
         {
-          "title": "AI驱动存储持续迭代！三星PIM技术量产在即 或绕过CPU、GPU直接计算",
-          "url": "https://www.cls.cn/detail/2291068",
-          "source": "财联社热门",
+          "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
+          "url": "https://wallstreetcn.com/articles/3765830",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            13
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时20分 ~ 12时12分]"
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 13时56分]"
+        },
+        {
+          "title": "如今 AI 崛起，能完成大量文字工作，那学习是否还有意义？",
+          "url": "https://www.zhihu.com/question/11260916280",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 13时56分]"
+        },
+        {
+          "title": "化妆师回应王菲春晚妆造：问就是AI",
+          "url": "https://www.toutiao.com/trending/7607001857601257508/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 13时56分]"
         },
         {
           "title": "美联储理事Barr：AI繁荣对货币政策并不敏感。",
@@ -581,6 +630,17 @@
           "time_info": "[03时15分 ~ 03时41分]"
         },
         {
+          "title": "体育AI过大年",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%93%E8%82%B2AI%E8%BF%87%E5%A4%A7%E5%B9%B4%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 13时56分]"
+        },
+        {
           "title": "印度AI峰会差评如潮",
           "url": "https://www.toutiao.com/trending/7607984521316797978/",
           "source": "今日头条",
@@ -590,28 +650,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时14分 ~ 09时15分]"
-        },
-        {
-          "title": "段永平试水“AI交易”：卖苹果加仓英伟达，“新入”CoreWeave、Credo和Tempus",
-          "url": "https://wallstreetcn.com/articles/3765830",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
-          "title": "如今 AI 崛起，能完成大量文字工作，那学习是否还有意义？",
-          "url": "https://www.zhihu.com/question/11260916280",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
         },
         {
           "title": "英伟达：美光科技旗下忆恒创源（Persistent）借助英伟达BioNeMo和NeMo Agent工具包加速由人工智能驱动的分子发现进程 。",
@@ -642,7 +680,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -669,17 +707,6 @@
           "time_info": "01时48分"
         },
         {
-          "title": "化妆师回应王菲春晚妆造：问就是AI",
-          "url": "https://www.toutiao.com/trending/7607001857601257508/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
           "title": "Meta与英伟达打造AI基础设施。Meta将加大部署英伟达CPU。 英伟达宣布，与对方达成持续多年的合作伙伴关系。 英伟达美股盘后涨1.1%，AMD跌幅扩大至3.6%。",
           "url": "https://wallstreetcn.com/livenews/3056135",
           "source": "华尔街见闻-快讯",
@@ -702,13 +729,24 @@
           "time_info": "03时15分"
         },
         {
+          "title": "高通将向印度AI战略基金投资至多1.5亿美元",
+          "url": "https://flash.jin10.com/detail/20260218123104216800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
           "title": "监管审查压力下，特斯拉在英国和欧洲车载系统中加入Grok AI聊天机器人",
           "url": "https://wallstreetcn.com/livenews/3056193",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         }
@@ -738,8 +776,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时48分 ~ 12时12分]"
+          "appearance_count": 13,
+          "time_info": "[01时48分 ~ 13时56分]"
         },
         {
           "title": "伊朗宣布霍尔木兹海峡部分区域将关闭数小时",
@@ -761,8 +799,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 12时12分]"
+          "appearance_count": 5,
+          "time_info": "[09时14分 ~ 13时56分]"
         },
         {
           "title": "伊美技术层面谈判已开始，伊朗军演进行中",
@@ -776,15 +814,17 @@
           "time_info": "[00时45分 ~ 00时46分]"
         },
         {
-          "title": "伊朗外长要求美国停止动武威胁",
-          "url": "https://wallstreetcn.com/livenews/3056206",
-          "source": "华尔街见闻-快讯",
+          "title": "哈梅内伊：美国无法摧毁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32626225",
+          "source": "澎湃新闻",
           "ranks": [
-            3
+            14,
+            15,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时14分 ~ 13时56分]"
         },
         {
           "title": "美国官员：伊朗方面表示，他们将在未来两周内带着详细提案重返谈判，以解决我们在立场上存在的一些悬而未决的分歧。",
@@ -797,6 +837,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时46分 ~ 01时48分]"
+        },
+        {
+          "title": "伊朗外长要求美国停止动武威胁",
+          "url": "https://wallstreetcn.com/livenews/3056206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 13时56分]"
         },
         {
           "title": "伊朗总统：伊朗愿就其核工业和平性质接受任何形式核查",
@@ -824,16 +876,27 @@
           "time_info": "[03时15分 ~ 04时33分]"
         },
         {
-          "title": "哈梅内伊：美国无法摧毁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32626225",
-          "source": "澎湃新闻",
+          "title": "伊朗外长称就伊美谈判“指导原则”达成一致，布油一度跌近3%",
+          "url": "https://wallstreetcn.com/articles/3765814",
+          "source": "华尔街见闻",
           "ranks": [
-            14,
-            15
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时14分 ~ 12时12分]"
+          "time_info": "[12时12分 ~ 13时56分]"
+        },
+        {
+          "title": "美军 18 架战机飞向中东，伊朗举行军演，谈判前夕互亮「底牌」，双方有哪些核心分歧？最终结果可能如何？",
+          "url": "https://www.zhihu.com/question/2007003476190786977",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 13时56分]"
         },
         {
           "title": "哈梅内伊：美国无法摧毁伊朗",
@@ -872,17 +935,6 @@
           "time_info": "[04时33分 ~ 05时27分]"
         },
         {
-          "title": "伊朗外长称就伊美谈判“指导原则”达成一致，布油一度跌近3%",
-          "url": "https://wallstreetcn.com/articles/3765814",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
           "title": "美官员：预计伊朗将在未来两周就核谈判内容提出详细方案",
           "url": "https://flash.jin10.com/detail/20260218010446612800",
           "source": "金十数据",
@@ -892,17 +944,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
-        },
-        {
-          "title": "美军 18 架战机飞向中东，伊朗举行军演，谈判前夕互亮「底牌」，双方有哪些核心分歧？最终结果可能如何？",
-          "url": "https://www.zhihu.com/question/2007003476190786977",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
         },
         {
           "title": "阿曼外长：伊朗与美国日内瓦会谈圆满结束，取得“良好进展”",
@@ -944,7 +985,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -1024,6 +1065,17 @@
           "time_info": "[05时27分 ~ 06时21分]"
         },
         {
+          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
+          "url": "https://www.cls.cn/detail/2291354",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 13时56分]"
+        },
+        {
           "title": "应用材料美股盘后跌7.6%。",
           "url": "https://wallstreetcn.com/livenews/3056144",
           "source": "华尔街见闻-快讯",
@@ -1057,17 +1109,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时20分]"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
-          "url": "https://www.cls.cn/detail/2291354",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
         },
         {
           "title": "电子设计自动化（EDA）软件公司铿腾电子（CDNS）美股盘后涨4.65%，报296.63美元，业绩报告发布后一度涨超7%至303.32美元，该公司所给业绩指引并没有分析师担忧的那么严重。",
@@ -1207,7 +1248,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         }
@@ -1223,11 +1264,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 12时12分]"
+          "appearance_count": 5,
+          "time_info": "[09时14分 ~ 13时56分]"
         },
         {
           "title": "Anthropic发布新AI模型，强化电脑操作与编程能力",
@@ -1359,7 +1401,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         }
