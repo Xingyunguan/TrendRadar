@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T03:53:15.442987+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2026-02-24T04:35:06.603777+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "加州州长：特朗普正摧毁美国经济",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 03时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 04时35分]"
         },
         {
           "title": "重兵集结下美伊本周再谈，特朗普面临选择：签“面子协议”和先定点打击",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 03时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 04时35分]"
         },
         {
           "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 03时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 04时35分]"
         },
         {
           "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
@@ -47,11 +47,23 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 03时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 04时35分]"
+        },
+        {
+          "title": "美国众议长约翰逊：国会山不可能将总统特朗普的关税写入法律。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3057636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
         },
         {
           "title": "美国参议院民主党披露一份立法草案，寻求特朗普政府就已经实施的关税政策退款。",
@@ -60,7 +72,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
         },
@@ -83,11 +95,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时50分 ~ 03时53分]"
+          "appearance_count": 3,
+          "time_info": "[02时50分 ~ 04时35分]"
+        },
+        {
+          "title": "美国参议院民主党成员Warren：总统特朗普的政府考虑出售联邦学生贷款债务组合。",
+          "url": "https://wallstreetcn.com/livenews/3057600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时50分 ~ 04时35分]"
         },
         {
           "title": "美国参议院少数党领袖舒默：参议院民主党将阻止特朗普关税延期。",
@@ -114,18 +140,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时07分 ~ 02时50分]"
-        },
-        {
-          "title": "美国参议院民主党成员Warren：总统特朗普的政府考虑出售联邦学生贷款债务组合。",
-          "url": "https://wallstreetcn.com/livenews/3057600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时50分 ~ 03时53分]"
         },
         {
           "title": "美国参议院少数党领袖：参议院民主党人将阻止特朗普延长关税",
@@ -176,6 +190,28 @@
           "time_info": "[01时07分 ~ 01时55分]"
         },
         {
+          "title": "美国众议院议长约翰逊称：不认为特朗普政府应该退还关税款项。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3057629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        },
+        {
+          "title": "美国民主党力推强制退款方案，此前最高法院判定特朗普关税违宪",
+          "url": "https://wallstreetcn.com/livenews/3057619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        },
+        {
           "title": "市场消息：美国总统特使威特科夫、特朗普女婿库什纳计划于周四在日内瓦举行美伊会谈。",
           "url": "https://flash.jin10.com/detail/20260224002048880800",
           "source": "金十数据",
@@ -222,8 +258,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 03时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 04时35分]"
         },
         {
           "title": "伊朗外长：有可能达成比2015年伊核协议“更好的协议”",
@@ -234,8 +270,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 03时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 04时35分]"
         },
         {
           "title": "美国被曝已决定对伊朗发动军事打击，预计 23 日或 24 日，是极限施压还是真要打？",
@@ -245,8 +281,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 03时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 04时35分]"
         },
         {
           "title": "与美国达成“临时协议”？伊朗：毫无根据",
@@ -256,8 +292,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 03时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 04时35分]"
         },
         {
           "title": "伊朗军队总司令：将誓死捍卫国家独立和主权完整",
@@ -267,8 +303,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 03时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 04时35分]"
         },
         {
           "title": "美国已经得到委内瑞拉了，为什么还要去搞伊朗呢?",
@@ -280,8 +316,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 03时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 04时35分]"
         },
         {
           "title": "美军重兵合围伊朗",
@@ -292,8 +328,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 03时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 04时35分]"
+        },
+        {
+          "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
+          "url": "https://wallstreetcn.com/livenews/3057617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 04时35分]"
         },
         {
           "title": "以总理：若遭伊朗袭击 将以其无法想象的力度回击",
@@ -308,24 +356,13 @@
           "time_info": "[01时07分 ~ 01时55分]"
         },
         {
-          "title": "美军参联会主席警告：对伊朗动武可能带来重大风险",
-          "url": "https://wallstreetcn.com/livenews/3057617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时53分"
-        },
-        {
           "title": "美媒：美军将领警告对伊朗动武风险极高，易陷长期冲突",
           "url": "https://flash.jin10.com/detail/20260224022000480800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
         },
@@ -344,7 +381,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -354,8 +391,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 03时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 04时35分]"
         },
         {
           "title": "24 人团队研发新芯片每秒 17000 个 token，将对 AI 芯片市场带来哪些影响？",
@@ -367,8 +404,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 03时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 04时35分]"
         },
         {
           "title": "高盛评\"春晚机器人\"：硬件显著进步，推动应用普及，未来关键是底层AI",
@@ -378,19 +415,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 03时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 04时35分]"
         },
         {
           "title": "港股收盘 | 三大指数集体回暖均涨超2% AI主线出现分化行情",
           "url": "https://www.cls.cn/detail/2292870",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 03时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 04时35分]"
         },
         {
           "title": "李公明｜一周画记：被AI聘用的人类……；马年人日的祝福",
@@ -401,8 +439,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 03时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 04时35分]"
+        },
+        {
+          "title": "AI恐慌之下投资者成惊弓之鸟，一份假想报告引发美股多板块遭血洗",
+          "url": "https://wallstreetcn.com/livenews/3057632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
         },
         {
           "title": "拉加德：即使在开发前沿模型方面落后，欧洲仍可从AI中获益",
@@ -442,6 +491,68 @@
       ]
     },
     {
+      "keyword_group": "claude code anthropic",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "IBM成AI最新受害者！受Anthropic编程语言威胁，股价暴跌11%",
+          "url": "https://wallstreetcn.com/livenews/3057634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        },
+        {
+          "title": "Anthropic的CEO Dario Amodei将会见美国国防部长/“战争部长”Pete Hegseth。",
+          "url": "https://wallstreetcn.com/livenews/3057583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时07分"
+        },
+        {
+          "title": "Anthropic CEO将与美国防部长会面，讨论AI模型在国防部的使用",
+          "url": "https://wallstreetcn.com/livenews/3057583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 02时50分]"
+        },
+        {
+          "title": "Anthropic：Claude Code能自动Cobol现代化。",
+          "url": "https://wallstreetcn.com/livenews/3057618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        },
+        {
+          "title": "Anthropic新工具引发AI颠覆担忧，网络安全股连续两日重挫",
+          "url": "https://wallstreetcn.com/livenews/3057628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 4,
       "titles": [
@@ -450,33 +561,36 @@
           "url": "https://wallstreetcn.com/livenews/3057622",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 04时35分]"
         },
         {
           "title": "加拿大人工智能部长将于周二会见OpenAI安全团队。",
           "url": "https://flash.jin10.com/detail/20260224031211079800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 04时35分]"
         },
         {
           "title": "加拿大政府：在应对OpenAI时“所有选项都摆在桌面上”。",
           "url": "https://flash.jin10.com/detail/20260224030646410800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 04时35分]"
         },
         {
           "title": "OpenAI：已解决企业客户ChatGPT对话错误率偏高的问题。",
@@ -503,8 +617,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 03时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 04时35分]"
         },
         {
           "title": "特朗普关税进入迷雾区 美股投资者将聚焦沃勒最新讲话 | 今夜看点",
@@ -515,8 +629,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 03时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 04时35分]"
         },
         {
           "title": "金十图示：2026年02月23日（周一）热门中概股行情一览（美股盘中）",
@@ -546,37 +660,8 @@
       ]
     },
     {
-      "keyword_group": "claude code anthropic",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Anthropic的CEO Dario Amodei将会见美国国防部长/“战争部长”Pete Hegseth。",
-          "url": "https://wallstreetcn.com/livenews/3057583",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时07分"
-        },
-        {
-          "title": "Anthropic CEO将与美国防部长会面，讨论AI模型在国防部的使用",
-          "url": "https://wallstreetcn.com/livenews/3057583",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 02时50分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "春节期间金价站上5100美元，地缘风险催化“硬通货”避险属性|新春万象录",
@@ -587,8 +672,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时06分 ~ 03时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时06分 ~ 04时35分]"
+        },
+        {
+          "title": "机构：特朗普关税引发不确定性，金价有望再创新高",
+          "url": "https://flash.jin10.com/detail/20260224032721204800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
         }
       ]
     },
@@ -607,6 +703,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时07分 ~ 01时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周一（2月23日）纽约尾盘，ICE美元指数跌0.10%，报97.702点，日内交投区间为97.853-97.355点，亚太盘初“跳空低开”，北京时间14:30之前低位震荡，随后逐步收复失地、曾在20:00过后短暂地微幅转涨。 彭博美元指数涨0.06%，报1189.31点，日内交投区间为1185-1190.08点。",
+          "url": "https://wallstreetcn.com/livenews/3057635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时35分"
         }
       ]
     }
