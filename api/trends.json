@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-24T22:05:20.381178+08:00",
-  "total_titles_processed": 1830,
+  "generated_at": "2026-02-24T23:47:01.636776+08:00",
+  "total_titles_processed": 1947,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,31 @@
           "time_info": "[01时06分 ~ 09时11分]"
         },
         {
+          "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
+          "url": "https://news.ifeng.com/c/8r0VR9GHBdi",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时42分 ~ 23时47分]"
+        },
+        {
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://www.cls.cn/detail/2293557",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时38分 ~ 23时47分]"
+        },
+        {
           "title": "华尔街深度解读“特朗普IEEPA关税被否”：下半年关税或下调，退税或变全面刺激，潜在的行业利好",
           "url": "https://wallstreetcn.com/articles/3765969",
           "source": "华尔街见闻",
@@ -44,29 +69,20 @@
           "time_info": "[01时06分 ~ 09时11分]"
         },
         {
-          "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
-          "url": "https://news.ifeng.com/c/8r0VR9GHBdi",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时42分 ~ 22时05分]"
-        },
-        {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://www.cls.cn/detail/2293557",
-          "source": "财联社热门",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
+          "source": "澎湃新闻",
           "ranks": [
+            14,
+            12,
             7,
-            2,
-            1
+            6,
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时38分 ~ 22时05分]"
+          "appearance_count": 9,
+          "time_info": "[17时42分 ~ 23时47分]"
         },
         {
           "title": "特朗普被曝考虑对伊朗先“小打”再“大打”",
@@ -93,6 +109,18 @@
           "time_info": "[09时11分 ~ 14时48分]"
         },
         {
+          "title": "中美就特朗普访华事宜保持着沟通",
+          "url": "https://www.douyin.com/hot/2410424",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时38分 ~ 23时47分]"
+        },
+        {
           "title": "特朗普“换马甲”强征关税！多方抨击：新关税法理依然站不住脚",
           "url": "https://www.cls.cn/detail/2293302",
           "source": "财联社热门",
@@ -107,21 +135,6 @@
           "time_info": "[15时44分 ~ 20时52分]"
         },
         {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时42分 ~ 22时05分]"
-        },
-        {
           "title": "美军最高将领据传告知特朗普：对伊朗动武可能带来重大风险",
           "url": "https://www.cls.cn/detail/2293044",
           "source": "财联社热门",
@@ -133,17 +146,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时11分 ~ 14时48分]"
-        },
-        {
-          "title": "中美就特朗普访华事宜保持着沟通",
-          "url": "https://www.douyin.com/hot/2410424",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时38分 ~ 22时05分]"
         },
         {
           "title": "特朗普接连出招，伤害性不大，侮辱性极强",
@@ -201,7 +203,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -718,7 +720,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -762,7 +764,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -795,7 +797,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -828,7 +830,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -872,7 +874,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         }
@@ -880,7 +882,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 46,
+      "match_count": 49,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -891,8 +893,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时09分 ~ 22时05分]"
+          "appearance_count": 15,
+          "time_info": "[12时09分 ~ 23时47分]"
         },
         {
           "title": "来自“2028年6月的研究报告”：当AI超越预期，经济却崩了",
@@ -931,8 +933,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时11分 ~ 22时05分]"
+          "appearance_count": 16,
+          "time_info": "[09时11分 ~ 23时47分]"
         },
         {
           "title": "美联储理事沃勒：CEO们称AI将致大量裁员，3月利率决议取决于2月劳动力数据",
@@ -1059,6 +1061,17 @@
           "time_info": "[06时32分 ~ 07时27分]"
         },
         {
+          "title": "AI冲击余波未平，美股盘初涨跌互现，芯片板块拉升，AMD拿下大单涨超6%，金银回落，基本金属拉升",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时46分 ~ 23时47分]"
+        },
+        {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金五连涨，期银一度涨近8%",
           "url": "https://wallstreetcn.com/articles/3765966",
           "source": "华尔街见闻",
@@ -1079,6 +1092,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "美联储理事库克：AI已经被纳入美联储的预测。",
+          "url": "https://wallstreetcn.com/livenews/3058228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
+          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
+          "url": "https://www.zhihu.com/question/41253586",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时38分 ~ 23时47分]"
         },
         {
           "title": "Hirai为何当选韩国亚运会LOL队教练",
@@ -1105,6 +1142,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
+        },
+        {
+          "title": "李佳薇JKAI声乐大师课",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E4%BD%B3%E8%96%87JKAI%E5%A3%B0%E4%B9%90%E5%A4%A7%E5%B8%88%E8%AF%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时52分 ~ 23时47分]"
         },
         {
           "title": "春节旅游市场迎结构性转变，AI入局成为新亮点",
@@ -1153,18 +1203,6 @@
           "time_info": "[01时55分 ~ 03时53分]"
         },
         {
-          "title": "李佳薇JKAI声乐大师课",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E4%BD%B3%E8%96%87JKAI%E5%A3%B0%E4%B9%90%E5%A4%A7%E5%B8%88%E8%AF%BE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 22时05分]"
-        },
-        {
           "title": "镁信健康张小栋发布内部信：全面落地AI Inside新战略，重点赋能两大业务方向",
           "url": "https://wallstreetcn.com/livenews/3058012",
           "source": "华尔街见闻-快讯",
@@ -1188,18 +1226,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时36分 ~ 20时52分]"
-        },
-        {
-          "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
-          "url": "https://www.zhihu.com/question/41253586",
-          "source": "知乎",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时38分 ~ 22时05分]"
         },
         {
           "title": "美债黄金携手大涨！市场直面三大风暴眼：特朗普关税、AI恐慌、伊朗局势",
@@ -1248,6 +1274,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时38分 ~ 17时42分]"
+        },
+        {
+          "title": "李在明社媒发AI视频",
+          "url": "https://www.douyin.com/hot/2410021",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时46分 ~ 23时47分]"
         },
         {
           "title": "马年春节AI战役全记录",
@@ -1311,7 +1348,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -1355,7 +1392,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -1493,11 +1530,12 @@
             10,
             12,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[01时06分 ~ 22时05分]"
+          "appearance_count": 30,
+          "time_info": "[01时06分 ~ 23时47分]"
         },
         {
           "title": "与美国达成“临时协议”？伊朗：毫无根据",
@@ -1533,8 +1571,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时09分 ~ 22时05分]"
+          "appearance_count": 15,
+          "time_info": "[12时09分 ~ 23时47分]"
         },
         {
           "title": "美国已经得到委内瑞拉了，为什么还要去搞伊朗呢?",
@@ -1570,22 +1608,24 @@
             9,
             1,
             16,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时38分 ~ 22时05分]"
+          "appearance_count": 8,
+          "time_info": "[18时38分 ~ 23时47分]"
         },
         {
           "title": "中方回应“美考虑军事打击伊朗”",
           "url": "https://www.douyin.com/hot/2410571",
           "source": "抖音",
           "ranks": [
-            14
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时38分 ~ 22时05分]"
+          "appearance_count": 8,
+          "time_info": "[18时38分 ~ 23时47分]"
         },
         {
           "title": "伊朗一军用直升机坠毁4人死亡",
@@ -1619,6 +1659,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时48分"
+        },
+        {
+          "title": "在伊朗中国人：华联会已准备撤离方案",
+          "url": "https://www.toutiao.com/trending/7609535429876056107/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时05分 ~ 23时47分]"
         },
         {
           "title": "内塔尼亚胡警告伊朗",
@@ -1816,17 +1868,6 @@
           "time_info": "05时55分"
         },
         {
-          "title": "在伊朗中国人：华联会已准备撤离方案",
-          "url": "https://www.toutiao.com/trending/7609535429876056107/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
           "title": "伊朗空军一直升机坠毁2人死亡",
           "url": "https://flash.jin10.com/detail/20260224150953778800",
           "source": "金十数据",
@@ -1941,6 +1982,18 @@
           "time_info": "[05时55分 ~ 06时32分]"
         },
         {
+          "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2293967",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时05分 ~ 23时47分]"
+        },
+        {
           "title": "道指ETF收跌超1.6%，和小盘股ETF领跌美股大类资产类ETF，黄金ETF涨2.7%",
           "url": "https://wallstreetcn.com/livenews/3057666",
           "source": "华尔街见闻-快讯",
@@ -2019,7 +2072,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -2041,7 +2094,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -2055,17 +2108,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
-        },
-        {
-          "title": "美股三大期指集体走高 AMD盘前一度大涨15% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2293967",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
         },
         {
           "title": "诺和诺德(NVO.N)美股盘前跌约3%，此前其UBT251减肥药物试验显示减重效果达19.7%。",
@@ -2096,7 +2138,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         }
@@ -2104,7 +2146,7 @@
     },
     {
       "keyword_group": "claude code anthropic",
-      "match_count": 11,
+      "match_count": 18,
       "titles": [
         {
           "title": "Anthropic撼动市场继续：IBM暴跌13%创25年最大，网络安全股再重挫",
@@ -2117,8 +2159,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时09分 ~ 22时05分]"
+          "appearance_count": 15,
+          "time_info": "[12时09分 ~ 23时47分]"
+        },
+        {
+          "title": "就在今晚！软件股再遭打击？Anthropic将直播展示Claude最新功能",
+          "url": "https://wallstreetcn.com/articles/3766010",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时35分 ~ 23时47分]"
         },
         {
           "title": "IBM成AI最新受害者！受Anthropic编程语言威胁，股价暴跌11%",
@@ -2132,6 +2186,28 @@
           "time_info": "04时35分"
         },
         {
+          "title": "Anthropic的Claude AI模型产品负责人Scott White：公司的目标是消除人们使用人工智能（AI）回答工作相关查询的方式与他们从事具体工作所用的工具之间的隔阂。 将市场表现与单一产品发布联系起来“有点过度解读或反应过度了”，公司的AI模型正在帮助企业客户实现增长。",
+          "url": "https://wallstreetcn.com/livenews/3058226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
+          "title": "Anthropic推出智能体AI工具，针对实现投资银行和人力资源自动化",
+          "url": "https://wallstreetcn.com/livenews/3058225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "Anthropic的CEO Dario Amodei将会见美国国防部长/“战争部长”Pete Hegseth。",
           "url": "https://wallstreetcn.com/livenews/3057583",
           "source": "华尔街见闻-快讯",
@@ -2141,17 +2217,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时07分"
-        },
-        {
-          "title": "就在今晚！软件股再遭打击？Anthropic将直播展示Claude最新功能",
-          "url": "https://wallstreetcn.com/articles/3766010",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时35分 ~ 22时05分]"
         },
         {
           "title": "马斯克：Anthropic公司大规模窃取训练数据，并为此支付了数十亿美元的赔偿金。这是不争的事实。",
@@ -2190,6 +2255,17 @@
           "time_info": "[05时55分 ~ 06时32分]"
         },
         {
+          "title": "普华永道（PwC）与Anthropic围绕企业AI插件构建合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3058221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "Anthropic：Claude Code能自动Cobol现代化。",
           "url": "https://wallstreetcn.com/livenews/3057618",
           "source": "华尔街见闻-快讯",
@@ -2212,6 +2288,39 @@
           "time_info": "04时35分"
         },
         {
+          "title": "汤森路透涨幅扩大至12%，Anthropic在活动中谈及该公司。 2026年稍早，路透股价一度因Anthropic开发法务业务而暴跌。",
+          "url": "https://wallstreetcn.com/livenews/3058212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
+          "title": "LegalZoom涨幅扩大至6.1%，Anthropic在活动中谈及该公司。",
+          "url": "https://wallstreetcn.com/livenews/3058208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
+          "title": "Anthropic：客户可以为Claude定制插件。 在Claude推出五款新的自研插件。 （用户）现在可以获得由合作伙伴开发的插件。",
+          "url": "https://wallstreetcn.com/livenews/3058207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "消息人士：Anthropic 公司正向部分现任和前任员工提供出售公司股份的机会，公司估值约为3500亿美元，这将使他们能够从近期300亿美元的融资活动中获利。",
           "url": "https://flash.jin10.com/detail/20260224082107536800",
           "source": "金十数据",
@@ -2223,13 +2332,24 @@
           "time_info": "09时11分"
         },
         {
+          "title": "Salesforce涨3.4%，Spotify涨1.4%，Adobe涨3.4%，Figma涨8.9%，埃森哲涨1%，投资者关注Anthropic活动。",
+          "url": "https://wallstreetcn.com/livenews/3058201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "财捷美股盘前涨超6%，公司和ANTHROPIC宣布建立多年合作伙伴关系。",
           "url": "https://wallstreetcn.com/livenews/3058148",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         }
@@ -2393,7 +2513,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         }
