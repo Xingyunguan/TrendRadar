@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T07:21:17.542172+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2026-02-26T09:10:18.719773+08:00",
+  "total_titles_processed": 816,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI agent",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "如何评价文章「文科生 72 小时杀入 GitHub 全球榜：我没写一行代码但指挥了一支 AI 军队」？",
@@ -14,22 +14,12 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 07时21分]"
-        },
-        {
-          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
-          "url": "https://wallstreetcn.com/articles/3766105",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 07时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 09时10分]"
         },
         {
           "title": "韩女子用AI精密策划诱杀致2死1伤",
@@ -37,7 +27,19 @@
           "source": "百度热搜",
           "ranks": [
             24,
-            23
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 09时10分]"
+        },
+        {
+          "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
+          "url": "https://wallstreetcn.com/articles/3766105",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -56,8 +58,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 07时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 09时10分]"
         },
         {
           "title": "大模型 AI Infra 方向面试会有哪些经常提问的问题？",
@@ -69,6 +71,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时27分 ~ 06时23分]"
+        },
+        {
+          "title": "英伟达大秀下一代AI系统Vera Rubin内部细节 每瓦性能提高10倍",
+          "url": "https://www.cls.cn/detail/2295238",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 09时10分]"
         },
         {
           "title": "印度总理莫迪：印度与以色列在人工智能（AI）与量子科技领域存在协同协议。",
@@ -117,6 +131,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "AI时代的“稀缺资产”？高盛：HALO--重资产、不过时",
+          "url": "https://wallstreetcn.com/articles/3766110",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
           "title": "三星Galaxy S26系列发布：AI三引擎融合+隐私屏首发，两款机型涨价100美元",
           "url": "https://wallstreetcn.com/livenews/3059063",
           "source": "华尔街见闻-快讯",
@@ -126,17 +151,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
-        },
-        {
-          "title": "英伟达大秀下一代AI系统Vera Rubin内部细节 每瓦性能提高10倍",
-          "url": "https://www.cls.cn/detail/2295238",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
         },
         {
           "title": "C3.ai美股盘后跌24%，该公司第三财季营收逊色于市场预期。",
@@ -156,7 +170,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -183,6 +197,28 @@
           "time_info": "00时59分"
         },
         {
+          "title": "AI转型推高运营成本 Zoom利润预期不及预期",
+          "url": "https://flash.jin10.com/detail/20260226080329619800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
+          "title": "2026年春节AI眼镜销量爆发",
+          "url": "https://wallstreetcn.com/livenews/3059120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
           "title": "若AI取代人类工作社会会变成什么样",
           "url": "https://www.toutiao.com/trending/7610770425311661622/",
           "source": "今日头条",
@@ -192,23 +228,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "AI需求持续快速增长，分析称电子布价格有望继续上涨",
+          "url": "https://wallstreetcn.com/livenews/3059119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
+          "title": "AI帮你选对发型",
+          "url": "https://www.douyin.com/hot/2411301",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
-          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
-          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
-          "source": "凤凰网",
+          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
+          "url": "https://wallstreetcn.com/articles/3766126",
+          "source": "华尔街见闻",
           "ranks": [
+            5,
+            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 07时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 09时10分]"
         },
         {
           "title": "伊朗强硬回击特朗普国情咨文：弥天大谎",
@@ -218,16 +278,15 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 07时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 09时10分]"
         },
         {
-          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
-          "url": "https://wallstreetcn.com/articles/3766126",
-          "source": "华尔街见闻",
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
           "ranks": [
-            5,
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -309,6 +368,28 @@
           "time_info": "[00时59分 ~ 01时56分]"
         },
         {
+          "title": "被批“脱离群众”，特朗普演讲后民调出炉",
+          "url": "https://news.ifeng.com/c/8r3H0FXQPT8",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
+          "title": "特朗普试戴冬奥金牌不还",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%95%E6%88%B4%E5%86%AC%E5%A5%A5%E9%87%91%E7%89%8C%E4%B8%8D%E8%BF%98%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
           "title": "市场消息：特朗普目前正在与泽连斯基通电话。",
           "url": "https://flash.jin10.com/detail/20260226021252791800",
           "source": "金十数据",
@@ -326,7 +407,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -337,7 +418,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -367,7 +448,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "美国国务卿鲁比奥：伊朗正试图研制洲际弹道导弹。",
@@ -376,7 +457,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -398,7 +479,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -409,7 +490,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -420,7 +501,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -473,6 +554,28 @@
           "time_info": "02时53分"
         },
         {
+          "title": "美国务卿：美伊第三轮谈判将主要聚焦伊朗核计划",
+          "url": "https://wallstreetcn.com/livenews/3059133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
+          "title": "美媒：美官员设想以色列先战伊朗 后者反击后美国再介入",
+          "url": "https://flash.jin10.com/detail/20260226081407041800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
           "title": "据AXIOS网站：美国总统特使威特科夫表示，任何伊朗核协议都应无限期有效。",
           "url": "https://flash.jin10.com/detail/20260226015938900800",
           "source": "金十数据",
@@ -512,7 +615,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         }
@@ -652,8 +755,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 07时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时59分 ~ 09时10分]"
         },
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -662,9 +765,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 09时10分]"
+        },
+        {
+          "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
+          "url": "https://www.cls.cn/detail/2295296",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 09时10分]"
         },
         {
           "title": "网络股指数ETF收涨约2.3%，领跑美股行业ETF",
@@ -689,24 +804,13 @@
           "time_info": "06时23分"
         },
         {
-          "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
-          "url": "https://www.cls.cn/detail/2295296",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
           "title": "英伟达美股盘后涨幅收窄至0.4%，该公司CEO黄仁勋与CFO正在讲话。",
           "url": "https://wallstreetcn.com/livenews/3059092",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -823,7 +927,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         }
@@ -874,7 +978,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -896,7 +1000,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -907,7 +1011,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -918,7 +1022,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         }
@@ -972,6 +1076,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时59分 ~ 07时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "摩根大通上调黄金长期价格预期至4500美元，维持2026年底目标价6300美元不变",
+          "url": "https://www.cls.cn/detail/2295242",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
         }
       ]
     },
