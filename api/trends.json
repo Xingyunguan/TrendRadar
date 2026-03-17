@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T20:45:43.304273+08:00",
-  "total_titles_processed": 1884,
+  "generated_at": "2026-03-17T22:23:04.563541+08:00",
+  "total_titles_processed": 2003,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 149,
+      "match_count": 157,
       "titles": [
         {
           "title": "6问美以伊战事走向：美国如何停战？伊朗是否会恋战？",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时54分 ~ 07时23分]"
+        },
+        {
+          "title": "反悔+拒定居,伊朗女足3人回国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351961&amp;topic_name=%E5%8F%8D%E6%82%94%2B%E6%8B%92%E5%AE%9A%E5%B1%85%2C%E4%BC%8A%E6%9C%97%E5%A5%B3%E8%B6%B33%E4%BA%BA%E5%9B%9E%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时40分 ~ 22时23分]"
         },
         {
           "title": "知情人士：美军对伊朗冲突作战规划已包含“退出选项”",
@@ -57,17 +68,6 @@
           "time_info": "[00时54分 ~ 18时41分]"
         },
         {
-          "title": "反悔+拒定居,伊朗女足3人回国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351961&amp;topic_name=%E5%8F%8D%E6%82%94%2B%E6%8B%92%E5%AE%9A%E5%B1%85%2C%E4%BC%8A%E6%9C%97%E5%A5%B3%E8%B6%B33%E4%BA%BA%E5%9B%9E%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时40分 ~ 20时45分]"
-        },
-        {
           "title": "伊朗最高领袖任命军事顾问",
           "url": "https://www.toutiao.com/trending/7617716556620992043/",
           "source": "今日头条",
@@ -88,6 +88,18 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时54分 ~ 07时23分]"
+        },
+        {
+          "title": "伊朗媒体发布拉里贾尼手写悼词",
+          "url": "https://news.ifeng.com/c/8rZTHHkcxRT",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时40分 ~ 22时23分]"
         },
         {
           "title": "伊朗战争：从闪电战到消耗战，暴露了什么？",
@@ -122,8 +134,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时11分 ~ 20时45分]"
+          "appearance_count": 14,
+          "time_info": "[09时11分 ~ 22时23分]"
         },
         {
           "title": "伊朗打击美军阿联酋基地弹药库",
@@ -356,6 +368,21 @@
           "time_info": "[03时47分 ~ 07时23分]"
         },
         {
+          "title": "欧盟理事会：对伊朗16名个人和3个实体实施制裁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32781215",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            15,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时48分 ~ 22时23分]"
+        },
+        {
           "title": "伊朗战争要打多久？美白宫官员：预计不超过六周",
           "url": "https://www.cls.cn/detail/2314354",
           "source": "财联社热门",
@@ -367,15 +394,18 @@
           "time_info": "[01时54分 ~ 06时24分]"
         },
         {
-          "title": "伊朗媒体发布拉里贾尼手写悼词",
-          "url": "https://news.ifeng.com/c/8rZTHHkcxRT",
-          "source": "凤凰网",
+          "title": "中方向伊朗等4国提供人道主义援助",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%90%91%E4%BC%8A%E6%9C%97%E7%AD%894%E5%9B%BD%E6%8F%90%E4%BE%9B%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E6%8F%B4%E5%8A%A9",
+          "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            6,
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时40分 ~ 20时45分]"
+          "appearance_count": 7,
+          "time_info": "[17时45分 ~ 22时23分]"
         },
         {
           "title": "伊朗动用泥石导弹释放了哪些信号",
@@ -389,6 +419,34 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时09分 ~ 18时41分]"
+        },
+        {
+          "title": "中方：向伊朗等4国提供人道主义援助",
+          "url": "https://www.toutiao.com/trending/7617738403773382710/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            16,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时40分 ~ 22时23分]"
+        },
+        {
+          "title": "以色列总理下令“消灭”伊朗政府高级官员",
+          "url": "https://news.ifeng.com/c/8rZRyoRGSey",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9,
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时40分 ~ 22时23分]"
         },
         {
           "title": "伊朗称逮捕500名间谍",
@@ -441,17 +499,19 @@
           "time_info": "[09时11分 ~ 09时12分]"
         },
         {
-          "title": "中方向伊朗等4国提供人道主义援助",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%90%91%E4%BC%8A%E6%9C%97%E7%AD%894%E5%9B%BD%E6%8F%90%E4%BE%9B%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E6%8F%B4%E5%8A%A9",
-          "source": "百度热搜",
+          "title": "伊朗这次不想忍了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%BF%99%E6%AC%A1%E4%B8%8D%E6%83%B3%E5%BF%8D%E4%BA%86%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
           "ranks": [
-            2,
-            6,
-            8
+            27,
+            12,
+            23,
+            8,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时45分 ~ 20时45分]"
+          "appearance_count": 7,
+          "time_info": "[17时45分 ~ 22时23分]"
         },
         {
           "title": "伊朗称逮捕了 500 名涉嫌为敌方和反伊朗媒体传递情报的间谍，对伊朗国内稳定和战争进展有哪些影响？",
@@ -464,20 +524,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时11分 ~ 16时40分]"
-        },
-        {
-          "title": "欧盟理事会：对伊朗16名个人和3个实体实施制裁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32781215",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时48分 ~ 20时45分]"
         },
         {
           "title": "美军称已摧毁100艘伊朗海军舰艇",
@@ -509,6 +555,17 @@
           "time_info": "[04时28分 ~ 07时23分]"
         },
         {
+          "title": "伊朗最高领袖驳回斡旋提案",
+          "url": "https://news.ifeng.com/c/8rZTms65JqK",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时40分 ~ 22时23分]"
+        },
+        {
           "title": "以色列外交部长：伊朗政权只能由伊朗人决定。",
           "url": "https://flash.jin10.com/detail/20260317191900607800",
           "source": "金十数据",
@@ -526,7 +583,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -545,17 +602,16 @@
           "time_info": "[12时09分 ~ 17时45分]"
         },
         {
-          "title": "中方：向伊朗等4国提供人道主义援助",
-          "url": "https://www.toutiao.com/trending/7617738403773382710/",
+          "title": "伊朗最高安全官员拉里贾尼发表手写悼词",
+          "url": "https://www.toutiao.com/trending/7618144836088024639/",
           "source": "今日头条",
           "ranks": [
-            13,
-            16,
-            14
+            12,
+            17
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时40分 ~ 20时45分]"
+          "time_info": "[18时40分 ~ 22时23分]"
         },
         {
           "title": "韩国总统李在明：受中东危机影响，我们必须考虑能源供应的最坏情况。 能源结构应尽快提高可再生能源的比重。 将专注于获取新的稳定能源来源。 或将考虑出口管制，以应对伊朗战争恶化的局面。",
@@ -663,7 +719,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -674,9 +730,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
+        },
+        {
+          "title": "战争进一步升级！以色列称伊朗最高安全官员拉里贾尼“已被打死”",
+          "url": "https://www.cls.cn/detail/2315798",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 22时23分]"
         },
         {
           "title": "伊朗外交部：伊朗外长阿拉格齐呼吁国际社会关注该地区和霍尔木兹海峡不安全的主要根源，即美国和犹太复国主义政权的军事侵略。",
@@ -688,31 +756,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
-        },
-        {
-          "title": "伊朗这次不想忍了",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%BF%99%E6%AC%A1%E4%B8%8D%E6%83%B3%E5%BF%8D%E4%BA%86%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            12,
-            23,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时45分 ~ 20时45分]"
-        },
-        {
-          "title": "伊朗最高领袖驳回斡旋提案",
-          "url": "https://news.ifeng.com/c/8rZTms65JqK",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时40分 ~ 20时45分]"
         },
         {
           "title": "伊朗最高安全官员拉里贾尼发表手写悼词",
@@ -776,19 +819,6 @@
           "time_info": "[16时40分 ~ 18时41分]"
         },
         {
-          "title": "以色列总理下令“消灭”伊朗政府高级官员",
-          "url": "https://news.ifeng.com/c/8rZRyoRGSey",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时40分 ~ 20时45分]"
-        },
-        {
           "title": "伊朗外长重申霍尔木兹只对敌人封锁",
           "url": "https://wallstreetcn.com/livenews/3071444",
           "source": "华尔街见闻-快讯",
@@ -811,17 +841,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时48分 ~ 16时40分]"
-        },
-        {
-          "title": "伊朗最高安全官员拉里贾尼发表手写悼词",
-          "url": "https://www.toutiao.com/trending/7618144836088024639/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时40分 ~ 20时45分]"
         },
         {
           "title": "印度称与伊朗展开对话，「取得一些成果，愿与欧洲分享成功经验」，印度为何选择直接对话？会带来哪些影响？",
@@ -861,6 +880,18 @@
           "time_info": "[09时11分 ~ 12时09分]"
         },
         {
+          "title": "伊朗最高安全官员拉里贾尼发表手写悼词",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32783242",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 22时23分]"
+        },
+        {
           "title": "伊朗称袭击两处美军基地战斗机机库",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E8%A2%AD%E5%87%BB%E4%B8%A4%E5%A4%84%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E6%88%98%E6%96%97%E6%9C%BA%E6%9C%BA%E5%BA%93",
           "source": "百度热搜",
@@ -871,6 +902,41 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时11分 ~ 12时09分]"
+        },
+        {
+          "title": "伊朗大使：最高领袖在俄治疗为假新闻",
+          "url": "https://www.toutiao.com/trending/7618194293509082633/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 22时23分]"
+        },
+        {
+          "title": "伊朗最高领袖驳回斡旋提案",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E9%A9%B3%E5%9B%9E%E6%96%A1%E6%97%8B%E6%8F%90%E6%A1%88%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 22时23分]"
+        },
+        {
+          "title": "伊朗最高领袖驳回与美国议和提案",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E9%A9%B3%E5%9B%9E%E4%B8%8E%E7%BE%8E%E5%9B%BD%E8%AE%AE%E5%92%8C%E6%8F%90%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
         },
         {
           "title": "伊朗对以色列心脏地带展开袭击",
@@ -931,6 +997,17 @@
           "time_info": "[02时48分 ~ 03时48分]"
         },
         {
+          "title": "以军袭击伊朗最高安全官员拉里贾尼，伊朗方面尚未表态",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32782863",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
+        },
+        {
           "title": "伊朗称逮捕500名间谍",
           "url": "https://www.toutiao.com/trending/7617802507594501682/",
           "source": "今日头条",
@@ -964,6 +1041,17 @@
           "time_info": "[09时11分 ~ 09时12分]"
         },
         {
+          "title": "伊朗的新战法让美国很头疼",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%9A%84%E6%96%B0%E6%88%98%E6%B3%95%E8%AE%A9%E7%BE%8E%E5%9B%BD%E5%BE%88%E5%A4%B4%E7%96%BC%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
+        },
+        {
           "title": "伊朗首都德黑兰北部发生爆炸",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%A6%96%E9%83%BD%E5%BE%B7%E9%BB%91%E5%85%B0%E5%8C%97%E9%83%A8%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8",
           "source": "百度热搜",
@@ -973,6 +1061,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 05时30分]"
+        },
+        {
+          "title": "伊朗称实施“真实承诺4”第58轮行动",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%AE%9E%E6%96%BD%E2%80%9C%E7%9C%9F%E5%AE%9E%E6%89%BF%E8%AF%BA4%E2%80%9D%E7%AC%AC58%E8%BD%AE%E8%A1%8C%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
         },
         {
           "title": "伊朗新任最高领袖任命军事顾问",
@@ -1041,6 +1140,17 @@
           "time_info": "18时41分"
         },
         {
+          "title": "“火节”拉开帷幕前，伊朗的网络状况变得更加糟糕",
+          "url": "https://flash.jin10.com/detail/20260317220414425800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "美国总统特使威特科夫周二将向一些参议员通报伊朗相关情况。（AXIOS）",
           "url": "https://wallstreetcn.com/livenews/3071268",
           "source": "华尔街见闻-快讯",
@@ -1050,17 +1160,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
-        },
-        {
-          "title": "战争进一步升级！以色列称伊朗最高安全官员拉里贾尼“已被打死”",
-          "url": "https://www.cls.cn/detail/2315798",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
         },
         {
           "title": "伊朗总统：在我与法国总统马克龙的对话中，我强调伊朗并没有发起这场可怕的战争。抵御侵略是自然权利，而我们对此非常擅长。",
@@ -1168,7 +1267,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -1212,7 +1311,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -1267,18 +1366,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
-          "title": "伊朗最高安全官员拉里贾尼发表手写悼词",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32783242",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -1371,17 +1459,6 @@
           "time_info": "18时41分"
         },
         {
-          "title": "伊朗最高领袖驳回斡旋提案",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E9%A9%B3%E5%9B%9E%E6%96%A1%E6%97%8B%E6%8F%90%E6%A1%88%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
           "title": "德国总理默茨：靠炸弹实现伊朗政权更迭不太可能成功。",
           "url": "https://flash.jin10.com/detail/20260317002322631800",
           "source": "金十数据",
@@ -1391,6 +1468,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "惠誉：伊朗冲突给发达市场带来的挑战将主要表现为能源和借贷成本上升、通胀加剧及经济增长放缓。",
+          "url": "https://flash.jin10.com/detail/20260317215752706800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "伊朗称“未来数小时内”将打击美在中东产业",
@@ -1564,7 +1652,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -1600,6 +1688,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
+        },
+        {
+          "title": "美国国家反恐中心主任乔·肯特辞职，称无法支持伊朗战争",
+          "url": "https://wallstreetcn.com/livenews/3071727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
         },
         {
           "title": "英媒解析：胡塞武装将准备袭击红海油轮以协助伊朗",
@@ -1685,18 +1784,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
-          "title": "伊朗大使：最高领袖在俄治疗为假新闻",
-          "url": "https://www.toutiao.com/trending/7618194293509082633/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -1718,7 +1806,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -1745,13 +1833,24 @@
           "time_info": "12时09分"
         },
         {
+          "title": "伊朗革命卫队称打击行动加速",
+          "url": "https://wallstreetcn.com/livenews/3071718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "以色列空军对伊朗德黑兰基础设施实施新一轮打击",
           "url": "https://wallstreetcn.com/livenews/3071645",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         }
@@ -1759,7 +1858,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 101,
+      "match_count": 102,
       "titles": [
         {
           "title": "特朗普会投入地面部队吗？",
@@ -1826,17 +1925,6 @@
           "time_info": "[09时11分 ~ 19时37分]"
         },
         {
-          "title": "美以伊战争丨特朗普求护航，德国：这不是北约的战争",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时54分 ~ 04时28分]"
-        },
-        {
           "title": "美澄清涉特朗普或推迟访华不实报道",
           "url": "https://www.cls.cn/detail/2315239",
           "source": "财联社热门",
@@ -1847,8 +1935,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时52分 ~ 20时45分]"
+          "appearance_count": 10,
+          "time_info": "[14时52分 ~ 22时23分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普求护航，德国：这不是北约的战争",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 04时28分]"
         },
         {
           "title": "特朗普强推“护航联盟”：不派舰，北约未来“非常糟糕”；日澳已拒绝",
@@ -1917,8 +2016,50 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时53分 ~ 22时23分]"
+        },
+        {
+          "title": "外交部：美方已澄清 特朗普访华事与霍尔木兹海峡通航问题无关",
+          "url": "https://www.cls.cn/detail/2315375",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时45分 ~ 22时23分]"
+        },
+        {
+          "title": "美国财长：特朗普“因霍尔木兹海峡护航事威胁推迟访华”报道不实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32781657",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[13时53分 ~ 20时45分]"
+          "time_info": "[15时48分 ~ 22时23分]"
+        },
+        {
+          "title": "特朗普或因伊朗战事推迟访华？外交部回应",
+          "url": "https://news.ifeng.com/c/8rZOqGs1pHk",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时40分 ~ 22时23分]"
         },
         {
           "title": "特朗普“三个很开心”，让全世界脊背发凉",
@@ -1945,18 +2086,6 @@
           "time_info": "[12时09分 ~ 18时41分]"
         },
         {
-          "title": "特朗普或因伊朗战事推迟访华？外交部回应",
-          "url": "https://news.ifeng.com/c/8rZOqGs1pHk",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时40分 ~ 20时45分]"
-        },
-        {
           "title": "特朗普抱怨部分盟友不帮忙 并暗示将袭击哈尔克岛石油设施 | 环球市场",
           "url": "https://www.cls.cn/detail/2314895",
           "source": "财联社热门",
@@ -1969,34 +2098,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时11分 ~ 16时40分]"
-        },
-        {
-          "title": "外交部：美方已澄清 特朗普访华事与霍尔木兹海峡通航问题无关",
-          "url": "https://www.cls.cn/detail/2315375",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时45分 ~ 20时45分]"
-        },
-        {
-          "title": "美国财长：特朗普“因霍尔木兹海峡护航事威胁推迟访华”报道不实",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32781657",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时48分 ~ 20时45分]"
         },
         {
           "title": "美以伊战争丨特朗普暗示袭击哈尔克岛石油设施",
@@ -2897,13 +2998,24 @@
           "time_info": "05时30分"
         },
         {
+          "title": "纽约州因地铁项目资金被冻结起诉特朗普政府。",
+          "url": "https://wallstreetcn.com/livenews/3071721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "白宫国家经济委员会主任哈塞特：如有需要，协调石油储备释放量可增加。 伊朗冲突短期内就会结束。 4-6周是基本情景，我们目前进度超前。 特朗普绝不会退缩，一定会把这件事做到底。 期货显示油价将在今年晚些时候回到50多美元/桶。 密切研究向西海岸输送燃料的问题。 美国经济基本面依然强劲。 担心亚洲可能减少对美国的石油出口。 播种季快到了，所以肥料很重要。 成功找到了其他肥料来源。",
           "url": "https://wallstreetcn.com/livenews/3071646",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -2933,7 +3045,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 67,
+      "match_count": 70,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -2968,11 +3080,12 @@
             1,
             4,
             12,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时53分 ~ 20时45分]"
+          "appearance_count": 11,
+          "time_info": "[13时53分 ~ 22时23分]"
         },
         {
           "title": "英伟达将豪掷 260 亿美元开发 AI 大模型，为什么英伟达要自己下场做大模型？",
@@ -3071,6 +3184,29 @@
           "time_info": "[13时53分 ~ 19时37分]"
         },
         {
+          "title": "王自如自研的Agent什么水平",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E8%87%AA%E7%A0%94%E7%9A%84Agent%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 22时23分]"
+        },
+        {
+          "title": "AI味太冲,英伟达DLSS5翻车",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351983&amp;topic_name=AI%E5%91%B3%E5%A4%AA%E5%86%B2%2C%E8%8B%B1%E4%BC%9F%E8%BE%BEDLSS5%E7%BF%BB%E8%BD%A6",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 22时23分]"
+        },
+        {
           "title": "AI对游戏版权有何影响",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%AF%B9%E6%B8%B8%E6%88%8F%E7%89%88%E6%9D%83%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
           "source": "bilibili 热搜",
@@ -3143,15 +3279,16 @@
           "time_info": "16时40分"
         },
         {
-          "title": "王自如自研的Agent什么水平",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E8%87%AA%E7%A0%94%E7%9A%84Agent%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3",
-          "source": "bilibili 热搜",
+          "title": "36 岁程序员，被 AI 写代码吓到了，如果再不转型，我几年内会失业吗？",
+          "url": "https://www.zhihu.com/question/1977057445844109122",
+          "source": "知乎",
           "ranks": [
-            5
+            9,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 22时23分]"
         },
         {
           "title": "据华尔街日报：Reflection AI 正与新世界集团合作建设数据中心，该中心将部署数万颗英伟达(NVDA.O)芯片。",
@@ -3174,17 +3311,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
-        },
-        {
-          "title": "AI味太冲,英伟达DLSS5翻车",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351983&amp;topic_name=AI%E5%91%B3%E5%A4%AA%E5%86%B2%2C%E8%8B%B1%E4%BC%9F%E8%BE%BEDLSS5%E7%BF%BB%E8%BD%A6",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
         },
         {
           "title": "苹果发布AirPods Max 2",
@@ -3309,6 +3435,17 @@
           "time_info": "[03时48分 ~ 04时28分]"
         },
         {
+          "title": "15只硬科技基金获批，精准投向AI与战略新兴产业，增量资金蓄势待发",
+          "url": "https://www.cls.cn/detail/2315814",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
+        },
+        {
           "title": "IBM宣布，与英伟达扩大在企业AI方面的合作。",
           "url": "https://wallstreetcn.com/livenews/3071161",
           "source": "华尔街见闻-快讯",
@@ -3319,6 +3456,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时30分 ~ 06时24分]"
+        },
+        {
+          "title": "315 曝光「AI 投毒」后 GEO 换马甲生意照做，暴露出哪些问题？怎样才能彻底铲除 GEO 黑产？",
+          "url": "https://www.zhihu.com/question/2016981407864414269",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
         },
         {
           "title": "Nebius就机器人和物理AI与英伟达构建合作伙伴关系",
@@ -3378,6 +3526,17 @@
           "time_info": "07时23分"
         },
         {
+          "title": "滴滴上线AI打车服务",
+          "url": "https://wallstreetcn.com/livenews/3071745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时23分"
+        },
+        {
           "title": "据华尔街日报：由英伟达支持的人工智能初创公司 Reflection AI 计划斥资数十亿美元在韩国建设数据中心。",
           "url": "https://flash.jin10.com/detail/20260317030232029800",
           "source": "金十数据",
@@ -3420,17 +3579,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
-        },
-        {
-          "title": "36 岁程序员，被 AI 写代码吓到了，如果再不转型，我几年内会失业吗？",
-          "url": "https://www.zhihu.com/question/1977057445844109122",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时45分"
         },
         {
           "title": "联想集团董事长兼CEO杨元庆：联想与英伟达拥有独特的定位，能够共同帮助机构实现 AI 运营化——从实验阶段走向企业生产，再到AI云超级工厂。 随着智能体AI（Agentic AI）驱动推理工作负载呈指数级增长，成本控制和单位代币性能（Performance per token）变得至关重要。 通过将英伟达NVIDIA AI Enterprise软件与联想的全栈混合AI平台及服务相结合，我们助力客户以更高的效率、更低的单位代币成本和更快的投产速度实现AI规模化。",
@@ -3733,7 +3881,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "霍尔木兹海峡现通航迹象，美股指高开，纳指涨1%，WTI原油日内跌幅达3%，现货黄金重回5000美元",
@@ -3772,6 +3920,17 @@
           "time_info": "[12时09分 ~ 19时37分]"
         },
         {
+          "title": "哈塞特安抚市场，美股指高开，科技股普涨，布油站上102美元，现货黄金涨0.2%",
+          "url": "https://wallstreetcn.com/articles/3767701",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
+        },
+        {
           "title": "NEBIUS美股盘前跌超5%，公司拟发行37.5亿美元可转换高级债券，计划将募集资金用于建设数据中心。",
           "url": "https://wallstreetcn.com/livenews/3071633",
           "source": "华尔街见闻-快讯",
@@ -3789,7 +3948,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -3800,7 +3959,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -3899,7 +4058,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -3910,7 +4069,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         }
@@ -3999,7 +4158,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -4010,7 +4169,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         }
@@ -4052,7 +4211,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         },
@@ -4074,7 +4233,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时45分"
         }
@@ -4195,8 +4354,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时11分 ~ 20时45分]"
+          "appearance_count": 14,
+          "time_info": "[09时11分 ~ 22时23分]"
         },
         {
           "title": "霍尔木兹海峡现通航迹象，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
