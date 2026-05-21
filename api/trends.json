@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T14:42:26.711010+08:00",
-  "total_titles_processed": 931,
+  "generated_at": "2026-05-21T18:32:15.388630+08:00",
+  "total_titles_processed": 1135,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 49,
       "titles": [
         {
           "title": "港大学者李成：我觉得特朗普对台军售政策会调整",
@@ -30,6 +30,62 @@
           "time_info": "[00时45分 ~ 07时05分]"
         },
         {
+          "title": "特朗普回应中俄元首会晤",
+          "url": "https://news.ifeng.com/c/8tIjMNQDlpG",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时42分 ~ 18时32分]"
+        },
+        {
+          "title": "中方回应特朗普称将与赖清德对话",
+          "url": "https://news.ifeng.com/c/8tJCrQkCYgq",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
+          "title": "中方回应特朗普称将与赖清德谈军售",
+          "url": "https://www.toutiao.com/trending/7642244493529321014/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
+          "title": "外交部回应“特朗普将与赖清德交谈”",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%B8%8E%E8%B5%96%E6%B8%85%E5%BE%B7%E4%BA%A4%E8%B0%88%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
+          "title": "美副防长能否访华与特朗普如何处理对台军售挂钩？外交部回应",
+          "url": "https://news.ifeng.com/c/8tJDfVFuwhB",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
           "title": "特朗普，“退了一万亿”",
           "url": "https://news.ifeng.com/c/8tIcotw8V5W",
           "source": "凤凰网",
@@ -42,15 +98,16 @@
           "time_info": "[10时11分 ~ 14时42分]"
         },
         {
-          "title": "特朗普回应中俄元首会晤",
-          "url": "https://news.ifeng.com/c/8tIjMNQDlpG",
-          "source": "凤凰网",
+          "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
+          "url": "https://wallstreetcn.com/articles/3772754",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时11分 ~ 18时32分]"
         },
         {
           "title": "特朗普声称将会与赖清德通电话",
@@ -59,7 +116,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -75,16 +132,49 @@
           "time_info": "[00时45分 ~ 10时11分]"
         },
         {
-          "title": "特朗普一句话击穿油市！布油盘中跌超7%，美国库存创纪录暴跌也挡不住",
-          "url": "https://wallstreetcn.com/articles/3772754",
-          "source": "华尔街见闻",
+          "title": "特朗普：不要中国学生，那可太冒犯了",
+          "url": "https://news.ifeng.com/c/8tIjMNQDlri",
+          "source": "凤凰网",
           "ranks": [
-            6,
-            5
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时42分 ~ 18时32分]"
+        },
+        {
+          "title": "美媒称特朗普政府已开始制定对古巴军事行动方案",
+          "url": "https://www.cls.cn/detail/2377710",
+          "source": "财联社热门",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时11分 ~ 14时42分]"
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
+          "title": "特朗普特使强行访问格陵兰后称：美国是时候重新上岛了",
+          "url": "https://news.ifeng.com/c/8tJB4De0lqd",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
+          "title": "特朗普称卸任后不排除去竞选以总理",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8D%B8%E4%BB%BB%E5%90%8E%E4%B8%8D%E6%8E%92%E9%99%A4%E5%8E%BB%E7%AB%9E%E9%80%89%E4%BB%A5%E6%80%BB%E7%90%86%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "特朗普来到白宫工地：请看我给美国的礼物，无人机撞上能弹开",
@@ -108,17 +198,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
-        },
-        {
-          "title": "特朗普：不要中国学生，那可太冒犯了",
-          "url": "https://news.ifeng.com/c/8tIjMNQDlri",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
         },
         {
           "title": "美国总统特朗普：就破冰船问题感谢芬兰。 短期内将形成55艘破冰船的（船队）规模。",
@@ -193,7 +272,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -457,7 +536,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -475,215 +554,31 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 18,
+      "keyword_group": "AI agent",
+      "match_count": 23,
       "titles": [
         {
-          "title": "美参议员格雷厄姆：希望伊朗冲突以外交方式解决",
-          "url": "https://flash.jin10.com/detail/20260521003657707800",
-          "source": "金十数据",
+          "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
+          "url": "https://wallstreetcn.com/articles/3772765",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "appearance_count": 3,
+          "time_info": "[14时42分 ~ 18时32分]"
         },
         {
-          "title": "美国已经向伊朗发送新文本。 伊朗正在审阅，尚未做出回应。（伊朗媒体Tasnim）",
-          "url": "https://wallstreetcn.com/livenews/3106888",
-          "source": "华尔街见闻-快讯",
+          "title": "AI还原祖国人注射V1后的战斗力",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
+          "source": "bilibili 热搜",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
         },
-        {
-          "title": "巴基斯坦陆军参谋长将于周四前往德黑兰进行谈判，巴基斯坦陆军参谋长德黑兰之行是美国与伊朗之间调解努力的一部分。（伊朗学生通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3107206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
-          "title": "伊朗总统会见巴内政部长，讨论伊美间接谈判等议题",
-          "url": "https://wallstreetcn.com/livenews/3106886",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "伊朗：将在“强烈不信任美国”的情况下继续推进谈判",
-          "url": "https://news.ifeng.com/c/8tHkNrUtZwa",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时42分 ~ 10时11分]"
-        },
-        {
-          "title": "伊朗称有权对霍尔木兹海峡海底光缆收管理费，光缆每天承载超 10 万亿美元的全球金融数据，此举影响力有多大？",
-          "url": "https://www.zhihu.com/question/2040001269360767857",
-          "source": "知乎",
-          "ranks": [
-            6,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 07时05分]"
-        },
-        {
-          "title": "美军在阿曼湾登船搜查一艘伊朗油轮",
-          "url": "https://flash.jin10.com/detail/20260521061556986800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "伊朗公布霍尔木兹海峡管辖范围",
-          "url": "https://news.ifeng.com/c/8tIkZlDrzuR",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
-          "title": "伊朗提出与阿曼合作建设霍尔木兹海峡长期安全机制",
-          "url": "https://wallstreetcn.com/livenews/3106881",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "美军在阿曼湾登船搜查一艘伊朗油轮",
-          "url": "https://wallstreetcn.com/livenews/3106964",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时05分"
-        },
-        {
-          "title": "伊朗东南部发生针对安全人员袭击事件，致死一人",
-          "url": "https://wallstreetcn.com/livenews/3106876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "美以袭击伊朗进入第 83 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2040565738411221984",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
-        },
-        {
-          "title": "机构：若伊朗冲突持续，油价恐将升至200美元",
-          "url": "https://wallstreetcn.com/livenews/3106871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "伊朗外长前往美国参加联合国会议的筹备工作仍然在推进职中。（伊朗电视台）",
-          "url": "https://wallstreetcn.com/livenews/3106870",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "伊朗称将在“强烈不信任美国”的情况下继续推进谈判",
-          "url": "https://wallstreetcn.com/livenews/3106869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "荷兰天然气期货跌5.8%，至49欧元下方，投资者紧盯美国与伊朗对话的动向。",
-          "url": "https://wallstreetcn.com/livenews/3106829",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
-          "title": "伊朗外交部发言人：美国必须对伊朗船只表现出良好意愿，结束其海盗行径。（伊朗国家电视台）",
-          "url": "https://wallstreetcn.com/livenews/3106858",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "伊朗设立霍尔木兹海峡受控航行区，船舶通行需获许可",
-          "url": "https://wallstreetcn.com/livenews/3106918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI agent",
-      "match_count": 17,
-      "titles": [
         {
           "title": "双向赋能，“光＋AI”融合拓宽产业发展方向",
           "url": "https://wallstreetcn.com/livenews/3106974",
@@ -694,6 +589,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "多重利好助推下 黄仁勋描绘的“实体AI”愿景引爆亚洲科技股",
+          "url": "https://wallstreetcn.com/livenews/3107368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "马斯克：SpaceX洽谈向其他公司提供AI计算。",
@@ -707,15 +613,16 @@
           "time_info": "07时05分"
         },
         {
-          "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
-          "url": "https://wallstreetcn.com/articles/3772765",
-          "source": "华尔街见闻",
+          "title": "智能体重塑AI算力秩序 CPU或成英伟达下一个增长引擎",
+          "url": "https://www.cls.cn/detail/2377636",
+          "source": "财联社热门",
           "ranks": [
-            4
+            8,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时42分 ~ 18时32分]"
         },
         {
           "title": "周三（5月20日），美股AI软件先驱指数涨0.69%，报108.06点，成分股C3.ai涨5.10%领跑。",
@@ -735,33 +642,57 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            13
+            13,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 14时42分]"
-        },
-        {
-          "title": "智能体重塑AI算力秩序 CPU或成英伟达下一个增长引擎",
-          "url": "https://www.cls.cn/detail/2377636",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
+          "appearance_count": 4,
+          "time_info": "[10时11分 ~ 18时32分]"
         },
         {
           "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
           "url": "https://wallstreetcn.com/articles/3772780",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时42分 ~ 18时32分]"
+        },
+        {
+          "title": "【每日收评】沪指放量跌超2%失守4100点，AI硬件与半导体等热门赛道大幅回调",
+          "url": "https://www.cls.cn/detail/2377977",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
+          "title": "三星“百万亿级”罢工戏剧性刹车，劳资博弈如何分配AI狂潮下的巨额利润",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204487",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
+          "title": "阿里云陈宇森透露 MuleRun 为阿里产品，AI Native 转型窗口期仅 18 个月，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2040758441325618022",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "罢工威胁解除+英伟达助攻：韩国股市暴拉逾8%！亚洲AI叙事卷土重来",
@@ -770,7 +701,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -792,9 +723,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
+        },
+        {
+          "title": "市场不再奖励“超预期”？英伟达财报释放AI行情新阶段信号",
+          "url": "https://flash.jin10.com/detail/20260521181424583800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "英伟达：（CFO在分析师电话会议上表示）需求正在加速。 预计到这个十年（2021-2030年）末尾，年度AI开支将达到3万亿-4万亿美元。 今年的CPU收入有望达到200亿美元。 相信公司能获得供应来支持增长。 AI行业将研发、投资列为优先事项。",
@@ -876,8 +818,237 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "美参议员格雷厄姆：希望伊朗冲突以外交方式解决",
+          "url": "https://flash.jin10.com/detail/20260521003657707800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "美国已经向伊朗发送新文本。 伊朗正在审阅，尚未做出回应。（伊朗媒体Tasnim）",
+          "url": "https://wallstreetcn.com/livenews/3106888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "巴基斯坦陆军参谋长将于周四前往德黑兰进行谈判，巴基斯坦陆军参谋长德黑兰之行是美国与伊朗之间调解努力的一部分。（伊朗学生通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3107206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "伊朗总统会见巴内政部长，讨论伊美间接谈判等议题",
+          "url": "https://wallstreetcn.com/livenews/3106886",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "伊朗：将在“强烈不信任美国”的情况下继续推进谈判",
+          "url": "https://news.ifeng.com/c/8tHkNrUtZwa",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时42分 ~ 10时11分]"
+        },
+        {
+          "title": "伊朗称有权对霍尔木兹海峡海底光缆收管理费，光缆每天承载超 10 万亿美元的全球金融数据，此举影响力有多大？",
+          "url": "https://www.zhihu.com/question/2040001269360767857",
+          "source": "知乎",
+          "ranks": [
+            6,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 07时05分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 83 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2040565738411221984",
+          "source": "知乎",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时42分 ~ 18时32分]"
+        },
+        {
+          "title": "美军在阿曼湾登船搜查一艘伊朗油轮",
+          "url": "https://flash.jin10.com/detail/20260521061556986800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "伊朗公布霍尔木兹海峡管辖范围",
+          "url": "https://news.ifeng.com/c/8tIkZlDrzuR",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
+          "title": "伊朗提出与阿曼合作建设霍尔木兹海峡长期安全机制",
+          "url": "https://wallstreetcn.com/livenews/3106881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "美军在阿曼湾登船搜查一艘伊朗油轮",
+          "url": "https://wallstreetcn.com/livenews/3106964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时05分"
+        },
+        {
+          "title": "伊朗东南部发生针对安全人员袭击事件，致死一人",
+          "url": "https://wallstreetcn.com/livenews/3106876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "伊朗媒体：伊朗“正在回应”美方谈判文本",
+          "url": "https://wallstreetcn.com/livenews/3107339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
+          "title": "机构：若伊朗冲突持续，油价恐将升至200美元",
+          "url": "https://wallstreetcn.com/livenews/3106871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "伊朗外长前往美国参加联合国会议的筹备工作仍然在推进职中。（伊朗电视台）",
+          "url": "https://wallstreetcn.com/livenews/3106870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "伊朗称将在“强烈不信任美国”的情况下继续推进谈判",
+          "url": "https://wallstreetcn.com/livenews/3106869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "荷兰天然气期货跌5.8%，至49欧元下方，投资者紧盯美国与伊朗对话的动向。",
+          "url": "https://wallstreetcn.com/livenews/3106829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "伊朗外交部发言人：美国必须对伊朗船只表现出良好意愿，结束其海盗行径。（伊朗国家电视台）",
+          "url": "https://wallstreetcn.com/livenews/3106858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "伊朗设立霍尔木兹海峡受控航行区，船舶通行需获许可",
+          "url": "https://wallstreetcn.com/livenews/3106918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "阿联酋称伊朗企图控制霍尔木兹海峡是“白日做梦”。",
+          "url": "https://wallstreetcn.com/livenews/3107324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股收盘：三大指数均涨超1% 光通信、CPU概念表现强势",
@@ -987,6 +1158,17 @@
           "time_info": "[05时42分 ~ 07时05分]"
         },
         {
+          "title": "蔚来美股盘前涨超5%，公司第一季度营收255.3亿元，预估255.8亿元。",
+          "url": "https://wallstreetcn.com/livenews/3107363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "金十图示：2026年05月20日（周三）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260521003049343800",
           "source": "金十数据",
@@ -1029,6 +1211,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "Applied Digital Corp.（APLD）美股盘前涨近12%，该公司达成一份关于超大规模云服务商（Hyperscaler）的租赁协议。",
+          "url": "https://wallstreetcn.com/livenews/3107332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "Applied Digital Corp.（APLD）美股盘后涨5%，该公司达成一份关于超大规模云服务商（Hyperscaler）的租赁协议。",
@@ -1087,7 +1280,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -1197,6 +1390,18 @@
           "time_info": "05时42分"
         },
         {
+          "title": "“烧钱”已是刻板印象！Anthropic预计Q2营收翻倍，首度实现营业利润",
+          "url": "https://wallstreetcn.com/articles/3772764",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时42分 ~ 18时32分]"
+        },
+        {
           "title": "SpaceX：Anthropic将在2029年5月前每月向公司支付12.5亿美元，而2026年5月和6月的算力提升期间将按较低费率计费。",
           "url": "https://flash.jin10.com/detail/20260521045829764800",
           "source": "金十数据",
@@ -1206,17 +1411,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
-        },
-        {
-          "title": "“烧钱”已是刻板印象！Anthropic预计Q2营收翻倍，首度实现营业利润",
-          "url": "https://wallstreetcn.com/articles/3772764",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时42分"
         },
         {
           "title": "SpaceX：在五月，与Anthropic签署了云服务协议。",
@@ -1352,8 +1546,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 14时42分]"
+          "appearance_count": 4,
+          "time_info": "[10时11分 ~ 18时32分]"
         },
         {
           "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
@@ -1404,8 +1598,19 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "不小心把DeepSeek叫成豆包",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
         {
           "title": "如何看待 DeepSeek 组建 Harness 团队对标 Claude Code？",
           "url": "https://www.zhihu.com/question/2040450519303288568",
@@ -1438,7 +1643,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         }
