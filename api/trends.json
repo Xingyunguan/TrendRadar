@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-28T18:45:13.173897+08:00",
-  "total_titles_processed": 1083,
+  "generated_at": "2026-05-28T22:28:42.262147+08:00",
+  "total_titles_processed": 1263,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普警告盟友阿曼：不守规矩会被炸飞",
@@ -38,11 +38,12 @@
           "ranks": [
             10,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时01分 ~ 18时45分]"
+          "appearance_count": 7,
+          "time_info": "[10时01分 ~ 22时28分]"
         },
         {
           "title": "中东波澜又起！白宫斥协议草案“纯属捏造” 特朗普称对谈判进程“不满意”",
@@ -133,8 +134,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
+          "appearance_count": 3,
+          "time_info": "[18时44分 ~ 22时28分]"
         },
         {
           "title": "特朗普称伊朗“表现得当”后才能拿回资金",
@@ -217,6 +218,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        },
+        {
+          "title": "特朗普调侃赫格塞思：他热衷战争",
+          "url": "https://v.ifeng.com/c/8tSottvMqyW",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗）我们并不是为了政权而来。",
@@ -428,6 +440,17 @@
           "time_info": "01时51分"
         },
         {
+          "title": "特朗普制定新规则以解决意外医疗账单的仲裁问题。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3110796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "美国总统特朗普：（谈伊朗）他们表现好时，我们会让他们拿回资金。",
           "url": "https://flash.jin10.com/detail/20260528010757308800",
           "source": "金十数据",
@@ -552,7 +575,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
         {
           "title": "伊美“停火框架”草案披露：美国解除“海上封锁”并部分撤军，伊朗于一个月内逐步通航",
@@ -739,6 +762,17 @@
           "time_info": "14时16分"
         },
         {
+          "title": "伊朗说“亚伯拉罕协议”加剧地区不安全",
+          "url": "https://wallstreetcn.com/livenews/3110814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "当地居民称，伊朗南部阿巴斯港传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260528063440282800",
           "source": "金十数据",
@@ -755,11 +789,12 @@
           "source": "今日头条",
           "ranks": [
             12,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时15分 ~ 18时45分]"
+          "appearance_count": 5,
+          "time_info": "[14时15分 ~ 22时28分]"
         },
         {
           "title": "一份协议如何让双方“宣布胜利”？美国提出新要求，伊朗有两个目标",
@@ -827,6 +862,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
+        },
+        {
+          "title": "白宫否认伊媒曝光草案，标普转跌，鲁比奥称给伊朗谈判“一切成功的机会”，美油跌近6%",
+          "url": "https://wallstreetcn.com/articles/3773277",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "伊朗总统：伊朗和巴基斯坦领导人讨论了旨在结束战争的外交努力。 巴基斯坦希望当前外交努力能尽快取得最终结果。",
@@ -937,12 +983,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时16分"
+        },
+        {
+          "title": "美国纽约联储主席威廉姆斯：若没有人工智能方面的投资，美国的需求将会减弱。 美国劳动力市场整体表现相当不错。 不认为人工智能会导致长期的结构性失业。 伊朗冲突对通货膨胀的影响可能在几个月内达到峰值。 美国劳动力市场“相当平衡”。 伊朗冲突造成的供应链中断令人担忧。 美联储的货币政策略显紧缩。 更有效的沟通有助于政策的实施效果。",
+          "url": "https://wallstreetcn.com/livenews/3110786",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         }
       ]
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
           "title": "AI大行其道,古法PS吧没落",
@@ -952,11 +1009,12 @@
             3,
             4,
             9,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时51分 ~ 18时45分]"
+          "appearance_count": 11,
+          "time_info": "[01时51分 ~ 22时28分]"
         },
         {
           "title": "野生vs养殖,AI大战鲤鱼图",
@@ -966,11 +1024,12 @@
             13,
             14,
             20,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时51分 ~ 18时45分]"
+          "appearance_count": 11,
+          "time_info": "[01时51分 ~ 22时28分]"
         },
         {
           "title": "AI坑爹,棒球名帅丢饭碗",
@@ -1004,11 +1063,25 @@
           "ranks": [
             14,
             15,
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时01分 ~ 18时45分]"
+          "appearance_count": 7,
+          "time_info": "[10时01分 ~ 22时28分]"
+        },
+        {
+          "title": "美以伊战争启示录｜当杀戮被娱乐化：扭曲的信息战中，AI造梗正在去人性化",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33234425",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时15分 ~ 22时28分]"
         },
         {
           "title": "美国“散户大本营”开闸：股民可接入第三方智能体 让AI替自己炒股",
@@ -1021,6 +1094,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时09分 ~ 14时16分]"
+        },
+        {
+          "title": "小说AI直出?8u评论区吵翻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354649&amp;topic_name=%E5%B0%8F%E8%AF%B4AI%E7%9B%B4%E5%87%BA%3F8u%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%90%B5%E7%BF%BB",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时15分 ~ 22时28分]"
         },
         {
           "title": "和平预期与AI热潮双轮驱动，标普、纳指创新高，半导体指数五连涨，美光飙涨20%",
@@ -1046,39 +1132,16 @@
           "time_info": "[14时15分 ~ 18时45分]"
         },
         {
-          "title": "美以伊战争启示录｜当杀戮被娱乐化：扭曲的信息战中，AI造梗正在去人性化",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33234425",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时15分 ~ 18时45分]"
-        },
-        {
-          "title": "小说AI直出?8u评论区吵翻",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354649&amp;topic_name=%E5%B0%8F%E8%AF%B4AI%E7%9B%B4%E5%87%BA%3F8u%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%90%B5%E7%BF%BB",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时15分 ~ 18时45分]"
-        },
-        {
           "title": "【每日收评】创业板指探底回升涨近2%，AI硬件方向再迎爆发",
           "url": "https://www.cls.cn/detail/2384259",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
+          "appearance_count": 3,
+          "time_info": "[18时44分 ~ 22时28分]"
         },
         {
           "title": "三星罢工的众生相，捅破AI时代“不患寡而患不均”这层窗户纸",
@@ -1088,8 +1151,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
+          "appearance_count": 3,
+          "time_info": "[18时44分 ~ 22时28分]"
         },
         {
           "title": "美国网红券商允许散户用AI炒股 段永平举牌泡泡玛特 | 环球市场",
@@ -1101,6 +1164,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时15分 ~ 14时16分]"
+        },
+        {
+          "title": "高盛重磅预测：AI下半场将从芯片转向人形机器人",
+          "url": "https://wallstreetcn.com/articles/3773322",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "中信证券：“AI+能化”构成今年杠铃配置结构",
@@ -1120,7 +1194,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -1147,6 +1221,17 @@
           "time_info": "03时59分"
         },
         {
+          "title": "清宵立绘被嘲像AI生图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354664&amp;topic_name=%E6%B8%85%E5%AE%B5%E7%AB%8B%E7%BB%98%E8%A2%AB%E5%98%B2%E5%83%8FAI%E7%94%9F%E5%9B%BE",
+          "source": "贴吧",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "美联储理事库克：可能需要长时间地观察AI对经济的结构性改变。",
           "url": "https://wallstreetcn.com/livenews/3110262",
           "source": "华尔街见闻-快讯",
@@ -1169,6 +1254,17 @@
           "time_info": "07时09分"
         },
         {
+          "title": "香港拟将「中国内地」英译改为「Chinese Mainland」，此举释放了哪些信号？",
+          "url": "https://www.zhihu.com/question/2042897105346368773",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "Meta将推出AI聊天机器人订阅服务，月费最低7.99美元",
           "url": "https://wallstreetcn.com/livenews/3110220",
           "source": "华尔街见闻-快讯",
@@ -1178,6 +1274,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
+        },
+        {
+          "title": "AI会带来怎样的社会变革",
+          "url": "https://search.bilibili.com/all?keyword=AI%E4%BC%9A%E5%B8%A6%E6%9D%A5%E6%80%8E%E6%A0%B7%E7%9A%84%E7%A4%BE%E4%BC%9A%E5%8F%98%E9%9D%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "摩根士丹利：快手业绩超预期 AI产品可灵的贡献抵消了核心业务疲弱",
@@ -1191,13 +1298,24 @@
           "time_info": "10时02分"
         },
         {
+          "title": "UP主实测AIGC检测工具",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BAIGC%E6%A3%80%E6%B5%8B%E5%B7%A5%E5%85%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "英伟达服务器制造商纬颖预计AI领域的供应瓶颈将不止于内存",
           "url": "https://wallstreetcn.com/livenews/3110628",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -1216,7 +1334,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "美伊谈判信号相互矛盾，美股高位震荡，原油收跌超5%，黄金一度跌超2%",
@@ -1227,8 +1345,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时01分 ~ 18时45分]"
+          "appearance_count": 7,
+          "time_info": "[10时01分 ~ 22时28分]"
         },
         {
           "title": "美股收盘：三大股指勉强收涨 美光市值压过伯克希尔",
@@ -1301,6 +1419,28 @@
           "time_info": "[05时52分 ~ 07时09分]"
         },
         {
+          "title": "报道称伊朗与美国达成协议，油价、美元下跌，欧美股市一度走高",
+          "url": "https://wallstreetcn.com/livenews/3110810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
+          "title": "美国4月PCE同比升3.8% 美股期指走低 Snowflake盘前大涨38% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2384590",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "Nebius Group NV美股盘后涨14%，Situational Awareness报告称对该公司持股。",
           "url": "https://wallstreetcn.com/livenews/3110281",
           "source": "华尔街见闻-快讯",
@@ -1351,7 +1491,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -1362,9 +1502,42 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，网络股指数ETF涨超1%，能源业ETF涨近1%，全球航空业ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3110793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
+          "title": "金十图示：2026年05月28日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260528213958724800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
+          "title": "美股盘初：三大指数涨跌不一，Snowflake涨约33%，理想汽车跌约2%",
+          "url": "https://wallstreetcn.com/livenews/3110789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "亚马逊与Snowflake达成60亿美元协议，采购Graviton智能计算芯片。 Snowflake承诺在未来五年内在亚马逊云服务(AWS)上投入60亿美元用于Graviton计算和人工智能支出。 客户如Fetch和Hex正在亚马逊云服务(AWS)上利Snowflake的平台在受管数据上部署人工智能应用。 Snowflake美股盘后涨30%。",
@@ -1431,6 +1604,34 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据华尔街日报：谷歌(GOOG.O)员工因在预测市场Polymarket上进行内幕交易被起诉。",
+          "url": "https://flash.jin10.com/detail/20260528062625089800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时09分"
+        },
+        {
+          "title": "Gemini联合SpaceX和xAI推出Command Center（指挥中心）。这是一项个性化的市场信息流（Market Feed）。",
+          "url": "https://wallstreetcn.com/livenews/3110808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -1439,11 +1640,12 @@
           "url": "https://wallstreetcn.com/articles/3773313",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
+          "appearance_count": 3,
+          "time_info": "[18时44分 ~ 22时28分]"
         },
         {
           "title": "金价跌了反而不敢买了",
@@ -1495,28 +1697,12 @@
           "url": "https://wallstreetcn.com/articles/3773316",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 18时45分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据华尔街日报：谷歌(GOOG.O)员工因在预测市场Polymarket上进行内幕交易被起诉。",
-          "url": "https://flash.jin10.com/detail/20260528062625089800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时09分"
+          "appearance_count": 3,
+          "time_info": "[18时44分 ~ 22时28分]"
         }
       ]
     },
