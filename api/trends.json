@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T20:32:32.808503+08:00",
-  "total_titles_processed": 1271,
+  "generated_at": "2026-06-05T23:49:41.857759+08:00",
+  "total_titles_processed": 1457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
@@ -51,6 +51,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时10分"
+        },
+        {
+          "title": "在这件事上，特朗普宣布要花7亿美元",
+          "url": "https://news.ifeng.com/c/8tiAmm9M2oW",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "美国财长贝森特被问及特朗普关税是否造成价格上涨，称：影响“微乎其微”。",
@@ -122,6 +133,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 07时01分]"
+        },
+        {
+          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时32分 ~ 23时49分]"
         },
         {
           "title": "曝特朗普将现场观看NBA总决赛G3",
@@ -245,17 +268,6 @@
           "time_info": "05时24分"
         },
         {
-          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
           "title": "美国总统特朗普：我们对古巴有一些非常好的计划。",
           "url": "https://flash.jin10.com/detail/20260605043321294800",
           "source": "金十数据",
@@ -344,6 +356,17 @@
           "time_info": "08时13分"
         },
         {
+          "title": "特朗普为大倒影池翻修工程辩护 称使用寿命可达百年",
+          "url": "https://flash.jin10.com/detail/20260605233310430800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "特朗普的顾问纳瓦罗：美联储不应该加息，那会造成供应冲击并传到至通胀。",
           "url": "https://wallstreetcn.com/livenews/3114648",
           "source": "华尔街见闻-快讯",
@@ -353,6 +376,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "纳指跌幅扩大至2%，“无视”特朗普隔空喊涨的态度",
+          "url": "https://wallstreetcn.com/livenews/3115234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "美国总统特朗普：我们将与印度达成贸易协议。",
@@ -408,6 +442,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
+        },
+        {
+          "title": "怎么看待美国公务员被强制安装白宫 App，可一键夸特朗普?",
+          "url": "https://www.zhihu.com/question/2045446455956091852",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "美国总统特朗普：（谈伊朗）你们终会知道协议的内容。主要部分是海峡将立即开放。",
@@ -545,7 +590,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 42,
+      "match_count": 45,
       "titles": [
         {
           "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
@@ -555,8 +600,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时12分 ~ 20时32分]"
+          "appearance_count": 6,
+          "time_info": "[08时12分 ~ 23时49分]"
+        },
+        {
+          "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
+          "url": "https://wallstreetcn.com/articles/3773915",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时10分 ~ 23时49分]"
         },
         {
           "title": "AI脸泛滥成灾,建模师没活了",
@@ -606,18 +663,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时43分 ~ 08时13分]"
-        },
-        {
-          "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
-          "url": "https://wallstreetcn.com/articles/3773915",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时10分 ~ 20时32分]"
         },
         {
           "title": "网友称对 AI 脸生理性厌恶，你有同感吗？为什么会出现这种现象？",
@@ -771,11 +816,24 @@
           "source": "贴吧",
           "ranks": [
             6,
-            7
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 23时49分]"
+        },
+        {
+          "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2391959",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时32分 ~ 20时32分]"
+          "time_info": "[20时32分 ~ 23时49分]"
         },
         {
           "title": "桥水达利欧：随着财富转化为现金，AI泡沫终将破裂",
@@ -801,6 +859,18 @@
           "time_info": "[17时32分 ~ 20时32分]"
         },
         {
+          "title": "【每日收评】创业板指放量跌超3%，多只AI硬件权重遭遇重挫，机器人概念逆势爆发",
+          "url": "https://www.cls.cn/detail/2391915",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时32分 ~ 23时49分]"
+        },
+        {
           "title": "AI外呼技术兴起，骚扰电话高频化如何治理？上海市监局答复",
           "url": "https://m.thepaper.cn/newsDetail_forward_33310752",
           "source": "澎湃新闻",
@@ -811,6 +881,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时32分 ~ 20时32分]"
+        },
+        {
+          "title": "非农大超预期，美债收益率短线拉升，AI降温纳指开盘跌超1.2%，WTI原油跌1%，现货白银跌超2.5%",
+          "url": "https://wallstreetcn.com/articles/3773946",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "高盛CEO：AI或将遏制银行工程师队伍的剧烈扩张",
@@ -833,17 +914,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
-        },
-        {
-          "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
-          "url": "https://www.cls.cn/detail/2391959",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
         },
         {
           "title": "英伟达CEO黄仁勋：AI建设正在加速。 我给韩国带来了大量业务。 计划与现代、三星、SK集团高管会面。 将与韩国合作伙伴讨论供应链协同相关事宜。 将尽可能聪明地分配和使用存储芯片供应。 将开始为韩国研发中心招聘员工。",
@@ -879,15 +949,15 @@
           "time_info": "17时32分"
         },
         {
-          "title": "【每日收评】创业板指放量跌超3%，多只AI硬件权重遭遇重挫，机器人概念逆势爆发",
-          "url": "https://www.cls.cn/detail/2391915",
-          "source": "财联社热门",
+          "title": "马上评｜该对AI外呼骚扰电话出手了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33316001",
+          "source": "澎湃新闻",
           "ranks": [
-            9
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时32分"
+          "time_info": "23时49分"
         },
         {
           "title": "英伟达推出全模态物理AI模型 物理AI规模化落地时代加速到来",
@@ -940,7 +1010,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -1000,6 +1070,17 @@
           "time_info": "17时32分"
         },
         {
+          "title": "美国参议院Jim Banks发函财长贝森特、战争部长海格塞斯、以及特朗普政府的其他官员。 Banks要求对AI的监管跟上新模型的（发布）节奏。",
+          "url": "https://wallstreetcn.com/livenews/3115225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "加拿大总理卡尼发布AI战略：将为AI初创公司提供资金并购入其股权",
           "url": "https://wallstreetcn.com/livenews/3114519",
           "source": "华尔街见闻-快讯",
@@ -1036,7 +1117,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "据Axios：波士顿联储表示，伊朗战争对美国劳动力市场的冲击预计有限。",
@@ -1070,7 +1151,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -1114,7 +1195,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -1124,11 +1205,12 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 20时32分]"
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 23时49分]"
         },
         {
           "title": "俄罗斯总统普京：希望美国与伊朗能够达成妥协，从而结束冲突。",
@@ -1159,9 +1241,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
+        },
+        {
+          "title": "美国财长贝森特：伊朗的经济正在挣扎，其军队已被摧毁。通过“经济之怒”，美国财政部将继续切断伊朗的影子船队、影子银行网络以及对全球贸易的获取渠道。",
+          "url": "https://flash.jin10.com/detail/20260605233715202800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "哈马斯高官与伊朗外长通话，讨论地区局势",
@@ -1181,9 +1274,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
+        },
+        {
+          "title": "美国对伊朗外汇兑换机构Mehrdad Geramian Nik实施制裁。",
+          "url": "https://flash.jin10.com/detail/20260605233340333800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "哈马斯高官与伊朗外长通话讨论地区局势",
@@ -1230,13 +1334,24 @@
           "time_info": "07时01分"
         },
         {
+          "title": "据福克斯新闻：美国能源部长赖特称，在伊朗冲突结束后，美国将向战略石油储备补充4000万桶原油。",
+          "url": "https://flash.jin10.com/detail/20260605232415104800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "美国印太司令部：已对油轮“达维娜”号（MT Davina）实施登船检查。 “达维娜”号与伊朗有关。",
           "url": "https://wallstreetcn.com/livenews/3115093",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -1331,6 +1446,18 @@
           "time_info": "[00时43分 ~ 08时13分]"
         },
         {
+          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
+          "url": "https://wallstreetcn.com/articles/3773949",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时32分 ~ 23时49分]"
+        },
+        {
           "title": "汇丰：美股转空的三大信号",
           "url": "https://wallstreetcn.com/articles/3773857",
           "source": "华尔街见闻",
@@ -1340,17 +1467,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时12分 ~ 08时13分]"
-        },
-        {
-          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
-          "url": "https://wallstreetcn.com/articles/3773949",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
         },
         {
           "title": "地产ETF、道指ETF、小盘股指ETF至少收涨1.5%，领跑美股大类资产类ETF",
@@ -1393,6 +1509,18 @@
           "time_info": "[00时43分 ~ 07时01分]"
         },
         {
+          "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
+          "url": "https://www.zhihu.com/question/2045932866278895886",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时32分 ~ 23时49分]"
+        },
+        {
           "title": "纳斯达克100指数跌幅收窄至0.5%，成分股博通目前仍然跌14.5%，美光科技跌6.1%，Lumentum跌2.3%，特斯拉跌1.1%，谷歌A则涨3.5%，迈威尔科技/美满科技、Doordash涨3.9%。",
           "url": "https://wallstreetcn.com/livenews/3114548",
           "source": "华尔街见闻-快讯",
@@ -1402,17 +1530,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
-        },
-        {
-          "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
-          "url": "https://www.zhihu.com/question/2045932866278895886",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时32分"
         },
         {
           "title": "据Business Insider：谷歌(GOOG.O)正悄然裁减其云部门员工。",
@@ -1463,8 +1580,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 20时32分]"
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 23时49分]"
         },
         {
           "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
@@ -1518,6 +1635,18 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
+          "url": "https://wallstreetcn.com/articles/3773907",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时10分 ~ 23时49分]"
+        },
+        {
           "title": "Anthropic呼吁全球暂缓前沿AI研发",
           "url": "https://wallstreetcn.com/livenews/3114639",
           "source": "华尔街见闻-快讯",
@@ -1528,18 +1657,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 07时01分]"
-        },
-        {
-          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
-          "url": "https://wallstreetcn.com/articles/3773907",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时10分 ~ 20时32分]"
         },
         {
           "title": "据华尔街日报：Anthropic呼吁全球暂停人工智能发展，并警示人工智能模型正接近能够在没有人类干预的情况下“自我进化”风险。",
@@ -1587,7 +1704,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -1618,6 +1735,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时12分 ~ 08时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国如何一次性解决 36 万亿美债问题？",
+          "url": "https://www.zhihu.com/question/6607165102",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         }
       ]
     }
