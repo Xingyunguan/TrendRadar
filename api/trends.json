@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T08:04:24.869659+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2026-06-06T12:46:32.437076+08:00",
+  "total_titles_processed": 786,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 39,
       "titles": [
         {
           "title": "在这件事上，特朗普宣布要花7亿美元",
@@ -77,15 +77,38 @@
           "time_info": "03时32分"
         },
         {
+          "title": "特朗普：将迅速结束伊朗战事",
+          "url": "https://news.ifeng.com/c/8tjENyLisNK",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
+          "title": "特朗普赦免因内幕交易获罪前议员",
+          "url": "https://wallstreetcn.com/livenews/3115419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
           "title": "怎么看待外媒报道美国公务员被强制安装白宫 App，可一键夸特朗普?",
           "url": "https://www.zhihu.com/question/2045446455956091852",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 12时46分]"
         },
         {
           "title": "美国白宫幕僚长Wiles：总统特朗普提名Blanche为司法部长，对其表示祝贺。",
@@ -303,6 +326,17 @@
           "time_info": "03时32分"
         },
         {
+          "title": "特朗普改口：肯尼迪中心将继续由我而非国会掌管",
+          "url": "https://wallstreetcn.com/livenews/3115408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
           "title": "美国总统特朗普：我要求情报主管Bill Pulte解雇该部门的员工。 美国最大的情报办公室“太庞大了”。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3115259",
           "source": "华尔街见闻-快讯",
@@ -380,6 +414,17 @@
           "time_info": "06时58分"
         },
         {
+          "title": "特朗普称将迅速结束伊朗战事",
+          "url": "https://wallstreetcn.com/livenews/3115394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
           "title": "特朗普：将把利率决策交由沃什负责",
           "url": "https://wallstreetcn.com/livenews/3115282",
           "source": "华尔街见闻-快讯",
@@ -405,7 +450,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 18,
+      "match_count": 25,
       "titles": [
         {
           "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
@@ -432,6 +477,21 @@
           "time_info": "[01时47分 ~ 06时58分]"
         },
         {
+          "title": "马上评｜该对AI外呼骚扰电话出手了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33316001",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10,
+            8,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时47分 ~ 12时46分]"
+        },
+        {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
           "url": "https://www.cls.cn/detail/2392497",
           "source": "财联社热门",
@@ -440,8 +500,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时58分 ~ 08时04分]"
+          "appearance_count": 3,
+          "time_info": "[06时58分 ~ 12时46分]"
+        },
+        {
+          "title": "严防作弊!高考期间AI搜题关停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时47分 ~ 12时46分]"
         },
         {
           "title": "非农大超预期，美债收益率全线拉升，纳指重挫3.2%，AI剧烈回调，WTI原油下跌3.3%",
@@ -467,20 +540,6 @@
           "time_info": "[01时47分 ~ 01时48分]"
         },
         {
-          "title": "马上评｜该对AI外呼骚扰电话出手了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33316001",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时47分 ~ 08时04分]"
-        },
-        {
           "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
           "url": "https://www.cls.cn/detail/2391959",
           "source": "财联社热门",
@@ -494,16 +553,15 @@
           "time_info": "[01时47分 ~ 08时04分]"
         },
         {
-          "title": "严防作弊!高考期间AI搜题关停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
-          "source": "贴吧",
+          "title": "AI炒完“传、存、算”，下一张牌桌在哪里？",
+          "url": "https://flash.jin10.com/detail/20260606121259130800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            11
+            3
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时47分 ~ 08时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
         },
         {
           "title": "英媒：Meta拟通过股票发行筹集数百亿美元资金 以支持在AI领域的雄心",
@@ -529,13 +587,47 @@
           "time_info": "[01时47分 ~ 05时17分]"
         },
         {
+          "title": "开麦丨AI在电话那头等你，接还是不接？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33316762",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 12时46分]"
+        },
+        {
+          "title": "Alphabet天量融资押注AI，科技巨头为何开始向市场“要钱”？｜大师复盘",
+          "url": "https://flash.jin10.com/detail/20260606120527354800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
+          "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
+          "url": "https://wallstreetcn.com/articles/3774007",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
           "title": "陈果：牛市不仅仅是AI，中国消费股遍地黄金，处于历史大底",
           "url": "https://wallstreetcn.com/articles/3773916",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -546,9 +638,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "高考要用AI改卷系谣言",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%A6%81%E7%94%A8AI%E6%94%B9%E5%8D%B7%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
         },
         {
           "title": "周五（6月5日），美股信息科技指数收跌9.01%，报410.70点，本周累计下跌6.06%，6月1-4日持稳于455点附近，5日发布非农就业报告之后低开低走。 成分股哀鸿遍野，迈威尔科技/美满电子收跌16.74%，Rigetti计算跌14.40%，D-Wave Quantum、IonQ、美光科技至少跌13.25%，Ondas、Nebius集团、Iren、泰瑞达至少跌12.03%，BigBear.ai、Astera Labs、闪迪、英特尔、超微电脑、西部数据、安森美半导体至少跌11.05%，高通、AMD、高意公司Coherent、芯源系统MPWR、应用数字公司、康宁公司也至少跌10.18%，苹果跌1.25%表现顺数第五，儒博技术公司ROP涨0.11%，是唯一收涨的成分股。",
@@ -557,9 +660,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "抖音副总裁回应豆包误判蘑菇致用户中毒，称 AI 回应仅供参考，如何看待这一回应？这件事豆包该背锅吗？",
+          "url": "https://www.zhihu.com/question/2046268823192302620",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
+          "title": "腾讯高管称今年大部分代码由 AI 生成，工程师更侧重架构设计，怎样看待这一变化？会成为行业趋势吗？",
+          "url": "https://www.zhihu.com/question/2046240341729042945",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
         },
         {
           "title": "本周，标普500指数累跌约2.4%，道指累跌约0.1%，纳指累跌约4.3%，半导体指数累跌约3.2%，银行指数涨2.8%，科技股七巨头指数跌4.5%，存储芯片指数跌5.4%，软件先驱指数跌5%、AI赢家指数跌5.2%，超大规模云服务商指数跌5.9%，加密货币指数跌13.5%。 非农就业报告发布当天，标普500指数初步收跌2.5%，科技板块跌5.3%，可选消费、原材料板块跌超2%，日用消费品板块涨1.7%。 纳斯达克100指数初步收跌4.6%，成分股中，美满科技跌14.6%，Arm控股跌12.7%，美光、英特尔、闪迪、AMD、西部数据、高通跌超10%，特许通讯等涨超2%。 思科跌6.2%，英伟达跌5.7%，领跌道指成分股，可口可乐涨3.7%，宝洁涨4%。 费城半导体指数收跌10%。",
@@ -573,6 +698,17 @@
           "time_info": "05时17分"
         },
         {
+          "title": "业内：AI超级周期处在指数级增长起点",
+          "url": "https://www.toutiao.com/trending/7647737688007376939/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
           "title": "Meta考虑对消费者AI智能体工具收费每个月200美元。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3115292",
           "source": "华尔街见闻-快讯",
@@ -582,17 +718,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
-        },
-        {
-          "title": "开麦丨AI在电话那头等你，接还是不接？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33316762",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时04分"
         },
         {
           "title": "美国总统特朗普：所有大型AI公司都将前来白宫，也许就在下周。 将讨论民众如何从AI获利。",
@@ -619,8 +744,280 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 24,
+      "titles": [
+        {
+          "title": "据CNN，一名美国官员表示伊朗已向霍尔木兹海峡方向发射了多架无人机。该官员表示，美军已击落了其中至少3架。",
+          "url": "https://flash.jin10.com/detail/20260606060734761800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 08时04分]"
+        },
+        {
+          "title": "白宫官员：伊朗世界杯足球运动员已获签证进入美国。",
+          "url": "https://flash.jin10.com/detail/20260606011557462800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33310457",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时47分 ~ 06时58分]"
+        },
+        {
+          "title": "伊朗称美军第五舰队总部遭打击，美方否认",
+          "url": "https://news.ifeng.com/c/8tjQ9QnevyO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
+          "title": "风水轮流转，轮到伊朗威胁美国了",
+          "url": "https://news.ifeng.com/c/8tjAgk0yryi",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时04分 ~ 12时46分]"
+        },
+        {
+          "title": "美国击落至少3架飞往霍尔木兹海峡方向的伊朗无人机。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3115369",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 08时04分]"
+        },
+        {
+          "title": "美国能源部长赖特：要确保霍尔木兹海峡的石油供应畅通，从而降低汽油和柴油价格，需要与伊朗达成解决方案。",
+          "url": "https://flash.jin10.com/detail/20260606052830749800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时58分 ~ 08时04分]"
+        },
+        {
+          "title": "伊朗革命卫队：中东地区美军基地遭袭",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%EF%BC%9A%E4%B8%AD%E4%B8%9C%E5%9C%B0%E5%8C%BA%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E9%81%AD%E8%A2%AD",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
+          "title": "美军：击落4架伊朗无人机，空袭沿海雷达站",
+          "url": "https://wallstreetcn.com/livenews/3115379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时04分"
+        },
+        {
+          "title": "伊朗最高领袖军事顾问警告美国或将“损失惨重”",
+          "url": "https://flash.jin10.com/detail/20260606120510241800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
+          "title": "黎巴嫩总统指责伊朗将该国当作筹码 伊朗外长暗示其敌友不分",
+          "url": "https://flash.jin10.com/detail/20260606120346153800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐回应黎巴嫩总统称，如果黎巴嫩是“谈判筹码”，德黑兰早就可以与美国达成协议。",
+          "url": "https://flash.jin10.com/detail/20260606115300156800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
+          "title": "俄罗斯总统普京：伊朗没有请求武器，我们没有提供任何东西。",
+          "url": "https://flash.jin10.com/detail/20260606004527127800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "伊朗称拦截违规油轮后遭美军攻击 警告美勿重演恶行",
+          "url": "https://wallstreetcn.com/livenews/3115407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
+          "title": "美军称拦截伊朗导弹和无人机",
+          "url": "https://wallstreetcn.com/livenews/3115405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
+          "title": "伊朗革命卫队称中东地区美军基地遭袭",
+          "url": "https://wallstreetcn.com/livenews/3115402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：美国尚未向伊朗足球队的部分技术和行政人员签发世界杯签证。",
+          "url": "https://flash.jin10.com/detail/20260606034147571800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "美国能源部长Wright：若想让足够数量的石油顺利通过霍尔木兹海峡以降低汽油和柴油价格，最终将取决于与伊朗问题的解决。",
+          "url": "https://wallstreetcn.com/livenews/3115370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时58分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗和巴基斯坦的内政部长再次会晤，就地区局势发展进行磋商。",
+          "url": "https://flash.jin10.com/detail/20260606102952590800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
+          "title": "伊朗沿海锡里克地区传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3115393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
+          "title": "伊朗称再袭美军第五舰队重要设施",
+          "url": "https://flash.jin10.com/detail/20260606102807931800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
+          "title": "伊朗革命卫队发表声明称，如果美国的“胡闹”行径持续，美国将须对霍尔木兹海峡完全关闭、油气出口受阻所引发的后果承担责任。",
+          "url": "https://flash.jin10.com/detail/20260606102535963800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
+          "title": "美军中央司令部称拦截了伊朗导弹和无人机",
+          "url": "https://flash.jin10.com/detail/20260606101944957800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
+          "title": "伊朗外长：伊美沟通渠道仍保持畅通",
+          "url": "https://wallstreetcn.com/livenews/3115389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
@@ -628,11 +1025,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时47分 ~ 08时04分]"
+          "appearance_count": 7,
+          "time_info": "[01时47分 ~ 12时46分]"
         },
         {
           "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
@@ -640,11 +1038,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时58分 ~ 08时04分]"
+          "appearance_count": 3,
+          "time_info": "[06时58分 ~ 12时46分]"
         },
         {
           "title": "CoreWeave美股盘后跌3.6%。 该公司股东Jane Street Singapore登记减持高达920万股，可能还将时不时地出售所持股份。",
@@ -664,9 +1063,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
+        },
+        {
+          "title": "美股三大指数集体收跌，纳指跌超 1100 点，美国非农数据大幅超预期，加息预期升温，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2046360260902909588",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
         },
         {
           "title": "金十图示：2026年06月05日（周五）美股热门股票行情一览（美股收盘）",
@@ -686,7 +1096,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -785,7 +1195,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -803,126 +1213,8 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "据CNN，一名美国官员表示伊朗已向霍尔木兹海峡方向发射了多架无人机。该官员表示，美军已击落了其中至少3架。",
-          "url": "https://flash.jin10.com/detail/20260606060734761800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时58分 ~ 08时04分]"
-        },
-        {
-          "title": "白宫官员：伊朗世界杯足球运动员已获签证进入美国。",
-          "url": "https://flash.jin10.com/detail/20260606011557462800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33310457",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 06时58分]"
-        },
-        {
-          "title": "美国击落至少3架飞往霍尔木兹海峡方向的伊朗无人机。（CNN）",
-          "url": "https://wallstreetcn.com/livenews/3115369",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时58分 ~ 08时04分]"
-        },
-        {
-          "title": "美国能源部长赖特：要确保霍尔木兹海峡的石油供应畅通，从而降低汽油和柴油价格，需要与伊朗达成解决方案。",
-          "url": "https://flash.jin10.com/detail/20260606052830749800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时58分 ~ 08时04分]"
-        },
-        {
-          "title": "风水轮流转，轮到伊朗威胁美国了",
-          "url": "https://news.ifeng.com/c/8tjAgk0yryi",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "美军：击落4架伊朗无人机，空袭沿海雷达站",
-          "url": "https://wallstreetcn.com/livenews/3115379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时04分"
-        },
-        {
-          "title": "俄罗斯总统普京：伊朗没有请求武器，我们没有提供任何东西。",
-          "url": "https://flash.jin10.com/detail/20260606004527127800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "据伊朗媒体Fars News：美国尚未向伊朗足球队的部分技术和行政人员签发世界杯签证。",
-          "url": "https://flash.jin10.com/detail/20260606034147571800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
-          "title": "美国能源部长Wright：若想让足够数量的石油顺利通过霍尔木兹海峡以降低汽油和柴油价格，最终将取决于与伊朗问题的解决。",
-          "url": "https://wallstreetcn.com/livenews/3115370",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时58分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
@@ -963,6 +1255,17 @@
           "time_info": "[06时58分 ~ 08时04分]"
         },
         {
+          "title": "IPO前夕再获重磅订单！谷歌每月支付9.2亿美元租用SpaceX算力",
+          "url": "https://www.cls.cn/detail/2392502",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
           "title": "SpaceX与谷歌签署300亿美元算力协议",
           "url": "https://wallstreetcn.com/livenews/3115327",
           "source": "华尔街见闻-快讯",
@@ -980,7 +1283,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -1027,12 +1330,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
+        },
+        {
+          "title": "欧洲议会弃用谷歌 转用法国搜索引擎",
+          "url": "https://wallstreetcn.com/livenews/3115400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美元指数在非农日涨超0.6%，使得本周涨幅扩大至超过1.1%",
@@ -1058,6 +1372,17 @@
           "time_info": "[06时58分 ~ 08时04分]"
         },
         {
+          "title": "美国芯片股单日蒸发逾万亿美元市值，费城半导体指数创六年最大单日跌幅",
+          "url": "https://wallstreetcn.com/articles/3773996",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
+        {
           "title": "彭博美元指数涨0.5%，创最近两个月最大盘中涨幅。",
           "url": "https://wallstreetcn.com/livenews/3115251",
           "source": "华尔街见闻-快讯",
@@ -1067,6 +1392,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时47分 ~ 08时04分]"
+        },
+        {
+          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
+          "url": "https://www.cls.cn/detail/2392488",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
         }
       ]
     },
@@ -1124,24 +1478,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
-          "url": "https://wallstreetcn.com/articles/3773921",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时47分 ~ 08时04分]"
         }
       ]
     },
