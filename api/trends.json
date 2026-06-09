@@ -1,11 +1,421 @@
 {
-  "generated_at": "2026-06-09T14:40:36.010948+08:00",
-  "total_titles_processed": 959,
+  "generated_at": "2026-06-09T18:28:19.458229+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "AI agent",
+      "match_count": 35,
+      "titles": [
+        {
+          "title": "“你应该感到高兴！”黄仁勋力挺AI：暴跌后终于能打折买了",
+          "url": "https://wallstreetcn.com/articles/3774087",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 10时03分]"
+        },
+        {
+          "title": "国家层面首次系统性部署 高质量数据集成物理AI时代“新石油”",
+          "url": "https://www.cls.cn/detail/2393919",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 07时08分]"
+        },
+        {
+          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
+          "url": "https://wallstreetcn.com/articles/3774148",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时03分 ~ 18时28分]"
+        },
+        {
+          "title": "【每日收评】沪指跌1.7%失守4000点，全市场超4500股收绿，物理AI概念逆势爆发",
+          "url": "https://www.cls.cn/detail/2393646",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 05时44分]"
+        },
+        {
+          "title": "苹果智能全面升级：AI深度整合全生态 新版本Siri登场",
+          "url": "https://www.cls.cn/detail/2394196",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 14时40分]"
+        },
+        {
+          "title": "马上评｜人们厌恶AI脸，又是在期盼什么",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33334384",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 10时03分]"
+        },
+        {
+          "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
+          "url": "https://wallstreetcn.com/articles/3774181",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "苹果：中国大陆暂不提供最新Siri AI",
+          "url": "https://flash.jin10.com/detail/20260609064804765800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "不少程序员为完成工作自费购买 AI Token 、变相付费上班，这算不算职场隐形降薪？",
+          "url": "https://www.zhihu.com/question/2047267736485631665",
+          "source": "知乎",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时45分 ~ 05时44分]"
+        },
+        {
+          "title": "欧盟委员会发言人：不在欧盟推出Siri AI功能完全是苹果(AAPL.O)自己的决定。",
+          "url": "https://flash.jin10.com/detail/20260609181631062800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "苹果：中国大陆暂不提供最新Siri AI",
+          "url": "https://wallstreetcn.com/livenews/3116381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时08分"
+        },
+        {
+          "title": "当我把今年高考语文作文题喂给AI",
+          "url": "https://www.baidu.com/s?wd=%E5%BD%93%E6%88%91%E6%8A%8A%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E4%BD%9C%E6%96%87%E9%A2%98%E5%96%82%E7%BB%99AI",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            12,
+            15,
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 10时03分]"
+        },
+        {
+          "title": "日韩股市突然暴跌 AI泡沫要破了吗",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E9%9F%A9%E8%82%A1%E5%B8%82%E7%AA%81%E7%84%B6%E6%9A%B4%E8%B7%8C+AI%E6%B3%A1%E6%B2%AB%E8%A6%81%E7%A0%B4%E4%BA%86%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            14,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 07时08分]"
+        },
+        {
+          "title": "Siri AI",
+          "url": "https://s.weibo.com/weibo?q=Siri%20AI&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时15分 ~ 07时08分]"
+        },
+        {
+          "title": "领导说 AI 会淘汰大部分程序员，到时企业只需一两个架构师就能完成所有项目，这是危言耸听还是真的会发生？",
+          "url": "https://www.zhihu.com/question/2043797160312010091",
+          "source": "知乎",
+          "ranks": [
+            20,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 07时08分]"
+        },
+        {
+          "title": "Siri AI补课两年终交卷 市场等待折叠iPhone“上桌”",
+          "url": "https://www.cls.cn/detail/2394424",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时40分 ~ 18时28分]"
+        },
+        {
+          "title": "6月9日投资避雷针：天娱数科、中望软件等公司密集澄清 没有物理AI业务",
+          "url": "https://www.cls.cn/detail/2394258",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时03分 ~ 14时40分]"
+        },
+        {
+          "title": "明晟公司（MSCI）新兴市场股票指数收跌3.6%，创3月份前期以来最大单日跌幅。 韩国Kospi股指跌超8%。 发展中国家科技股指陷入回调区间，较上周所创历史最高位回撤12%。 三星电子、SK海力士、台积电等亚洲AI相关芯片股构成最大拖累。",
+          "url": "https://wallstreetcn.com/livenews/3116349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 07时08分]"
+        },
+        {
+          "title": "欧盟委员会发言人：欧盟委员会与苹果(AAPL.O)就Siri AI进行了接触。",
+          "url": "https://flash.jin10.com/detail/20260609181546861800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "私募股权科技交易额暴跌70%，AI担忧令投资者对估值越发谨慎",
+          "url": "https://wallstreetcn.com/livenews/3116264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "格灵深瞳：公司不直接从事物理AI的产品及业务",
+          "url": "https://wallstreetcn.com/livenews/3116702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "亲自为SpaceX上市预热！马斯克曝光AI卫星更多细节",
+          "url": "https://www.cls.cn/detail/2394326",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "【焦点复盘】沪指缩量反弹收复4000点，全市场超200股涨逾10%，AI软硬件双双大涨",
+          "url": "https://www.cls.cn/detail/2394903",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "苹果跌幅扩大至1.2%，该公司称Siri AI一开始不会投放到欧盟市场",
+          "url": "https://wallstreetcn.com/livenews/3116308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "科大讯飞将在香港举办2026 SpaceMind全球发布会，计划发布智能空间Agentic架构SpaceMind",
+          "url": "https://flash.jin10.com/detail/20260609181226188800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "苹果公司：Siri AI将登陆iPadOS。 为watchOS打造专属Siri AI。 Siri AI将首先支持英语，将迅速拓展至其他语种。 将Visual Intelligence（视觉智能）拓展至Mac。",
+          "url": "https://wallstreetcn.com/livenews/3116305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "美团发布AI浏览器Tabbit 1.0",
+          "url": "https://wallstreetcn.com/livenews/3116689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "滴滴率先接入微信AI生态",
+          "url": "https://wallstreetcn.com/livenews/3116571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "苹果(AAPL.O)：我们将于今年晚些时候面向用户推出Siri AI Beta测试版。",
+          "url": "https://flash.jin10.com/detail/20260609020947117800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "Applied Digital（APLD.O）签署Delta Forge2项目210兆瓦租赁协议，将其“AI工厂”特许经营模式扩展至第五个园区。",
+          "url": "https://flash.jin10.com/detail/20260609040707367800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "苹果(AAPL.O)：Siri AI最初将不会在欧盟地区的iOS和iPadOS上提供。",
+          "url": "https://flash.jin10.com/detail/20260609020858013800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时15分"
+        },
+        {
+          "title": "城堡证券：政治层面针对AI日益高涨的抵制情绪，也可能是一个潜在风险",
+          "url": "https://wallstreetcn.com/livenews/3116244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "报告称全球60%流量来自AI和机器人",
+          "url": "https://www.baidu.com/s?wd=%E6%8A%A5%E5%91%8A%E7%A7%B0%E5%85%A8%E7%90%8360%25%E6%B5%81%E9%87%8F%E6%9D%A5%E8%87%AAAI%E5%92%8C%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时44分"
+        },
+        {
+          "title": "贝莱德：维持美股“超配”评级，坚定看好AI赛道",
+          "url": "https://flash.jin10.com/detail/20260609180130680800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "从严整治利用AI制作发布涉军虚假信息，典型案例公布。（央视新闻）",
+          "url": "https://wallstreetcn.com/livenews/3116416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
         {
           "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
@@ -36,11 +446,12 @@
           "url": "https://news.ifeng.com/c/8toEUKCFcdF",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 14时40分]"
+          "appearance_count": 3,
+          "time_info": "[10时03分 ~ 18时28分]"
         },
         {
           "title": "主持人插不进话，特朗普受访暴怒失控：当场“摔麦”走人",
@@ -73,7 +484,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -107,7 +518,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -121,6 +532,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
+        },
+        {
+          "title": "特朗普：未来两周将对伊朗“全面胜利” 油价将会暴跌！",
+          "url": "https://www.cls.cn/detail/2394559",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "特朗普：伊朗最高领袖伤得很重",
@@ -162,11 +584,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 14时40分]"
+          "appearance_count": 3,
+          "time_info": "[10时03分 ~ 18时28分]"
         },
         {
           "title": "特朗普称美伊谈判一两天内或有眉目",
@@ -175,7 +598,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -191,13 +614,35 @@
           "time_info": "10时03分"
         },
         {
+          "title": "特朗普：美伊谈判进入“最后关头”",
+          "url": "https://news.ifeng.com/c/8tooQUA09O3",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "特朗普出席NBA总决赛遭全场狂嘘，事后“挽尊”辩解",
+          "url": "https://v.ifeng.com/c/8tojH1TtuMo",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "美军“阿帕奇”武装直升机在霍尔木兹附近坠毁，特朗普却预告“两周内全面胜利”",
           "url": "https://flash.jin10.com/detail/20260609141640876800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -241,9 +686,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
+        },
+        {
+          "title": "克里姆林宫：目前没有关于美国总统特朗普与俄罗斯总统普京进行通话的安排。",
+          "url": "https://flash.jin10.com/detail/20260609181043954800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "美国总统特朗普：以色列不会与伊朗重启战争。",
@@ -332,333 +788,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI agent",
-      "match_count": 27,
-      "titles": [
-        {
-          "title": "“你应该感到高兴！”黄仁勋力挺AI：暴跌后终于能打折买了",
-          "url": "https://wallstreetcn.com/articles/3774087",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 10时03分]"
         },
         {
-          "title": "国家层面首次系统性部署 高质量数据集成物理AI时代“新石油”",
-          "url": "https://www.cls.cn/detail/2393919",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 07时08分]"
-        },
-        {
-          "title": "【每日收评】沪指跌1.7%失守4000点，全市场超4500股收绿，物理AI概念逆势爆发",
-          "url": "https://www.cls.cn/detail/2393646",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 05时44分]"
-        },
-        {
-          "title": "苹果智能全面升级：AI深度整合全生态 新版本Siri登场",
-          "url": "https://www.cls.cn/detail/2394196",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 14时40分]"
-        },
-        {
-          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
-          "url": "https://wallstreetcn.com/articles/3774148",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 14时40分]"
-        },
-        {
-          "title": "马上评｜人们厌恶AI脸，又是在期盼什么",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33334384",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 10时03分]"
-        },
-        {
-          "title": "苹果：中国大陆暂不提供最新Siri AI",
-          "url": "https://flash.jin10.com/detail/20260609064804765800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "不少程序员为完成工作自费购买 AI Token 、变相付费上班，这算不算职场隐形降薪？",
-          "url": "https://www.zhihu.com/question/2047267736485631665",
-          "source": "知乎",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时45分 ~ 05时44分]"
-        },
-        {
-          "title": "苹果：中国大陆暂不提供最新Siri AI",
-          "url": "https://wallstreetcn.com/livenews/3116381",
+          "title": "特朗普称美伊谈判进入“最后关头”，将在“两到三天内”达成协议",
+          "url": "https://wallstreetcn.com/livenews/3116681",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时08分"
-        },
-        {
-          "title": "当我把今年高考语文作文题喂给AI",
-          "url": "https://www.baidu.com/s?wd=%E5%BD%93%E6%88%91%E6%8A%8A%E4%BB%8A%E5%B9%B4%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87%E4%BD%9C%E6%96%87%E9%A2%98%E5%96%82%E7%BB%99AI",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            12,
-            15,
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 10时03分]"
-        },
-        {
-          "title": "日韩股市突然暴跌 AI泡沫要破了吗",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E9%9F%A9%E8%82%A1%E5%B8%82%E7%AA%81%E7%84%B6%E6%9A%B4%E8%B7%8C+AI%E6%B3%A1%E6%B2%AB%E8%A6%81%E7%A0%B4%E4%BA%86%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            14,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 07时08分]"
-        },
-        {
-          "title": "Siri AI",
-          "url": "https://s.weibo.com/weibo?q=Siri%20AI&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 07时08分]"
-        },
-        {
-          "title": "领导说 AI 会淘汰大部分程序员，到时企业只需一两个架构师就能完成所有项目，这是危言耸听还是真的会发生？",
-          "url": "https://www.zhihu.com/question/2043797160312010091",
-          "source": "知乎",
-          "ranks": [
-            20,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时44分 ~ 07时08分]"
-        },
-        {
-          "title": "6月9日投资避雷针：天娱数科、中望软件等公司密集澄清 没有物理AI业务",
-          "url": "https://www.cls.cn/detail/2394258",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 14时40分]"
-        },
-        {
-          "title": "明晟公司（MSCI）新兴市场股票指数收跌3.6%，创3月份前期以来最大单日跌幅。 韩国Kospi股指跌超8%。 发展中国家科技股指陷入回调区间，较上周所创历史最高位回撤12%。 三星电子、SK海力士、台积电等亚洲AI相关芯片股构成最大拖累。",
-          "url": "https://wallstreetcn.com/livenews/3116349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时44分 ~ 07时08分]"
-        },
-        {
-          "title": "私募股权科技交易额暴跌70%，AI担忧令投资者对估值越发谨慎",
-          "url": "https://wallstreetcn.com/livenews/3116264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
-          "title": "亲自为SpaceX上市预热！马斯克曝光AI卫星更多细节",
-          "url": "https://www.cls.cn/detail/2394326",
-          "source": "财联社热门",
-          "ranks": [
-            11
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "苹果跌幅扩大至1.2%，该公司称Siri AI一开始不会投放到欧盟市场",
-          "url": "https://wallstreetcn.com/livenews/3116308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "Siri AI补课两年终交卷 市场等待折叠iPhone“上桌”",
-          "url": "https://www.cls.cn/detail/2394424",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "苹果公司：Siri AI将登陆iPadOS。 为watchOS打造专属Siri AI。 Siri AI将首先支持英语，将迅速拓展至其他语种。 将Visual Intelligence（视觉智能）拓展至Mac。",
-          "url": "https://wallstreetcn.com/livenews/3116305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "滴滴率先接入微信AI生态",
-          "url": "https://wallstreetcn.com/livenews/3116571",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "苹果(AAPL.O)：我们将于今年晚些时候面向用户推出Siri AI Beta测试版。",
-          "url": "https://flash.jin10.com/detail/20260609020947117800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "Applied Digital（APLD.O）签署Delta Forge2项目210兆瓦租赁协议，将其“AI工厂”特许经营模式扩展至第五个园区。",
-          "url": "https://flash.jin10.com/detail/20260609040707367800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
-          "title": "苹果(AAPL.O)：Siri AI最初将不会在欧盟地区的iOS和iPadOS上提供。",
-          "url": "https://flash.jin10.com/detail/20260609020858013800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时15分"
-        },
-        {
-          "title": "城堡证券：政治层面针对AI日益高涨的抵制情绪，也可能是一个潜在风险",
-          "url": "https://wallstreetcn.com/livenews/3116244",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
-        },
-        {
-          "title": "报告称全球60%流量来自AI和机器人",
-          "url": "https://www.baidu.com/s?wd=%E6%8A%A5%E5%91%8A%E7%A7%B0%E5%85%A8%E7%90%8360%25%E6%B5%81%E9%87%8F%E6%9D%A5%E8%87%AAAI%E5%92%8C%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时44分"
-        },
-        {
-          "title": "从严整治利用AI制作发布涉军虚假信息，典型案例公布。（央视新闻）",
-          "url": "https://wallstreetcn.com/livenews/3116416",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时03分"
+          "time_info": "18时28分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊朗全境航班暂停运行",
@@ -908,13 +1054,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "美国5月小企业信心下滑，因伊朗战争令通胀担忧加剧",
+          "url": "https://flash.jin10.com/detail/20260609180346148800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "伊朗足协世界杯配额门票被收回",
+          "url": "https://wallstreetcn.com/livenews/3116683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
+          "url": "https://wallstreetcn.com/articles/3774056",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时08分 ~ 18时28分]"
+        },
         {
           "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
           "url": "https://wallstreetcn.com/articles/3774056",
@@ -925,17 +1105,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时45分 ~ 05时44分]"
-        },
-        {
-          "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
-          "url": "https://wallstreetcn.com/articles/3774056",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时08分 ~ 14时40分]"
         },
         {
           "title": "美股收盘：芯片股反弹费城指数升超5% 存储、光通信概念齐走强",
@@ -967,9 +1136,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时40分 ~ 18时28分]"
         },
         {
           "title": "中东炮火暂歇 美股期指回血 苹果WWDC接棒登场 | 今夜看点",
@@ -983,6 +1152,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时45分 ~ 10时03分]"
+        },
+        {
+          "title": "什么信号？美股70%熊市信号被触发，美银建议获利了结！",
+          "url": "https://www.cls.cn/detail/2394381",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时40分 ~ 18时28分]"
         },
         {
           "title": "美股",
@@ -1009,17 +1190,6 @@
           "time_info": "00时45分"
         },
         {
-          "title": "什么信号？美股70%熊市信号被触发，美银建议获利了结！",
-          "url": "https://www.cls.cn/detail/2394381",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
           "title": "高通(QCOM.O)美股盘后上涨近8%。",
           "url": "https://flash.jin10.com/detail/20260609050509753800",
           "source": "金十数据",
@@ -1029,6 +1199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "花旗：交易员大举搭建美股空仓 诸多重大风险事件临近",
+          "url": "https://wallstreetcn.com/livenews/3116699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "新兴市场ETF收涨将近1.8%，领跑美股大类资产类ETF",
@@ -1078,7 +1259,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "OpenAI就IPO事宜向美国SEC秘密递交S-1文件",
@@ -1116,6 +1297,17 @@
           "time_info": "[05时44分 ~ 07时08分]"
         },
         {
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时40分 ~ 18时28分]"
+        },
+        {
           "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
           "url": "https://www.cls.cn/detail/2394212",
           "source": "财联社热门",
@@ -1151,17 +1343,6 @@
           "time_info": "05时44分"
         },
         {
-          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
-          "url": "https://wallstreetcn.com/articles/3774156",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
           "title": "OpenAI已提交IPO申请",
           "url": "https://flash.jin10.com/detail/20260609051454671800",
           "source": "金十数据",
@@ -1193,6 +1374,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时08分"
+        },
+        {
+          "title": "美大学生因ChatGPT与母亲争吵后死亡",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%A0ChatGPT%E4%B8%8E%E6%AF%8D%E4%BA%B2%E4%BA%89%E5%90%B5%E5%90%8E%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "“聊天已死”？OpenAI拟大改ChatGPT，打造超级AI应用",
@@ -1264,8 +1456,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 14时40分]"
+          "appearance_count": 3,
+          "time_info": "[10时03分 ~ 18时28分]"
         },
         {
           "title": "谷歌(GOOG.O)：即日起向拥有Google AI Ultra的用户及使用AI Ultra的Workspace商业版客户，在全球范围内推出网页版更新，并扩大适用范围。",
@@ -1400,7 +1592,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -1411,7 +1603,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -1467,7 +1659,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         }
