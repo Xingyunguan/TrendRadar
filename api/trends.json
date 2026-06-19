@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-19T07:38:22.233235+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-06-19T08:20:24.702022+08:00",
+  "total_titles_processed": 583,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊朗称要成为中国真正的伙伴，外交部表态",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 07时38分]"
+          "appearance_count": 4,
+          "time_info": "[02时06分 ~ 08时20分]"
         },
         {
           "title": "透露伊朗最高领袖罕见涉华举动，伊中商会会长答凤凰",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 07时38分]"
+          "appearance_count": 4,
+          "time_info": "[02时06分 ~ 08时20分]"
         },
         {
           "title": "伊朗最高领袖：面对面谈判不意味接受敌方观点",
@@ -47,11 +47,12 @@
           "ranks": [
             3,
             7,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 07时38分]"
+          "appearance_count": 4,
+          "time_info": "[02时06分 ~ 08时20分]"
         },
         {
           "title": "欧盟称解除对伊朗制裁时机未到",
@@ -64,6 +65,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时06分 ~ 04时22分]"
+        },
+        {
+          "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
+          "url": "https://www.cls.cn/detail/2404187",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时38分 ~ 08时20分]"
+        },
+        {
+          "title": "美特使：伊朗将邀请国际原子能机构检查其核设施",
+          "url": "https://wallstreetcn.com/livenews/3121909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时38分 ~ 08时20分]"
         },
         {
           "title": "伊朗最高领袖：已批准签署备忘录 未来面对面谈判不意味着接受敌方立场",
@@ -99,15 +124,15 @@
           "time_info": "02时06分"
         },
         {
-          "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
-          "url": "https://www.cls.cn/detail/2404187",
-          "source": "财联社热门",
+          "title": "伊朗最高领袖对伊美备忘录持不同意见",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%AF%B9%E4%BC%8A%E7%BE%8E%E5%A4%87%E5%BF%98%E5%BD%95%E6%8C%81%E4%B8%8D%E5%90%8C%E6%84%8F%E8%A7%81",
+          "source": "百度热搜",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时38分"
+          "time_info": "08时20分"
         },
         {
           "title": "美国参议院Scott：对与伊朗协议的某些方面存在担忧。",
@@ -187,17 +212,6 @@
           "time_info": "04时22分"
         },
         {
-          "title": "美特使：伊朗将邀请国际原子能机构检查其核设施",
-          "url": "https://wallstreetcn.com/livenews/3121909",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
           "title": "伊朗外长阿拉格齐对伊朗最高领袖周四的书面讲话表示欢迎，称外交机构将全力以赴确保伊朗的利益。",
           "url": "https://flash.jin10.com/detail/20260619033847832800",
           "source": "金十数据",
@@ -226,7 +240,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         },
@@ -267,7 +281,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "让AI走进千家万户",
@@ -277,8 +291,46 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 07时38分]"
+          "appearance_count": 4,
+          "time_info": "[02时06分 ~ 08时20分]"
+        },
+        {
+          "title": "“AI教父”最新警告：马斯克的xAI已经“失败了”，AI行业或迎“泡沫大爆炸”",
+          "url": "https://wallstreetcn.com/articles/3775029",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时38分 ~ 08时20分]"
+        },
+        {
+          "title": "当微软都烧不起Token了，“模型路由”成为企业AI的“核心需求”",
+          "url": "https://wallstreetcn.com/articles/3774993",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时38分 ~ 08时20分]"
+        },
+        {
+          "title": "如何看待「豆包日活超 2 亿，日收入却不足百万」？免费 AI 市场下，付费模式该如何落地？",
+          "url": "https://www.zhihu.com/question/2050289332632790558",
+          "source": "知乎",
+          "ranks": [
+            13,
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时06分 ~ 08时20分]"
         },
         {
           "title": "美国五角大楼披露，马斯克旗下的Grok AI被用于协调针对伊朗全境超过2000枚弹药的部署行动。",
@@ -314,41 +366,6 @@
           "time_info": "04时22分"
         },
         {
-          "title": "“AI教父”最新警告：马斯克的xAI已经“失败了”，AI行业或迎“泡沫大爆炸”",
-          "url": "https://wallstreetcn.com/articles/3775029",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
-          "title": "当微软都烧不起Token了，“模型路由”成为企业AI的“核心需求”",
-          "url": "https://wallstreetcn.com/articles/3774993",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
-          "title": "如何看待「豆包日活超 2 亿，日收入却不足百万」？免费 AI 市场下，付费模式该如何落地？",
-          "url": "https://www.zhihu.com/question/2050289332632790558",
-          "source": "知乎",
-          "ranks": [
-            13,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 07时38分]"
-        },
-        {
           "title": "【每日收评】科创50放量涨近4%，AI硬件与半导体持续火爆，多只科技权重续创历史新高",
           "url": "https://www.cls.cn/detail/2403645",
           "source": "财联社热门",
@@ -357,8 +374,32 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时06分 ~ 08时20分]"
+        },
+        {
+          "title": "“AI教父”杨立昆：马斯克的xAI已成失败案例 行业或面临巨大泡沫破裂",
+          "url": "https://www.cls.cn/detail/2404033",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时06分 ~ 07时38分]"
+          "time_info": "[04时22分 ~ 08时20分]"
+        },
+        {
+          "title": "72家公司一夜集体预警：A股AI炒作到了哪个阶段？",
+          "url": "https://wallstreetcn.com/articles/3775010",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时38分 ~ 08时20分]"
         },
         {
           "title": "5月证券APP月活1.82亿，月活增速谁最强？新一轮卡位在AI Skill",
@@ -373,16 +414,16 @@
           "time_info": "[02时06分 ~ 04时22分]"
         },
         {
-          "title": "“AI教父”杨立昆：马斯克的xAI已成失败案例 行业或面临巨大泡沫破裂",
-          "url": "https://www.cls.cn/detail/2404033",
-          "source": "财联社热门",
+          "title": "周四（6月18日），美股人工智能（AI）赢家指数涨4.57%，报457.59点，时隔一个交易日再创收盘历史新高。 成分股中，Bloom能源收涨15.41%，闪迪、Astera Labs、康宁公司、超微电脑涨11.54%-10.37%紧随其后，微软涨0.13%涨幅最小，天弘股份跌2.06%跌幅第三大，Lumentum跌2.30%，戴尔科技跌2.34%。",
+          "url": "https://wallstreetcn.com/livenews/3121914",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            12
+            16,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时22分 ~ 07时38分]"
+          "time_info": "[07时38分 ~ 08时20分]"
         },
         {
           "title": "Alphabet、Visa等公司释放加强AI监管信号",
@@ -396,26 +437,15 @@
           "time_info": "02时06分"
         },
         {
-          "title": "72家公司一夜集体预警：A股AI炒作到了哪个阶段？",
-          "url": "https://wallstreetcn.com/articles/3775010",
+          "title": "智谱与MiniMax两级分化！市场出现AI大模型“多空配对交易”",
+          "url": "https://wallstreetcn.com/articles/3775011",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
-          "title": "周四（6月18日），美股人工智能（AI）赢家指数涨4.57%，报457.59点，时隔一个交易日再创收盘历史新高。 成分股中，Bloom能源收涨15.41%，闪迪、Astera Labs、康宁公司、超微电脑涨11.54%-10.37%紧随其后，微软涨0.13%涨幅最小，天弘股份跌2.06%跌幅第三大，Lumentum跌2.30%，戴尔科技跌2.34%。",
-          "url": "https://wallstreetcn.com/livenews/3121914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时38分"
+          "time_info": "08时20分"
         },
         {
           "title": "AI巨头为啥在这个时间窗口集体上市",
@@ -446,7 +476,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         }
@@ -487,8 +517,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 07时38分]"
+          "appearance_count": 4,
+          "time_info": "[02时06分 ~ 08时20分]"
         },
         {
           "title": "特朗普爆料：苹果将与英特尔合作 在美国设计和制造芯片",
@@ -499,8 +529,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 07时38分]"
+          "appearance_count": 4,
+          "time_info": "[02时06分 ~ 08时20分]"
         },
         {
           "title": "特朗普：高市早苗是我的头号粉丝，不信你问她",
@@ -511,8 +541,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 07时38分]"
+          "appearance_count": 4,
+          "time_info": "[02时06分 ~ 08时20分]"
         },
         {
           "title": "美以历史上十分罕见！“特朗普可能意识到自己被骗了”",
@@ -522,8 +552,21 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时06分 ~ 08时20分]"
+        },
+        {
+          "title": "特朗普在G7记者会说了什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8G7%E8%AE%B0%E8%80%85%E4%BC%9A%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            12,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[02时06分 ~ 07时38分]"
+          "time_info": "[02时06分 ~ 08时20分]"
         },
         {
           "title": "特朗普：美联储按兵不动也还行，加息难以置信但可能发生，相信沃什",
@@ -535,6 +578,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时06分 ~ 04时22分]"
+        },
+        {
+          "title": "特朗普否认伊朗战争暴露其权力受限",
+          "url": "https://flash.jin10.com/detail/20260619070914763800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时38分 ~ 08时20分]"
         },
         {
           "title": "美官员称特朗普亲自签署美伊谅解备忘录",
@@ -558,29 +613,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时06分 ~ 04时22分]"
-        },
-        {
-          "title": "特朗普在G7记者会说了什么",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8G7%E8%AE%B0%E8%80%85%E4%BC%9A%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时06分 ~ 07时38分]"
-        },
-        {
-          "title": "特朗普否认伊朗战争暴露其权力受限",
-          "url": "https://flash.jin10.com/detail/20260619070914763800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时38分"
         },
         {
           "title": "李在明发文称与特朗普共进晚餐",
@@ -644,17 +676,6 @@
       "match_count": 13,
       "titles": [
         {
-          "title": "市场消化美联储鹰派信号 美股期指反弹 英特尔盘前大涨近9% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2403938",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 07时38分]"
-        },
-        {
           "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
           "url": "https://wallstreetcn.com/articles/3774887",
           "source": "华尔街见闻",
@@ -664,6 +685,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时06分 ~ 04时22分]"
+        },
+        {
+          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
+          "url": "https://www.cls.cn/detail/2404196",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时38分 ~ 08时20分]"
+        },
+        {
+          "title": "市场消化美联储鹰派信号 美股期指反弹 英特尔盘前大涨近9% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2403938",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时06分 ~ 08时20分]"
         },
         {
           "title": "风险偏好重燃，美股高开，半导体股普涨，英特尔涨9%，SpaceX跌6%，油价跌超2%",
@@ -681,22 +726,24 @@
           "url": "https://flash.jin10.com/detail/20260619071838638800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时38分 ~ 08时20分]"
         },
         {
-          "title": "美股收盘：科技题材迎新高浪潮 存储、半导体设备牛股带头冲锋",
-          "url": "https://www.cls.cn/detail/2404196",
-          "source": "财联社热门",
+          "title": "周四（6月18日），美股信息科技指数涨4.35%，报465.35点，时隔一个交易日再创收盘历史新高。 成分股中，闪迪涨11.54%，Astera Labs康宁公司、英特尔、超微电脑涨11.31%-10.37%，Credo科技集团涨9.02%表现第六，惠与（HPE）则跌1.65%表现倒数第十，Salesforce跌2.09%，Lumentum跌2.30%，IBM跌5.05%，埃森哲跌17.97%表现最差。 在标普科技板块，也是闪迪、康宁公司、英特尔、超微电脑领涨，埃森哲跌幅最大。",
+          "url": "https://wallstreetcn.com/livenews/3121912",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            18,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时38分 ~ 08时20分]"
         },
         {
           "title": "金十图示：2026年06月18日（周四）热门中概股行情一览（美股收盘）",
@@ -754,24 +801,13 @@
           "time_info": "02时06分"
         },
         {
-          "title": "周四（6月18日），美股信息科技指数涨4.35%，报465.35点，时隔一个交易日再创收盘历史新高。 成分股中，闪迪涨11.54%，Astera Labs康宁公司、英特尔、超微电脑涨11.31%-10.37%，Credo科技集团涨9.02%表现第六，惠与（HPE）则跌1.65%表现倒数第十，Salesforce跌2.09%，Lumentum跌2.30%，IBM跌5.05%，埃森哲跌17.97%表现最差。 在标普科技板块，也是闪迪、康宁公司、英特尔、超微电脑领涨，埃森哲跌幅最大。",
-          "url": "https://wallstreetcn.com/livenews/3121912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时38分"
-        },
-        {
           "title": "周四（6月18日），美股存储芯片与硬件供应链指数涨6.29%，报266.26点，突破6月15日所创收盘历史最高位253.05点。 成分股全面上涨，闪迪收涨11.54%，时隔两个交易日再创收盘历史新高；美光科技涨8.70%，时隔两天再创收盘历史新高；Rambus涨8.51%，泰瑞达涨7.19%，西部数据涨4.79%，连续四天创收盘历史新高，6月11日以来累计上涨52.27%；应用材料涨4.08%，拉姆研究涨3.97%，希捷科技涨0.39%，也连续四天创新高。",
           "url": "https://wallstreetcn.com/livenews/3121904",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         },
@@ -782,7 +818,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         }
@@ -851,8 +887,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 07时38分]"
+          "appearance_count": 4,
+          "time_info": "[02时06分 ~ 08时20分]"
         },
         {
           "title": "标普500指数初步收涨1.2%，科技板块涨2.7%，可选消费、电信板块涨超1%，能源板块跌2.1%。 纳斯达克100指数初步收涨2.6%，成分股中，闪迪初步收涨11.2%，英特尔涨10%，美光涨9%，谷歌A涨1.4%，Strategy跌3%，特许通讯跌4.3%，CTSH跌10.4%。 卡特彼勒涨3.7%，迪士尼、英伟达涨约3%，领跑道指成分股。费城半导体指数涨6.5%。",
@@ -872,7 +908,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         }
@@ -889,9 +925,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时38分 ~ 08时20分]"
         },
         {
           "title": "周四（6月18日）纽约尾盘，彭博谷物分类指数跌0.92%，报29.7383点。 CBOT玉米期货跌1%，CBOT小麦期货跌跌1.19%。 CBOT大豆期货跌0.63%，报11.42美元/蒲式耳，豆粕期货跌0.88%，豆油期货跌1.75%。",
@@ -956,9 +992,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时38分 ~ 08时20分]"
         }
       ]
     }
