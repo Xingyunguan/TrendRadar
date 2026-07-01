@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T10:56:14.943592+08:00",
-  "total_titles_processed": 875,
+  "generated_at": "2026-07-01T15:04:58.215947+08:00",
+  "total_titles_processed": 1071,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
@@ -27,8 +27,31 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时58分 ~ 15时04分]"
+        },
+        {
+          "title": "德国提出在欧洲生产美国武器的计划 以争取特朗普的继续支持",
+          "url": "https://flash.jin10.com/detail/20260701144532076800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
+        },
+        {
+          "title": "特朗普在最高法院输了，为什么又扯上中国？",
+          "url": "https://news.ifeng.com/c/8uOgMuQGNSM",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时58分 ~ 10时56分]"
+          "time_info": "[10时55分 ~ 15时04分]"
         },
         {
           "title": "特朗普927页超10亿美元“吸金”财务报告：世界杯门票、和解费尽数收入囊中",
@@ -73,17 +96,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时15分 ~ 02时29分]"
-        },
-        {
-          "title": "特朗普在最高法院输了，为什么又扯上中国？",
-          "url": "https://news.ifeng.com/c/8uOgMuQGNSM",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
         },
         {
           "title": "美国总统特朗普：中期选举大会预计将于9月9日至10日进行。",
@@ -298,7 +310,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
         {
           "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
@@ -308,8 +320,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时58分 ~ 10时56分]"
+          "appearance_count": 4,
+          "time_info": "[07时58分 ~ 15时04分]"
         },
         {
           "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
@@ -341,9 +353,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "AI预测2026英雄联盟MSI谁能夺冠",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B2026%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FMSI%E8%B0%81%E8%83%BD%E5%A4%BA%E5%86%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 15时04分]"
         },
         {
           "title": "终于明白AI免费和订阅的区别了",
@@ -391,15 +415,26 @@
           "time_info": "[10时55分 ~ 10时56分]"
         },
         {
-          "title": "AI预测2026英雄联盟MSI谁能夺冠",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B2026%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FMSI%E8%B0%81%E8%83%BD%E5%A4%BA%E5%86%A0",
-          "source": "bilibili 热搜",
+          "title": "AI驱动半导体制造升级 巨头抢购电子级氢氟酸 部分供货商年内已涨价三成",
+          "url": "https://www.cls.cn/detail/2413771",
+          "source": "财联社热门",
           "ranks": [
-            30
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
+        },
+        {
+          "title": "香港演员吴启华卖 20 岁肖像权拍 AI 电影，如何看待这一选择？对行业意味着什么？",
+          "url": "https://www.zhihu.com/question/2055055883843925167",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
         },
         {
           "title": "英国央行官员称AI模型犹如会说谎的青少年，智能体兴起或引发市场崩盘",
@@ -435,6 +470,28 @@
           "time_info": "07时58分"
         },
         {
+          "title": "AI裁员 硅谷叶文洁出现了",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%A3%81%E5%91%98%20%E7%A1%85%E8%B0%B7%E5%8F%B6%E6%96%87%E6%B4%81%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
+        },
+        {
+          "title": "当一人公司加上 AI 杠杆，能做出多有趣的项目来？",
+          "url": "https://www.zhihu.com/question/2053591589927262082",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
+        },
+        {
           "title": "“大空头”迈克尔·伯里做空AI与芯片板块",
           "url": "https://flash.jin10.com/detail/20260701050629588800",
           "source": "金十数据",
@@ -455,6 +512,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "景林资产“内部信”曝光：核心配置聚焦半导体与AI基础设施",
+          "url": "https://wallstreetcn.com/livenews/3127199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
         },
         {
           "title": "苹果公司库克、欧盟官员Virkkunen讨论“Siri AI”。（英国金融时报）",
@@ -518,6 +586,30 @@
       "match_count": 18,
       "titles": [
         {
+          "title": "【早报】多只A股公司业绩大增；美股存储概念半年涨超3倍；黄金、原油收跌；法国、挪威晋级世界杯16强",
+          "url": "https://www.cls.cn/detail/2413612",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时58分 ~ 15时04分]"
+        },
+        {
+          "title": "美股收盘：三大指数齐升道指刷新高 费城半导体指数半年翻倍",
+          "url": "https://www.cls.cn/detail/2413598",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时58分 ~ 15时04分]"
+        },
+        {
           "title": "美股冲击近6年最强季度表现 美伊代表齐赴多哈 | 今夜看点",
           "url": "https://www.cls.cn/detail/2413394",
           "source": "财联社热门",
@@ -529,30 +621,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时15分 ~ 10时56分]"
-        },
-        {
-          "title": "【早报】多只A股公司业绩大增；美股存储概念半年涨超3倍；黄金、原油收跌；法国、挪威晋级世界杯16强",
-          "url": "https://www.cls.cn/detail/2413612",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时58分 ~ 10时56分]"
-        },
-        {
-          "title": "美股收盘：三大指数齐升道指刷新高 费城半导体指数半年翻倍",
-          "url": "https://www.cls.cn/detail/2413598",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时58分 ~ 10时56分]"
         },
         {
           "title": "华尔街六年来最强季度后：美股上涨进入“高难度阶段”",
@@ -613,6 +681,18 @@
           "time_info": "[04时51分 ~ 06时09分]"
         },
         {
+          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3775893",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 15时04分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜美国科技股七巨头（Magnificent 7）指数6月份累计下跌8.9%，创2025年3月份以来最差单月表现。",
           "url": "https://wallstreetcn.com/livenews/3126975",
           "source": "华尔街见闻-快讯",
@@ -623,17 +703,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时51分 ~ 06时09分]"
-        },
-        {
-          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
-          "url": "https://wallstreetcn.com/articles/3775893",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
         },
         {
           "title": "大摩警告：美股半导体或迎顶点",
@@ -727,7 +796,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊朗：未来几天暂无与美方会晤计划",
@@ -818,6 +887,17 @@
           "time_info": "00时16分"
         },
         {
+          "title": "伊朗官员：美国干涉地区事务的时代已结束",
+          "url": "https://wallstreetcn.com/livenews/3127209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
+        },
+        {
           "title": "伊朗石油出口在美国封锁解除后超过4000万桶",
           "url": "https://wallstreetcn.com/livenews/3126957",
           "source": "华尔街见闻-快讯",
@@ -827,6 +907,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "伊朗国防部长：在与国会经济委员会成员们的会议中，我强调，伊朗伊斯兰共和国的防御、导弹和无人机能力是国家安全的红线，这些能力不可谈判，永远不会被谈判。这些能力将依靠国内力量进行发展。",
+          "url": "https://flash.jin10.com/detail/20260701142410501800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
         },
         {
           "title": "据纽约邮报：美国政府官员称，美国尚未按照谅解备忘录的规定，释放被冻结的60亿美元伊朗资金用于人道主义物资，并且在德黑兰方面履约之前也不会解冻这些资金。",
@@ -854,7 +945,7 @@
     },
     {
       "keyword_group": "claude code anthropic",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "Anthropic：推出Claude Sonnet 5。",
@@ -912,6 +1003,17 @@
           "time_info": "07时58分"
         },
         {
+          "title": "僵局打开！美国解除对Anthropic两大AI旗舰模型的出口管控",
+          "url": "https://www.cls.cn/detail/2413870",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
+        },
+        {
           "title": "Anthropic推出Claude Science，助力科研自动化",
           "url": "https://wallstreetcn.com/livenews/3126932",
           "source": "华尔街见闻-快讯",
@@ -932,6 +1034,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
+        },
+        {
+          "title": "如何评价 Anthropic 最新发布的 Claude Sonnet5？",
+          "url": "https://www.zhihu.com/question/2055567821904547893",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时04分"
         },
         {
           "title": "市场消息：Anthropic发布Claude Science测试版工具，旨在帮助科学家自动化科研流程，减少重复性工作。",
