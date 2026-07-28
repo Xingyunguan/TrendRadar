@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T20:32:50.748567+08:00",
-  "total_titles_processed": 1429,
+  "generated_at": "2026-07-28T23:12:22.548626+08:00",
+  "total_titles_processed": 1586,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普威胁对欧盟加征巨额报复性关税，为何又是“301调查”？",
@@ -55,6 +55,20 @@
           "time_info": "[01时29分 ~ 07时55分]"
         },
         {
+          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            17,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时29分 ~ 23时12分]"
+        },
+        {
           "title": "600名以色列前高官联名致信特朗普，发出警告",
           "url": "https://news.ifeng.com/c/8v7UlJm7wWT",
           "source": "凤凰网",
@@ -75,20 +89,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
-        },
-        {
-          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            17,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时29分 ~ 20时32分]"
         },
         {
           "title": "特朗普：美国应拥有全球最低的利率",
@@ -195,6 +195,17 @@
           "time_info": "[05时02分 ~ 06时52分]"
         },
         {
+          "title": "特朗普关税收入成了美国财政“救命钱”？加图研究所：债市根本不买账",
+          "url": "https://flash.jin10.com/detail/20260728223713254800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-28）",
           "url": "https://flash.jin10.com/detail/20260728180440714800",
           "source": "金十数据",
@@ -292,6 +303,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "特朗普与泽连斯基在白宫会面",
+          "url": "https://flash.jin10.com/detail/20260728222606971800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "美国总统特朗普：沃什将作出正确决定，我理解沃什的想法和诉求。",
@@ -520,7 +542,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -613,6 +635,17 @@
           "time_info": "09时29分"
         },
         {
+          "title": "特朗普：美伊谈判“进展良好”，但摧毁“镐山”易如反掌",
+          "url": "https://flash.jin10.com/detail/20260728220527830800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "以色列国防部长：特朗普明白我们不会放弃黎巴嫩、加沙和叙利亚的缓冲区。",
           "url": "https://flash.jin10.com/detail/20260728174743392800",
           "source": "金十数据",
@@ -660,18 +693,19 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 46,
+      "match_count": 52,
       "titles": [
         {
           "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
           "url": "https://wallstreetcn.com/articles/3777993",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时55分 ~ 20时32分]"
+          "appearance_count": 8,
+          "time_info": "[07时55分 ~ 23时12分]"
         },
         {
           "title": "国内首部AI长片首播",
@@ -715,6 +749,17 @@
           "time_info": "[01时29分 ~ 07时55分]"
         },
         {
+          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
+          "url": "https://wallstreetcn.com/articles/3778088",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 23时12分]"
+        },
+        {
           "title": "全网厌恶AI脸，但这个被裁掉的女孩绕过了“恐怖谷”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33662866",
           "source": "澎湃新闻",
@@ -738,15 +783,15 @@
           "time_info": "[06时51分 ~ 06时52分]"
         },
         {
-          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
-          "url": "https://wallstreetcn.com/articles/3778088",
-          "source": "华尔街见闻",
+          "title": "关键时刻惠誉也来泼冷水：AI市场回调正成为全球主要信用风险",
+          "url": "https://www.cls.cn/detail/2439291",
+          "source": "财联社热门",
           "ranks": [
-            5
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 20时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "全世界都在 ALL in AI ，AI 真的是第四次工业革命吗？人类的科技树是否点错了？",
@@ -801,6 +846,20 @@
           "time_info": "[09时29分 ~ 18时24分]"
         },
         {
+          "title": "花40亿token做出AI督学官",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B140%E4%BA%BFtoken%E5%81%9A%E5%87%BAAI%E7%9D%A3%E5%AD%A6%E5%AE%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            19,
+            23,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 23时12分]"
+        },
+        {
           "title": "黄仁勋将赴美国国会山，讨论AI领导地位与开源问题",
           "url": "https://flash.jin10.com/detail/20260728045414356800",
           "source": "金十数据",
@@ -850,17 +909,29 @@
           "time_info": "[01时29分 ~ 05时02分]"
         },
         {
-          "title": "花40亿token做出AI督学官",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8A%B140%E4%BA%BFtoken%E5%81%9A%E5%87%BAAI%E7%9D%A3%E5%AD%A6%E5%AE%98",
-          "source": "bilibili 热搜",
+          "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
+          "url": "https://wallstreetcn.com/articles/3778106",
+          "source": "华尔街见闻",
           "ranks": [
-            27,
-            19,
-            23
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 20时32分]"
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 23时12分]"
+        },
+        {
+          "title": "AI浪潮下最讽刺一幕：苹果不争，故天下莫能与之争？",
+          "url": "https://www.cls.cn/detail/2438854",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 23时12分]"
         },
         {
           "title": "AI烧钱疑虑重燃，韩股重挫10%再熔断，日股跌4%、铠侠大跌18%，芯片股全线承压",
@@ -896,18 +967,6 @@
           "time_info": "[01时29分 ~ 01时30分]"
         },
         {
-          "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
-          "url": "https://wallstreetcn.com/articles/3778106",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 20时32分]"
-        },
-        {
           "title": "美媒：特朗普政府接近敲定AI自愿审查框架",
           "url": "https://flash.jin10.com/detail/20260728042311728800",
           "source": "金十数据",
@@ -918,18 +977,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时02分 ~ 06时52分]"
-        },
-        {
-          "title": "AI浪潮下最讽刺一幕：苹果不争，故天下莫能与之争？",
-          "url": "https://www.cls.cn/detail/2438854",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 20时32分]"
         },
         {
           "title": "报道：英伟达将向Ilya Sutskever的AI研究实验室投资50亿美元",
@@ -1012,6 +1059,28 @@
           "time_info": "18时24分"
         },
         {
+          "title": "美股AI硬件板块暴跌 美光科技跌逾12%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1AI%E7%A1%AC%E4%BB%B6%E6%9D%BF%E5%9D%97%E6%9A%B4%E8%B7%8C+%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E8%B7%8C%E9%80%BE12%25",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "AI泡沫的金丝雀，刚刚死去.....",
+          "url": "https://wallstreetcn.com/articles/3778131",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "美机构：今年AI发现的网络安全漏洞数量将是去年的两倍",
           "url": "https://flash.jin10.com/detail/20260728023317387800",
           "source": "金十数据",
@@ -1065,6 +1134,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时24分"
+        },
+        {
+          "title": "上海深入整治AI应用乱象 严防技术滥用侵害未成年人",
+          "url": "https://wallstreetcn.com/livenews/3141085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "IDC：2025年中国AI游戏云市场规模已达18.6亿人民币",
@@ -1177,6 +1257,17 @@
           "time_info": "05时02分"
         },
         {
+          "title": "AI率先“终结”程序员",
+          "url": "https://www.baidu.com/s?wd=AI%E7%8E%87%E5%85%88%E2%80%9C%E7%BB%88%E7%BB%93%E2%80%9D%E7%A8%8B%E5%BA%8F%E5%91%98",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "阿里云：Kimi K3上线阿里千问AI平台。",
           "url": "https://flash.jin10.com/detail/20260728085040495800",
           "source": "金十数据",
@@ -1186,6 +1277,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "苹果拟大举发力智能家居 以Siri AI为核心推出新品",
+          "url": "https://wallstreetcn.com/livenews/3141064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "佛得角门将签约“泪洒现场”图是AI",
@@ -1202,7 +1304,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
         {
           "title": "伊朗外交部回应商船遇袭：要求追究乌克兰政府支持者责任",
@@ -1277,6 +1379,18 @@
           "time_info": "[01时29分 ~ 07时55分]"
         },
         {
+          "title": "用伊朗逻辑打伊朗商船！乌克兰出手，中东战火恐延烧至里海",
+          "url": "https://news.ifeng.com/c/8v7v4J57Txn",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时32分 ~ 23时12分]"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：美国联邦航空管理局称，由于巴林飞行情报区军事活动增加，建议飞行员在国际水域上空飞行时提高警惕。",
           "url": "https://flash.jin10.com/detail/20260728025702923800",
           "source": "金十数据",
@@ -1299,16 +1413,15 @@
           "time_info": "09时29分"
         },
         {
-          "title": "用伊朗逻辑打伊朗商船！乌克兰出手，中东战火恐延烧至里海",
-          "url": "https://news.ifeng.com/c/8v7v4J57Txn",
+          "title": "伊朗大使答凤凰：恢复美伊谈判，须有像中国这样的大国的担保",
+          "url": "https://news.ifeng.com/c/8v8RFGTOHZW",
           "source": "凤凰网",
           "ranks": [
-            7,
             5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时32分 ~ 20时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊拉克国家安全顾问称，乌克兰情报小组正在伊拉克境内实施袭击，并将其嫁祸于抵抗组织。伊拉克有关机构已逮捕一些人员和相关成员，他们在审讯中承认，乌克兰情报小组曾针对伊拉克政府设施发动袭击。",
@@ -1323,6 +1436,20 @@
           "time_info": "[05时02分 ~ 06时52分]"
         },
         {
+          "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33668433",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时32分 ~ 23时12分]"
+        },
+        {
           "title": "内塔尼亚胡低调启程华盛顿 伊朗问题成首要议题",
           "url": "https://flash.jin10.com/detail/20260728044248647800",
           "source": "金十数据",
@@ -1335,17 +1462,16 @@
           "time_info": "[05时02分 ~ 06时52分]"
         },
         {
-          "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33668433",
+          "title": "国际观察丨对伊朗停火，美国这次是“不打了”还是“打不了”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33669415",
           "source": "澎湃新闻",
           "ranks": [
             13,
-            10,
-            7
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时32分 ~ 20时32分]"
+          "time_info": "[18时24分 ~ 23时12分]"
         },
         {
           "title": "泽连斯基：乌克兰与伊朗已处于战争中",
@@ -1359,6 +1485,18 @@
           "time_info": "[15时32分 ~ 20时32分]"
         },
         {
+          "title": "伊朗导弹甩开美军多枚拦截弹画面",
+          "url": "https://www.toutiao.com/trending/7666729375357865515/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时24分 ~ 23时12分]"
+        },
+        {
           "title": "泽连斯基：与伊朗已处于战争中",
           "url": "https://news.ifeng.com/c/8v7aKFz8e8a",
           "source": "凤凰网",
@@ -1370,29 +1508,6 @@
           "time_info": "[09时29分 ~ 12时55分]"
         },
         {
-          "title": "国际观察丨对伊朗停火，美国这次是“不打了”还是“打不了”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33669415",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 20时32分]"
-        },
-        {
-          "title": "伊朗导弹甩开美军多枚拦截弹画面",
-          "url": "https://www.toutiao.com/trending/7666729375357865515/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时24分 ~ 20时32分]"
-        },
-        {
           "title": "加拿大外长：与卡塔尔首相兼外交大臣通话。加拿大支持卡塔尔的主权和安全，我们呼吁伊朗停止袭击，重新开放霍尔木兹海峡至关重要。",
           "url": "https://flash.jin10.com/detail/20260728005241733800",
           "source": "金十数据",
@@ -1402,6 +1517,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时30分"
+        },
+        {
+          "title": "伊朗军方警告不要接受美国使用伊资产进行“赔偿”",
+          "url": "https://flash.jin10.com/detail/20260728223451735800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "效仿伊朗扼住中东原油命门？也门政府警告：胡塞武装或控制曼德海峡",
+          "url": "https://www.cls.cn/detail/2439032",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "伊朗军方警告不要接受美国使用伊资产进行“赔偿”",
+          "url": "https://wallstreetcn.com/livenews/3141086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "乌克兰袭船还回嘴：伊朗没资格“装”受害者",
@@ -1539,7 +1687,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
@@ -1551,8 +1699,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时29分 ~ 20时32分]"
+          "appearance_count": 7,
+          "time_info": "[09时29分 ~ 23时12分]"
         },
         {
           "title": "美股",
@@ -1633,6 +1781,17 @@
           "time_info": "[01时29分 ~ 09时29分]"
         },
         {
+          "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2439316",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "美股芯片股“血流成河”",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E8%82%A1%E2%80%9C%E8%A1%80%E6%B5%81%E6%88%90%E6%B2%B3%E2%80%9D",
           "source": "百度热搜",
@@ -1668,30 +1827,18 @@
           "time_info": "[05时02分 ~ 06时52分]"
         },
         {
-          "title": "7月28日投资避雷针：美股费城半导体指数创5月20日以来收盘新低 英伟达跌约5%",
-          "url": "https://www.cls.cn/detail/2438430",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 15时32分]"
-        },
-        {
           "title": "美股半导体崩盘,闪迪跌破新低",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
           "source": "贴吧",
           "ranks": [
             6,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时32分 ~ 20时32分]"
+          "appearance_count": 4,
+          "time_info": "[15时32分 ~ 23时12分]"
         },
         {
           "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
@@ -1703,8 +1850,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时32分 ~ 20时32分]"
+          "appearance_count": 4,
+          "time_info": "[15时32分 ~ 23时12分]"
+        },
+        {
+          "title": "7月28日投资避雷针：美股费城半导体指数创5月20日以来收盘新低 英伟达跌约5%",
+          "url": "https://www.cls.cn/detail/2438430",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 15时32分]"
         },
         {
           "title": "周一（7月27日），美股行业ETF涨跌各异，半导体ETF收跌2.25%，能源业ETF跌2.11%，科技行业ETF、全球科技股指数ETF、银行业ETF至多跌0.9%。 生物科技指数ETF则涨0.1%，可选消费ETF涨1.31%，网络股指数ETF涨1.89%，全球航空业ETF涨2.89%。",
@@ -1765,6 +1925,28 @@
           "time_info": "07时55分"
         },
         {
+          "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778135",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "美股费城半导体指数跌超6%，纳斯达克100指数跌超2%。 英伟达下跌1.41%，台积电中担任下跌3.98%，博通下跌2.46%，SK海力士ADR下跌9.54%，美光科技下跌10.90%，美国超微公司下跌9.41%，英特尔下跌8.39%，阿斯麦下跌5.64%，泛林集团下跌10.88%，arm holdings下跌8.99%，闪迪下跌16.17%，高通下跌3.08%，迈威尔科技下跌10.39%，西部数据下跌14.37%，希捷科技下跌13.20%。",
+          "url": "https://wallstreetcn.com/livenews/3141079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "金十图示：2026年07月27日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260728040600311800",
           "source": "金十数据",
@@ -1815,7 +1997,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         },
@@ -1829,6 +2011,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "美股存储芯片指数一度重挫将近12%，逼近5月19日盘中最低位164.65点，较6月22日所创盘中历史最高位累计回撤39.8%。 成分股闪迪目前跌13.5%，西部数据跌12.7%，希捷科技跌11.8%，美光跌9%。此外，SK海力士ADR跌8.7%。",
+          "url": "https://wallstreetcn.com/livenews/3141069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "SK海力士美股股价创上市以来新低",
@@ -1848,7 +2041,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时32分"
         }
@@ -1856,7 +2049,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI失控入侵,遭索赔1亿算力",
@@ -1887,6 +2080,17 @@
           "time_info": "[18时24分 ~ 20时32分]"
         },
         {
+          "title": "据Politico：OpenAI创始人奥尔特曼预计将与美国网络主管克拉齐奥斯会面。",
+          "url": "https://flash.jin10.com/detail/20260728221012090800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "OpenAI的CEO Altman预计本周将在美国华盛顿特区会见财长贝森特与商务部长卢特尼克。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3140521",
           "source": "华尔街见闻-快讯",
@@ -1896,6 +2100,90 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
+        },
+        {
+          "title": "OpenAI的CEO Altman将会见美国政府网络主管Kratsios。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3141075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "Anthropic与OpenAI推动审查竞争对手的模型。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3141072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "据The Information：OpenAI和Anthropic呼吁美国对更多模型进行审查。",
+          "url": "https://flash.jin10.com/detail/20260728220555338800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金十图示：2026年07月28日（周二）上海金午盘价为882.55元/克，较国际金价(880.92元/克)，高1.63元/克",
+          "url": "https://flash.jin10.com/detail/20260728150739432800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "突破4000美元“拉锯区”，金价筑底信号显现",
+          "url": "https://wallstreetcn.com/livenews/3140540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时55分]"
+        },
+        {
+          "title": "路透调查：预计2026年黄金价格平均为每盎司4,509美元，2027年为4,610美元；预计2026年银价平均为每盎司72美元，2027年为71美元。",
+          "url": "https://flash.jin10.com/detail/20260728220722650800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "金价被情绪来回拉扯背后",
+          "url": "https://www.toutiao.com/trending/7667247710302375434/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时29分"
         }
       ]
     },
@@ -1944,46 +2232,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金十图示：2026年07月28日（周二）上海金午盘价为882.55元/克，较国际金价(880.92元/克)，高1.63元/克",
-          "url": "https://flash.jin10.com/detail/20260728150739432800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "突破4000美元“拉锯区”，金价筑底信号显现",
-          "url": "https://wallstreetcn.com/livenews/3140540",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 07时55分]"
-        },
-        {
-          "title": "金价被情绪来回拉扯背后",
-          "url": "https://www.toutiao.com/trending/7667247710302375434/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -1996,11 +2244,12 @@
             7,
             11,
             15,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时29分 ~ 20时32分]"
+          "appearance_count": 14,
+          "time_info": "[01时29分 ~ 23时12分]"
         },
         {
           "title": "DeepSeek说他先去吃饭了",
