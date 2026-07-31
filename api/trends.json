@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T06:53:32.917574+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-08-01T07:54:43.208334+08:00",
+  "total_titles_processed": 601,
   "failed_sources": [],
   "trends": [
     {
@@ -8,21 +8,21 @@
       "match_count": 38,
       "titles": [
         {
-          "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33688329",
-          "source": "澎湃新闻",
+          "title": "特朗普对伊朗战事失去耐心，傅立民：他对谈判的理解本质上就错了",
+          "url": "https://news.ifeng.com/c/8vDDhdP8jJa",
+          "source": "凤凰网",
           "ranks": [
             4,
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 07时54分]"
         },
         {
-          "title": "特朗普对伊朗战事失去耐心，傅立民：他对谈判的理解本质上就错了",
-          "url": "https://news.ifeng.com/c/8vDDhdP8jJa",
-          "source": "凤凰网",
+          "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688329",
+          "source": "澎湃新闻",
           "ranks": [
             4,
             3
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 06时53分]"
+          "appearance_count": 3,
+          "time_info": "[05时57分 ~ 07时54分]"
         },
         {
           "title": "五角大楼发言人：美国国防部随时准备执行特朗普总统的指示。",
@@ -51,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 06时53分]"
+          "appearance_count": 3,
+          "time_info": "[05时57分 ~ 07时54分]"
         },
         {
           "title": "特朗普已下令对伊朗发动新一轮攻击",
@@ -63,19 +63,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 06时53分]"
+          "appearance_count": 3,
+          "time_info": "[05时57分 ~ 07时54分]"
         },
         {
           "title": "新闻蒸馏器｜想留美工作？先交10万美元：特朗普政府拟对国际毕业生下手",
           "url": "https://m.thepaper.cn/newsDetail_forward_33688682",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 07时54分]"
         },
         {
           "title": "特朗普：以色列在哈马斯解除武装计划方面“表现出色”",
@@ -111,6 +112,18 @@
           "time_info": "01时19分"
         },
         {
+          "title": "白宫：特朗普认定未来4年对进口石英表面产品实施关税配额是适当的。",
+          "url": "https://flash.jin10.com/detail/20260801050537920800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时57分 ~ 07时54分]"
+        },
+        {
           "title": "特朗普否认允许乌生产爱国者拦截弹",
           "url": "https://wallstreetcn.com/livenews/3143400",
           "source": "华尔街见闻-快讯",
@@ -123,18 +136,6 @@
           "time_info": "[01时19分 ~ 03时08分]"
         },
         {
-          "title": "白宫：特朗普认定未来4年对进口石英表面产品实施关税配额是适当的。",
-          "url": "https://flash.jin10.com/detail/20260801050537920800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 06时53分]"
-        },
-        {
           "title": "白宫：特朗普签署公告，促进美国对石英表面产品进口竞争作出积极调整。",
           "url": "https://flash.jin10.com/detail/20260801050448584800",
           "source": "金十数据",
@@ -143,8 +144,20 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时57分 ~ 07时54分]"
+        },
+        {
+          "title": "美官员称特朗普已下令对伊朗发动新一轮袭击，最早可能周末开始行动",
+          "url": "https://wallstreetcn.com/livenews/3143485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时57分 ~ 06时53分]"
+          "time_info": "[06时53分 ~ 07时54分]"
         },
         {
           "title": "特朗普画K线！媒体称美以考虑开盘之前完成轰炸伊朗能源目标的“任务”",
@@ -223,17 +236,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
-        },
-        {
-          "title": "美官员称特朗普已下令对伊朗发动新一轮袭击，最早可能周末开始行动",
-          "url": "https://wallstreetcn.com/livenews/3143485",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时53分"
         },
         {
           "title": "美国总统特朗普：明尼苏达州正在发生涉及腐败的重大事件，影响深远。",
@@ -437,7 +439,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
@@ -449,8 +451,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 07时54分]"
         },
         {
           "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citadel出手收购全部仓位",
@@ -461,8 +463,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 07时54分]"
+        },
+        {
+          "title": "“AI股神”崩了，“带血的筹码”出了，华尔街押注：AI见底了！",
+          "url": "https://wallstreetcn.com/articles/3778376",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 07时54分]"
         },
         {
           "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
@@ -476,16 +491,17 @@
           "time_info": "[01时19分 ~ 05时57分]"
         },
         {
-          "title": "“AI股神”崩了，“带血的筹码”出了，华尔街押注：AI见底了！",
-          "url": "https://wallstreetcn.com/articles/3778376",
+          "title": "“AI股神”是如何崩盘的？华尔街一线复盘爆仓全过程",
+          "url": "https://wallstreetcn.com/articles/3778413",
           "source": "华尔街见闻",
           "ranks": [
-            6,
+            8,
+            7,
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 07时54分]"
         },
         {
           "title": "AI生成的作品算艺术吗",
@@ -493,35 +509,12 @@
           "source": "抖音",
           "ranks": [
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 06时53分]"
-        },
-        {
-          "title": "“AI股神”是如何崩盘的？华尔街一线复盘爆仓全过程",
-          "url": "https://wallstreetcn.com/articles/3778413",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 06时53分]"
-        },
-        {
-          "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
-          "url": "https://www.cls.cn/detail/2442641",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 07时54分]"
         },
         {
           "title": "达利欧重大判断：教科书式AI资产泡沫，80年一次的“大周期”已进入尾声",
@@ -529,11 +522,38 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 07时54分]"
+        },
+        {
+          "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
+          "url": "https://www.cls.cn/detail/2442641",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 07时54分]"
+        },
+        {
+          "title": "市场不相信“神话”：“AI股神”死于杠杆？",
+          "url": "https://wallstreetcn.com/articles/3778378",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 07时54分]"
         },
         {
           "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
@@ -541,11 +561,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 07时54分]"
         },
         {
           "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
@@ -554,9 +575,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 07时54分]"
+        },
+        {
+          "title": "Aiming回应宫斗:对方先骂人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356666&amp;topic_name=Aiming%E5%9B%9E%E5%BA%94%E5%AE%AB%E6%96%97%3A%E5%AF%B9%E6%96%B9%E5%85%88%E9%AA%82%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 07时54分]"
         },
         {
           "title": "AI应用“易中天”来了！精品短剧涌现成强催化 哪些公司将受益？",
@@ -570,16 +602,18 @@
           "time_info": "01时19分"
         },
         {
-          "title": "市场不相信“神话”：“AI股神”死于杠杆？",
-          "url": "https://wallstreetcn.com/articles/3778378",
-          "source": "华尔街见闻",
+          "title": "AI公司批量抢购旧书",
+          "url": "https://www.baidu.com/s?wd=AI%E5%85%AC%E5%8F%B8%E6%89%B9%E9%87%8F%E6%8A%A2%E8%B4%AD%E6%97%A7%E4%B9%A6",
+          "source": "百度热搜",
           "ranks": [
-            10,
-            9
+            25,
+            30,
+            26,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 06时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时19分 ~ 07时54分]"
         },
         {
           "title": "保时捷女销冠回应被AI合成不雅视频",
@@ -597,15 +631,18 @@
           "time_info": "[01时19分 ~ 06时53分]"
         },
         {
-          "title": "Aiming回应宫斗:对方先骂人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356666&amp;topic_name=Aiming%E5%9B%9E%E5%BA%94%E5%AE%AB%E6%96%97%3A%E5%AF%B9%E6%96%B9%E5%85%88%E9%AA%82%E4%BA%BA",
-          "source": "贴吧",
+          "title": "AI男主都能带货了",
+          "url": "https://www.baidu.com/s?wd=AI%E7%94%B7%E4%B8%BB%E9%83%BD%E8%83%BD%E5%B8%A6%E8%B4%A7%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            22
+            24,
+            15,
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 06时53分]"
+          "appearance_count": 5,
+          "time_info": "[03时08分 ~ 07时54分]"
         },
         {
           "title": "华尔街自2020年以来最大规模资金轮动，暴露AI交易拥挤风险",
@@ -620,32 +657,6 @@
           "time_info": "[04时54分 ~ 05时57分]"
         },
         {
-          "title": "AI男主都能带货了",
-          "url": "https://www.baidu.com/s?wd=AI%E7%94%B7%E4%B8%BB%E9%83%BD%E8%83%BD%E5%B8%A6%E8%B4%A7%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时08分 ~ 05时57分]"
-        },
-        {
-          "title": "AI公司批量抢购旧书",
-          "url": "https://www.baidu.com/s?wd=AI%E5%85%AC%E5%8F%B8%E6%89%B9%E9%87%8F%E6%8A%A2%E8%B4%AD%E6%97%A7%E4%B9%A6",
-          "source": "百度热搜",
-          "ranks": [
-            25,
-            30,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 04时54分]"
-        },
-        {
           "title": "如何看待 Claude 大规模封禁国内开发者账号，让依赖 AI 的程序员「功力尽失」，被调侃天才程序员陨落？",
           "url": "https://www.zhihu.com/question/2065499504187371980",
           "source": "知乎",
@@ -657,21 +668,54 @@
           "time_info": "[01时19分 ~ 05时57分]"
         },
         {
+          "title": "美国四大科技巨头竞逐AI，支出承诺总计超2万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3143503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        },
+        {
+          "title": "“AI股神”最新表态：再也不碰杠杆了",
+          "url": "https://www.cls.cn/detail/2443109",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        },
+        {
           "title": "全球AI概念股集体反弹：欧股创历史新高 韩股暴涨近18%",
           "url": "https://www.cls.cn/detail/2442691",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
+        },
+        {
+          "title": "华尔街AI股神高杠杆爆仓出局",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%B0%94%E8%A1%97AI%E8%82%A1%E7%A5%9E%E9%AB%98%E6%9D%A0%E6%9D%86%E7%88%86%E4%BB%93%E5%87%BA%E5%B1%80%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "伊朗“波斯湾海峡管理局”宣布霍尔木兹海峡暂停通行",
@@ -682,8 +726,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 07时54分]"
+        },
+        {
+          "title": "据塔斯尼姆通讯社：一位伊朗高级安全官员表示，伊朗认为美国和以色列可能袭击伊朗基础设施的计划是一种鲁莽行为。伊朗已制定一项全面的计划，包括打击以色列关键基础设施，以及该地区美国能源基础设施。",
+          "url": "https://flash.jin10.com/detail/20260801062202634800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 07时54分]"
         },
         {
           "title": "伊朗革命卫队一天发表三份声明",
@@ -697,26 +752,26 @@
           "time_info": "[01时19分 ~ 03时08分]"
         },
         {
-          "title": "据塔斯尼姆通讯社：一位伊朗高级安全官员表示，伊朗认为美国和以色列可能袭击伊朗基础设施的计划是一种鲁莽行为。伊朗已制定一项全面的计划，包括打击以色列关键基础设施，以及该地区美国能源基础设施。",
-          "url": "https://flash.jin10.com/detail/20260801062202634800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时53分"
-        },
-        {
           "title": "据伊朗媒体Fars News：伊朗最高国家安全委员会秘书表示，美国政权持续实施海上封锁和煽动战火，不仅会进一步封锁霍尔木兹海峡，还会关闭其他海峡和交通要道。全球经济、能源市场和美国选民都将为此付出代价。",
           "url": "https://flash.jin10.com/detail/20260801055438503800",
           "source": "金十数据",
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 07时54分]"
+        },
+        {
+          "title": "【伊朗警告打击美以能源基础设施】8月1日获悉，针对美国方面有关美国和以色列可能对伊朗基础设施发动袭击的消息，一名伊朗高级安全官员称，类似消息属“无稽之谈”。该安全官员表示，伊朗已制定一项全面计划，包括打击以色列关键基础设施及地区内美国能源基础设施等，伊方已做好充分准备。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3143510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时53分"
+          "time_info": "07时54分"
         },
         {
           "title": "伊朗在霍尔木兹击中并扣留2艘油轮",
@@ -753,8 +808,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 06时53分]"
+          "appearance_count": 3,
+          "time_info": "[05时57分 ~ 07时54分]"
         },
         {
           "title": "伊朗打击美军空中任务后勤保障枢纽",
@@ -762,22 +817,35 @@
           "source": "抖音",
           "ranks": [
             17,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 06时53分]"
+          "appearance_count": 3,
+          "time_info": "[05时57分 ~ 07时54分]"
         },
         {
           "title": "伊朗最高国家安全委员会秘书：全球经济、能源市场和美国选民将为持续的海上封锁和美国的局势升级付出代价。",
           "url": "https://wallstreetcn.com/livenews/3143491",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 07时54分]"
+        },
+        {
+          "title": "伊朗警告打击美以能源基础设施",
+          "url": "https://wallstreetcn.com/livenews/3143506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时53分"
+          "time_info": "07时54分"
         },
         {
           "title": "伊朗称已关闭霍尔木兹海峡，美中央司令部否认",
@@ -838,7 +906,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
@@ -853,6 +921,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时19分 ~ 06时53分]"
+        },
+        {
+          "title": "美股收盘：超级权重托举指数V型反转 中国金龙指数五连阳",
+          "url": "https://www.cls.cn/detail/2443155",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
         },
         {
           "title": "周五（7月31日），美股存储芯片与硬件供应链指数跌1.58%，报189.63点，本周累跌5.30%，7月份累计下跌29.25%、整体持续下挫。 2026年1-7月，成分股闪迪累积上涨411.77%，西部数据涨216.5%，希捷科技涨211.64%，美光科技涨188.53%，应用材料涨98.04%，泰瑞达涨90.11%，拉姆研究涨71.50%，Rambus跌0.94%。此外，最近美国IPO的SK海力士ADR跌14.45%。",
@@ -938,31 +1017,8 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "报道：OpenAI本周预览了AI模型Astra",
-          "url": "https://wallstreetcn.com/livenews/3143500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时53分"
-        },
-        {
-          "title": "OpenAI：GPT-5.4和GPT-5.4mini将从8月31日起不再向登录ChatGPT的用户提供。 这些模型仍将在OpenAI API以及使用API密钥进行身份验证的Codex会话中继续提供。",
-          "url": "https://wallstreetcn.com/livenews/3143487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 06时53分]"
-        },
         {
           "title": "OpenAI：GPT-5.4和GPT-5.4mini将从8月31日起不再向登录ChatGPT的用户提供。这些模型仍将在OpenAI API以及使用API密钥进行身份验证的Codex会话中继续提供。",
           "url": "https://flash.jin10.com/detail/20260801052034583800",
@@ -972,8 +1028,33 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时57分 ~ 07时54分]"
+        },
+        {
+          "title": "OpenAI：GPT-5.4和GPT-5.4mini将从8月31日起不再向登录ChatGPT的用户提供。 这些模型仍将在OpenAI API以及使用API密钥进行身份验证的Codex会话中继续提供。",
+          "url": "https://wallstreetcn.com/livenews/3143487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时57分 ~ 07时54分]"
+        },
+        {
+          "title": "报道：OpenAI本周预览了AI模型Astra",
+          "url": "https://wallstreetcn.com/livenews/3143500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时57分 ~ 06时53分]"
+          "time_info": "[06时53分 ~ 07时54分]"
         },
         {
           "title": "OpenAI发现其他AI智能体逃离隔离环境的证据。（路透）",
@@ -997,8 +1078,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时54分 ~ 06时53分]"
+          "appearance_count": 4,
+          "time_info": "[04时54分 ~ 07时54分]"
         },
         {
           "title": "市场消息：据消息人士透露，OpenAI调查人员发现有证据表明，有其他AI智能体已突破了管控限制。",
@@ -1010,8 +1091,19 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时54分 ~ 06时53分]"
+          "appearance_count": 4,
+          "time_info": "[04时54分 ~ 07时54分]"
+        },
+        {
+          "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
+          "url": "https://wallstreetcn.com/articles/3778448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
         },
         {
           "title": "专家：Anthropic与OpenAI入侵事件预示美国安全风险",
@@ -1052,11 +1144,12 @@
             8,
             9,
             25,
-            28
+            28,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时19分 ~ 06时53分]"
+          "appearance_count": 7,
+          "time_info": "[01时19分 ~ 07时54分]"
         },
         {
           "title": "如何评价 Deepseek-V4-Flash 正式版？",
@@ -1065,7 +1158,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
         },
@@ -1076,11 +1169,12 @@
           "ranks": [
             20,
             17,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时53分 ~ 06时53分]"
+          "appearance_count": 5,
+          "time_info": "[04时53分 ~ 07时54分]"
         },
         {
           "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
@@ -1108,7 +1202,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌(GOOG.O)：Gemini Spark正在向美国以外的GoogleAI Pro用户推出。",
@@ -1119,8 +1213,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 06时53分]"
+          "appearance_count": 3,
+          "time_info": "[05时57分 ~ 07时54分]"
+        },
+        {
+          "title": "因担忧虚假图像，谷歌撤回地球AI工具",
+          "url": "https://wallstreetcn.com/livenews/3143502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
         },
         {
           "title": "本周，谷歌A、亚马逊、微软市值合计增长大约1.5万亿美元",
@@ -1213,6 +1318,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "claude code anthropic",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "怎么看 Anthropic 公布的 Claude 也发生了沙箱逃逸，真实入侵了三家组织的事？",
+          "url": "https://www.zhihu.com/question/2066465758503252393",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时54分"
         }
       ]
     }
