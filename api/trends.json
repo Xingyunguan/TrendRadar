@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T09:50:03.065471+08:00",
-  "total_titles_processed": 745,
+  "generated_at": "2026-08-03T13:32:05.689665+08:00",
+  "total_titles_processed": 945,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时49分 ~ 09时50分]"
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 13时32分]"
         },
         {
           "title": "伊朗革命卫队：将针对哈尼亚、阿亚图拉·哈梅内伊遇袭事件实施猛烈、毁灭性报复。",
@@ -328,6 +328,17 @@
           "time_info": "[04时06分 ~ 05时44分]"
         },
         {
+          "title": "伊朗袭击乌军基地？实为纽约大火",
+          "url": "https://www.toutiao.com/trending/7669212085427339283/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
+        },
+        {
           "title": "伊朗外交部发言人：我们接到了来自英国、乌克兰和保加利亚的电话，他们表示不会参与这场战争。",
           "url": "https://flash.jin10.com/detail/20260803005334929800",
           "source": "金十数据",
@@ -533,7 +544,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
@@ -543,8 +554,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 09时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 13时32分]"
         },
         {
           "title": "特朗普相关的超过300个银行帐户被关闭，原因公布",
@@ -583,6 +594,29 @@
           "time_info": "[00时46分 ~ 09时50分]"
         },
         {
+          "title": "【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策",
+          "url": "https://www.cls.cn/detail/2443662",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 13时32分]"
+        },
+        {
+          "title": "接连反转！特朗普透露三个信息",
+          "url": "https://news.ifeng.com/c/8vHV3ihqOZt",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 13时32分]"
+        },
+        {
           "title": "8 月 1 日特朗普称同意取消军事打击伊朗，这次军事打击行动终于要结束了吗？",
           "url": "https://www.zhihu.com/question/2067198062456463879",
           "source": "知乎",
@@ -597,17 +631,6 @@
           "title": "特朗普再称委内瑞拉为美国第51州",
           "url": "https://www.toutiao.com/trending/7669053092835524651/",
           "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时49分 ~ 09时50分]"
-        },
-        {
-          "title": "【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策",
-          "url": "https://www.cls.cn/detail/2443662",
-          "source": "财联社热门",
           "ranks": [
             2
           ],
@@ -631,15 +654,15 @@
           "time_info": "[01时53分 ~ 06时45分]"
         },
         {
-          "title": "接连反转！特朗普透露三个信息",
-          "url": "https://news.ifeng.com/c/8vHV3ihqOZt",
+          "title": "特朗普：已决定惩罚加拿大",
+          "url": "https://news.ifeng.com/c/8vHh8bqoTlY",
           "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时49分 ~ 09时50分]"
+          "time_info": "[13时31分 ~ 13时32分]"
         },
         {
           "title": "市场消息：以色列官员对特朗普在一周内第二次取消对伊朗的计划打击感到沮丧，称这种临时反转破坏了军事计划。以色列现在认为，特朗普更倾向于与伊朗达成协议，而不是升级冲突。",
@@ -766,6 +789,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时45分 ~ 07时50分]"
+        },
+        {
+          "title": "事关霍尔木兹！特朗普称今日举行谈判，伊朗重申“不会恢复至战前”！",
+          "url": "https://www.cls.cn/detail/2443690",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
         },
         {
           "title": "美国总统特朗普：伊朗需数年才能重建其军事能力。",
@@ -916,6 +950,17 @@
           "time_info": "06时45分"
         },
         {
+          "title": "特朗普300个账户为何被关？银行首度开口：反洗钱审查发现“问题交易”",
+          "url": "https://flash.jin10.com/detail/20260803120059466800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
           "title": "美国总统特朗普：（关于日元）美国介入是因为与日本关系良好，我们始终支持日本，美国从相关安排中获得了经济利益。",
           "url": "https://flash.jin10.com/detail/20260803054401910800",
           "source": "金十数据",
@@ -952,7 +997,7 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "怎么看待AI大回调，大摩120页研报深度解读",
@@ -975,8 +1020,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 09时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 13时32分]"
         },
         {
           "title": "澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”",
@@ -997,11 +1042,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 09时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 13时32分]"
         },
         {
           "title": "深度参与算电协同 AI与虚拟电厂双向赋能|虚拟电厂风口前夜①",
@@ -1054,6 +1100,17 @@
           "time_info": "07时50分"
         },
         {
+          "title": "涉及中国AI，两家英媒同日发文",
+          "url": "https://news.ifeng.com/c/8vHVJUrYdxh",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 13时32分]"
+        },
+        {
           "title": "如何看待米哈游创始人蔡浩宇卸任「AI 灵魂大法师」？",
           "url": "https://www.zhihu.com/question/2066215968578204075",
           "source": "知乎",
@@ -1066,20 +1123,31 @@
           "time_info": "[07时50分 ~ 09时50分]"
         },
         {
-          "title": "两台电脑交火跑AI是什么体验",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%A4%E5%8F%B0%E7%94%B5%E8%84%91%E4%BA%A4%E7%81%AB%E8%B7%91AI%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
-          "source": "bilibili 热搜",
+          "title": "AI的风吹向粤北，大湾区唯一集群如何“织网”｜“逐鹿算网”实地调研韶关篇",
+          "url": "https://www.cls.cn/detail/2443826",
+          "source": "财联社热门",
           "ranks": [
-            12
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时49分 ~ 09时50分]"
+          "time_info": "[13时31分 ~ 13时32分]"
         },
         {
-          "title": "涉及中国AI，两家英媒同日发文",
-          "url": "https://news.ifeng.com/c/8vHVJUrYdxh",
-          "source": "凤凰网",
+          "title": "AI短剧《砚边青梅》火爆出圈",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E3%80%8A%E7%A0%9A%E8%BE%B9%E9%9D%92%E6%A2%85%E3%80%8B%E7%81%AB%E7%88%86%E5%87%BA%E5%9C%88",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
+        },
+        {
+          "title": "两台电脑交火跑AI是什么体验",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%A4%E5%8F%B0%E7%94%B5%E8%84%91%E4%BA%A4%E7%81%AB%E8%B7%91AI%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C",
+          "source": "bilibili 热搜",
           "ranks": [
             12
           ],
@@ -1106,7 +1174,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -1128,7 +1196,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         }
@@ -1145,11 +1213,12 @@
           "ranks": [
             9,
             7,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 09时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 13时32分]"
         },
         {
           "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
@@ -1183,8 +1252,47 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "贝森特“小纸条”曝光：美国下场拉日元，是怕美债跟着遭殃？",
+          "url": "https://www.cls.cn/detail/2443401",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 09时50分]"
+        },
+        {
+          "title": "救日元也要护美债，贝森特推动美联储流动性工具扩容",
+          "url": "https://flash.jin10.com/detail/20260803122507266800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "日本一旦动手卖美债，全球最大的套利机器会先崩在哪里？",
+          "url": "https://flash.jin10.com/detail/20260803115620374800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -1192,11 +1300,40 @@
           "source": "贴吧",
           "ranks": [
             18,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时46分 ~ 09时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 13时32分]"
+        },
+        {
+          "title": "如何看待 OpenAI 宣布 Astra 在十个长期开放的数学与理论计算机问题上取得重大进展？",
+          "url": "https://www.zhihu.com/question/2066921241156523798",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价 OpenAI 、 Anthropic 、谷歌等巨头联名呼吁控制前沿自动化 AI 研发？",
+          "url": "https://www.zhihu.com/question/2065724643378570793",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
         }
       ]
     },
@@ -1219,19 +1356,19 @@
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "贝森特“小纸条”曝光：美国下场拉日元，是怕美债跟着遭殃？",
-          "url": "https://www.cls.cn/detail/2443401",
-          "source": "财联社热门",
+          "title": "特朗普再次“TACO”，金价4000美元暗战升级！",
+          "url": "https://flash.jin10.com/detail/20260803114543512800",
+          "source": "金十数据",
           "ranks": [
-            12
+            28
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时49分 ~ 09时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         }
       ]
     }
