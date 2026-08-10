@@ -1,34 +1,12 @@
 {
-  "generated_at": "2026-08-10T07:21:38.245214+08:00",
-  "total_titles_processed": 492,
+  "generated_at": "2026-08-10T08:56:32.440860+08:00",
+  "total_titles_processed": 638,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
-        {
-          "title": "伊朗最高领袖与总统会谈，重点讨论了这几个问题",
-          "url": "https://news.ifeng.com/c/8vS3pS8BvYm",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时21分]"
-        },
-        {
-          "title": "伊朗婉转回应最高领袖病危传闻",
-          "url": "https://news.ifeng.com/c/8vSBIqKsEnV",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时21分]"
-        },
         {
           "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
           "url": "https://wallstreetcn.com/articles/3778994",
@@ -37,8 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 08时56分]"
+        },
+        {
+          "title": "伊朗婉转回应最高领袖病危传闻",
+          "url": "https://news.ifeng.com/c/8vSBIqKsEnV",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 08时56分]"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
@@ -47,11 +37,24 @@
           "ranks": [
             5,
             2,
-            4
+            4,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 08时56分]"
+        },
+        {
+          "title": "伊朗最高领袖与总统会谈，重点讨论了这几个问题",
+          "url": "https://news.ifeng.com/c/8vS3pS8BvYm",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 08时56分]"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
@@ -79,13 +82,35 @@
           "time_info": "[00时22分 ~ 07时21分]"
         },
         {
+          "title": "伊朗高层变动，最高领袖发出新任命",
+          "url": "https://news.ifeng.com/c/8vSqCKLbBLT",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "伊朗议会批准霍尔木兹海峡安全纲要",
+          "url": "https://news.ifeng.com/c/8vSazQ4m4p1",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
           "title": "伊朗在谈判关键时刻撤换最高安全官员",
           "url": "https://flash.jin10.com/detail/20260810064649628800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -96,7 +121,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -266,6 +291,17 @@
           "time_info": "[04时20分 ~ 05时23分]"
         },
         {
+          "title": "美军基地遭袭，伊朗公布最新卫星对比图",
+          "url": "https://news.ifeng.com/c/8vT6dxUIQom",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
           "title": "伊朗最高领袖与总统会谈",
           "url": "https://www.douyin.com/hot/2603545",
           "source": "抖音",
@@ -275,12 +311,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "战略专家警告：伊朗袭击暴露美军漏洞，美军海外资产面临毁灭风险！",
+          "url": "https://flash.jin10.com/detail/20260810081200980800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "伊朗公布美军基地遭袭前后卫星对比图",
+          "url": "https://www.toutiao.com/trending/7671344515512762409/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -302,8 +360,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时21分 ~ 07时21分]"
+          "appearance_count": 11,
+          "time_info": "[01时21分 ~ 08时56分]"
         },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
@@ -342,6 +400,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时23分 ~ 07时21分]"
+        },
+        {
+          "title": "特朗普宣布威尔·沙夫将出任总统助理兼白宫法律顾问",
+          "url": "https://wallstreetcn.com/livenews/3147162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         },
         {
           "title": "F-16拦截特朗普高尔夫俱乐部附近两架违规飞机",
@@ -404,6 +473,50 @@
           "time_info": "[00时22分 ~ 01时22分]"
         },
         {
+          "title": "新闻交易员：特朗普说低调处理，市场可能听得太认真了",
+          "url": "https://flash.jin10.com/detail/20260810082438238800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
+          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "特朗普这是此地无银三百两吗？",
+          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
+          "title": "特朗普公布新任总统助理人选",
+          "url": "https://news.ifeng.com/c/8vT8RYkNUQr",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
           "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
           "url": "https://flash.jin10.com/detail/20260809212948063800",
           "source": "金十数据",
@@ -413,12 +526,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "特朗普加沙和平计划遭遇重大阻击：内塔尼亚胡拒绝下一阶段安排",
+          "url": "https://flash.jin10.com/detail/20260810075735271800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
         }
       ]
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
@@ -428,8 +552,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 08时56分]"
         },
         {
           "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
@@ -451,8 +575,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 08时56分]"
         },
         {
           "title": "AI快问快答,D老师语出惊人",
@@ -462,8 +586,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 08时56分]"
         },
         {
           "title": "“木头姐”：就业数据未显衰退，AI正驱动美国经济进入通缩与高生产率新周期",
@@ -488,11 +612,12 @@
             13,
             12,
             11,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时25分 ~ 07时21分]"
+          "appearance_count": 8,
+          "time_info": "[02时25分 ~ 08时56分]"
         },
         {
           "title": "数学家张寿武获颁基础科学奖章，笑称“不敢跟AI交流”",
@@ -519,6 +644,17 @@
           "time_info": "[02时24分 ~ 02时25分]"
         },
         {
+          "title": "日本央行7月货币政策会议审议委员意见摘要：一名委员表示，中东局势发展、不断扩大的AI相关需求以及日元走软均有助于推高物价。 一名委员表示，预计入秋后消费品通胀将再次加速。 一名委员表示，尽管生产价格受进口成本上涨影响有所上升，但消费者通胀率仍低于2%。 一名委员表示，警惕受日元走软和AI相关需求强劲影响所带来的通胀上行风险。 一名委员表示，通胀前景面临巨大的上行风险，主要由于石油成本上涨传导至消费者通胀，同时全球AI需求与日本扩张性财政政策提振了需求。 一名委员表示，金融环境仍保持宽松，因为短期实际利率依然为负。 一名委员表示，在本次会议上维持利率稳定是恰当的，因为过去的加息对通胀和国内经济产生影响存在1至1.5年的滞后。 一名委员表示，我们目前处于需要警惕核心通胀可能向上偏离风险的阶段。 一名委员表示，在评估日本核心通胀能否稳定在符合日本央行价格目标的水平时，必须仔细审查中长期通胀预期是否稳定在2%左右。",
+          "url": "https://wallstreetcn.com/livenews/3147151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时56分"
+        },
+        {
           "title": "期刊《中国经济问题》发布AI使用规范：不得替代作者开展实质性研究",
           "url": "https://m.thepaper.cn/newsDetail_forward_33749121",
           "source": "澎湃新闻",
@@ -543,19 +679,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 08时56分]"
         },
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
           "url": "https://www.cls.cn/detail/2449177",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 08时56分]"
         },
         {
           "title": "一边买黄金，一边买美股",
