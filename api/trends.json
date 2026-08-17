@@ -1,11 +1,216 @@
 {
-  "generated_at": "2026-08-18T02:23:48.809752+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-08-18T07:14:04.874308+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "特朗普要求伊朗举白旗投降",
+          "url": "https://news.ifeng.com/c/8vfb7aoIQAb",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 07时14分]"
+        },
+        {
+          "title": "特朗普向朝韩发出强烈信号，信息量很大",
+          "url": "https://news.ifeng.com/c/8vehnvg4TOJ",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 07时14分]"
+        },
+        {
+          "title": "特朗普威胁：若阿曼阻碍美伊和平协议 将对其发动轰炸",
+          "url": "https://www.cls.cn/detail/2456389",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 07时14分]"
+        },
+        {
+          "title": "特朗普拒绝延长美伊停火协议，警告阿曼别“挡路”，否则将遭轰炸",
+          "url": "https://flash.jin10.com/detail/20260818063446465800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "特朗普将宣布霍尔木兹为美国领土",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%AE%A3%E5%B8%83%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E4%B8%BA%E7%BE%8E%E5%9B%BD%E9%A2%86%E5%9C%9F%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 07时14分]"
+        },
+        {
+          "title": "民调显示特朗普支持率创第二任期内新低",
+          "url": "https://flash.jin10.com/detail/20260818062651085800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "加拿大总理卡尼：预计自己会在8月19日关税截止日期前与特朗普通话。 与美国的关税磋商是密集的、微妙的。",
+          "url": "https://wallstreetcn.com/livenews/3150631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "民调显示特朗普支持率创第二任期内新低",
+          "url": "https://wallstreetcn.com/livenews/3150715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "加拿大总理卡尼：预计将在当地时间8月19日关税截止日期之前与美国总统特朗普进行交谈。",
+          "url": "https://flash.jin10.com/detail/20260818011013156800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "土耳其总统埃尔多安告诉美国总统特朗普，以色列正在加沙袭击巴勒斯坦人，而和平计划第二阶段本应在此时生效。",
+          "url": "https://flash.jin10.com/detail/20260818053902807800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "土耳其总统埃尔多安对美国总统特朗普表示，继续与伊朗对话以充分利用外交途径十分重要，土耳其已准备好为此作出贡献。",
+          "url": "https://flash.jin10.com/detail/20260818053738229800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "土耳其总统埃尔多安与美国总统特朗普讨论了双边关系、伊朗和加沙的战争，以及与巴基斯坦和沙特阿拉伯的防务协议。",
+          "url": "https://flash.jin10.com/detail/20260818053641857800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "土耳其总统埃尔多安与美国总统特朗普通电话。双方讨论了土耳其与美国的双边关系以及地区和全球局势。",
+          "url": "https://flash.jin10.com/detail/20260818053526620800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "土耳其总统埃尔多安与美国总统特朗普通电话。（土耳其媒体Anadolu）",
+          "url": "https://wallstreetcn.com/livenews/3150700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "特朗普称金正恩已回应其“对话”请求",
+          "url": "https://wallstreetcn.com/livenews/3150699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "美国法官阻止了特朗普政府将新的美国联邦调查局总部从马里兰州迁至华盛顿特区的计划。",
+          "url": "https://flash.jin10.com/detail/20260818052628706800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "美国法官阻止特朗普政府将联邦调查局（FBI）新总部选址从马里兰州迁至华盛顿特区的计划。",
+          "url": "https://wallstreetcn.com/livenews/3150697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "特朗普：伊朗“不会达成我认为必要的那种协议”",
+          "url": "https://wallstreetcn.com/livenews/3150694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "强撑颜面：美国派出第三艘航母，伊朗威胁升级冲突",
@@ -15,8 +220,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 07时14分]"
+        },
+        {
+          "title": "美国屡次“违约”，伊朗强硬派放弃对美幻想，被曝秘密扩军备战“新一轮对抗”",
+          "url": "https://wallstreetcn.com/articles/3779592",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 07时14分]"
         },
         {
           "title": "伊朗外长：（回应伊拉克外长）伊朗没有理由袭击库尔德斯坦政府首脑官邸。",
@@ -30,15 +247,16 @@
           "time_info": "02时23分"
         },
         {
-          "title": "美国屡次“违约”，伊朗强硬派放弃对美幻想，被曝秘密扩军备战“新一轮对抗”",
-          "url": "https://wallstreetcn.com/articles/3779592",
-          "source": "华尔街见闻",
+          "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
+          "url": "https://www.zhihu.com/question/2072617673721226019",
+          "source": "知乎",
           "ranks": [
-            3
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 07时14分]"
         },
         {
           "title": "美国能源部长Wright围绕伊朗问题宣称：美国正在玩长期游戏。",
@@ -52,22 +270,22 @@
           "time_info": "02时23分"
         },
         {
+          "title": "美国与伊朗继续僵持，油价上涨",
+          "url": "https://flash.jin10.com/detail/20260818062100594800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
           "title": "伊朗：阿联酋油轮在霍尔木兹海峡遭截停",
           "url": "https://wallstreetcn.com/livenews/3150628",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
-          "url": "https://www.zhihu.com/question/2072617673721226019",
-          "source": "知乎",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -94,6 +312,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊拉克库尔德斯坦自治区苏莱曼尼亚发生燃料罐起火及爆炸事件。",
+          "url": "https://flash.jin10.com/detail/20260818055647896800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         },
         {
           "title": "伊朗官员称已为美设定最后期限",
@@ -143,18 +372,30 @@
     },
     {
       "keyword_group": "AI agent",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "大批AI博主停更了",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%89%B9AI%E5%8D%9A%E4%B8%BB%E5%81%9C%E6%9B%B4%E4%BA%86%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 07时14分]"
+        },
+        {
+          "title": "AI私服来袭,二游圈传噩耗",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358012&amp;topic_name=AI%E7%A7%81%E6%9C%8D%E6%9D%A5%E8%A2%AD%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E4%BC%A0%E5%99%A9%E8%80%97",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 07时14分]"
         },
         {
           "title": "巴克莱美国利率策略主管Anshul Pradhan：我们一直反对做空长端抛售，现在依然如此。 要转向建设性观点，需要财政出现下行意外、AI相关发行放缓、财政部发行策略转变，以及经济活动数据持续走软的某种组合。",
@@ -179,17 +420,6 @@
           "time_info": "02时23分"
         },
         {
-          "title": "AI私服来袭,二游圈传噩耗",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28358012&amp;topic_name=AI%E7%A7%81%E6%9C%8D%E6%9D%A5%E8%A2%AD%2C%E4%BA%8C%E6%B8%B8%E5%9C%88%E4%BC%A0%E5%99%A9%E8%80%97",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
           "title": "美联储加息预期降温，AI情绪回暖，美股指涨跌互现，存储芯片股普涨，金油齐涨",
           "url": "https://wallstreetcn.com/articles/3779603",
           "source": "华尔街见闻",
@@ -208,86 +438,59 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 07时14分]"
         },
         {
           "title": "AI 泡沫会在今年或者明年破裂吗，为什么？",
           "url": "https://www.zhihu.com/question/2063294189954250663",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "特朗普要求伊朗举白旗投降",
-          "url": "https://news.ifeng.com/c/8vfb7aoIQAb",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 07时14分]"
         },
         {
-          "title": "特朗普向朝韩发出强烈信号，信息量很大",
-          "url": "https://news.ifeng.com/c/8vehnvg4TOJ",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "特朗普威胁：若阿曼阻碍美伊和平协议 将对其发动轰炸",
-          "url": "https://www.cls.cn/detail/2456389",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "加拿大总理卡尼：预计自己会在8月19日关税截止日期前与特朗普通话。 与美国的关税磋商是密集的、微妙的。",
-          "url": "https://wallstreetcn.com/livenews/3150631",
-          "source": "华尔街见闻-快讯",
+          "title": "为什么才短短两三年，AI 就已经泛滥成灾，到了人人喊打、人嫌狗厌的境地？",
+          "url": "https://www.zhihu.com/question/2061136311206073648",
+          "source": "知乎",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 07时14分]"
         },
         {
-          "title": "加拿大总理卡尼：预计将在当地时间8月19日关税截止日期之前与美国总统特朗普进行交谈。",
-          "url": "https://flash.jin10.com/detail/20260818011013156800",
-          "source": "金十数据",
+          "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
+          "url": "https://www.cls.cn/detail/2456558",
+          "source": "财联社热门",
           "ranks": [
-            16
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 07时14分]"
+        },
+        {
+          "title": "姜月初刷新AI漫剧女打一天花板",
+          "url": "https://www.douyin.com/hot/2613313",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 07时14分]"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
@@ -297,8 +500,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 07时14分]"
+        },
+        {
+          "title": "地缘风险推高油价和美债收益率，美股三大指数两连跌，存储芯片、光通信逆势大涨",
+          "url": "https://wallstreetcn.com/articles/3779603",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 07时14分]"
         },
         {
           "title": "美债抛售持续，30年期美债收益率创2007年以来最高水平",
@@ -314,6 +528,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价回调半年抛压基本释放",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%9B%9E%E8%B0%83%E5%8D%8A%E5%B9%B4%E6%8A%9B%E5%8E%8B%E5%9F%BA%E6%9C%AC%E9%87%8A%E6%94%BE%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 07时14分]"
+        },
+        {
+          "title": "国际金价涨0.9%，白银涨1.7%",
+          "url": "https://wallstreetcn.com/livenews/3150688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -322,11 +564,29 @@
           "url": "https://www.zhihu.com/question/2072103596481683649",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 07时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "claude code anthropic",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Anthropic估值有多激进？华尔街押注：2028年收入狂飙至2000亿美元",
+          "url": "https://wallstreetcn.com/articles/3779618",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时13分 ~ 07时14分]"
         }
       ]
     },
@@ -342,8 +602,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 07时14分]"
         }
       ]
     },
